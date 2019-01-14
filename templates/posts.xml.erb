@@ -14,7 +14,7 @@
 	<link><%= source_url %></link>
 	<description></description>
 	<pubDate>Tue, 08 Jan 2019 21:22:48 +0000</pubDate>
-	<language><%= language_code %></language>
+	<language><%= codes[:language] %></language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url><%= source_url %>/</wp:base_site_url>
 	<wp:base_blog_url><%= source_url %></wp:base_blog_url>
@@ -34,7 +34,7 @@
   <% items.each do |item| %>
   <item>
     <title><%= item['item_title'] %></title>
-    <link><%= source_url %>/blog/<%= item['post_name'] %>/</link>
+    <link><%= item['item_url'] %>/</link>
     <pubDate><%= item['post_date_long'] %></pubDate>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true"><%= item['item_url'] %></guid>
@@ -106,11 +106,11 @@
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[home-sticky-buttons]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"Select One";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:""; %>]]></wp:meta_value>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[home-sticky-css]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"Select One";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:""; %>]]></wp:meta_value>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>

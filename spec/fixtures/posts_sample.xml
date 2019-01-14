@@ -11,13 +11,13 @@
 
 <channel>
 	<title>Zendesk</title>
-	<link>http://localhost:1337</link>
+	<link>https://resources.zendesk.co.uk</link>
 	<description></description>
 	<pubDate>Tue, 08 Jan 2019 21:22:48 +0000</pubDate>
 	<language>zd</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://localhost:1337/</wp:base_site_url>
-	<wp:base_blog_url>http://localhost:1337</wp:base_blog_url>
+	<wp:base_site_url>https://resources.zendesk.co.uk/</wp:base_site_url>
+	<wp:base_blog_url>https://resources.zendesk.co.uk</wp:base_blog_url>
 
 	<wp:author>
     <wp:author_id>2871</wp:author_id>
@@ -31,10 +31,10 @@
 
 	<generator>https://wordpress.org/?v=4.7.3</generator>
 
-  
+
   <item>
     <title>Lorem ipsum</title>
-    <link>http://localhost:1337/blog//</link>
+    <link>https://resources.zendesk.co.uk/blog/10-customer-experience-kpis/</link>
     <pubDate></pubDate>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true"></guid>
@@ -53,7 +53,7 @@
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -104,11 +104,11 @@
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[home-sticky-buttons]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"Select One";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:""; %>]]></wp:meta_value>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[home-sticky-css]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"Select One";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:""; %>]]></wp:meta_value>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
@@ -243,6 +243,6 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
   </item>
-  
+
 </channel>
 </rss>
