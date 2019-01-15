@@ -31,7 +31,7 @@
 
 	<generator>https://wordpress.org/?v=4.7.3</generator>
 
-
+  
   <item>
     <title>Lorem ipsum</title>
     <link>https://resources.zendesk.co.uk/blog/10-customer-experience-kpis/</link>
@@ -43,7 +43,7 @@
     <excerpt:encoded><![CDATA[]]></excerpt:encoded>
     <wp:post_id>888888888</wp:post_id>
     <wp:post_date><![CDATA[2018-04-12 11:37:00]]></wp:post_date>
-    <wp:post_date_gmt><![CDATA[2018-04-12 11:37:00]]></wp:post_date_gmt>
+    <wp:post_date_gmt><![CDATA[]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
     <wp:ping_status><![CDATA[closed]]></wp:ping_status>
     <wp:post_name><![CDATA[]]></wp:post_name>
@@ -53,7 +53,13 @@
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-
+    
+    <category domain="" nicename=""><![CDATA[Agent experience]]></category>
+    
+    <category domain="" nicename=""><![CDATA[Best Practices]]></category>
+    
+    <category domain="" nicename=""><![CDATA[Customer experience]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -128,7 +134,7 @@
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[author-override]]></wp:meta_key>
-      <wp:meta_value><![CDATA[Andrew Gori]]></wp:meta_value>
+      <wp:meta_value><![CDATA[ ]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[author-override-twitter]]></wp:meta_key>
@@ -204,7 +210,7 @@
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
-      <wp:meta_value><![CDATA[Lorem SEO ipsum description. ]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Lorem SEO ipsum description.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
@@ -243,6 +249,6 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
   </item>
-
+  
 </channel>
 </rss>
