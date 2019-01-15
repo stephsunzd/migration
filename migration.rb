@@ -1,8 +1,12 @@
 require 'csv'
 require 'erb'
+require 'open-uri'
+require 'nokogiri'
 
 module Migration
-  def self.csv_to_item(language_code)
+  module_function
+
+  def csv_to_item(language_code)
     headers = []
     items = []
 
@@ -37,9 +41,9 @@ module Migration
     return items
   end
 
-  def self.generate_import_file(codes, source_url)
-    items = self.csv_to_item(codes[:language])
-    items = self.scrape_page_data(items)
+  def generate_import_file(codes, source_url)
+    items = csv_to_item(codes[:language])
+    items = scrape_posts(items)
 
     posts_erb = File.open('templates/posts.xml.erb').read
     posts_erb = ERB.new(posts_erb)
@@ -49,14 +53,39 @@ module Migration
     out_file.close
   end
 
-  def self.scrape_page_data(items)
+  def scrape_posts(items)
     items.each do |item|
-      if item['author_first_name'].nil? && item['author_last_name'].nil?
-        item['author_first_name'] = 'Andrew'
-        item['author_last_name'] = 'Gori'
-      end
+      item = scrape_post(item)
     end
 
     return items
+  end
+
+  def scrape_post(item)
+    post = Nokogiri::HTML(open(item['item_url']))
+
+    puts post.css('.entry').first.methods
+
+    if item['author_first_name'].nil? && item['author_last_name'].nil?
+      author = post.css('span.author').first.content.split(' ')
+
+      item['author_first_name'] = author[0]
+      item['author_last_name'] = author[1..-1].join(' ')
+    end
+
+    return item
+  end
+
+  def timestamp_to_pubDate(timestamp)
+    pubDate = {
+      year: timestamp[0..3].to_i,
+      month: timestamp[5..6].to_i,
+      day: timestamp[8..9].to_i,
+      time: timestamp[11..18]
+    }
+
+    pubDate[:date] = Date.new(pubDate[:year], pubDate[:month], pubDate[:day])
+
+    return "#{pubDate[:date].strftime('%a, %d %b %Y')} #{pubDate[:time]} +0000"
   end
 end

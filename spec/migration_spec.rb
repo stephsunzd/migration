@@ -19,10 +19,16 @@ RSpec.describe "Migration" do
       { name: 'Customer experience' }
     ],
     'item_thumbnail_url' => 'https://d26a57ydsghvgx.cloudfront.net/content/blog/customer_experience_KPIs.png',
-    'item_title' => 'Lorem ipsum',
     'item_url' => 'https://resources.zendesk.co.uk/blog/10-customer-experience-kpis',
     'post_status' => 'publish'
   }
+
+  it '#timestamp_to_pubDate converts timestamp format to pubDate format' do
+    timestamp = '2019-01-08 21:22:48'
+    pubDate = 'Tue, 08 Jan 2019 21:22:48 +0000'
+
+    expect(Migration.timestamp_to_pubDate(timestamp)).to eq(pubDate)
+  end
 
   it '#generate_import_file creates a file matching our sample' do
     item = Migration.csv_to_item(TEST_CODES[:language])
