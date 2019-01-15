@@ -9,7 +9,6 @@ RSpec.describe "Migration" do
     'author_last_name' => nil,
     'item_canonical_url' => 'https://www.zendesk.com/blog/10-customer-experience-kpis/',
     'item_description' => 'Lorem ipsum dolor amet plaid slow-carb prism venmo kale chips. Lo-fi poke truffaut bushwick plaid. XOXO pug waistcoat edison bulb semiotics everyday carry succulents tbh hoodie literally mumblecore selvage. Intelligentsia tumblr gentrify, butcher venmo drinking vinegar readymade man bun ethical stumptown umami hoodie bespoke portland ennui. Aesthetic gastropub bitters pug unicorn pok pok.',
-    'item_hidden' => 'FALSE',
     'item_id' => '888888888',
     'item_published_at' => '2018-04-12 11:37:00',
     'item_seo_description' => 'Lorem SEO ipsum description.',
@@ -21,7 +20,8 @@ RSpec.describe "Migration" do
     ],
     'item_thumbnail_url' => 'https://d26a57ydsghvgx.cloudfront.net/content/blog/customer_experience_KPIs.png',
     'item_title' => 'Lorem ipsum',
-    'item_url' => 'https://resources.zendesk.co.uk/blog/10-customer-experience-kpis'
+    'item_url' => 'https://resources.zendesk.co.uk/blog/10-customer-experience-kpis',
+    'post_status' => 'publish'
   }
 
   it '#generate_import_file creates a file matching our sample' do

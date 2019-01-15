@@ -29,8 +29,6 @@ module Migration
         else
           item[headers[index]] = value
         end
-
-#        if item['']
       end
 
       items << item
@@ -41,6 +39,7 @@ module Migration
 
   def self.generate_import_file(codes, source_url)
     items = self.csv_to_item(codes[:language])
+    items = self.scrape_page_data(items)
 
     posts_erb = File.open('templates/posts.xml.erb').read
     posts_erb = ERB.new(posts_erb)
@@ -48,5 +47,16 @@ module Migration
     out_file = File.new("import_files/posts_#{codes[:country]}.xml", "w")
     out_file.puts(posts_erb.result(binding))
     out_file.close
+  end
+
+  def self.scrape_page_data(items)
+    items.each do |item|
+      if item['author_first_name'].nil? && item['author_last_name'].nil?
+        item['author_first_name'] = 'Andrew'
+        item['author_last_name'] = 'Gori'
+      end
+    end
+
+    return items
   end
 end
