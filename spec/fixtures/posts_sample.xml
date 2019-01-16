@@ -106,11 +106,19 @@
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
 
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+
     <category domain="filter_tag_blog" nicename="agent-experience"><![CDATA[Agent experience]]></category>
+
+    <category domain="post_tag" nicename="agent-experience"><![CDATA[Agent experience]]></category>
 
     <category domain="filter_tag_blog" nicename="best-practices"><![CDATA[Best Practices]]></category>
 
+    <category domain="post_tag" nicename="best-practices"><![CDATA[Best Practices]]></category>
+
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
+
+    <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
 
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>

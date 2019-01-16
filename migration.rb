@@ -6,7 +6,13 @@ require 'nokogiri'
 module Migration
   module_function
 
-  TAG_DOMAIN = 'filter_tag_blog'
+  TAG_DOMAINS = ['filter_tag_blog', 'post_tag']
+  CATEGORY_TAG = {
+    domain: 'category',
+    name: 'Zendesk Nation',
+    nicename: 'zendesk-nation'
+  }
+
   MAX_POSTS_PER_IMPORT_FILE = 60
 
   def csv_to_item(country_code)
@@ -26,14 +32,16 @@ module Migration
         when 'item_hidden'
           item['post_status'] = value === 'TRUE' ? 'draft' : 'publish'
         when 'item_tags'
-          item['item_tags'] = []
+          item['item_tags'] = [ CATEGORY_TAG ] 
 
           value.split(',').each do |tag_name|
-            item[headers[index]] << {
-              domain: TAG_DOMAIN,
-              name: tag_name,
-              nicename: tag_name.downcase.gsub(/\W/, '-')
-            }
+            TAG_DOMAINS.each do |tag_domain|
+              item['item_tags'] << {
+                domain: tag_domain,
+                name: tag_name,
+                nicename: tag_name.downcase.gsub(/\W/, '-')
+              }
+            end
           end unless value.nil?
         else
           item[headers[index]] = value

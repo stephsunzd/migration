@@ -14,9 +14,13 @@ RSpec.describe "Migration" do
     'item_seo_description' => 'Lorem SEO ipsum description.',
     'item_seo_title' => 'Lorem SEO ipsum',
     'item_tags' => [
-      { name: 'Agent experience', domain: Migration::TAG_DOMAIN, nicename: 'agent-experience' },
-      { name: 'Best Practices', domain: Migration::TAG_DOMAIN, nicename: 'best-practices' },
-      { name: 'Customer experience', domain: Migration::TAG_DOMAIN, nicename: 'customer-experience' }
+      Migration::CATEGORY_TAG,
+      { name: 'Agent experience', domain: Migration::TAG_DOMAINS[0], nicename: 'agent-experience' },
+      { name: 'Agent experience', domain: Migration::TAG_DOMAINS[1], nicename: 'agent-experience' },
+      { name: 'Best Practices', domain: Migration::TAG_DOMAINS[0], nicename: 'best-practices' },
+      { name: 'Best Practices', domain: Migration::TAG_DOMAINS[1], nicename: 'best-practices' },
+      { name: 'Customer experience', domain: Migration::TAG_DOMAINS[0], nicename: 'customer-experience' },
+      { name: 'Customer experience', domain: Migration::TAG_DOMAINS[1], nicename: 'customer-experience' }
     ],
     'item_thumbnail_url' => 'https://d26a57ydsghvgx.cloudfront.net/content/blog/customer_experience_KPIs.png',
     'item_url' => 'https://resources.zendesk.co.uk/blog/10-customer-experience-kpis',
