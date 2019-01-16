@@ -7,6 +7,7 @@ module Migration
   module_function
 
   TAG_DOMAIN = 'filter_tag_blog'
+  MAX_POSTS_PER_IMPORT_FILE = 60
 
   def csv_to_item(country_code)
     headers = []
@@ -47,20 +48,35 @@ module Migration
     return items
   end
 
-  def generate_import_file(codes, source_url)
+  def generate_import_files(codes, source_url)
     items = csv_to_item(codes[:country])
+    puts '# CSV has been uploaded'
+
     items = scrape_posts(items)
 
     posts_erb = File.open('templates/posts.xml.erb').read
     posts_erb = ERB.new(posts_erb)
 
-    out_file = File.new("import_files/posts_#{codes[:country]}.xml", "w")
-    out_file.puts(posts_erb.result(binding))
-    out_file.close
+    num_import_files = items.length / MAX_POSTS_PER_IMPORT_FILE + 1
+
+    (1..num_import_files).each do |file_index|
+      import_file_path = "import_files/posts_#{codes[:country]}_#{file_index}.xml"
+      items_set_start = (file_index - 1) * MAX_POSTS_PER_IMPORT_FILE
+      items_set_end = num_import_files == file_index ? -1 : file_index * MAX_POSTS_PER_IMPORT_FILE - 1
+      items_set = items[items_set_start..items_set_end]
+
+      out_file = File.new(import_file_path, "w")
+      out_file.puts(posts_erb.result(binding))
+      out_file.close
+
+      puts "# #{import_file_path} has been created"
+    end
   end
 
   def scrape_posts(items)
     items.each do |item|
+      puts "# Scraping #{item['item_url']}"
+
       item = scrape_post(item)
     end
 
@@ -73,7 +89,7 @@ module Migration
     post_content = post.css('.entry').first.inner_html
     item['post_content'] = post_content.gsub(/<blockquote class="author">.*?<\/blockquote>/m, '')
 
-    if item['author_first_name'].nil? && item['author_last_name'].nil?
+    if item['author_first_name'].nil? && item['author_last_name'].nil? && !post.css('span.author').empty?
       author = post.css('span.author').first.content.split(' ')
 
       item['author_first_name'] = author[0]

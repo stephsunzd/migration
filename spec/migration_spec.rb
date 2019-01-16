@@ -38,13 +38,13 @@ RSpec.describe "Migration" do
   end
 
   it '#generate_import_file creates a file matching our sample' do
-    Migration.generate_import_file(TEST_CODES, TEST_URL)
+    Migration.generate_import_files(TEST_CODES, TEST_URL)
 
     posts_sample = File.open('spec/fixtures/posts_sample.xml').read.gsub(/( |\t)/, '')
-    posts_zd = File.open('import_files/posts_zd.xml').read.gsub(/( |\t)/, '')
+    posts_zd = File.open('import_files/posts_zd_1.xml').read.gsub(/( |\t)/, '')
 
     expect(posts_sample).to eq(posts_zd)
 
-    File.delete('import_files/posts_zd.xml')
+    File.delete('import_files/posts_zd_1.xml')
   end
 end
