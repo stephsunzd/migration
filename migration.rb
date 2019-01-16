@@ -6,11 +6,13 @@ require 'nokogiri'
 module Migration
   module_function
 
-  def csv_to_item(language_code)
+  TAG_DOMAIN = 'filter_tag_blog'
+
+  def csv_to_item(country_code)
     headers = []
     items = []
 
-    CSV.foreach("metadata_files/#{language_code}.csv") do |row|
+    CSV.foreach("metadata_files/#{country_code}.csv") do |row|
       if headers.empty?
         headers.replace(row)
         next
@@ -23,17 +25,21 @@ module Migration
         when 'item_hidden'
           item['post_status'] = value === 'TRUE' ? 'draft' : 'publish'
         when 'item_tags'
-          item[headers[index]] = []
+          item['item_tags'] = []
 
           value.split(',').each do |tag_name|
             item[headers[index]] << {
-              name: tag_name
+              domain: TAG_DOMAIN,
+              name: tag_name,
+              nicename: tag_name.downcase.gsub(/\W/, '-')
             }
-          end
+          end unless value.nil?
         else
           item[headers[index]] = value
         end
       end
+
+      item['pubDate'] = timestamp_to_pubDate(item['item_published_at'])
 
       items << item
     end
@@ -42,7 +48,7 @@ module Migration
   end
 
   def generate_import_file(codes, source_url)
-    items = csv_to_item(codes[:language])
+    items = csv_to_item(codes[:country])
     items = scrape_posts(items)
 
     posts_erb = File.open('templates/posts.xml.erb').read
@@ -64,7 +70,8 @@ module Migration
   def scrape_post(item)
     post = Nokogiri::HTML(open(item['item_url']))
 
-    puts post.css('.entry').first.methods
+    post_content = post.css('.entry').first.inner_html
+    item['post_content'] = post_content.gsub(/<blockquote class="author">.*?<\/blockquote>/m, '')
 
     if item['author_first_name'].nil? && item['author_last_name'].nil?
       author = post.css('span.author').first.content.split(' ')

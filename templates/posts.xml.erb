@@ -35,11 +35,11 @@
   <item>
     <title><%= item['item_title'] %></title>
     <link><%= item['item_url'] %>/</link>
-    <pubDate><%= item['post_date_long'] %></pubDate>
+    <pubDate><%= item['pubDate'] %></pubDate>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true"><%= item['item_url'] %></guid>
     <description><%= item['item_description'] %></description>
-    <content:encoded><%= item['post_content'] %></content:encoded>
+    <content:encoded><![CDATA[<%= item['post_content'] %>]]></content:encoded>
     <excerpt:encoded><![CDATA[]]></excerpt:encoded>
     <wp:post_id><%= item['item_id'] %></wp:post_id>
     <wp:post_date><![CDATA[<%= item['item_published_at'] %>]]></wp:post_date>
@@ -54,7 +54,7 @@
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     <% item['item_tags'].each do |item_tag| %>
-    <category domain="<%= item_tag[:type] %>" nicename="<%= item_tag[:key] %>"><![CDATA[<%= item_tag[:name] %>]]></category>
+    <category domain="<%= item_tag[:domain] %>" nicename="<%= item_tag[:nicename] %>"><![CDATA[<%= item_tag[:name] %>]]></category>
     <% end %>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>

@@ -14,13 +14,14 @@ RSpec.describe "Migration" do
     'item_seo_description' => 'Lorem SEO ipsum description.',
     'item_seo_title' => 'Lorem SEO ipsum',
     'item_tags' => [
-      { name: 'Agent experience' },
-      { name: 'Best Practices' },
-      { name: 'Customer experience' }
+      { name: 'Agent experience', domain: Migration::TAG_DOMAIN, nicename: 'agent-experience' },
+      { name: 'Best Practices', domain: Migration::TAG_DOMAIN, nicename: 'best-practices' },
+      { name: 'Customer experience', domain: Migration::TAG_DOMAIN, nicename: 'customer-experience' }
     ],
     'item_thumbnail_url' => 'https://d26a57ydsghvgx.cloudfront.net/content/blog/customer_experience_KPIs.png',
     'item_url' => 'https://resources.zendesk.co.uk/blog/10-customer-experience-kpis',
-    'post_status' => 'publish'
+    'post_status' => 'publish',
+    'pubDate' => 'Thu, 12 Apr 2018 11:37:00 +0000'
   }
 
   it '#timestamp_to_pubDate converts timestamp format to pubDate format' do
@@ -39,8 +40,8 @@ RSpec.describe "Migration" do
   it '#generate_import_file creates a file matching our sample' do
     Migration.generate_import_file(TEST_CODES, TEST_URL)
 
-    posts_sample = File.open('spec/fixtures/posts_sample.xml').read.gsub(' ', '')
-    posts_zd = File.open('import_files/posts_zd.xml').read.gsub(' ', '')
+    posts_sample = File.open('spec/fixtures/posts_sample.xml').read.gsub(/( |\t)/, '')
+    posts_zd = File.open('import_files/posts_zd.xml').read.gsub(/( |\t)/, '')
 
     expect(posts_sample).to eq(posts_zd)
 

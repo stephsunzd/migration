@@ -13,7 +13,7 @@
 	<title>Zendesk</title>
 	<link>https://resources.zendesk.co.uk</link>
 	<description></description>
-	<pubDate>Tue, 08 Jan 2019 21:22:48 +0000</pubDate>
+  <pubDate>Tue, 08 Jan 2019 21:22:48 +0000</pubDate>
 	<language>zd</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://resources.zendesk.co.uk/</wp:base_site_url>
@@ -35,11 +35,63 @@
   <item>
     <title>Lorem ipsum</title>
     <link>https://resources.zendesk.co.uk/blog/10-customer-experience-kpis/</link>
-    <pubDate></pubDate>
+    <pubDate>Thu, 12 Apr 2018 11:37:00 +0000</pubDate>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://resources.zendesk.co.uk/blog/10-customer-experience-kpis</guid>
     <description>Lorem ipsum dolor amet plaid slow-carb prism venmo kale chips. Lo-fi poke truffaut bushwick plaid. XOXO pug waistcoat edison bulb semiotics everyday carry succulents tbh hoodie literally mumblecore selvage. Intelligentsia tumblr gentrify, butcher venmo drinking vinegar readymade man bun ethical stumptown umami hoodie bespoke portland ennui. Aesthetic gastropub bitters pug unicorn pok pok.</description>
-    <content:encoded></content:encoded>
+    <content:encoded><![CDATA[
+            <p></p>
+<p>According to recent research, by the year 2020,<a href="https://www.walkerinfo.com/knowledge-center/featured-research-reports/customers2020-1" target="_blank"> customer experience will overtake price and product as the key brand differentiator</a>. Bearing this in mind, it’s no surprise that businesses are increasingly investing in customer experience to attract, engage, and retain customers. As companies allocate large chunks of their budgets to improve customer experience initiatives, they need a way to measure the results of their efforts.</p>
+<p>It is, however, easy to feel overwhelmed by the number of key performance indicators (KPIs) applicable in CX environments. When thinking about customer experience and how it leads to business success, it might make sense to break the total experience down in smaller insights based on your company’s unique goals. This way, you can develop a goal-oriented approach to determine which KPIs are better suited to measure your performance.</p>
+<p>If, for example, you identify customer attraction, engagement, and retention as three strategic aspects of the customer experience, consider starting with these key KPIs to benchmark your performance:</p>
+<h1>10 customer experience KPIs to track
+<ol>
+<li>Marketing campaign effectiveness</li>
+<li>Direct traffic</li>
+<li>Pages per visit</li>
+<li>Customer Acquisition Rate</li>
+<li>Conversion rate</li>
+<li>Cart abandonment rate</li>
+<li>Customer churn rate</li>
+<li>Net Promoter Score</li>
+<li>Customer Satisfaction</li>
+<li>Average Resolution Time</li>
+</ol>
+</h1>
+<h2>Customer Attraction</h2>
+<h3>1. Marketing campaign effectiveness</h3>
+<p>This metric is defined as the <a href="https://www.zendesk.com/resources/forrester-examines-potential-roi-zendesk/" target="_blank">return on investment (ROI)</a> for any given marketing campaign initiative and helps you evaluate the overall growth rate of your company. Marketing is no longer about advertising, it is about reflecting the voice of your customers in the business and satisfying their needs. The more effective the marketing campaign, the better the customer experience is represented.</p>
+<h3>2. Direct traffic</h3>
+<p>Direct traffic is the result of any interaction specifically identified to a certain company activity intended to drive traffic. Direct traffic goes hand in hand with brand awareness and generates opportunities for future growth.</p>
+<h3>3. Pages per visit</h3>
+<p>The amount of time your visitors spend on your site is an indicator that your content is relevant and appealing. Enhancing the <a href="https://www.zendesk.com/resources/customer-experience-guide/" target="_blank">customer experience</a> on site is one of the best ways to ensure visitors don’t lose interest and learn more about your brand and its products.  </p>
+<div>
+<div>Build a customer experience brand</div>
+<div>
+<a href="https://www.zendesk.com/resources/customer-experience-guide/">Get the guide</a>
+</div>
+</div>
+<h2>Customer Engagement</h2>
+<h3>4. Customer Acquisition Rate</h3>
+<p>Providing a better experience throughout the buyer journey will help you keep prospects engaged and moving towards a purchase decision. The lower the customer acquisition rates the more likely you are to make a return on investment from your marketing and sales campaigns.</p>
+<h3>5. Conversion rate</h3>
+<p>The customer experience is critical for the buying process. Optimizing the experience across the buyer journey helps boost conversion rates at every touchpoint. Increased <a href="https://www.zendesk.com/blog/increase-conversions-chat/" target="_blank">conversion rates</a> mean that prospects are moving along the buyer funnel incentivized by the customer experience.</p>
+<h3>6. Cart abandonment rate</h3>
+<p>According to <a href="https://baymard.com/lists/cart-abandonment-rate" target="_blank">Baymard Institute</a>, the average shopping cart abandonment rate is 68.53%. There are many reasons behind cart abandonment but many of them can be fixed just by redesigning the experience. Reduced cart abandonment rates are an indicator of a well thought out user experience, potential repeat customers, and increased sales. </p>
+<h2>Customer Retention</h2>
+<h3>7. Customer churn rate</h3>
+<p>The percentage rate at which customers stop subscribing to a service over a given time-period is referred to as churn. Reducing churn rates is the first step towards expanding your client base and increasing revenue streams. Low churn rates reveal satisfaction with your level of service and, therefore, a superior customer experience and loyalty.</p>
+<h3>8. Net Promoter Score</h3>
+<p><a href="https://www.zendesk.com/blog/making-the-most-of-nps-survey/" target="_blank">Net Promoter Scores (NPS) </a>are vital for assessing where you stand with your customers. A lower NPS indicates that you need to put work into swaying your customers’ opinion of your company. Implementing <a href="https://www.surveypal.com/blog/how-to-build-a-voice-of-the-customer-program-in-5-steps-surveypal" target="_blank">Voice of the Customer programs</a> is a great starting point to begin incorporating customer feedback into your products and services to boost Net Promoter Scores.</p>
+<h3>9. Customer Satisfaction</h3>
+<p><a href="https://www.zendesk.com/benchmark/" target="_blank">Customer Satisfaction Scores (CSAT)</a> are often measured by interaction type. High satisfaction scores demonstrate a customer-centric culture and indicate that you have met or surpassed your customers’ expectations in any given experience.</p>
+<h3>10. Average Resolution Time</h3>
+<p>The average resolution time refers to the average time it takes for a customer care agent to resolve a customer issue. This customer service metric directly correlates to customer satisfaction and reflects your team’s efficiency. Your time to resolution matters as <a href="https://www.zendesk.com/resources/why-companies-should-invest-in-the-customer-experience/" target="_blank">40% of customers begin purchasing from a competitor because of their reputation for great customer service</a>. </p>
+<p>While there is no out of the box solution to measure your efforts at optimizing the customer experience, a comprehensive approach which combines different metrics might make the most sense. As mentioned earlier, try thinking of the metrics through the perspective of your company’s objectives and use these fundamental KPIs as the starting point. </p>
+
+
+
+        ]]></content:encoded>
     <excerpt:encoded><![CDATA[]]></excerpt:encoded>
     <wp:post_id>888888888</wp:post_id>
     <wp:post_date><![CDATA[2018-04-12 11:37:00]]></wp:post_date>
@@ -54,11 +106,11 @@
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
 
-    <category domain="" nicename=""><![CDATA[Agent experience]]></category>
+    <category domain="filter_tag_blog" nicename="agent-experience"><![CDATA[Agent experience]]></category>
 
-    <category domain="" nicename=""><![CDATA[Best Practices]]></category>
+    <category domain="filter_tag_blog" nicename="best-practices"><![CDATA[Best Practices]]></category>
 
-    <category domain="" nicename=""><![CDATA[Customer experience]]></category>
+    <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
 
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
