@@ -97,6 +97,8 @@
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -335,6 +337,8 @@
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -587,11 +591,19 @@ Across e-commerce platforms, you’ll find <a href="https://www.zendesk.com/chat
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="agent-experience"><![CDATA[Agent experience]]></category>
+    
+    <category domain="post_tag" nicename="agent-experience"><![CDATA[Agent experience]]></category>
     
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
     
+    <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
+    
     <category domain="filter_tag_blog" nicename="customer-service-leadership"><![CDATA[Customer Service Leadership]]></category>
+    
+    <category domain="post_tag" nicename="customer-service-leadership"><![CDATA[Customer Service Leadership]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -816,9 +828,15 @@ Across e-commerce platforms, you’ll find <a href="https://www.zendesk.com/chat
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="best-practices"><![CDATA[Best Practices]]></category>
     
+    <category domain="post_tag" nicename="best-practices"><![CDATA[Best Practices]]></category>
+    
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
+    
+    <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -1055,6 +1073,8 @@ Across e-commerce platforms, you’ll find <a href="https://www.zendesk.com/chat
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -1335,13 +1355,23 @@ Across e-commerce platforms, you’ll find <a href="https://www.zendesk.com/chat
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="chat"><![CDATA[Chat]]></category>
+    
+    <category domain="post_tag" nicename="chat"><![CDATA[Chat]]></category>
     
     <category domain="filter_tag_blog" nicename="live-chat-software"><![CDATA[Live-Chat-Software]]></category>
     
+    <category domain="post_tag" nicename="live-chat-software"><![CDATA[Live-Chat-Software]]></category>
+    
     <category domain="filter_tag_blog" nicename="proactive-support"><![CDATA[Proactive Support]]></category>
     
+    <category domain="post_tag" nicename="proactive-support"><![CDATA[Proactive Support]]></category>
+    
     <category domain="filter_tag_blog" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
+    
+    <category domain="post_tag" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -1583,6 +1613,8 @@ Across e-commerce platforms, you’ll find <a href="https://www.zendesk.com/chat
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -1834,6 +1866,8 @@ Haley Varenkamp, on <a href="https://www.zendesk.com/blog/listening-leading-exam
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2083,13 +2117,23 @@ Many businesses don’t have the resources or large datasets that’s needed to 
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="guide"><![CDATA[Guide]]></category>
+    
+    <category domain="post_tag" nicename="guide"><![CDATA[Guide]]></category>
     
     <category domain="filter_tag_blog" nicename="knowledge-base-and-self-service"><![CDATA[Knowledge Base and Self Service]]></category>
     
+    <category domain="post_tag" nicename="knowledge-base-and-self-service"><![CDATA[Knowledge Base and Self Service]]></category>
+    
     <category domain="filter_tag_blog" nicename="product-announcements"><![CDATA[Product Announcements]]></category>
     
+    <category domain="post_tag" nicename="product-announcements"><![CDATA[Product Announcements]]></category>
+    
     <category domain="filter_tag_blog" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
+    
+    <category domain="post_tag" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -2356,6 +2400,8 @@ Many businesses don’t have the resources or large datasets that’s needed to 
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2612,6 +2658,8 @@ Many businesses don’t have the resources or large datasets that’s needed to 
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -2875,6 +2923,8 @@ Many businesses don’t have the resources or large datasets that’s needed to 
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -3127,13 +3177,23 @@ Many businesses don’t have the resources or large datasets that’s needed to 
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="news"><![CDATA[News]]></category>
+    
+    <category domain="post_tag" nicename="news"><![CDATA[News]]></category>
     
     <category domain="filter_tag_blog" nicename="product-announcements"><![CDATA[Product Announcements]]></category>
     
+    <category domain="post_tag" nicename="product-announcements"><![CDATA[Product Announcements]]></category>
+    
     <category domain="filter_tag_blog" nicename="talk"><![CDATA[Talk]]></category>
     
+    <category domain="post_tag" nicename="talk"><![CDATA[Talk]]></category>
+    
     <category domain="filter_tag_blog" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
+    
+    <category domain="post_tag" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -3393,19 +3453,35 @@ Many businesses don’t have the resources or large datasets that’s needed to 
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="customer-service"><![CDATA[Customer service]]></category>
+    
+    <category domain="post_tag" nicename="customer-service"><![CDATA[Customer service]]></category>
     
     <category domain="filter_tag_blog" nicename="customer-care"><![CDATA[customer care]]></category>
     
+    <category domain="post_tag" nicename="customer-care"><![CDATA[customer care]]></category>
+    
     <category domain="filter_tag_blog" nicename="omnichannel"><![CDATA[omnichannel]]></category>
+    
+    <category domain="post_tag" nicename="omnichannel"><![CDATA[omnichannel]]></category>
     
     <category domain="filter_tag_blog" nicename="customer-support"><![CDATA[Customer support]]></category>
     
+    <category domain="post_tag" nicename="customer-support"><![CDATA[Customer support]]></category>
+    
     <category domain="filter_tag_blog" nicename="product-announcements"><![CDATA[Product Announcements]]></category>
+    
+    <category domain="post_tag" nicename="product-announcements"><![CDATA[Product Announcements]]></category>
     
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
     
+    <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
+    
     <category domain="filter_tag_blog" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
+    
+    <category domain="post_tag" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -3642,6 +3718,8 @@ Many businesses don’t have the resources or large datasets that’s needed to 
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -3896,15 +3974,27 @@ Many businesses don’t have the resources or large datasets that’s needed to 
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="agent-experience"><![CDATA[Agent experience]]></category>
+    
+    <category domain="post_tag" nicename="agent-experience"><![CDATA[Agent experience]]></category>
     
     <category domain="filter_tag_blog" nicename="best-practices"><![CDATA[Best Practices]]></category>
     
+    <category domain="post_tag" nicename="best-practices"><![CDATA[Best Practices]]></category>
+    
     <category domain="filter_tag_blog" nicename="guide"><![CDATA[Guide]]></category>
+    
+    <category domain="post_tag" nicename="guide"><![CDATA[Guide]]></category>
     
     <category domain="filter_tag_blog" nicename="support"><![CDATA[Support]]></category>
     
+    <category domain="post_tag" nicename="support"><![CDATA[Support]]></category>
+    
     <category domain="filter_tag_blog" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
+    
+    <category domain="post_tag" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -4147,6 +4237,8 @@ Many businesses don’t have the resources or large datasets that’s needed to 
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -4384,6 +4476,8 @@ Even when in-game support isn’t an option, there are still ways to provide a g
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -4670,9 +4764,15 @@ Even when in-game support isn’t an option, there are still ways to provide a g
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="agent-experience"><![CDATA[Agent experience]]></category>
     
+    <category domain="post_tag" nicename="agent-experience"><![CDATA[Agent experience]]></category>
+    
     <category domain="filter_tag_blog" nicename="best-practices"><![CDATA[Best Practices]]></category>
+    
+    <category domain="post_tag" nicename="best-practices"><![CDATA[Best Practices]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -4911,11 +5011,19 @@ Even when in-game support isn’t an option, there are still ways to provide a g
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="apps-and-integrations"><![CDATA[Apps and Integrations]]></category>
+    
+    <category domain="post_tag" nicename="apps-and-integrations"><![CDATA[Apps and Integrations]]></category>
     
     <category domain="filter_tag_blog" nicename="apps-marketplace"><![CDATA[Apps Marketplace]]></category>
     
+    <category domain="post_tag" nicename="apps-marketplace"><![CDATA[Apps Marketplace]]></category>
+    
     <category domain="filter_tag_blog" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
+    
+    <category domain="post_tag" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -5162,6 +5270,8 @@ Even when in-game support isn’t an option, there are still ways to provide a g
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -5428,9 +5538,15 @@ Even when in-game support isn’t an option, there are still ways to provide a g
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="agent-experience"><![CDATA[Agent experience]]></category>
     
+    <category domain="post_tag" nicename="agent-experience"><![CDATA[Agent experience]]></category>
+    
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
+    
+    <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -5690,9 +5806,15 @@ Even when in-game support isn’t an option, there are still ways to provide a g
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="best-practices"><![CDATA[Best Practices]]></category>
     
+    <category domain="post_tag" nicename="best-practices"><![CDATA[Best Practices]]></category>
+    
     <category domain="filter_tag_blog" nicename="operations"><![CDATA[Operations]]></category>
+    
+    <category domain="post_tag" nicename="operations"><![CDATA[Operations]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -5926,6 +6048,8 @@ Even when in-game support isn’t an option, there are still ways to provide a g
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -6149,11 +6273,19 @@ Even when in-game support isn’t an option, there are still ways to provide a g
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
+    
+    <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
     
     <category domain="filter_tag_blog" nicename="customer-service-leadership"><![CDATA[Customer Service Leadership]]></category>
     
+    <category domain="post_tag" nicename="customer-service-leadership"><![CDATA[Customer Service Leadership]]></category>
+    
     <category domain="filter_tag_blog" nicename="gartner"><![CDATA[Gartner]]></category>
+    
+    <category domain="post_tag" nicename="gartner"><![CDATA[Gartner]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -6433,7 +6565,11 @@ Alex Popa, on <a href="https://www.zendesk.com/blog/communication-key-great-tech
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="agent-experience"><![CDATA[Agent experience]]></category>
+    
+    <category domain="post_tag" nicename="agent-experience"><![CDATA[Agent experience]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -6680,9 +6816,15 @@ Alex Popa, on <a href="https://www.zendesk.com/blog/communication-key-great-tech
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="chat"><![CDATA[Chat]]></category>
     
+    <category domain="post_tag" nicename="chat"><![CDATA[Chat]]></category>
+    
     <category domain="filter_tag_blog" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
+    
+    <category domain="post_tag" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -6908,11 +7050,19 @@ Alex Popa, on <a href="https://www.zendesk.com/blog/communication-key-great-tech
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="multichannel-customer-support"><![CDATA[Multichannel Customer Support]]></category>
+    
+    <category domain="post_tag" nicename="multichannel-customer-support"><![CDATA[Multichannel Customer Support]]></category>
     
     <category domain="filter_tag_blog" nicename="proactive-support"><![CDATA[Proactive Support]]></category>
     
+    <category domain="post_tag" nicename="proactive-support"><![CDATA[Proactive Support]]></category>
+    
     <category domain="filter_tag_blog" nicename="knowledge-base-and-self-service"><![CDATA[Knowledge Base and Self Service]]></category>
+    
+    <category domain="post_tag" nicename="knowledge-base-and-self-service"><![CDATA[Knowledge Base and Self Service]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -7156,15 +7306,27 @@ Alex Popa, on <a href="https://www.zendesk.com/blog/communication-key-great-tech
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
+    
+    <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
     
     <category domain="filter_tag_blog" nicename="embeddables"><![CDATA[Embeddables]]></category>
     
+    <category domain="post_tag" nicename="embeddables"><![CDATA[Embeddables]]></category>
+    
     <category domain="filter_tag_blog" nicename="support"><![CDATA[Support]]></category>
+    
+    <category domain="post_tag" nicename="support"><![CDATA[Support]]></category>
     
     <category domain="filter_tag_blog" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
     
+    <category domain="post_tag" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
+    
     <category domain="filter_tag_blog" nicename="zendesk-tips"><![CDATA[Zendesk Tips]]></category>
+    
+    <category domain="post_tag" nicename="zendesk-tips"><![CDATA[Zendesk Tips]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -7405,6 +7567,8 @@ Alex Popa, on <a href="https://www.zendesk.com/blog/communication-key-great-tech
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -7668,9 +7832,15 @@ Alex Popa, on <a href="https://www.zendesk.com/blog/communication-key-great-tech
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
     
+    <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
+    
     <category domain="filter_tag_blog" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
+    
+    <category domain="post_tag" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -7917,11 +8087,19 @@ Alex Popa, on <a href="https://www.zendesk.com/blog/communication-key-great-tech
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="best-practices"><![CDATA[Best Practices]]></category>
+    
+    <category domain="post_tag" nicename="best-practices"><![CDATA[Best Practices]]></category>
     
     <category domain="filter_tag_blog" nicename="customer-service-leadership"><![CDATA[Customer Service Leadership]]></category>
     
+    <category domain="post_tag" nicename="customer-service-leadership"><![CDATA[Customer Service Leadership]]></category>
+    
     <category domain="filter_tag_blog" nicename="team-management"><![CDATA[Team management]]></category>
+    
+    <category domain="post_tag" nicename="team-management"><![CDATA[Team management]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -8165,6 +8343,8 @@ Design proactive communication and keep your customers coming back. Test and exp
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -8403,9 +8583,15 @@ Design proactive communication and keep your customers coming back. Test and exp
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="agent-experience"><![CDATA[Agent experience]]></category>
     
+    <category domain="post_tag" nicename="agent-experience"><![CDATA[Agent experience]]></category>
+    
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
+    
+    <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -8647,13 +8833,23 @@ Design proactive communication and keep your customers coming back. Test and exp
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="agent-experience"><![CDATA[Agent experience]]></category>
+    
+    <category domain="post_tag" nicename="agent-experience"><![CDATA[Agent experience]]></category>
     
     <category domain="filter_tag_blog" nicename="best-practices"><![CDATA[Best Practices]]></category>
     
+    <category domain="post_tag" nicename="best-practices"><![CDATA[Best Practices]]></category>
+    
     <category domain="filter_tag_blog" nicename="customer-service-leadership"><![CDATA[Customer Service Leadership]]></category>
     
+    <category domain="post_tag" nicename="customer-service-leadership"><![CDATA[Customer Service Leadership]]></category>
+    
     <category domain="filter_tag_blog" nicename="team-management"><![CDATA[Team management]]></category>
+    
+    <category domain="post_tag" nicename="team-management"><![CDATA[Team management]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -8894,6 +9090,8 @@ Gibbs is passionate about customer advocacy—“The single most important thing
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -9141,15 +9339,27 @@ Gibbs is passionate about customer advocacy—“The single most important thing
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
+    
+    <category domain="post_tag" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
     
     <category domain="filter_tag_blog" nicename="chat"><![CDATA[Chat]]></category>
     
+    <category domain="post_tag" nicename="chat"><![CDATA[Chat]]></category>
+    
     <category domain="filter_tag_blog" nicename="customer-service-leadership"><![CDATA[Customer Service Leadership]]></category>
+    
+    <category domain="post_tag" nicename="customer-service-leadership"><![CDATA[Customer Service Leadership]]></category>
     
     <category domain="filter_tag_blog" nicename="talk"><![CDATA[Talk]]></category>
     
+    <category domain="post_tag" nicename="talk"><![CDATA[Talk]]></category>
+    
     <category domain="filter_tag_blog" nicename="support"><![CDATA[Support]]></category>
+    
+    <category domain="post_tag" nicename="support"><![CDATA[Support]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -9373,6 +9583,8 @@ Gibbs is passionate about customer advocacy—“The single most important thing
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -9631,15 +9843,27 @@ Create Clubhouse stories from any Zendesk Support ticket with just a couple of c
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="apps-and-integrations"><![CDATA[Apps and Integrations]]></category>
+    
+    <category domain="post_tag" nicename="apps-and-integrations"><![CDATA[Apps and Integrations]]></category>
     
     <category domain="filter_tag_blog" nicename="apps-marketplace"><![CDATA[Apps Marketplace]]></category>
     
+    <category domain="post_tag" nicename="apps-marketplace"><![CDATA[Apps Marketplace]]></category>
+    
     <category domain="filter_tag_blog" nicename="chat"><![CDATA[Chat]]></category>
+    
+    <category domain="post_tag" nicename="chat"><![CDATA[Chat]]></category>
     
     <category domain="filter_tag_blog" nicename="support"><![CDATA[Support]]></category>
     
+    <category domain="post_tag" nicename="support"><![CDATA[Support]]></category>
+    
     <category domain="filter_tag_blog" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
+    
+    <category domain="post_tag" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -9881,6 +10105,8 @@ Create Clubhouse stories from any Zendesk Support ticket with just a couple of c
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -10115,6 +10341,8 @@ Create Clubhouse stories from any Zendesk Support ticket with just a couple of c
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -10362,6 +10590,8 @@ Create Clubhouse stories from any Zendesk Support ticket with just a couple of c
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -10599,6 +10829,8 @@ Create Clubhouse stories from any Zendesk Support ticket with just a couple of c
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -10832,6 +11064,8 @@ Create Clubhouse stories from any Zendesk Support ticket with just a couple of c
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -11077,6 +11311,8 @@ Create Clubhouse stories from any Zendesk Support ticket with just a couple of c
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -11329,6 +11565,8 @@ Create Clubhouse stories from any Zendesk Support ticket with just a couple of c
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -11584,9 +11822,15 @@ Create Clubhouse stories from any Zendesk Support ticket with just a couple of c
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="chat"><![CDATA[Chat]]></category>
     
+    <category domain="post_tag" nicename="chat"><![CDATA[Chat]]></category>
+    
     <category domain="filter_tag_blog" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
+    
+    <category domain="post_tag" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -11824,6 +12068,8 @@ Create Clubhouse stories from any Zendesk Support ticket with just a couple of c
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -12053,6 +12299,8 @@ Create Clubhouse stories from any Zendesk Support ticket with just a couple of c
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -12302,11 +12550,19 @@ Create Clubhouse stories from any Zendesk Support ticket with just a couple of c
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="best-practices"><![CDATA[Best Practices]]></category>
+    
+    <category domain="post_tag" nicename="best-practices"><![CDATA[Best Practices]]></category>
     
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
     
+    <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
+    
     <category domain="filter_tag_blog" nicename="customer-service-leadership"><![CDATA[Customer Service Leadership]]></category>
+    
+    <category domain="post_tag" nicename="customer-service-leadership"><![CDATA[Customer Service Leadership]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -12555,6 +12811,8 @@ Create Clubhouse stories from any Zendesk Support ticket with just a couple of c
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -12793,6 +13051,8 @@ Create Clubhouse stories from any Zendesk Support ticket with just a couple of c
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -13058,11 +13318,19 @@ Create Clubhouse stories from any Zendesk Support ticket with just a couple of c
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
+    
+    <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
     
     <category domain="filter_tag_blog" nicename="retail"><![CDATA[Retail]]></category>
     
+    <category domain="post_tag" nicename="retail"><![CDATA[Retail]]></category>
+    
     <category domain="filter_tag_blog" nicename="webinar"><![CDATA[Webinar]]></category>
+    
+    <category domain="post_tag" nicename="webinar"><![CDATA[Webinar]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -13290,6 +13558,8 @@ Create Clubhouse stories from any Zendesk Support ticket with just a couple of c
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -13543,6 +13813,8 @@ Create Clubhouse stories from any Zendesk Support ticket with just a couple of c
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -13786,6 +14058,8 @@ Create Clubhouse stories from any Zendesk Support ticket with just a couple of c
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -14010,6 +14284,8 @@ Create Clubhouse stories from any Zendesk Support ticket with just a couple of c
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -14237,13 +14513,23 @@ Create Clubhouse stories from any Zendesk Support ticket with just a couple of c
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="guide"><![CDATA[Guide]]></category>
+    
+    <category domain="post_tag" nicename="guide"><![CDATA[Guide]]></category>
     
     <category domain="filter_tag_blog" nicename="knowledge-base-and-self-service"><![CDATA[Knowledge Base and Self Service]]></category>
     
+    <category domain="post_tag" nicename="knowledge-base-and-self-service"><![CDATA[Knowledge Base and Self Service]]></category>
+    
     <category domain="filter_tag_blog" nicename="support"><![CDATA[Support]]></category>
     
+    <category domain="post_tag" nicename="support"><![CDATA[Support]]></category>
+    
     <category domain="filter_tag_blog" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
+    
+    <category domain="post_tag" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -14495,9 +14781,15 @@ Create Clubhouse stories from any Zendesk Support ticket with just a couple of c
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="best-practices"><![CDATA[Best Practices]]></category>
     
+    <category domain="post_tag" nicename="best-practices"><![CDATA[Best Practices]]></category>
+    
     <category domain="filter_tag_blog" nicename="customer-service-leadership"><![CDATA[Customer Service Leadership]]></category>
+    
+    <category domain="post_tag" nicename="customer-service-leadership"><![CDATA[Customer Service Leadership]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -14748,6 +15040,8 @@ Most of NYX Gaming’s customer service team hailed from the local casino and ho
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>

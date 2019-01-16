@@ -28,6 +28,23 @@ RSpec.describe "Migration" do
     'pubDate' => 'Thu, 12 Apr 2018 11:37:00 +0000'
   }
 
+  it '#scrape_post handles nil item_url' do
+    item = {
+      'item_url' => nil
+    }
+
+    expect(Migration.scrape_post(item)).to eq(item)
+  end
+
+  it '#scrape_post handles 404' do
+    item = {
+      'item_url' => 'https://resources.zendesk.co.uk/blog/notapage',
+      'post_content' => ''
+    }
+
+    expect(Migration.scrape_post(item)).to eq(item)
+  end
+
   it '#timestamp_to_pubDate converts timestamp format to pubDate format' do
     timestamp = '2019-01-08 21:22:48'
     pubDate = 'Tue, 08 Jan 2019 21:22:48 +0000'

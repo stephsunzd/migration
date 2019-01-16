@@ -32,7 +32,7 @@ module Migration
         when 'item_hidden'
           item['post_status'] = value === 'TRUE' ? 'draft' : 'publish'
         when 'item_tags'
-          item['item_tags'] = [ CATEGORY_TAG ] 
+          item['item_tags'] = [ CATEGORY_TAG ]
 
           value.split(',').each do |tag_name|
             TAG_DOMAINS.each do |tag_domain|
@@ -92,16 +92,31 @@ module Migration
   end
 
   def scrape_post(item)
-    post = Nokogiri::HTML(open(item['item_url']))
+    return item if item['item_url'].nil? || item['item_url'].empty?
 
-    post_content = post.css('.entry').first.inner_html
-    item['post_content'] = post_content.gsub(/<blockquote class="author">.*?<\/blockquote>/m, '')
+    item['post_content'] = ''
 
-    if item['author_first_name'].nil? && item['author_last_name'].nil? && !post.css('span.author').empty?
-      author = post.css('span.author').first.content.split(' ')
+    begin
+      post = Nokogiri::HTML(open(item['item_url']))
+    rescue OpenURI::HTTPError => http_error
+      puts http_error
+    else
+    end
 
-      item['author_first_name'] = author[0]
-      item['author_last_name'] = author[1..-1].join(' ')
+    if post.respond_to?(:css)
+      post_content = post.css('.entry')
+
+      unless post_content.empty?
+        post_content = post_content.first.inner_html
+        item['post_content'] = post_content.gsub(/<blockquote class="author">.*?<\/blockquote>/m, '')
+      end
+
+      if item['author_first_name'].nil? && item['author_last_name'].nil? && !post.css('span.author').empty?
+        author = post.css('span.author').first.content.split(' ')
+
+        item['author_first_name'] = author[0]
+        item['author_last_name'] = author[1..-1].join(' ')
+      end
     end
 
     return item

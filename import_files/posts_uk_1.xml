@@ -106,6 +106,8 @@
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -365,6 +367,8 @@ Most obviously, you may want to provide support in local time zones. Your growth
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -622,11 +626,19 @@ Most obviously, you may want to provide support in local time zones. Your growth
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="guide"><![CDATA[Guide]]></category>
+    
+    <category domain="post_tag" nicename="guide"><![CDATA[Guide]]></category>
     
     <category domain="filter_tag_blog" nicename="knowledge-base-and-self-service"><![CDATA[Knowledge Base and Self Service]]></category>
     
+    <category domain="post_tag" nicename="knowledge-base-and-self-service"><![CDATA[Knowledge Base and Self Service]]></category>
+    
     <category domain="filter_tag_blog" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
+    
+    <category domain="post_tag" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -854,11 +866,19 @@ Most obviously, you may want to provide support in local time zones. Your growth
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="best-practices"><![CDATA[Best Practices]]></category>
+    
+    <category domain="post_tag" nicename="best-practices"><![CDATA[Best Practices]]></category>
     
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
     
+    <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
+    
     <category domain="filter_tag_blog" nicename="customer-service-leadership"><![CDATA[Customer Service Leadership]]></category>
+    
+    <category domain="post_tag" nicename="customer-service-leadership"><![CDATA[Customer Service Leadership]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -1114,13 +1134,23 @@ Most obviously, you may want to provide support in local time zones. Your growth
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="apps-and-integrations"><![CDATA[Apps and Integrations]]></category>
+    
+    <category domain="post_tag" nicename="apps-and-integrations"><![CDATA[Apps and Integrations]]></category>
     
     <category domain="filter_tag_blog" nicename="customer-service-leadership"><![CDATA[Customer Service Leadership]]></category>
     
+    <category domain="post_tag" nicename="customer-service-leadership"><![CDATA[Customer Service Leadership]]></category>
+    
     <category domain="filter_tag_blog" nicename="guide"><![CDATA[Guide]]></category>
     
+    <category domain="post_tag" nicename="guide"><![CDATA[Guide]]></category>
+    
     <category domain="filter_tag_blog" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
+    
+    <category domain="post_tag" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -1367,6 +1397,8 @@ Most obviously, you may want to provide support in local time zones. Your growth
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -1607,6 +1639,8 @@ Most obviously, you may want to provide support in local time zones. Your growth
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -1838,6 +1872,8 @@ Most obviously, you may want to provide support in local time zones. Your growth
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -2082,6 +2118,8 @@ Most obviously, you may want to provide support in local time zones. Your growth
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -2351,6 +2389,8 @@ Most obviously, you may want to provide support in local time zones. Your growth
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2588,6 +2628,8 @@ Most obviously, you may want to provide support in local time zones. Your growth
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -2837,6 +2879,8 @@ Most obviously, you may want to provide support in local time zones. Your growth
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -3089,9 +3133,15 @@ Most obviously, you may want to provide support in local time zones. Your growth
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="best-practices"><![CDATA[Best Practices]]></category>
     
+    <category domain="post_tag" nicename="best-practices"><![CDATA[Best Practices]]></category>
+    
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
+    
+    <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -3323,6 +3373,8 @@ Most obviously, you may want to provide support in local time zones. Your growth
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -3565,9 +3617,15 @@ Most obviously, you may want to provide support in local time zones. Your growth
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="best-practices"><![CDATA[Best Practices]]></category>
     
+    <category domain="post_tag" nicename="best-practices"><![CDATA[Best Practices]]></category>
+    
     <category domain="filter_tag_blog" nicename="operations"><![CDATA[Operations]]></category>
+    
+    <category domain="post_tag" nicename="operations"><![CDATA[Operations]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -3800,6 +3858,8 @@ Most obviously, you may want to provide support in local time zones. Your growth
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -4057,13 +4117,23 @@ Most obviously, you may want to provide support in local time zones. Your growth
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="best-practices"><![CDATA[Best Practices]]></category>
+    
+    <category domain="post_tag" nicename="best-practices"><![CDATA[Best Practices]]></category>
     
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
     
+    <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
+    
     <category domain="filter_tag_blog" nicename="support"><![CDATA[Support]]></category>
     
+    <category domain="post_tag" nicename="support"><![CDATA[Support]]></category>
+    
     <category domain="filter_tag_blog" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
+    
+    <category domain="post_tag" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -4314,13 +4384,23 @@ Most obviously, you may want to provide support in local time zones. Your growth
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
+    
+    <category domain="post_tag" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
     
     <category domain="filter_tag_blog" nicename="support"><![CDATA[Support]]></category>
     
+    <category domain="post_tag" nicename="support"><![CDATA[Support]]></category>
+    
     <category domain="filter_tag_blog" nicename="best-practices"><![CDATA[Best Practices]]></category>
     
+    <category domain="post_tag" nicename="best-practices"><![CDATA[Best Practices]]></category>
+    
     <category domain="filter_tag_blog" nicename="customer-service-leadership"><![CDATA[Customer Service Leadership]]></category>
+    
+    <category domain="post_tag" nicename="customer-service-leadership"><![CDATA[Customer Service Leadership]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -4554,6 +4634,8 @@ Most obviously, you may want to provide support in local time zones. Your growth
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -4811,9 +4893,15 @@ Most obviously, you may want to provide support in local time zones. Your growth
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="best-practices"><![CDATA[Best Practices]]></category>
     
+    <category domain="post_tag" nicename="best-practices"><![CDATA[Best Practices]]></category>
+    
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
+    
+    <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -5049,15 +5137,27 @@ If you’re a photographer or know anything about them, you probably know this c
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="admin-tips"><![CDATA[Admin Tips]]></category>
+    
+    <category domain="post_tag" nicename="admin-tips"><![CDATA[Admin Tips]]></category>
     
     <category domain="filter_tag_blog" nicename="best-practices"><![CDATA[Best Practices]]></category>
     
+    <category domain="post_tag" nicename="best-practices"><![CDATA[Best Practices]]></category>
+    
     <category domain="filter_tag_blog" nicename="talk"><![CDATA[Talk]]></category>
+    
+    <category domain="post_tag" nicename="talk"><![CDATA[Talk]]></category>
     
     <category domain="filter_tag_blog" nicename="team-management"><![CDATA[Team management]]></category>
     
+    <category domain="post_tag" nicename="team-management"><![CDATA[Team management]]></category>
+    
     <category domain="filter_tag_blog" nicename="zendesk-tips"><![CDATA[Zendesk Tips]]></category>
+    
+    <category domain="post_tag" nicename="zendesk-tips"><![CDATA[Zendesk Tips]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -5292,6 +5392,8 @@ If you’re a photographer or know anything about them, you probably know this c
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -5540,11 +5642,19 @@ If you’re a photographer or know anything about them, you probably know this c
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="agent-experience"><![CDATA[Agent experience]]></category>
+    
+    <category domain="post_tag" nicename="agent-experience"><![CDATA[Agent experience]]></category>
     
     <category domain="filter_tag_blog" nicename="best-practices"><![CDATA[Best Practices]]></category>
     
+    <category domain="post_tag" nicename="best-practices"><![CDATA[Best Practices]]></category>
+    
     <category domain="filter_tag_blog" nicename="team-management"><![CDATA[Team management]]></category>
+    
+    <category domain="post_tag" nicename="team-management"><![CDATA[Team management]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -5772,11 +5882,19 @@ If you’re a photographer or know anything about them, you probably know this c
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="agent-experience"><![CDATA[Agent experience]]></category>
+    
+    <category domain="post_tag" nicename="agent-experience"><![CDATA[Agent experience]]></category>
     
     <category domain="filter_tag_blog" nicename="best-practices"><![CDATA[Best Practices]]></category>
     
+    <category domain="post_tag" nicename="best-practices"><![CDATA[Best Practices]]></category>
+    
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
+    
+    <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -6027,6 +6145,8 @@ If you’re a photographer or know anything about them, you probably know this c
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -6294,11 +6414,19 @@ Zendesk has also made customer engagement more manageable for Agilyx agents; thr
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="guide"><![CDATA[Guide]]></category>
+    
+    <category domain="post_tag" nicename="guide"><![CDATA[Guide]]></category>
     
     <category domain="filter_tag_blog" nicename="support"><![CDATA[Support]]></category>
     
+    <category domain="post_tag" nicename="support"><![CDATA[Support]]></category>
+    
     <category domain="filter_tag_blog" nicename="zendesk-customers"><![CDATA[Zendesk customers]]></category>
+    
+    <category domain="post_tag" nicename="zendesk-customers"><![CDATA[Zendesk customers]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -6568,6 +6696,8 @@ Zendesk has also made customer engagement more manageable for Agilyx agents; thr
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -6831,13 +6961,23 @@ Zendesk has also made customer engagement more manageable for Agilyx agents; thr
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="apps-and-integrations"><![CDATA[Apps and Integrations]]></category>
+    
+    <category domain="post_tag" nicename="apps-and-integrations"><![CDATA[Apps and Integrations]]></category>
     
     <category domain="filter_tag_blog" nicename="apps-marketplace"><![CDATA[Apps Marketplace]]></category>
     
+    <category domain="post_tag" nicename="apps-marketplace"><![CDATA[Apps Marketplace]]></category>
+    
     <category domain="filter_tag_blog" nicename="support"><![CDATA[Support]]></category>
     
+    <category domain="post_tag" nicename="support"><![CDATA[Support]]></category>
+    
     <category domain="filter_tag_blog" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
+    
+    <category domain="post_tag" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -7085,6 +7225,8 @@ Zendesk has also made customer engagement more manageable for Agilyx agents; thr
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -7324,6 +7466,8 @@ Zendesk has also made customer engagement more manageable for Agilyx agents; thr
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -7555,6 +7699,8 @@ Zendesk has also made customer engagement more manageable for Agilyx agents; thr
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -7789,15 +7935,27 @@ Zendesk has also made customer engagement more manageable for Agilyx agents; thr
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="agent-experience"><![CDATA[Agent experience]]></category>
+    
+    <category domain="post_tag" nicename="agent-experience"><![CDATA[Agent experience]]></category>
     
     <category domain="filter_tag_blog" nicename="best-practices"><![CDATA[Best Practices]]></category>
     
+    <category domain="post_tag" nicename="best-practices"><![CDATA[Best Practices]]></category>
+    
     <category domain="filter_tag_blog" nicename="chat"><![CDATA[Chat]]></category>
+    
+    <category domain="post_tag" nicename="chat"><![CDATA[Chat]]></category>
     
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
     
+    <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
+    
     <category domain="filter_tag_blog" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
+    
+    <category domain="post_tag" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -8041,6 +8199,8 @@ Zendesk has also made customer engagement more manageable for Agilyx agents; thr
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -8267,6 +8427,8 @@ Zendesk has also made customer engagement more manageable for Agilyx agents; thr
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -8515,11 +8677,19 @@ Zendesk has also made customer engagement more manageable for Agilyx agents; thr
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="agent-experience"><![CDATA[Agent experience]]></category>
+    
+    <category domain="post_tag" nicename="agent-experience"><![CDATA[Agent experience]]></category>
     
     <category domain="filter_tag_blog" nicename="customer-service-leadership"><![CDATA[Customer Service Leadership]]></category>
     
+    <category domain="post_tag" nicename="customer-service-leadership"><![CDATA[Customer Service Leadership]]></category>
+    
     <category domain="filter_tag_blog" nicename="team-management"><![CDATA[Team management]]></category>
+    
+    <category domain="post_tag" nicename="team-management"><![CDATA[Team management]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -8758,6 +8928,8 @@ Zendesk has also made customer engagement more manageable for Agilyx agents; thr
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -8999,6 +9171,8 @@ Zendesk has also made customer engagement more manageable for Agilyx agents; thr
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -9228,6 +9402,8 @@ Zendesk has also made customer engagement more manageable for Agilyx agents; thr
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -9472,6 +9648,8 @@ Zendesk has also made customer engagement more manageable for Agilyx agents; thr
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -9713,6 +9891,8 @@ Zendesk has also made customer engagement more manageable for Agilyx agents; thr
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -9941,6 +10121,8 @@ Zendesk has also made customer engagement more manageable for Agilyx agents; thr
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -10184,6 +10366,8 @@ Zendesk has also made customer engagement more manageable for Agilyx agents; thr
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -10413,9 +10597,15 @@ Zendesk has also made customer engagement more manageable for Agilyx agents; thr
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="best-practices"><![CDATA[Best Practices]]></category>
     
+    <category domain="post_tag" nicename="best-practices"><![CDATA[Best Practices]]></category>
+    
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
+    
+    <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -10656,6 +10846,8 @@ Zendesk has also made customer engagement more manageable for Agilyx agents; thr
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -10913,6 +11105,8 @@ Zendesk has also made customer engagement more manageable for Agilyx agents; thr
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -11138,13 +11332,23 @@ Zendesk has also made customer engagement more manageable for Agilyx agents; thr
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="best-practices"><![CDATA[Best Practices]]></category>
+    
+    <category domain="post_tag" nicename="best-practices"><![CDATA[Best Practices]]></category>
     
     <category domain="filter_tag_blog" nicename="customer-service-leadership"><![CDATA[Customer Service Leadership]]></category>
     
+    <category domain="post_tag" nicename="customer-service-leadership"><![CDATA[Customer Service Leadership]]></category>
+    
     <category domain="filter_tag_blog" nicename="guide"><![CDATA[Guide]]></category>
     
+    <category domain="post_tag" nicename="guide"><![CDATA[Guide]]></category>
+    
     <category domain="filter_tag_blog" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
+    
+    <category domain="post_tag" nicename="zendesk-products"><![CDATA[Zendesk Products]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -11369,9 +11573,15 @@ Zendesk has also made customer engagement more manageable for Agilyx agents; thr
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="agent-experience"><![CDATA[Agent experience]]></category>
     
+    <category domain="post_tag" nicename="agent-experience"><![CDATA[Agent experience]]></category>
+    
     <category domain="filter_tag_blog" nicename="news"><![CDATA[News]]></category>
+    
+    <category domain="post_tag" nicename="news"><![CDATA[News]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -11595,6 +11805,8 @@ Zendesk has also made customer engagement more manageable for Agilyx agents; thr
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -11816,6 +12028,8 @@ Zendesk has also made customer engagement more manageable for Agilyx agents; thr
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -12055,13 +12269,23 @@ Zendesk has also made customer engagement more manageable for Agilyx agents; thr
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="agent-experience"><![CDATA[Agent experience]]></category>
+    
+    <category domain="post_tag" nicename="agent-experience"><![CDATA[Agent experience]]></category>
     
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
     
+    <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
+    
     <category domain="filter_tag_blog" nicename="customer-service-leadership"><![CDATA[Customer Service Leadership]]></category>
     
+    <category domain="post_tag" nicename="customer-service-leadership"><![CDATA[Customer Service Leadership]]></category>
+    
     <category domain="filter_tag_blog" nicename="operations"><![CDATA[Operations]]></category>
+    
+    <category domain="post_tag" nicename="operations"><![CDATA[Operations]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -12289,6 +12513,8 @@ Zendesk has also made customer engagement more manageable for Agilyx agents; thr
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -12540,6 +12766,8 @@ Jen Neuls, on <a href="https://www.zendesk.com/blog/business-analysis-customer-s
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -12769,11 +12997,19 @@ Jen Neuls, on <a href="https://www.zendesk.com/blog/business-analysis-customer-s
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="agent-experience"><![CDATA[Agent experience]]></category>
+    
+    <category domain="post_tag" nicename="agent-experience"><![CDATA[Agent experience]]></category>
     
     <category domain="filter_tag_blog" nicename="best-practices"><![CDATA[Best Practices]]></category>
     
+    <category domain="post_tag" nicename="best-practices"><![CDATA[Best Practices]]></category>
+    
     <category domain="filter_tag_blog" nicename="team-management"><![CDATA[Team management]]></category>
+    
+    <category domain="post_tag" nicename="team-management"><![CDATA[Team management]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -13009,6 +13245,8 @@ Because Content Cues works as part of your ticket workflow, every insight is act
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -13254,9 +13492,15 @@ Organizations that analyze how customer-service issues were successfully resolve
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="best-practices"><![CDATA[Best Practices]]></category>
     
+    <category domain="post_tag" nicename="best-practices"><![CDATA[Best Practices]]></category>
+    
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
+    
+    <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -13486,11 +13730,19 @@ Finally, customer service is the process of adding value to your product or serv
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="best-practices"><![CDATA[Best Practices]]></category>
+    
+    <category domain="post_tag" nicename="best-practices"><![CDATA[Best Practices]]></category>
     
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
     
+    <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
+    
     <category domain="filter_tag_blog" nicename="forrester"><![CDATA[Forrester]]></category>
+    
+    <category domain="post_tag" nicename="forrester"><![CDATA[Forrester]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -13721,9 +13973,15 @@ Finally, customer service is the process of adding value to your product or serv
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="agent-experience"><![CDATA[Agent experience]]></category>
     
+    <category domain="post_tag" nicename="agent-experience"><![CDATA[Agent experience]]></category>
+    
     <category domain="filter_tag_blog" nicename="best-practices"><![CDATA[Best Practices]]></category>
+    
+    <category domain="post_tag" nicename="best-practices"><![CDATA[Best Practices]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -13976,6 +14234,8 @@ Finally, customer service is the process of adding value to your product or serv
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -14261,6 +14521,8 @@ Finally, customer service is the process of adding value to your product or serv
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -14532,9 +14794,15 @@ Finally, customer service is the process of adding value to your product or serv
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
     <category domain="filter_tag_blog" nicename="best-practices"><![CDATA[Best Practices]]></category>
     
+    <category domain="post_tag" nicename="best-practices"><![CDATA[Best Practices]]></category>
+    
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
+    
+    <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
     
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
