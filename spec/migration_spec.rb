@@ -14,13 +14,13 @@ RSpec.describe "Migration" do
     'item_seo_description' => 'Lorem SEO ipsum description.',
     'item_seo_title' => 'Lorem SEO ipsum',
     'item_tags' => [
-      Migration::CATEGORY_TAG,
-      { name: 'Agent experience', domain: Migration::TAG_DOMAINS[0], nicename: 'agent-experience' },
-      { name: 'Agent experience', domain: Migration::TAG_DOMAINS[1], nicename: 'agent-experience' },
-      { name: 'Best Practices', domain: Migration::TAG_DOMAINS[0], nicename: 'best-practices' },
-      { name: 'Best Practices', domain: Migration::TAG_DOMAINS[1], nicename: 'best-practices' },
-      { name: 'Customer experience', domain: Migration::TAG_DOMAINS[0], nicename: 'customer-experience' },
-      { name: 'Customer experience', domain: Migration::TAG_DOMAINS[1], nicename: 'customer-experience' }
+      Constants::CATEGORY_TAG,
+      { name: 'Agent experience', domain: Constants::TAG_DOMAINS[0], nicename: 'agent-experience' },
+      { name: 'Agent experience', domain: Constants::TAG_DOMAINS[1], nicename: 'agent-experience' },
+      { name: 'Best Practices', domain: Constants::TAG_DOMAINS[0], nicename: 'best-practices' },
+      { name: 'Best Practices', domain: Constants::TAG_DOMAINS[1], nicename: 'best-practices' },
+      { name: 'Customer experience', domain: Constants::TAG_DOMAINS[0], nicename: 'customer-experience' },
+      { name: 'Customer experience', domain: Constants::TAG_DOMAINS[1], nicename: 'customer-experience' }
     ],
     'item_thumbnail_url' => 'https://d26a57ydsghvgx.cloudfront.net/content/blog/customer_experience_KPIs.png',
     'item_url' => 'https://resources.zendesk.co.uk/blog/10-customer-experience-kpis',
@@ -45,14 +45,7 @@ RSpec.describe "Migration" do
     expect(Migration.scrape_post(item)).to eq(item)
   end
 
-  it '#timestamp_to_pubDate converts timestamp format to pubDate format' do
-    timestamp = '2019-01-08 21:22:48'
-    pubDate = 'Tue, 08 Jan 2019 21:22:48 +0000'
-
-    expect(Migration.timestamp_to_pubDate(timestamp)).to eq(pubDate)
-  end
-
-  it '#generate_import_file creates a file matching our sample' do
+  it '#csv_to_item creates an item matching our sample' do
     item = Migration.csv_to_item(TEST_CODES[:language])
 
     expect(item).to eq([TEST_ITEM])

@@ -2,18 +2,11 @@ require 'csv'
 require 'erb'
 require 'open-uri'
 require 'nokogiri'
+require_relative 'util'
+require_relative 'constants'
 
 module Migration
   module_function
-
-  TAG_DOMAINS = ['filter_tag_blog', 'post_tag']
-  CATEGORY_TAG = {
-    domain: 'category',
-    name: 'Zendesk Nation',
-    nicename: 'zendesk-nation'
-  }
-
-  MAX_POSTS_PER_IMPORT_FILE = 60
 
   def csv_to_item(country_code)
     headers = []
@@ -32,10 +25,10 @@ module Migration
         when 'item_hidden'
           item['post_status'] = value === 'TRUE' ? 'draft' : 'publish'
         when 'item_tags'
-          item['item_tags'] = [ CATEGORY_TAG ]
+          item['item_tags'] = [ Constants::CATEGORY_TAG ]
 
           value.split(',').each do |tag_name|
-            TAG_DOMAINS.each do |tag_domain|
+            Constants::TAG_DOMAINS.each do |tag_domain|
               item['item_tags'] << {
                 domain: tag_domain,
                 name: tag_name,
@@ -48,7 +41,7 @@ module Migration
         end
       end
 
-      item['pubDate'] = timestamp_to_pubDate(item['item_published_at'])
+      item['pubDate'] = Util.timestamp_to_pubDate(item['item_published_at'])
 
       items << item
     end
@@ -65,12 +58,12 @@ module Migration
     posts_erb = File.open('templates/posts.xml.erb').read
     posts_erb = ERB.new(posts_erb)
 
-    num_import_files = items.length / MAX_POSTS_PER_IMPORT_FILE + 1
+    num_import_files = items.length / Constants::MAX_POSTS_PER_IMPORT_FILE + 1
 
     (1..num_import_files).each do |file_index|
       import_file_path = "import_files/posts_#{codes[:country]}_#{file_index}.xml"
-      items_set_start = (file_index - 1) * MAX_POSTS_PER_IMPORT_FILE
-      items_set_end = num_import_files == file_index ? -1 : file_index * MAX_POSTS_PER_IMPORT_FILE - 1
+      items_set_start = (file_index - 1) * Constants::MAX_POSTS_PER_IMPORT_FILE
+      items_set_end = num_import_files == file_index ? -1 : file_index * Constants::MAX_POSTS_PER_IMPORT_FILE - 1
       items_set = items[items_set_start..items_set_end]
 
       out_file = File.new(import_file_path, "w")
@@ -100,7 +93,6 @@ module Migration
       post = Nokogiri::HTML(open(item['item_url']))
     rescue OpenURI::HTTPError => http_error
       puts http_error
-    else
     end
 
     if post.respond_to?(:css)
@@ -122,16 +114,4 @@ module Migration
     return item
   end
 
-  def timestamp_to_pubDate(timestamp)
-    pubDate = {
-      year: timestamp[0..3].to_i,
-      month: timestamp[5..6].to_i,
-      day: timestamp[8..9].to_i,
-      time: timestamp[11..18]
-    }
-
-    pubDate[:date] = Date.new(pubDate[:year], pubDate[:month], pubDate[:day])
-
-    return "#{pubDate[:date].strftime('%a, %d %b %Y')} #{pubDate[:time]} +0000"
-  end
 end
