@@ -87,6 +87,7 @@ module Migration
     return item if item['item_url'].nil? || item['item_url'].empty?
 
     item['post_content'] = ''
+    item['post_excerpt'] = ''
 
     begin
       post = Nokogiri::HTML(open(item['item_url']))
@@ -98,8 +99,10 @@ module Migration
       post_content = post.css('.entry')
 
       unless post_content.empty?
-        post_content = post_content.first.inner_html
-        item['post_content'] = post_content.gsub(/<blockquote class="author">.*?<\/blockquote>/m, '')
+        post_content_html = post_content.first.inner_html
+        item['post_content'] = post_content_html.gsub(/<blockquote class="author">.*?<\/blockquote>/m, '')
+
+        item['post_excerpt'] = Util.excerpt(post_content.first.text)
       end
 
       if item['author_first_name'].nil? && item['author_last_name'].nil? && !post.css('span.author').empty?

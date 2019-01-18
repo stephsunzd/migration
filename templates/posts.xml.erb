@@ -40,7 +40,7 @@
     <guid isPermaLink="true"><%= item['item_url'] %></guid>
     <description><%= item['item_description'] %></description>
     <content:encoded><![CDATA[<%= item['post_content'] %>]]></content:encoded>
-    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <excerpt:encoded><![CDATA[<%= item['post_excerpt'] %>]]></excerpt:encoded>
     <wp:post_id><%= item['item_id'] %></wp:post_id>
     <wp:post_date><![CDATA[<%= item['item_published_at'] %>]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[<%= item['item_published_at'] %>]]></wp:post_date_gmt>

@@ -8,7 +8,7 @@ module Util
       year: timestamp[0..3].to_i,
       month: timestamp[5..6].to_i,
       day: timestamp[8..9].to_i,
-      time: timestamp[11..18]
+      time: timestamp[11..-1]
     }
 
     pubDate[:date] = Date.new(pubDate[:year], pubDate[:month], pubDate[:day])
@@ -22,6 +22,6 @@ module Util
     text = text.split(/(?=[?.!])/)
     end_index = text.length < sentences ? -1 : sentences - 1
 
-    "#{text[0..end_index].join}."
+    ("#{text[0..end_index].join}.").gsub(/\A\s*/, '')
   end
 end
