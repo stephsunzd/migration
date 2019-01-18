@@ -102,7 +102,7 @@ module Migration
         post_content_html = post_content.first.inner_html
         item['post_content'] = post_content_html.gsub(/<blockquote class="author">.*?<\/blockquote>/m, '')
 
-        item['post_excerpt'] = Util.excerpt(post_content.first.text)
+        item['post_excerpt'] = Util.excerpt(item['item_description'])
       end
 
       if item['author_first_name'].nil? && item['author_last_name'].nil? && !post.css('span.author').empty?

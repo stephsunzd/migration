@@ -13,14 +13,16 @@ RSpec.describe "Util" do
   end
 
   it '#excerpt handles empty string' do
-    expect(Util.excerpt('')).to eq('.')
+    expect(Util.excerpt('')).to eq('')
   end
 
-  it '#excerpt returns first 2 sentences of a longer text' do
-    text = 'Feedback in business is crucial to growing and improving. It’s beneficial for any business to take a closer look at what is working and what could use improvement on a regular basis. But how do you do that? Where do you start?
+  it '#excerpt trims cut-off sentences' do
+    expect(Util.excerpt('Hello. World...')).to eq('Hello.')
+  end
 
-There are lots of ways to collect customer feedback—one of the most common tools is a customer survey. NPS®, Transactional CSAT, Global CSAT, and Customer Effort Scores are a few customer surveys you can use, but what should you ask your customers?'
-    text_excerpt = 'Feedback in business is crucial to growing and improving. It’s beneficial for any business to take a closer look at what is working and what could use improvement on a regular basis.'
+  it '#excerpt returns full sentences and max 160 characters of a longer text' do
+    text = 'Feedback in business is crucial to growing and improving. It’s beneficial for any business to take a closer look at what is working and what could use improvement on a regular basis. But how do you do that? Where do you start? There are lots of ways to collect customer feedback—one of the most common tools is a customer survey. NPS®, Transactional CSAT, Global CSAT, and Customer Effort Scores are a few customer surveys you can use, but what should you ask your customers?'
+    text_excerpt = 'Feedback in business is crucial to growing and improving.'
 
     expect(Util.excerpt(text)).to eq(text_excerpt)
   end

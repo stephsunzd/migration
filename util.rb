@@ -16,12 +16,24 @@ module Util
     return "#{pubDate[:date].strftime('%a, %d %b %Y')} #{pubDate[:time]} +0000"
   end
 
-  def excerpt(text, sentences = 2)
-    return '' unless text.respond_to?(:split)
+  def excerpt(text, max_characters = 160)
+    return '' unless text.respond_to?(:gsub, :split)
 
-    text = text.split(/(?=[?.!])/)
-    end_index = text.length < sentences ? -1 : sentences - 1
+    text = text.gsub(/(\.|\?|!)\s+.*?\.\.\.\z/, '\1').split(/([?.!])/)
+    excerpt_text = ''
 
-    ("#{text[0..end_index].join}.").gsub(/\A\s*/, '')
+    text.each do |sentence|
+      sentence = sentence.gsub(/\A\s*/, '')
+
+      next if sentence.empty?
+
+      if excerpt_text.length + sentence.length < max_characters
+        excerpt_text += sentence
+      else
+        return excerpt_text
+      end
+    end
+
+    excerpt_text
   end
 end
