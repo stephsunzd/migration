@@ -22,8 +22,6 @@ module Migration
 
       row.each_with_index do |value, index|
         case headers[index]
-        when 'item_hidden'
-          item['post_status'] = value === 'TRUE' ? 'draft' : 'publish'
         when 'item_tags'
           item['item_tags'] = [ Constants::CATEGORY_TAG ]
 
@@ -41,6 +39,7 @@ module Migration
         end
       end
 
+      item['post_status'] = 'publish'
       item['pubDate'] = Util.timestamp_to_pubDate(item['item_published_at'])
 
       items << item
