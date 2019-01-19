@@ -36,7 +36,7 @@ module Util
       if excerpt_text.length + sentence.length < max_characters
         excerpt_text += sentence
       else
-        return excerpt_text
+        return excerpt_text.empty? ? text.first : excerpt_text
       end
     end
 

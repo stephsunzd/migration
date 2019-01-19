@@ -35,4 +35,10 @@ It’s beneficial for any business to take a closer look at what is working.'
 
     expect(Util.excerpt(text)).to eq(text_excerpt)
   end
+
+  it '#excerpt returns first sentence in full even if longer than max' do
+    text = "#{'aa '*60}."
+
+    expect(Util.excerpt(text)).to eq(text[0..-2])
+  end
 end
