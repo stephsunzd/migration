@@ -25,6 +25,7 @@ RSpec.describe "Migration" do
     ],
     'item_thumbnail_url' => 'https://d26a57ydsghvgx.cloudfront.net/content/blog/customer_experience_KPIs.png',
     'item_url' => 'https://resources.zendesk.co.uk/blog/10-customer-experience-kpis',
+    'post_excerpt' => 'Lorem ipsum dolor amet plaid slow-carb prism venmo kale chips. Lo-fi poke truffaut bushwick plaid.',
     'post_status' => 'publish',
     'pubDate' => 'Thu, 12 Apr 2018 11:37:00 +0000'
   }

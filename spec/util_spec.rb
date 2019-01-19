@@ -20,6 +20,15 @@ RSpec.describe "Util" do
     expect(Util.excerpt('Hello. World...')).to eq('Hello.')
   end
 
+  it '#excerpt converts line breaks to spaces and adds period if none' do
+    text = 'Feedback in business is crucial to growing and improving
+
+It’s beneficial for any business to take a closer look at what is working.'
+    text_excerpt = 'Feedback in business is crucial to growing and improving. It’s beneficial for any business to take a closer look at what is working.'
+
+    expect(Util.excerpt(text)).to eq(text_excerpt)
+  end
+
   it '#excerpt returns full sentences and max 160 characters of a longer text' do
     text = 'Feedback in business is crucial to growing and improving. It’s beneficial for any business to take a closer look at what is working and what could use improvement on a regular basis. But how do you do that? Where do you start? There are lots of ways to collect customer feedback—one of the most common tools is a customer survey. NPS®, Transactional CSAT, Global CSAT, and Customer Effort Scores are a few customer surveys you can use, but what should you ask your customers?'
     text_excerpt = 'Feedback in business is crucial to growing and improving.'

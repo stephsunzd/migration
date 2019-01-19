@@ -41,6 +41,7 @@ module Migration
 
       item['post_status'] = 'publish'
       item['pubDate'] = Util.timestamp_to_pubDate(item['item_published_at'])
+      item['post_excerpt'] = Util.excerpt(item['item_description'])
 
       items << item
     end
@@ -87,7 +88,6 @@ module Migration
     return item if item['item_url'].nil? || item['item_url'].empty?
 
     item['post_content'] = ''
-    item['post_excerpt'] = ''
 
     begin
       post = Nokogiri::HTML(open(item['item_url']))
@@ -102,7 +102,7 @@ module Migration
         post_content_html = post_content.first.inner_html
         item['post_content'] = post_content_html.gsub(/<blockquote class="author">.*?<\/blockquote>/m, '')
 
-        item['post_excerpt'] = Util.excerpt(item['item_description'])
+        item['post_excerpt'] = Util.excerpt(post_content.text) if item['post_excerpt'].empty?
       end
 
       if item['author_first_name'].nil? && item['author_last_name'].nil? && !post.css('span.author').empty?

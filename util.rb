@@ -19,12 +19,18 @@ module Util
   def excerpt(text, max_characters = 160)
     return '' unless text.respond_to?(:gsub, :split)
 
-    text = text.gsub(/(\.|\?|!)\s+.*?\.\.\.\z/, '\1').split(/([?.!])/)
+    # Clean partial sentences ending in ...
+    text = text.gsub(/(\.|\?|!)\s+.*?\.\.\.\z/, '\1')
+
+    # Convert line breaks to spaces (adding punctuation if missing)
+    text = text.gsub(/(\w)\s*[\n\r]+\s*/, '\1. ')
+    text = text.gsub(/\s{2,}/, ' ')
+    text = text.gsub(/\A\s*/, '')
+
+    text = text.split(/([?.!])/)
     excerpt_text = ''
 
     text.each do |sentence|
-      sentence = sentence.gsub(/\A\s*/, '')
-
       next if sentence.empty?
 
       if excerpt_text.length + sentence.length < max_characters
