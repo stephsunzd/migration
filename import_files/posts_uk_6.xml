@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- generator="WordPress/4.7.3" created="2019-01-08 21:22" -->
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Zendesk</title>
+	<link>https://resources.zendesk.co.uk</link>
+	<description></description>
+	<pubDate>Tue, 08 Jan 2019 21:22:48 +0000</pubDate>
+	<language>en</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://resources.zendesk.co.uk/</wp:base_site_url>
+	<wp:base_blog_url>https://resources.zendesk.co.uk</wp:base_blog_url>
+
+	<wp:author>
+    <wp:author_id>2871</wp:author_id>
+    <wp:author_login><![CDATA[stsun]]></wp:author_login>
+    <wp:author_email><![CDATA[stsun@zendesk.com]]></wp:author_email>
+    <wp:author_display_name><![CDATA[Stephanie Sun]]></wp:author_display_name>
+    <wp:author_first_name><![CDATA[Stephanie]]></wp:author_first_name>
+    <wp:author_last_name><![CDATA[Sun]]></wp:author_last_name>
+  </wp:author>
+
+
+	<generator>https://wordpress.org/?v=4.7.3</generator>
+
+  
+  <item>
+    <title>How to structure product support</title>
+    <link>https://resources.zendesk.co.uk/blog/how-to-structure-product-support/</link>
+    <pubDate>Thu, 10 Jan 2019 0:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://resources.zendesk.co.uk/blog/how-to-structure-product-support</guid>
+    <description></description>
+    <content:encoded><![CDATA[
+            <p></p>
+<p>The customer support agents in <a href="https://www.zendesk.com/blog/set-support-tiers/" target="_blank">tier 1</a> provide general product support across one or more products. This includes things like helping customers set up their accounts, resolving billing issues, helping them understand how the product works, and any other help customers need to use the product. </p>
+<p>Tier 1 is also the first point of contact for incoming support issues. This is where all incoming tickets are triaged and then routed to the appropriate team or tier. The tier 1 team also handles all incoming phone calls and chats. </p>
+<p>Experienced Tier 1 agents take turns <a href="https://support.zendesk.com/hc/en-us/community/posts/204361768-Zendesk-on-Zendesk-How-we-triage" target="_blank">triaging tickets</a> and determining how they should be assigned based on complexity, which is defined by the time needed to resolve the issue. Support issues that are assigned to Tier 1 are expected to take a shorter amount of time to resolve. If a support issue is more complex and requires more time to resolve, it should assigned to Tier 2.</p>
+<p>Of course, every support organization will have to be designed to fit the specific realities of every individual business, but just as an example, here is how tier 1 is currently organized at Zendesk. </p>
+<h2>Associate customer advocate</h2>
+<p>This is the team’s <a href="https://www.zendesk.com/resources/how-to-hire-a-customer-service-representative/" target="_blank">entry-level role</a> and should be filled by people with potential, who have a year or two of experience helping customers in some capacity, and who possess essential customer service skills. Associates are in training and need guidance to perform at the standard level set for customer advocates. Set a target for tickets solved per day and expect an <a href="https://www.zendesk.com/blog/customize-csat-surveys/" target="_blank">overall customer satisfaction</a> (CSAT) rating. Associates should usually be in this role for a set time before becoming full-fledged Advocates. </p>
+<h2>Customer advocate</h2>
+<p>Advocates are well-trained and can handle most types of general support issues; therefore, they don’t “<a href="https://www.zendesk.com/blog/four-cs-cherry-picking/" target="_blank">cherry pick</a>” tickets. Their performance is measured by the number of tickets they solve per day and by their CSAT rating, which should be higher.</p>
+<h2>Senior customer advocate</h2>
+<p>A promotion to senior is possible after about a defined time of successfully working as an Advocate. Advocates must demonstrate that they can proactively identify problem areas and mentor and train other customer advocates on how to solve more difficult tickets. A senior’s performance should be above the standard, and they should also have an even higher average CSAT rating. They often specialize in one or more product areas and are considered experts in those areas.</p>
+            	        
+	        	        
+        ]]></content:encoded>
+    <excerpt:encoded><![CDATA[The customer support agents in tier 1 provide general product support across one or more products.]]></excerpt:encoded>
+    <wp:post_id>492180536</wp:post_id>
+    <wp:post_date><![CDATA[2019-01-10 0:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-01-10 0:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-segment]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-order]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-tile]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-img]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading-color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading-size]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading-color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading-size]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-buttons]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-css]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-video]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[The customer support agents in tier 1 provide general product support across one or more products.]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Leah Kidd]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-twitter]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-header]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-enable]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-enable-checkbox-fix]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-url]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-img]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-headline]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-subheadline]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-button-text]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-spacer1]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-main-page-disable]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-main-page-disable-checkbox-fix]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-section]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+  
+  <item>
+    <title>Use customer surveys to innovate your customer experience</title>
+    <link>https://resources.zendesk.co.uk/blog/customer-surveys-innovative-customer-support-zendesk/</link>
+    <pubDate>Tue, 15 Jan 2019 0:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://resources.zendesk.co.uk/blog/customer-surveys-innovative-customer-support-zendesk</guid>
+    <description></description>
+    <content:encoded><![CDATA[
+            <p>Imagine that you’ve just dropped a glass of water in a customer’s lap. Chances are that the look on their face will tell you how they feel! Unfortunately, in the age of digital transactions, we are not usually face to face with our customers. This is especially true when a businesses is scaling fast, adding lots of customers at a time.</p>
+
+<p>But that doesn’t mean businesses are off the hook for understanding their customers’ experiences. There are lots of ways to <a href="https://www.zendesk.com/resources/customer-feedback-hear-voice-customer/" target="_blank">collect customer feedback</a>—even from afar. One of the most common tools is a customer survey. NPS®, Transactional CSAT, Global CSAT and Customer Effort Scores are a few customer surveys you'll want to use. Here is a brief overview of how each survey works and how you can use surveys to innovate your customer experience. Plus, a couple of Dos and Don’ts to keep you on track.</p>
+
+<p><strong>NPS</strong> Net Promoter Score℠ (NPS®) is an industry standard for measuring your customers’ willingness to recommend your product or service to others. It asks customers to rate their willingness to recommend you on a scale from 0 - 10.</p>
+
+<p><img alt="NPS Zendesk" src="https://d26a57ydsghvgx.cloudfront.net/content/blog/NPS%20gif.gif"></p>
+
+<p>Customer ratings are then divided into three categories. Customers who score:</p>
+
+<ul>
+	<li>- 0 to 6 are known as Detractors. Scores in this category could indicate a dissatisfaction with your company</li>
+	<li>- 7 or 8 are known as Passives</li>
+	<li>- 9 or 10 are Promoters</li>
+</ul>
+
+<p>After the rating question, the customers might be asked to leave a comment or reason for their score. To gather the <a href="https://www.zendesk.com/customer/allsaints/" target="_blank">most valuable customer insights from NPS®</a> be sure to read customer comments.</p>
+
+<p><strong>How this helps improve the customer experience:</strong> By proactively asking customers what they think about your product, brand, or customer service you can gain additional insight into the quality of your customer relationships.</p>
+
+<p><strong>What you need to know:</strong> With NPS® it is important to look at the customer comments. Dig into the data to discover why certain customers are detractors. For instance, customers who score 0 to 6 may be dissatisfied with your company or they may simply be uncomfortable with recommending a company at all. Find out their pain points and take action to address their complaints</p>
+
+<p><strong>TRANSACTIONAL CSAT</strong> Customer Satisfaction surveys (CSAT) measures short-term satisfaction on a transactional basis. CSAT surveys are commonly sent to customers following a specific customer interaction—for instance, after a customer has contacted a customer service advocate. <img alt="CSAT_Zendesk" src="https://d26a57ydsghvgx.cloudfront.net/content/blog/screenshot%20-%20TCSAT.png"></p>
+
+<p>How this helps improve the customer experience: CSAT surveys can be used to measure customer satisfaction on specific moments in the customer experience. The pain points revealed by customer dissatisfaction can guide businesses on where to innovate.</p>
+
+<p><a href="https://www.zendesk.com/customer/box/" target="_blank">Box</a>, a content management and collaboration platform, is a great example. After switching to Zendesk Support, agents were able to more efficiently address customer pain points, spending 20-30 fewer seconds on each ticket and increasing CSAT by 7 percent.</p>
+
+<p>What you need to know: CSAT is a helpful tool to identify where you can improve specific customer interactions. It’s not an indicator of long-term satisfaction or customer loyalty.</p>
+
+<p>While NPS® measures a customer’s power as a recommender, and CSAT measures their short-term satisfaction, neither of these measurements, on their own, give a complete picture of the customer experience.</p>
+
+<p><strong>GLOBAL CSAT </strong> Where the Transactional CSAT only measures one moment in the customer experience, a Global CSAT survey looks to see how satisfied the customer is with your entire company. It also differs in that it is a proactive survey, reaching out to customers before they come to you with a problem.</p>
+
+<p>How this helps improve the customer experience: A Global CSAT survey measures the health of your customer relationships. The data customers provide can give you insight on how to improve your relationship.</p>
+
+<p>What you need to know: It takes time for customers to fill out these surveys. Be sure to thank them for their time and incentivize them to continue sharing their feedback. Be sure to show customers how you’ll use their feedback to improve their experience.</p>
+
+<p>NPS, CSAT, and Global CSAT all look at different aspects of the customer experience. Although a combination of surveys will deliver more comprehensive insights, be strategic about the number and type of surveys you send to customers. Develop an interdepartmental survey strategy to keep track of which surveys are sent to which customers. This will cut down on redundancy and make it easier for departments to share survey information across the company.</p>
+
+<p>Keep the message and tone consistent <a href="https://www.zendesk.com/resources/are-customer-surveys-effective/" target="_blank" title="consistent across all the surveys coming from your company">across all the surveys coming from your company</a>. Whether they are sent from IT or Sales, the customer should have a similar experience aligned with the brand’s voice. Remember, surveys are just another way to have a conversation with customers when you can’t be face to face. </p>
+
+            	        
+	        	        
+        ]]></content:encoded>
+    <excerpt:encoded><![CDATA[Imagine that you’ve just dropped a glass of water in a customer’s lap. Chances are that the look on their face will tell you how they feel!]]></excerpt:encoded>
+    <wp:post_id>493393892</wp:post_id>
+    <wp:post_date><![CDATA[2019-01-15 0:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-01-15 0:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-segment]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-order]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-tile]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-img]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading-color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading-size]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading-color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading-size]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-buttons]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-css]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-video]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Imagine that you’ve just dropped a glass of water in a customer’s lap. Chances are that the look on their face will tell you how they feel!]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Chelsea Larsson]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-twitter]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-header]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-enable]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-enable-checkbox-fix]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-url]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-img]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-headline]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-subheadline]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-button-text]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-spacer1]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-main-page-disable]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-main-page-disable-checkbox-fix]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-section]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+  
+</channel>
+</rss>
