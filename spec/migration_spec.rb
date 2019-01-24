@@ -7,10 +7,9 @@ RSpec.describe "Migration" do
     'item_title' => 'Lorem ipsum',
     'author_first_name' => nil,
     'author_last_name' => nil,
-    'item_canonical_url' => 'https://www.zendesk.com/blog/10-customer-experience-kpis/',
     'item_description' => 'Lorem ipsum dolor amet plaid slow-carb prism venmo kale chips. Lo-fi poke truffaut bushwick plaid. XOXO pug waistcoat edison bulb semiotics everyday carry succulents tbh hoodie literally mumblecore selvage. Intelligentsia tumblr gentrify, butcher venmo drinking vinegar readymade man bun ethical stumptown umami hoodie bespoke portland ennui. Aesthetic gastropub bitters pug unicorn pok pok.',
     'item_hidden' => 'FALSE',
-    'item_id' => '888888888',
+    Constants::KEYS[:id] => '888888888',
     'item_published_at' => '2018-04-12 11:37:00',
     'item_seo_description' => 'Lorem SEO ipsum description.',
     'item_seo_title' => 'Lorem SEO ipsum',
@@ -23,16 +22,17 @@ RSpec.describe "Migration" do
       { name: 'Customer experience', domain: Constants::TAG_DOMAINS[0], nicename: 'customer-experience' },
       { name: 'Customer experience', domain: Constants::TAG_DOMAINS[1], nicename: 'customer-experience' }
     ],
-    'item_thumbnail_url' => 'https://d26a57ydsghvgx.cloudfront.net/content/blog/customer_experience_KPIs.png',
-    'item_url' => 'https://resources.zendesk.co.uk/blog/10-customer-experience-kpis',
+    Constants::KEYS[:image] => 'https://d26a57ydsghvgx.cloudfront.net/content/migrated/zd/zd-post-888888888.jpg',
+    Constants::KEYS[:url] => 'https://resources.zendesk.co.uk/blog/10-customer-experience-kpis',
     'post_excerpt' => 'Lorem ipsum dolor amet plaid slow-carb prism venmo kale chips. Lo-fi poke truffaut bushwick plaid.',
     'post_status' => 'publish',
+    'post_type' => 'post',
     'pubDate' => 'Thu, 12 Apr 2018 11:37:00 +0000'
   }
 
   it '#scrape_post handles nil item_url' do
     item = {
-      'item_url' => nil
+      Constants::KEYS[:url] => nil
     }
 
     expect(Migration.scrape_post(item)).to eq(item)
@@ -40,7 +40,7 @@ RSpec.describe "Migration" do
 
   it '#scrape_post handles 404' do
     item = {
-      'item_url' => 'https://resources.zendesk.co.uk/blog/notapage',
+      Constants::KEYS[:url] => 'https://resources.zendesk.co.uk/blog/notapage',
       'post_content' => ''
     }
 

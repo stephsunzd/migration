@@ -1,16 +1,10 @@
 require 'date'
 require 'open-uri'
 require 'csv'
+require_relative 'constants'
 
 module Util
   module_function
-
-  CONTENT_TYPE_SUFFIXES = {
-    'image/jpeg' => 'jpg',
-    'image/png' => 'png'
-  }
-
-  UBERFLIP_CDN = /\Ahttps:\/\/content\.cdntwrk\.com/
 
   def timestamp_to_pubDate(timestamp)
     pubDate = {
@@ -62,7 +56,7 @@ module Util
           col[header] = col_index
         end
 
-        return if col['item_thumbnail_url'].nil?
+        return if col[Constants::KEYS[:image]].nil?
 
         next
       end
@@ -71,25 +65,33 @@ module Util
       return if limit == index - 1
 
       # Ignore non-Uberflip images
-      next if row[col['item_thumbnail_url']].nil?
-      next unless row[col['item_thumbnail_url']].match(UBERFLIP_CDN)
+      next unless uberflip_image?(row[col[Constants::KEYS[:image]]])
 
       post_type = row[col['post_type']] unless col['post_type'].nil?
 
       download_image(
-        row[col['item_thumbnail_url']],
+        row[col[Constants::KEYS[:image]]],
         country_code,
-        "#{country_code}-#{post_type}-#{row[col['item_id']]}"
+        "#{country_code}-#{post_type}-#{row[col[Constants::KEYS[:id]]]}"
       )
     end # end CSV.foreach
   end
 
   def download_image(url, subdir, new_filename = '')
     web_image = open(url)
-
-    suffix = CONTENT_TYPE_SUFFIXES[web_image.content_type] || 'gif'
+    suffix = image_suffix(web_image)
     image_file_path = "images/#{subdir}/#{new_filename}.#{suffix}"
 
     IO.copy_stream(web_image, image_file_path)
+  end
+
+  def uberflip_image?(image_url)
+    return false if image_url.nil?
+
+    image_url.match(Constants::UBERFLIP_CDN)
+  end
+
+  def image_suffix(image)
+    Constants::CONTENT_TYPE_SUFFIXES[image.content_type] || 'gif'
   end
 end

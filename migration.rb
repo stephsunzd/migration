@@ -18,7 +18,7 @@ module Migration
         next
       end
 
-      item = {}
+      item = { 'post_type' => 'post' }
 
       row.each_with_index do |value, index|
         case headers[index]
@@ -42,6 +42,12 @@ module Migration
       item['post_status'] = 'publish'
       item['pubDate'] = Util.timestamp_to_pubDate(item['item_published_at'])
       item['post_excerpt'] = Util.excerpt(item['item_description'])
+
+      if Util.uberflip_image?(item[Constants::KEYS[:image]])
+        image_suffix = Util.image_suffix( open(item[Constants::KEYS[:image]]) )
+        image_migrated_name = "#{country_code}-#{item['post_type']}-#{item[Constants::KEYS[:id]]}.#{image_suffix}"
+        item[Constants::KEYS[:image]] = "#{Constants::MIGRATED_IMAGES_DIR}#{country_code}/#{image_migrated_name}"
+      end
 
       items << item
     end
@@ -76,7 +82,7 @@ module Migration
 
   def scrape_posts(items)
     items.each do |item|
-      puts "# Scraping #{item['item_url']}"
+      puts "# Scraping #{item[Constants::KEYS[:url]]}"
 
       item = scrape_post(item)
     end
@@ -85,12 +91,12 @@ module Migration
   end
 
   def scrape_post(item)
-    return item if item['item_url'].nil? || item['item_url'].empty?
+    return item if item[Constants::KEYS[:url]].nil? || item[Constants::KEYS[:url]].empty?
 
     item['post_content'] = ''
 
     begin
-      post = Nokogiri::HTML(open(item['item_url']))
+      post = Nokogiri::HTML(open(item[Constants::KEYS[:url]]))
     rescue OpenURI::HTTPError => http_error
       puts http_error
     end
@@ -115,5 +121,4 @@ module Migration
 
     return item
   end
-
 end
