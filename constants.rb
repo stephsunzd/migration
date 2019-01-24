@@ -16,7 +16,7 @@ module Constants
     url: 'item_url'
   }
 
-  MIGRATED_IMAGES_DIR = 'https://d26a57ydsghvgx.cloudfront.net/content/migrated/'
+  MIGRATED_IMAGES_DIR = 'https://d26a57ydsghvgx.cloudfront.net/content/migration/'
 
   MAX_POSTS_PER_IMPORT_FILE = 60
 

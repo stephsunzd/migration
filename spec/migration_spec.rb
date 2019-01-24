@@ -22,7 +22,7 @@ RSpec.describe "Migration" do
       { name: 'Customer experience', domain: Constants::TAG_DOMAINS[0], nicename: 'customer-experience' },
       { name: 'Customer experience', domain: Constants::TAG_DOMAINS[1], nicename: 'customer-experience' }
     ],
-    Constants::KEYS[:image] => 'https://d26a57ydsghvgx.cloudfront.net/content/migrated/zd/zd-post-888888888.jpg',
+    Constants::KEYS[:image] => 'https://d26a57ydsghvgx.cloudfront.net/content/migration/zd/zd-post-888888888.jpg',
     Constants::KEYS[:url] => 'https://resources.zendesk.co.uk/blog/10-customer-experience-kpis',
     'post_excerpt' => 'Lorem ipsum dolor amet plaid slow-carb prism venmo kale chips. Lo-fi poke truffaut bushwick plaid.',
     'post_status' => 'publish',

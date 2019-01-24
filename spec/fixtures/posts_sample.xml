@@ -182,7 +182,7 @@
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
-      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migrated/zd/zd-post-888888888.jpg]]></wp:meta_value>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migration/zd/zd-post-888888888.jpg]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-video]]></wp:meta_key>
@@ -258,7 +258,7 @@
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
-      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migrated/zd/zd-post-888888888.jpg]]></wp:meta_value>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migration/zd/zd-post-888888888.jpg]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
