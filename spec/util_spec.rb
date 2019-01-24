@@ -51,4 +51,10 @@ It’s beneficial for any business to take a closer look at what is working.'
 
     File.delete('images/zd/image.jpg')
   end
+
+  it '#download_images_from_csv downloads and renames images' do
+    Util.download_images_from_csv('zd')
+
+    expect(File.exist?('images/zd/zd-post-888888888.jpg')).to be(true)
+  end
 end

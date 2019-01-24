@@ -1,5 +1,6 @@
 require 'date'
 require 'open-uri'
+require 'csv'
 
 module Util
   module_function
@@ -47,6 +48,29 @@ module Util
     end
 
     excerpt_text
+  end
+
+  def download_images_from_csv(country_code)
+    headers = {}
+    post_type = 'post'
+
+    CSV.foreach("metadata_files/#{country_code}.csv") do |row|
+      if headers.empty?
+        row.each_with_index do |header, index|
+          headers[header] = index
+        end
+
+        next
+      end
+
+      post_type = row[headers['post_type']] unless headers['post_type'].nil?
+
+      download_image(
+        row[headers['item_thumbnail_url']],
+        country_code,
+        "#{country_code}-#{post_type}-#{row[headers['item_id']]}"
+      )
+    end
   end
 
   def download_image(url, subdir, new_filename = '')
