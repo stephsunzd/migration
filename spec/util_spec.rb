@@ -1,6 +1,8 @@
 require_relative '../util'
 
 RSpec.describe "Util" do
+  UBERFLIP_IMAGE_URL = 'https://content.cdntwrk.com/files/aHViPTY2NDg5JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVhZTc2ZDZmMmM5NzQuanBnJnZlcnNpb249MDAwMCZzaWc9NWI4MmRiMjhjMzZlYTYzM2I1ZTBlNjA3ODE3ODE4ZWM%253D'
+
   it '#timestamp_to_pubDate converts timestamp format to pubDate format' do
     timestamp = '2019-01-08 21:22:48'
     pubDate = 'Tue, 08 Jan 2019 21:22:48 +0000'
@@ -40,5 +42,13 @@ It’s beneficial for any business to take a closer look at what is working.'
     text = "#{'aa '*60}."
 
     expect(Util.excerpt(text)).to eq(text[0..-2])
+  end
+
+  it '#download_image downloads image to images directory' do
+    Util.download_image(UBERFLIP_IMAGE_URL, 'zd', 'image')
+
+    expect(File.exist?('images/zd/image.jpg')).to be(true)
+
+    File.delete('images/zd/image.jpg')
   end
 end

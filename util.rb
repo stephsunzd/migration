@@ -1,7 +1,13 @@
 require 'date'
+require 'open-uri'
 
 module Util
   module_function
+
+  CONTENT_TYPE_SUFFIXES = {
+    'image/jpeg' => 'jpg',
+    'image/png' => 'png'
+  }
 
   def timestamp_to_pubDate(timestamp)
     pubDate = {
@@ -41,5 +47,14 @@ module Util
     end
 
     excerpt_text
+  end
+
+  def download_image(url, subdir, new_filename = '')
+    web_image = open(url)
+
+    suffix = CONTENT_TYPE_SUFFIXES[web_image.content_type]
+    image_file_path = "images/#{subdir}/#{new_filename}.#{suffix}"
+
+    IO.copy_stream(web_image, image_file_path)
   end
 end
