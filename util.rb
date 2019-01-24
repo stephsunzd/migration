@@ -10,6 +10,8 @@ module Util
     'image/png' => 'png'
   }
 
+  UBERFLIP_CDN = /\Ahttps:\/\/content\.cdntwrk\.com/
+
   def timestamp_to_pubDate(timestamp)
     pubDate = {
       year: timestamp[0..3].to_i,
@@ -50,33 +52,42 @@ module Util
     excerpt_text
   end
 
-  def download_images_from_csv(country_code)
-    headers = {}
+  def download_images_from_csv(country_code, limit = nil)
+    col = {}
     post_type = 'post'
 
-    CSV.foreach("metadata_files/#{country_code}.csv") do |row|
-      if headers.empty?
-        row.each_with_index do |header, index|
-          headers[header] = index
+    CSV.foreach("metadata_files/#{country_code}.csv").with_index do |row, index|
+      if col.empty?
+        row.each_with_index do |header, col_index|
+          col[header] = col_index
         end
+
+        return if col['item_thumbnail_url'].nil?
 
         next
       end
 
-      post_type = row[headers['post_type']] unless headers['post_type'].nil?
+      # Allow force exit early for tests
+      return if limit == index - 1
+
+      # Ignore non-Uberflip images
+      next if row[col['item_thumbnail_url']].nil?
+      next unless row[col['item_thumbnail_url']].match(UBERFLIP_CDN)
+
+      post_type = row[col['post_type']] unless col['post_type'].nil?
 
       download_image(
-        row[headers['item_thumbnail_url']],
+        row[col['item_thumbnail_url']],
         country_code,
-        "#{country_code}-#{post_type}-#{row[headers['item_id']]}"
+        "#{country_code}-#{post_type}-#{row[col['item_id']]}"
       )
-    end
+    end # end CSV.foreach
   end
 
   def download_image(url, subdir, new_filename = '')
     web_image = open(url)
 
-    suffix = CONTENT_TYPE_SUFFIXES[web_image.content_type]
+    suffix = CONTENT_TYPE_SUFFIXES[web_image.content_type] || 'gif'
     image_file_path = "images/#{subdir}/#{new_filename}.#{suffix}"
 
     IO.copy_stream(web_image, image_file_path)

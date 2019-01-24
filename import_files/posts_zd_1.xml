@@ -13,7 +13,7 @@
 	<title>Zendesk</title>
 	<link>https://resources.zendesk.co.uk</link>
 	<description></description>
-  <pubDate>Tue, 08 Jan 2019 21:22:48 +0000</pubDate>
+	<pubDate>Tue, 08 Jan 2019 21:22:48 +0000</pubDate>
 	<language>zd</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://resources.zendesk.co.uk/</wp:base_site_url>
@@ -31,7 +31,7 @@
 
 	<generator>https://wordpress.org/?v=4.7.3</generator>
 
-
+  
   <item>
     <title>Lorem ipsum</title>
     <link>https://resources.zendesk.co.uk/blog/10-customer-experience-kpis/</link>
@@ -88,9 +88,9 @@
 <h3>10. Average Resolution Time</h3>
 <p>The average resolution time refers to the average time it takes for a customer care agent to resolve a customer issue. This customer service metric directly correlates to customer satisfaction and reflects your team’s efficiency. Your time to resolution matters as <a href="https://www.zendesk.com/resources/why-companies-should-invest-in-the-customer-experience/" target="_blank">40% of customers begin purchasing from a competitor because of their reputation for great customer service</a>. </p>
 <p>While there is no out of the box solution to measure your efforts at optimizing the customer experience, a comprehensive approach which combines different metrics might make the most sense. As mentioned earlier, try thinking of the metrics through the perspective of your company’s objectives and use these fundamental KPIs as the starting point. </p>
-
-
-
+            	        
+	        
+	        
         ]]></content:encoded>
     <excerpt:encoded><![CDATA[Lorem ipsum dolor amet plaid slow-carb prism venmo kale chips. Lo-fi poke truffaut bushwick plaid.]]></excerpt:encoded>
     <wp:post_id>888888888</wp:post_id>
@@ -105,21 +105,21 @@
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-
+    
     <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
-
+    
     <category domain="filter_tag_blog" nicename="agent-experience"><![CDATA[Agent experience]]></category>
-
+    
     <category domain="post_tag" nicename="agent-experience"><![CDATA[Agent experience]]></category>
-
+    
     <category domain="filter_tag_blog" nicename="best-practices"><![CDATA[Best Practices]]></category>
-
+    
     <category domain="post_tag" nicename="best-practices"><![CDATA[Best Practices]]></category>
-
+    
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
-
+    
     <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
-
+    
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -182,7 +182,7 @@
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
-      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migrated/zd/zd-post-888888888.jpg]]></wp:meta_value>
+      <wp:meta_value><![CDATA[https://content.cdntwrk.com/files/aHViPTY2NDg5JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVhZTc2ZDZmMmM5NzQuanBnJnZlcnNpb249MDAwMCZzaWc9NWI4MmRiMjhjMzZlYTYzM2I1ZTBlNjA3ODE3ODE4ZWM%253D]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-video]]></wp:meta_key>
@@ -258,7 +258,7 @@
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
-      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migrated/zd/zd-post-888888888.jpg]]></wp:meta_value>
+      <wp:meta_value><![CDATA[https://content.cdntwrk.com/files/aHViPTY2NDg5JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVhZTc2ZDZmMmM5NzQuanBnJnZlcnNpb249MDAwMCZzaWc9NWI4MmRiMjhjMzZlYTYzM2I1ZTBlNjA3ODE3ODE4ZWM%253D]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
@@ -270,7 +270,7 @@
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
-      <wp:meta_value><![CDATA[Lorem SEO ipsum description. ]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Lorem SEO ipsum description.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
@@ -309,6 +309,6 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
   </item>
-
+  
 </channel>
 </rss>
