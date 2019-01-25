@@ -18,7 +18,7 @@ module Migration
         next
       end
 
-      item = { 'post_type' => 'post' }
+      item = { Constants::KEYS[:type] => 'post' }
 
       row.each_with_index do |value, index|
         case headers[index]
@@ -45,7 +45,7 @@ module Migration
 
       if Util.uberflip_image?(item[Constants::KEYS[:image]])
         image_suffix = Util.image_suffix( open(item[Constants::KEYS[:image]]) )
-        image_migrated_name = "#{country_code}-#{item['post_type']}-#{item[Constants::KEYS[:id]]}.#{image_suffix}"
+        image_migrated_name = "#{country_code}-#{item[Constants::KEYS[:type]]}-#{item[Constants::KEYS[:id]]}.#{image_suffix}"
         item[Constants::KEYS[:image]] = "#{Constants::MIGRATED_IMAGES_DIR}#{country_code}/#{image_migrated_name}"
       end
 

@@ -26,7 +26,7 @@ RSpec.describe "Migration" do
     Constants::KEYS[:url] => 'https://resources.zendesk.co.uk/blog/10-customer-experience-kpis',
     'post_excerpt' => 'Lorem ipsum dolor amet plaid slow-carb prism venmo kale chips. Lo-fi poke truffaut bushwick plaid.',
     'post_status' => 'publish',
-    'post_type' => 'post',
+    Constants::KEYS[:type] => 'post',
     'pubDate' => 'Thu, 12 Apr 2018 11:37:00 +0000'
   }
 

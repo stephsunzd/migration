@@ -13,6 +13,7 @@ module Constants
   KEYS = {
     id: 'item_id',
     image: 'item_thumbnail_url',
+    type: 'post_type',
     url: 'item_url'
   }
 

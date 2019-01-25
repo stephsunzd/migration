@@ -67,7 +67,7 @@ module Util
       # Ignore non-Uberflip images
       next unless uberflip_image?(row[col[Constants::KEYS[:image]]])
 
-      post_type = row[col['post_type']] unless col['post_type'].nil?
+      post_type = row[col[Constants::KEYS[:type]]] unless col[Constants::KEYS[:type]].nil?
 
       download_image(
         row[col[Constants::KEYS[:image]]],
