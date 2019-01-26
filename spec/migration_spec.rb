@@ -27,7 +27,8 @@ RSpec.describe "Migration" do
     'post_excerpt' => 'Lorem ipsum dolor amet plaid slow-carb prism venmo kale chips. Lo-fi poke truffaut bushwick plaid.',
     'post_status' => 'publish',
     Constants::KEYS[:type] => 'post',
-    'pubDate' => 'Thu, 12 Apr 2018 11:37:00 +0000'
+    'pubDate' => 'Thu, 12 Apr 2018 11:37:00 +0000',
+    'source_stream_title' => nil
   }
 
   it '#scrape_post handles nil item_url' do
@@ -47,10 +48,10 @@ RSpec.describe "Migration" do
     expect(Migration.scrape_post(item)).to eq(item)
   end
 
-  it '#csv_to_item creates an item matching our sample' do
-    item = Migration.csv_to_item(TEST_CODES[:language])
+  it '#csv_to_items creates an item matching our sample' do
+    items = Migration.csv_to_items(TEST_CODES[:language])
 
-    expect(item).to eq([TEST_ITEM])
+    expect(items.first).to eq(TEST_ITEM)
   end
 
   it '#generate_import_file creates a file matching our sample' do

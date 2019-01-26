@@ -53,7 +53,7 @@ It’s beneficial for any business to take a closer look at what is working.'
   end
 
   it '#download_images_from_csv downloads and renames images' do
-    Util.download_images_from_csv('zd')
+    Util.download_images_from_csv('zd', 1)
 
     expect(File.exist?('images/zd/zd-post-888888888.jpg')).to be(true)
 

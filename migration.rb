@@ -8,7 +8,7 @@ require_relative 'constants'
 module Migration
   module_function
 
-  def csv_to_item(country_code)
+  def csv_to_items(country_code)
     headers = []
     items = []
 
@@ -34,6 +34,8 @@ module Migration
               }
             end
           end unless value.nil?
+        when Constants::KEYS[:type]
+          item[Constants::KEYS[:type]] = value unless value.nil?
         else
           item[headers[index]] = value
         end
@@ -56,7 +58,7 @@ module Migration
   end
 
   def generate_import_files(codes, source_url)
-    items = csv_to_item(codes[:country])
+    items = csv_to_items(codes[:country])
     puts '# CSV has been uploaded'
 
     items = scrape_posts(items)

@@ -48,7 +48,6 @@ module Util
 
   def download_images_from_csv(country_code, limit = nil)
     col = {}
-    post_type = 'post'
 
     CSV.foreach("metadata_files/#{country_code}.csv").with_index do |row, index|
       if col.empty?
@@ -67,7 +66,7 @@ module Util
       # Ignore non-Uberflip images
       next unless uberflip_image?(row[col[Constants::KEYS[:image]]])
 
-      post_type = row[col[Constants::KEYS[:type]]] unless col[Constants::KEYS[:type]].nil?
+      post_type = post_type_empty?(row, col) ? 'post' : row[col[Constants::KEYS[:type]]]
 
       download_image(
         row[col[Constants::KEYS[:image]]],
@@ -75,6 +74,12 @@ module Util
         "#{country_code}-#{post_type}-#{row[col[Constants::KEYS[:id]]]}"
       )
     end # end CSV.foreach
+  end
+
+  def post_type_empty?(row, col)
+    col[Constants::KEYS[:type]].nil? ||
+      row[col[Constants::KEYS[:type]]].nil? ||
+      row[col[Constants::KEYS[:type]]].empty?
   end
 
   def download_image(url, subdir, new_filename = '')
