@@ -18,12 +18,17 @@ module Migration
         next
       end
 
+      # # TODO:
+      # resource type map to key (type 2 is webinar)
+      # tags - remove category going forward
+      # video thing
+
       item = { Constants::KEYS[:type] => 'post' }
 
       row.each_with_index do |value, index|
         case headers[index]
         when 'item_tags'
-          item['item_tags'] = [ Constants::CATEGORY_TAG ]
+          item['item_tags'] = []
 
           value.split(',').each do |tag_name|
             Constants::TAG_DOMAINS.each do |tag_domain|

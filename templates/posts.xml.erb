@@ -39,7 +39,9 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true"><%= item['item_url'] %></guid>
     <description><%= item['item_description'] %></description>
+    <% if item['post_type'] != 'resource' %>
     <content:encoded><![CDATA[<%= item['post_content'] %>]]></content:encoded>
+    <% end %>
     <excerpt:encoded><![CDATA[<%= item['post_excerpt'] %>]]></excerpt:encoded>
     <wp:post_id><%= item['item_id'] %></wp:post_id>
     <wp:post_date><![CDATA[<%= item['item_published_at'] %>]]></wp:post_date>
@@ -65,32 +67,8 @@
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
-      <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<%= item['item_thumbnail_url'] %>]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[featured-video]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
       <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
       <wp:meta_value><![CDATA[<%= item['post_excerpt'] %>]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[author-override]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<%= item['author_first_name'] %> <%= item['author_last_name'] %>]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[author-override-twitter]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[author-override-title]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
@@ -146,6 +124,30 @@
     </wp:postmeta>
 
     <% case item['post_type']; when 'post' %>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[<%= item['item_thumbnail_url'] %>]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-video]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override]]></wp:meta_key>
+      <wp:meta_value><![CDATA[<%= item['author_first_name'] %> <%= item['author_last_name'] %>]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-twitter]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[home-sticky-segment]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -249,7 +251,7 @@
     <% when 'resource' %>
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+			<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-gated]]></wp:meta_key>
@@ -317,15 +319,92 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-teaser-copy]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<%= item['item_description'] %>]]></wp:meta_value>
+			<wp:meta_value><![CDATA[<%= item['post_content'] %>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-body-copy]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<%= item['post_content'] %>]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+    <% when 'customer_lp' %>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<%= item['item_description'] %>]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[customer-heading]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<%= item['item_title'] %>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-main-bg-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<%= item['item_thumbnail_url'] %>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-video-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-main-logo-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stats]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;a:2:{s:19:"customer-stat-title";s:0:"";s:19:"customer-stat-value";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stat-button-text]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stat-button-link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-highlight]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-highlight-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-featured-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-footer-quote]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-footer-quote-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[featured-section]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[tagline-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<%= item['quote-featured'] %>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-author]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<%= item['quote-author'] %>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<%= item['quote-author-job'] %>]]></wp:meta_value>
 		</wp:postmeta>
     <% end %>
   </item>

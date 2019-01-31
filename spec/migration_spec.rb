@@ -14,7 +14,6 @@ RSpec.describe "Migration" do
     'item_seo_description' => 'Lorem SEO ipsum description.',
     'item_seo_title' => 'Lorem SEO ipsum',
     'item_tags' => [
-      Constants::CATEGORY_TAG,
       { name: 'Agent experience', domain: Constants::TAG_DOMAINS[0], nicename: 'agent-experience' },
       { name: 'Agent experience', domain: Constants::TAG_DOMAINS[1], nicename: 'agent-experience' },
       { name: 'Best Practices', domain: Constants::TAG_DOMAINS[0], nicename: 'best-practices' },

@@ -13,7 +13,7 @@
 	<title>Zendesk</title>
 	<link>https://resources.zendesk.co.uk</link>
 	<description></description>
-  <pubDate>Tue, 08 Jan 2019 21:22:48 +0000</pubDate>
+	<pubDate>Tue, 08 Jan 2019 21:22:48 +0000</pubDate>
 	<language>zd</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://resources.zendesk.co.uk/</wp:base_site_url>
@@ -39,6 +39,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://resources.zendesk.co.uk/blog/10-customer-experience-kpis</guid>
     <description>Lorem ipsum dolor amet plaid slow-carb prism venmo kale chips. Lo-fi poke truffaut bushwick plaid. XOXO pug waistcoat edison bulb semiotics everyday carry succulents tbh hoodie literally mumblecore selvage. Intelligentsia tumblr gentrify, butcher venmo drinking vinegar readymade man bun ethical stumptown umami hoodie bespoke portland ennui. Aesthetic gastropub bitters pug unicorn pok pok.</description>
+
     <content:encoded><![CDATA[
             <p></p>
 <p>According to recent research, by the year 2020,<a href="https://www.walkerinfo.com/knowledge-center/featured-research-reports/customers2020-1" target="_blank"> customer experience will overtake price and product as the key brand differentiator</a>. Bearing this in mind, it’s no surprise that businesses are increasingly investing in customer experience to attract, engage, and retain customers. As companies allocate large chunks of their budgets to improve customer experience initiatives, they need a way to measure the results of their efforts.</p>
@@ -92,6 +93,7 @@
 
 
         ]]></content:encoded>
+
     <excerpt:encoded><![CDATA[Lorem ipsum dolor amet plaid slow-carb prism venmo kale chips. Lo-fi poke truffaut bushwick plaid.]]></excerpt:encoded>
     <wp:post_id>888888888</wp:post_id>
     <wp:post_date><![CDATA[2018-04-12 11:37:00]]></wp:post_date>
@@ -105,8 +107,6 @@
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-
-    <category domain="category" nicename="zendesk-nation"><![CDATA[Zendesk Nation]]></category>
 
     <category domain="filter_tag_blog" nicename="agent-experience"><![CDATA[Agent experience]]></category>
 
@@ -129,32 +129,8 @@
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
-      <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
-      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migration/zd/zd-post-888888888.jpg]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[featured-video]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
       <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
       <wp:meta_value><![CDATA[Lorem ipsum dolor amet plaid slow-carb prism venmo kale chips. Lo-fi poke truffaut bushwick plaid.]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[author-override]]></wp:meta_key>
-      <wp:meta_value><![CDATA[Andrew Gori]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[author-override-twitter]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[author-override-title]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
@@ -170,7 +146,7 @@
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
-      <wp:meta_value><![CDATA[Lorem SEO ipsum description. ]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Lorem SEO ipsum description.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
@@ -208,8 +184,32 @@
       <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
-    
 
+
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migration/zd/zd-post-888888888.jpg]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-video]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Andrew Gori]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-twitter]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[home-sticky-segment]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -310,6 +310,438 @@
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
+
+  </item>
+
+  <item>
+    <title>99designs</title>
+    <link>https://recursos.zendesk.com.mx/historias-de-clientes/99designs/</link>
+    <pubDate>Mon, 30 Apr 2018 15:15:29 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://recursos.zendesk.com.mx/historias-de-clientes/99designs</guid>
+    <description>99designs sustituye 3 sistemas con una solución omnicanal de Zendesk</description>
+
+    <content:encoded><![CDATA[
+            <h1><img alt="" src="https://content.cdntwrk.com/files/aHViPTY2NDg5JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVhZTc2YTY4NDcwMjEuanBnJnZlcnNpb249MDAwMCZzaWc9MDcwNmE3ZDVhNjhiYWNjNWZhNjc0ZGFiZTMwZWM4NzI%253D"></h1>
+
+<h1>99designs sustituye 3 sistemas con una solución omnicanal de Zendesk</h1>
+
+<h3>El diseño es el secreto para tener un negocio excelente. Ese es el lema que impulsa a 99designs, el mercado de diseños gráficos más grande del mundo. Desde 2008, 99designs ha conectado a más de un millón de negocios con diseñadores independientes que tienen las herramientas y el talento artístico para hacer realidad la visión de la marca.</h3>
+
+<p>Tickets/mes/canal: 30.000</p>
+
+<p>Horario de soporte: 24/7</p>
+
+<p>Idiomas admitidos: 8</p>
+
+<p>CSAT de Chat: 97 %</p>
+
+<p>Productos utilizados: Zendesk <a href="https://www.zendesk.com.mx/chat/">Chat</a>, Zendesk <a href="https://www.zendesk.com.mx/guide/">Guide</a>, Zendesk <a href="https://www.zendesk.com.mx/support/">Support</a>, Zendesk <a href="https://www.zendesk.com.mx/talk/">Talk</a></p>
+
+<p>El mercado de dos caras representa un reto particular para el equipo de soporte de 99designs, porque les toca administrar relaciones con negocios y con diseñadores que trabajan por su cuenta. “Queremos que cada cliente encuentre un diseño a su medida”, dijo Zach Kulas, director de soporte global. “Y cuando se trata del diseñador, queremos ayudarle a que consiga clientes y cultive todas las relaciones de largo plazo que más podamos”.</p>
+
+<p>Para conseguir sus metas —y atender a su clientela internacional— 99designs ofrece soporte ininterrumpido en sus oficinas ubicadas en Melbourne, Berlín y California. Los equipos también reciben el soporte de una red de agentes remotos en todo el mundo. En cuanto a canales, 99designs ofrece a sus clientes la experiencia completa —correo electrónico, chat, teléfono y autoservicio— en ocho idiomas.</p>
+
+<p>Antes de trasladar toda su infraestructura de soporte a la solución omnicanal de Zendesk, 99designs estaba utilizando un vendedor distinto para cada uno de sus canales: Desk.com para el correo electrónico, SwitchFox para el soporte telefónico y Olark para el chat. Para Kulas y su equipo de soporte, extraer conclusiones de los canales segmentados era una tarea frustrante. “Administrar, dar mantenimiento a las actualizaciones y elaborar informes a través de tres compañías distintas era un trabajo arduo y nada interesante”, comentó Kulas.</p>
+
+<p><img alt="" src="https://content.cdntwrk.com/files/aHViPTY2NDg5JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVhZTc2NWJlNmNiOTguanBnJnZlcnNpb249MDAwMCZzaWc9ZGZmZTBlODEzNTU0ZmNhMzIzOGRkMGRhZDVjNjI3MWQ%253D"></p>
+
+<p>La frustración constante fue lo que impulsó a 99designs a evaluar nuevas herramientas. Esta vez, una solución perfectamente integrada ocupaba el primer puesto en su lista de deseos. Después de sopesar algunas opciones, el equipo de 99designs se concentró en dos soluciones: Zendesk y Salesforce Service Cloud. “Zendesk es mucho más intuitivo y fácil de usar”, explicó Kulas. “No me cabe duda de que puedo aprender a usar Zendesk con solo observar y buscar yo mismo, mientras que con Salesforce, eso sería imposible”.</p>
+
+<p>La interfaz sencilla de Zendesk fue otro factor determinante para el equipo de 99designs. “Somos una compañía de diseño”, añadió Kulas "y a todos nos gustó la estética de la solución de Zendesk”.</p>
+
+<p>Una vez que 99designs decidió adoptar una solución omnicanal con Zendesk —usando Support para el correo electrónico, Chat para el canal de chat, Talk para el teléfono y Guide para el autoservicio— el equipo se dispuso a dar los primeros pasos de inmediato. “Soy devoto de la facilidad de uso y de la simplicidad de la adopción”, admitió Kulas. “Nos llevó solo dos días cambiar el chat y los teléfonos a la nueva solución —cambiamos uno en una tarde y el otro la tarde siguiente, y todo lo hicimos nosotros”.</p>
+
+<p><img alt="" src="https://content.cdntwrk.com/files/aHViPTY2NDg5JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVhZTc2NWZhM2FjZjkucG5nJnZlcnNpb249MDAwMCZzaWc9NTViNDJiMTkwZGJjMjA4NTkyYmMxYjQzNTZjNmU2NTA%253D"></p>
+
+<p>Después de completar los pasos preliminares, 99designs personalizó su instancia con la API de Zendesk. Cuando un cliente se registra para abrir una cuenta con 99designs, da su número de teléfono. Entonces, 99designs diseñó una función en el backend que conecta la información del perfil del usuario con la ID de la persona que llama. Ahora, cuando un cliente llama al equipo de soporte, toda la información del cliente está fácilmente al alcance del agente. “Con solo ver la ID de la persona que llama, el agente sabe quién es el cliente y puede ver para qué está usando nuestro sitio web”, añadió Kulas. “Los agentes pueden ayudarle al cliente a encontrar exactamente lo que busca sin tener que preguntar: ‘¿Cuál es su correo electrónico para poder buscar la herramienta que necesita?’”.</p>
+
+<p>Kulas y su equipo también están aprovechando el Apps Marketplace de Zendesk. “Me encanta la aplicación <a href="https://www.zendesk.com/apps/support/five-most-recent/">Cinco más recientes</a>”, dijo Kulas. “Ese fue uno de los principales temas que estábamos discutiendo cuando trasladamos todos los canales a Zendesk: antes, si alguien llamaba y dejaba un mensaje de voz, y luego iba al chat o enviaba dos correos electrónicos, nuestros agentes no tenían manera de ver todos esos tickets”.</p>
+
+<p>“Ahora podemos recibir una llamada y ver que un cliente dejó un mensaje de voz cinco minutos antes y también nos envió dos correos electrónicos hace unos 30 o 45 minutos. Y cuando hablamos con el cliente por teléfono, podemos resolver todos los tickets como uno solo”.</p>
+
+<p>Con Zendesk, 99designs por fin tiene visibilidad en toda la instancia de soporte omnicanal. “Estamos obteniendo mucha más información de nuestras llamadas, chats y correos electrónicos porque ahora podemos verlos todos en un solo lugar”, añadió Kulas. “Podemos etiquetar tickets, entender las razones de estos y hacer modificaciones fácilmente. Es una ventaja increíble”.</p>
+
+<p><img alt="" src="https://content.cdntwrk.com/files/aHViPTY2NDg5JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVhZTc2NmNkMDIzM2YuanBnJnZlcnNpb249MDAwMCZzaWc9Y2ViNDQ1MTY1MGUwOTQ0OWIzNTBiMjNkMDRkYTA3Y2I%253D"></p>
+
+<p>Zendesk le da a 99designs observaciones valiosas sobre los motivos que tienen los clientes para solicitar reembolsos. Como ofrece una garantía de devolución de dinero, la compañía está interesada en entender qué es lo que hace que la gente cancele un trabajo, y reducir así las experiencias negativas en un futuro. Y para llegar a ese entendimiento, 99designs les pide a los clientes que llamen antes de procesar el reembolso. Cuando el cliente llama, el equipo de 99designs tiene todos los datos del cliente a la mano para poder reducir la insatisfacción y tener la oportunidad de mejorar el producto.</p>
+
+<p>Además de recopilar comentarios cualitativos durante la llamada telefónica, el equipo de 99designs también capta la satisfacción del cliente en el momento de la resolución de las conversaciones de chat, lo que se traduce en un índice promedio del 97 por ciento de CSAT. Con un equipo repartido, es muy importante que Kulas y los líderes del equipo de soporte entiendan cómo están rindiendo los agentes. “A mí me gusta obtener comentarios en tiempo real sobre agentes específicos, especialmente porque nuestros agentes de chat no se encuentran en las mismas oficinas que ninguno de nosotros”, explicó Kulas. “Es una ventaja poder verlos con rapidez y facilidad”.</p>
+
+<p>A medida que la compañía de diseño continúa incorporando más diseñadores autónomos y más clientes, su equipo de soporte está en constante crecimiento y necesita un software que pueda crecer a la par de ellos. Con Zendesk, Kulas puede agregar agentes al equipo de 99designs en un instante. “Poder ir y comprar un teléfono nuevo con solo presionar unos cuantos botones, y luego asignárselo a un agente determinado en un minuto, ha sido de lo más fácil que se pueden imaginar”, dijo Kulas. “Me encanta la función de configuración”.</p>
+
+<p><img alt="" src="https://content.cdntwrk.com/files/aHViPTY2NDg5JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVhZTc2NmY4NDQ0N2MucG5nJnZlcnNpb249MDAwMCZzaWc9NWYyZjNjYTMyYTdmM2Y2OTJiYmRkNDA0YmYwOTg3MDc%253D"></p>
+
+<p>¿Qué se ve en el horizonte de 99designs? Impulsar el autoservicio con Zendesk Guide, asegurándose de que cada artículo del Centro de ayuda sea de lo más completo y correcto para poder redirigir la máxima cantidad de tickets. El equipo comenzó utilizando Guide para reducir los chats entrantes. “Recientemente implementamos Guide en nuestro widget de chat, de modo que apenas uno comienza a escribir una pregunta, recibe sugerencias de artículos de ayuda”, explicó Kulas.</p>
+
+<p>A medida que Guide reduce el volumen de tickets, también aumenta otra cosa: el volumen de tráfico que llega espontáneamente al sitio web de 99designs. “Estamos haciendo mucho seguimiento porque nos dimos cuenta de que estamos recibiendo una buena cantidad de tráfico derivado orgánicamente de las búsquedas con Google” dijo Kulas. “Cuando alguien busca un término relacionado con el diseño —por ejemplo, logotipo vectorial— nuestro Centro de ayuda aparece junto con los resultados y eso produce tráfico”. Al tener un Centro de ayuda bien mantenido con Guide, el equipo de soporte de 99designs aumenta por consiguiente el alcance de su marca.</p>
+
+<p>Conforme 99designs continúa creciendo y refinando su experiencia del cliente, el equipo de Zendesk siempre está en buena disposición para ofrecer soporte y guía. “Zendesk me mantiene alerta”, dijo Kulas. “Cada dos semanas, nos reunimos para estar en contacto y darles mis informes, y eso me motiva a trabajar más duro”.</p>
+
+<h3 style="text-align: center;">“Tener todo en un solo lugar, con productos fáciles de usar, ha sido una gran ventaja para nosotros”.<br>
+<span style="color: rgb(59, 59, 59); font-family: Lato, sans-serif; font-size: 20px; font-weight: 300;">- Zach Kulas, Director de soporte global</span>
+</h3>
+
+
+
+        ]]></content:encoded>
+
+    <excerpt:encoded><![CDATA[99designs sustituye 3 sistemas con una solución omnicanal de Zendesk]]></excerpt:encoded>
+    <wp:post_id>429659367</wp:post_id>
+    <wp:post_date><![CDATA[2018-04-30 15:15:29]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2018-04-30 15:15:29]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+
+    <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
+
+    <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
+
+    <category domain="filter_tag_blog" nicename="99designs"><![CDATA[99designs]]></category>
+
+    <category domain="post_tag" nicename="99designs"><![CDATA[99designs]]></category>
+
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[99designs sustituye 3 sistemas con una solución omnicanal de Zendesk]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migration/zd/zd-customer_lp-429659367.jpg]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[99designs sustituye 3 sistemas con una solución omnicanal de Zendesk]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[99designs sustituye 3 sistemas con una solución omnicanal de Zendesk]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
+			<wp:meta_value><![CDATA[99designs sustituye 3 sistemas con una solución omnicanal de Zendesk]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[customer-heading]]></wp:meta_key>
+			<wp:meta_value><![CDATA[99designs]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-main-bg-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migration/zd/zd-customer_lp-429659367.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-video-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-main-logo-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stats]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;a:2:{s:19:"customer-stat-title";s:0:"";s:19:"customer-stat-value";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stat-button-text]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stat-button-link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-highlight]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-highlight-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-featured-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-footer-quote]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-footer-quote-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[featured-section]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[tagline-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-author]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+
+  </item>
+
+  <item>
+    <title>Sea el número uno en el corazón y en la mente de su cliente</title>
+    <link>https://recursos.zendesk.com.mx/recursos/sea-el-numero-uno/</link>
+    <pubDate>Mon, 06 Nov 2017 19:28:52 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/sea-el-numero-uno</guid>
+    <description>Sea el número uno en el corazón y en la mente de su cliente</description>
+
+    <excerpt:encoded><![CDATA[Sea el número uno en el corazón y en la mente de su cliente]]></excerpt:encoded>
+    <wp:post_id>380967154</wp:post_id>
+    <wp:post_date><![CDATA[2017-11-06 19:28:52]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2017-11-06 19:28:52]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[resource]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Sea el número uno en el corazón y en la mente de su cliente]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migration/zd/zd-resource-380967154.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Sea el número uno en el corazón y en la mente de su cliente]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-gated]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-gated-success-from-form]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-custom-fields]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[sf-cid]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-header-text]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-ebook-external-link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-thumbnail-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migration/zd/zd-resource-380967154.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-featured-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migration/zd/zd-resource-380967154.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migration/zd/zd-resource-380967154.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-infographic-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-video-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-read-time-override]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-teaser-copy]]></wp:meta_key>
+			<wp:meta_value><![CDATA[
+            <p dir="ltr" style="line-height: 1.63636; margin-top: 14pt; margin-bottom: 32pt; text-align: justify;"><img alt="" src="https://content.cdntwrk.com/files/aHViPTY2NDg5JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVhM2QwNzNjMmU1MDIucG5nJnZlcnNpb249MDAwMCZzaWc9MTUzNjA4NTc3YjBhNzk1ODBhYjUyODc1NGVhMGU4NjQ%253D"></p>
+
+<h3 dir="ltr" style="line-height: 1.63636; margin-top: 14pt; margin-bottom: 32pt; text-align: justify;">Vea cómo las soluciones de Zendesk ayudan a las compañías más innovadoras en Latinoamérica a mejorar su relación con los clientes y, de ese modo, a crecer mucho más.</h3>
+
+<p>Es posible obtener buenos resultados a partir del uso de tecnologías que ayudan en el contacto y en la relación con los clientes. En este ebook se presentan los resultados de las compañías más innovadoras en Latinoamérica. También detallamos las ideas brillantes de compañías que están transformando la relación con sus clientes, automatizando su central de atención y los beneficios que obtuvieron al optar por Zendesk.</p>
+
+<p>Entre los principales clientes que informaron el éxito con el uso de nuestras soluciones están:</p>
+
+<p>- <strong>Compara Online:</strong> disminución del tiempo de resolución del ticket de hasta el 50%</p>
+
+<p>- <strong>Cura Deuda:</strong> atención del 100% de las interacciones de los clientes</p>
+
+<p>- <strong>Play Interactive: </strong>aumento de la satisfacción de los clientes en hasta un 25%</p>
+
+<p dir="ltr" style="text-align: justify;">Facilitar el servicio de atención y mejorar cada interacción de los clientes, hace que los clientes tengan una excelente percepción de la marca. Las soluciones de Zendesk ayudan a las empresas a promover la excelencia de los servicios de atención al cliente en la búsqueda incesante por ofrecer una inmejorable experiencia con su marca.</p>
+
+<p dir="ltr" style="text-align: justify;"><strong>Descarga el e-book <a href="https://zen-marketing-pt.s3.amazonaws.com/pt/Campaigns%202017%20LATAM/Techvalidate-ebook-Spanish-Final.pdf">aquí.</a></strong></p>
+
+
+
+        ]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-body-copy]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 
   </item>
 
