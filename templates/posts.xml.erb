@@ -39,8 +39,10 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true"><%= item['item_url'] %></guid>
     <description><%= item['item_description'] %></description>
-    <% if item['post_type'] != 'resource' %>
+    <% case item['post_type']; when 'post' %>
     <content:encoded><![CDATA[<%= item['post_content'] %>]]></content:encoded>
+    <% when 'customer_lp' %>
+    <content:encoded><![CDATA[<%= item['post_content'] %></div></div>]]></content:encoded>
     <% end %>
     <excerpt:encoded><![CDATA[<%= item['post_excerpt'] %>]]></excerpt:encoded>
     <wp:post_id><%= item['item_id'] %></wp:post_id>
@@ -396,15 +398,15 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[quote-featured]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<%= item['quote-featured'] %>]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[quote-author]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<%= item['quote-author'] %>]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<%= item['quote-author-job'] %>]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
     <% end %>
   </item>
