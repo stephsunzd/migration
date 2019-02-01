@@ -102,6 +102,7 @@ module Util
     return false if suffix.empty?
 
     begin
+      puts "Downloading #{url}"
       web_image = open(url)
     rescue OpenURI::HTTPError => http_error
       puts http_error
