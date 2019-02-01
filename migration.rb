@@ -47,6 +47,7 @@ module Migration
       item['post_status'] = 'publish'
       item['pubDate'] = Util.timestamp_to_pubDate(item['item_published_at'])
       item['post_excerpt'] = Util.excerpt(item['item_description'])
+      item = Util.handle_resource(item)
 
       if Util.uberflip_image?(item[Constants::KEYS[:image]])
         image_suffix = Util.image_suffix( item[Constants::KEYS[:image]] )

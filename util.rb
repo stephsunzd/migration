@@ -91,6 +91,19 @@ module Util
     post_content
   end
 
+  def handle_resource(item)
+    return item unless item[Constants::KEYS[:type]].eql?('resource') 
+
+    if item[Constants::KEYS[:url]].match(/\Ahttps:\/\/[\w\.]+\/self-service/)
+      item['resource-type'] = Constants::RESOURCE_TYPES[:video]
+      item['item_tags'] += Constants::LIBRARY_VIDEO_TAGS
+    else
+      item['resource-type'] = Constants::RESOURCE_TYPES[:whitepaper]
+    end
+
+    item
+  end
+
   def post_type_empty?(row, col)
     col[Constants::KEYS[:type]].nil? ||
       row[col[Constants::KEYS[:type]]].nil? ||
