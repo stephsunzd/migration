@@ -19,8 +19,6 @@ module Migration
       end
 
       # # TODO:
-      # resource type map to key (type 2 is webinar)
-      # tags - remove category going forward
       # video thing
 
       item = { Constants::KEYS[:type] => 'post' }
@@ -66,7 +64,7 @@ module Migration
     items = csv_to_items(codes[:country])
     puts '# CSV has been uploaded'
 
-    items = scrape_posts(items)
+    items = scrape_posts(items, codes[:country])
 
     posts_erb = File.open('templates/posts.xml.erb').read
     posts_erb = ERB.new(posts_erb)
@@ -87,17 +85,17 @@ module Migration
     end
   end
 
-  def scrape_posts(items)
+  def scrape_posts(items, country_code)
     items.each do |item|
       puts "# Scraping #{item[Constants::KEYS[:url]]}"
 
-      item = scrape_post(item)
+      item = scrape_post(item, country_code)
     end
 
     return items
   end
 
-  def scrape_post(item)
+  def scrape_post(item, country_code)
     return item if item[Constants::KEYS[:url]].nil? || item[Constants::KEYS[:url]].empty?
 
     item['post_content'] = ''
@@ -120,6 +118,11 @@ module Migration
       unless post_content.empty?
         post_content_html = post_content.first.inner_html
         item['post_content'] = post_content_html.gsub(/<blockquote class="author">.*?<\/blockquote>/m, '')
+        item['post_content'] = Util.post_content_images(
+          item['post_content'],
+          item[Constants::KEYS[:id]],
+          country_code
+        )
 
         item['post_excerpt'] = Util.excerpt(post_content.text) if item['post_excerpt'].empty?
       end

@@ -72,4 +72,15 @@ It’s beneficial for any business to take a closer look at what is working.'
 
     expect(File.exist?('images/uk/uk-post-492180536.jpg')).to be(false)
   end
+
+  it '#post_content_images downloads images in string and renames them' do
+    post_content = "<xml>[[#{UBERFLIP_IMAGE_URL}]]</xml>"
+    post_content_migrated = "<xml>[[#{Constants::MIGRATED_IMAGES_DIR}zd/zd-8-0.jpg]]</xml>"
+
+    expect(Util.post_content_images(post_content, 8, 'zd')).to eq(post_content_migrated)
+
+    expect(File.exist?('images/zd/zd-8-0.jpg')).to be(true)
+
+    File.delete('images/zd/zd-8-0.jpg')
+  end
 end

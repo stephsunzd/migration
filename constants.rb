@@ -24,4 +24,5 @@ module Constants
   TAG_DOMAINS = ['filter_tag_blog', 'post_tag']
 
   UBERFLIP_CDN = /\Ahttps:\/\/content\.cdntwrk\.com/
+  UBERFLIP_CDN_IMAGE_REGEXP = /https:\/\/content\.cdntwrk\.com\/files\/[\w%]+/
 end

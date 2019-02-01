@@ -77,6 +77,21 @@ module Util
     end # end CSV.foreach
   end
 
+  def post_content_images(post_content, post_id, country_code)
+    images = post_content.scan(Constants::UBERFLIP_CDN_IMAGE_REGEXP)
+
+    images.each_with_index do |image, index|
+      web_image = open(image)
+      suffix = image_suffix(web_image)
+      new_image_name = "#{country_code}-#{post_id}-#{index}"
+      download_image(image, country_code, new_image_name)
+
+      post_content.gsub!(image, "#{Constants::MIGRATED_IMAGES_DIR}#{country_code}/#{new_image_name}.#{suffix}")
+    end
+
+    post_content
+  end
+
   def post_type_empty?(row, col)
     col[Constants::KEYS[:type]].nil? ||
       row[col[Constants::KEYS[:type]]].nil? ||

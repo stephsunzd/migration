@@ -35,7 +35,7 @@ RSpec.describe "Migration" do
       Constants::KEYS[:url] => nil
     }
 
-    expect(Migration.scrape_post(item)).to eq(item)
+    expect(Migration.scrape_post(item, TEST_CODES[:country])).to eq(item)
   end
 
   it '#scrape_post handles special characters in the slug' do
@@ -46,7 +46,7 @@ RSpec.describe "Migration" do
 
     expected_excerpt = 'Hay quienes dicen que la capacidad para ver el futuro es cosa de adivinos y videntes, pero predecir la satisfacción del cliente no es solo para los clarividentes (o los que se dedican a clasificar los tickets a mano basándose en suposiciones)'
 
-    item = Migration.scrape_post(item)
+    item = Migration.scrape_post(item, TEST_CODES[:country])
 
     expect(item['post_excerpt']).to eq(expected_excerpt)
   end
@@ -57,11 +57,11 @@ RSpec.describe "Migration" do
       'post_content' => ''
     }
 
-    expect(Migration.scrape_post(item)).to eq(item)
+    expect(Migration.scrape_post(item, TEST_CODES[:country])).to eq(item)
   end
 
   it '#csv_to_items creates an item matching our sample' do
-    items = Migration.csv_to_items(TEST_CODES[:language])
+    items = Migration.csv_to_items(TEST_CODES[:country])
 
     expect(items.first).to eq(TEST_ITEM)
   end

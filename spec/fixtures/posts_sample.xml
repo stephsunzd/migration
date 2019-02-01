@@ -322,7 +322,7 @@
     <description>99designs sustituye 3 sistemas con una solución omnicanal de Zendesk</description>
 
     <content:encoded><![CDATA[
-            <h1><img alt="" src="https://content.cdntwrk.com/files/aHViPTY2NDg5JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVhZTc2YTY4NDcwMjEuanBnJnZlcnNpb249MDAwMCZzaWc9MDcwNmE3ZDVhNjhiYWNjNWZhNjc0ZGFiZTMwZWM4NzI%253D"></h1>
+            <h1><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/zd/zd-429659367-0.jpg"></h1>
 
 <h1>99designs sustituye 3 sistemas con una solución omnicanal de Zendesk</h1>
 
@@ -344,7 +344,7 @@
 
 <p>Antes de trasladar toda su infraestructura de soporte a la solución omnicanal de Zendesk, 99designs estaba utilizando un vendedor distinto para cada uno de sus canales: Desk.com para el correo electrónico, SwitchFox para el soporte telefónico y Olark para el chat. Para Kulas y su equipo de soporte, extraer conclusiones de los canales segmentados era una tarea frustrante. “Administrar, dar mantenimiento a las actualizaciones y elaborar informes a través de tres compañías distintas era un trabajo arduo y nada interesante”, comentó Kulas.</p>
 
-<p><img alt="" src="https://content.cdntwrk.com/files/aHViPTY2NDg5JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVhZTc2NWJlNmNiOTguanBnJnZlcnNpb249MDAwMCZzaWc9ZGZmZTBlODEzNTU0ZmNhMzIzOGRkMGRhZDVjNjI3MWQ%253D"></p>
+<p><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/zd/zd-429659367-1.jpg"></p>
 
 <p>La frustración constante fue lo que impulsó a 99designs a evaluar nuevas herramientas. Esta vez, una solución perfectamente integrada ocupaba el primer puesto en su lista de deseos. Después de sopesar algunas opciones, el equipo de 99designs se concentró en dos soluciones: Zendesk y Salesforce Service Cloud. “Zendesk es mucho más intuitivo y fácil de usar”, explicó Kulas. “No me cabe duda de que puedo aprender a usar Zendesk con solo observar y buscar yo mismo, mientras que con Salesforce, eso sería imposible”.</p>
 
@@ -352,7 +352,7 @@
 
 <p>Una vez que 99designs decidió adoptar una solución omnicanal con Zendesk —usando Support para el correo electrónico, Chat para el canal de chat, Talk para el teléfono y Guide para el autoservicio— el equipo se dispuso a dar los primeros pasos de inmediato. “Soy devoto de la facilidad de uso y de la simplicidad de la adopción”, admitió Kulas. “Nos llevó solo dos días cambiar el chat y los teléfonos a la nueva solución —cambiamos uno en una tarde y el otro la tarde siguiente, y todo lo hicimos nosotros”.</p>
 
-<p><img alt="" src="https://content.cdntwrk.com/files/aHViPTY2NDg5JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVhZTc2NWZhM2FjZjkucG5nJnZlcnNpb249MDAwMCZzaWc9NTViNDJiMTkwZGJjMjA4NTkyYmMxYjQzNTZjNmU2NTA%253D"></p>
+<p><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/zd/zd-429659367-2.png"></p>
 
 <p>Después de completar los pasos preliminares, 99designs personalizó su instancia con la API de Zendesk. Cuando un cliente se registra para abrir una cuenta con 99designs, da su número de teléfono. Entonces, 99designs diseñó una función en el backend que conecta la información del perfil del usuario con la ID de la persona que llama. Ahora, cuando un cliente llama al equipo de soporte, toda la información del cliente está fácilmente al alcance del agente. “Con solo ver la ID de la persona que llama, el agente sabe quién es el cliente y puede ver para qué está usando nuestro sitio web”, añadió Kulas. “Los agentes pueden ayudarle al cliente a encontrar exactamente lo que busca sin tener que preguntar: ‘¿Cuál es su correo electrónico para poder buscar la herramienta que necesita?’”.</p>
 
@@ -362,7 +362,7 @@
 
 <p>Con Zendesk, 99designs por fin tiene visibilidad en toda la instancia de soporte omnicanal. “Estamos obteniendo mucha más información de nuestras llamadas, chats y correos electrónicos porque ahora podemos verlos todos en un solo lugar”, añadió Kulas. “Podemos etiquetar tickets, entender las razones de estos y hacer modificaciones fácilmente. Es una ventaja increíble”.</p>
 
-<p><img alt="" src="https://content.cdntwrk.com/files/aHViPTY2NDg5JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVhZTc2NmNkMDIzM2YuanBnJnZlcnNpb249MDAwMCZzaWc9Y2ViNDQ1MTY1MGUwOTQ0OWIzNTBiMjNkMDRkYTA3Y2I%253D"></p>
+<p><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/zd/zd-429659367-3.jpg"></p>
 
 <p>Zendesk le da a 99designs observaciones valiosas sobre los motivos que tienen los clientes para solicitar reembolsos. Como ofrece una garantía de devolución de dinero, la compañía está interesada en entender qué es lo que hace que la gente cancele un trabajo, y reducir así las experiencias negativas en un futuro. Y para llegar a ese entendimiento, 99designs les pide a los clientes que llamen antes de procesar el reembolso. Cuando el cliente llama, el equipo de 99designs tiene todos los datos del cliente a la mano para poder reducir la insatisfacción y tener la oportunidad de mejorar el producto.</p>
 
@@ -370,7 +370,7 @@
 
 <p>A medida que la compañía de diseño continúa incorporando más diseñadores autónomos y más clientes, su equipo de soporte está en constante crecimiento y necesita un software que pueda crecer a la par de ellos. Con Zendesk, Kulas puede agregar agentes al equipo de 99designs en un instante. “Poder ir y comprar un teléfono nuevo con solo presionar unos cuantos botones, y luego asignárselo a un agente determinado en un minuto, ha sido de lo más fácil que se pueden imaginar”, dijo Kulas. “Me encanta la función de configuración”.</p>
 
-<p><img alt="" src="https://content.cdntwrk.com/files/aHViPTY2NDg5JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVhZTc2NmY4NDQ0N2MucG5nJnZlcnNpb249MDAwMCZzaWc9NWYyZjNjYTMyYTdmM2Y2OTJiYmRkNDA0YmYwOTg3MDc%253D"></p>
+<p><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/zd/zd-429659367-4.png"></p>
 
 <p>¿Qué se ve en el horizonte de 99designs? Impulsar el autoservicio con Zendesk Guide, asegurándose de que cada artículo del Centro de ayuda sea de lo más completo y correcto para poder redirigir la máxima cantidad de tickets. El equipo comenzó utilizando Guide para reducir los chats entrantes. “Recientemente implementamos Guide en nuestro widget de chat, de modo que apenas uno comienza a escribir una pregunta, recibe sugerencias de artículos de ayuda”, explicó Kulas.</p>
 
@@ -712,7 +712,7 @@
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-teaser-copy]]></wp:meta_key>
 			<wp:meta_value><![CDATA[
-            <p dir="ltr" style="line-height: 1.63636; margin-top: 14pt; margin-bottom: 32pt; text-align: justify;"><img alt="" src="https://content.cdntwrk.com/files/aHViPTY2NDg5JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVhM2QwNzNjMmU1MDIucG5nJnZlcnNpb249MDAwMCZzaWc9MTUzNjA4NTc3YjBhNzk1ODBhYjUyODc1NGVhMGU4NjQ%253D"></p>
+            <p dir="ltr" style="line-height: 1.63636; margin-top: 14pt; margin-bottom: 32pt; text-align: justify;"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/zd/zd-380967154-0.png"></p>
 
 <h3 dir="ltr" style="line-height: 1.63636; margin-top: 14pt; margin-bottom: 32pt; text-align: justify;">Vea cómo las soluciones de Zendesk ayudan a las compañías más innovadoras en Latinoamérica a mejorar su relación con los clientes y, de ese modo, a crecer mucho más.</h3>
 
