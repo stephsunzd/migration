@@ -10,6 +10,13 @@ RSpec.describe "Util" do
     expect(Util.timestamp_to_pubDate(timestamp)).to eq(pubDate)
   end
 
+  it '#clean_url cleans url text but restores slashes and colons' do
+    url = 'https://recursos.zendesk.com.mx/recursos/predecir-la-satisfacción'
+    url_clean = 'https://recursos.zendesk.com.mx/recursos/predecir-la-satisfacci%C3%B3n'
+
+    expect(Util.clean_url(url)).to eq(url_clean)
+  end
+
   it '#excerpt handles nil text' do
     expect(Util.excerpt(nil)).to eq('')
   end

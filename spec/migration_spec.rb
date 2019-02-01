@@ -38,6 +38,19 @@ RSpec.describe "Migration" do
     expect(Migration.scrape_post(item)).to eq(item)
   end
 
+  it '#scrape_post handles special characters in the slug' do
+    item = {
+      Constants::KEYS[:url] => 'https://recursos.zendesk.com.mx/recursos/predecir-la-satisfacción-del-cliente-ayuda-a-priorizar-las-interacciones-y-evitar-la-pérdida-de-clientes',
+      'post_excerpt' => ''
+    }
+
+    expected_excerpt = 'Hay quienes dicen que la capacidad para ver el futuro es cosa de adivinos y videntes, pero predecir la satisfacción del cliente no es solo para los clarividentes (o los que se dedican a clasificar los tickets a mano basándose en suposiciones)'
+
+    item = Migration.scrape_post(item)
+
+    expect(item['post_excerpt']).to eq(expected_excerpt)
+  end
+
   it '#scrape_post handles 404' do
     item = {
       Constants::KEYS[:url] => 'https://resources.zendesk.co.uk/blog/notapage',

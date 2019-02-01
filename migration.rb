@@ -103,7 +103,13 @@ module Migration
     item['post_content'] = ''
 
     begin
-      post = Nokogiri::HTML(open(item[Constants::KEYS[:url]]))
+      post = Nokogiri::HTML(
+        open(
+          Util.clean_url(
+            item[Constants::KEYS[:url]]
+          )
+        )
+      )
     rescue OpenURI::HTTPError => http_error
       puts http_error
     end

@@ -1,6 +1,7 @@
 require 'date'
 require 'open-uri'
 require 'csv'
+require 'cgi'
 require_relative 'constants'
 
 module Util
@@ -98,5 +99,9 @@ module Util
 
   def image_suffix(image)
     Constants::CONTENT_TYPE_SUFFIXES[image.content_type] || 'gif'
+  end
+
+  def clean_url(url)
+    CGI.escape(url).gsub('%2F', '/').gsub('%3A', ':')
   end
 end
