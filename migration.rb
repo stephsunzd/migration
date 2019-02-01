@@ -49,10 +49,12 @@ module Migration
       item['post_excerpt'] = Util.excerpt(item['item_description'])
 
       if Util.uberflip_image?(item[Constants::KEYS[:image]])
-        image_suffix = Util.image_suffix( open(item[Constants::KEYS[:image]]) )
+        image_suffix = Util.image_suffix( item[Constants::KEYS[:image]] )
         image_migrated_name = "#{country_code}-#{item[Constants::KEYS[:type]]}-#{item[Constants::KEYS[:id]]}.#{image_suffix}"
         item[Constants::KEYS[:image]] = "#{Constants::MIGRATED_IMAGES_DIR}#{country_code}/#{image_migrated_name}"
       end
+
+      puts "# Post #{item[Constants::KEYS[:url]]} has been read"
 
       items << item
     end
@@ -62,7 +64,7 @@ module Migration
 
   def generate_import_files(codes, source_url)
     items = csv_to_items(codes[:country])
-    puts '# CSV has been uploaded'
+    puts '# CSV has been read'
 
     items = scrape_posts(items, codes[:country])
 

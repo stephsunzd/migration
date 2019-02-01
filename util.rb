@@ -81,8 +81,7 @@ module Util
     images = post_content.scan(Constants::UBERFLIP_CDN_IMAGE_REGEXP)
 
     images.each_with_index do |image, index|
-      web_image = open(image)
-      suffix = image_suffix(web_image)
+      suffix = image_suffix(image)
       new_image_name = "#{country_code}-#{post_id}-#{index}"
       download_image(image, country_code, new_image_name)
 
@@ -99,8 +98,16 @@ module Util
   end
 
   def download_image(url, subdir, new_filename = '')
-    web_image = open(url)
-    suffix = image_suffix(web_image)
+    suffix = image_suffix(url)
+    return false if suffix.empty?
+
+    begin
+      web_image = open(url)
+    rescue OpenURI::HTTPError => http_error
+      puts http_error
+      return false
+    end
+
     image_file_path = "images/#{subdir}/#{new_filename}.#{suffix}"
 
     IO.copy_stream(web_image, image_file_path)
@@ -113,7 +120,14 @@ module Util
   end
 
   def image_suffix(image)
-    Constants::CONTENT_TYPE_SUFFIXES[image.content_type] || 'gif'
+    begin
+      web_image = open(image)
+      return Constants::CONTENT_TYPE_SUFFIXES[web_image.content_type] || 'gif'
+    rescue OpenURI::HTTPError => http_error
+      puts http_error
+    end
+
+    ''
   end
 
   def clean_url(url)

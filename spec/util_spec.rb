@@ -51,6 +51,10 @@ It’s beneficial for any business to take a closer look at what is working.'
     expect(Util.excerpt(text)).to eq(text[0..-2])
   end
 
+  it '#download_image handles 404' do
+    expect(Util.download_image('https://www.google.com/doesnotexist.png', 'zd', 'image')).to be(false)
+  end
+
   it '#download_image downloads image to images directory' do
     Util.download_image(UBERFLIP_IMAGE_URL, 'zd', 'image')
 
