@@ -31,7 +31,7 @@
 
 	<generator>https://wordpress.org/?v=4.7.3</generator>
 
-  
+
   <item>
     <title>99designs</title>
     <link>https://recursos.zendesk.com.mx/historias-de-clientes/99designs/</link>
@@ -39,7 +39,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/historias-de-clientes/99designs</guid>
     <description>99designs sustituye 3 sistemas con una solución omnicanal de Zendesk</description>
-    
+
     <content:encoded><![CDATA[
             <h1><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-429659367-0.jpg"></h1>
 
@@ -101,10 +101,10 @@
 <span style="color: rgb(59, 59, 59); font-family: Lato, sans-serif; font-size: 20px; font-weight: 300;">- Zach Kulas, Director de soporte global</span>
 </h3>
 
-            	        
-	        	        
+
+
         </div></div>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[99designs sustituye 3 sistemas con una solución omnicanal de Zendesk]]></excerpt:encoded>
     <wp:post_id>429659367</wp:post_id>
     <wp:post_date><![CDATA[2018-04-30 15:15:29]]></wp:post_date>
@@ -118,15 +118,15 @@
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="99designs"><![CDATA[99designs]]></category>
-    
+
     <category domain="post_tag" nicename="99designs"><![CDATA[99designs]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -192,7 +192,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[99designs sustituye 3 sistemas con una solución omnicanal de Zendesk]]></wp:meta_value>
@@ -269,9 +269,9 @@
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Airbnb</title>
     <link>https://recursos.zendesk.com.mx/historias-de-clientes/airbnb-2/</link>
@@ -279,7 +279,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/historias-de-clientes/airbnb-2</guid>
     <description>Descubre cómo Airbnb acogió a Zendesk como su plataforma de soporte y así miles de personas se hospedan felizmente alrededor del mundo.</description>
-    
+
     <content:encoded><![CDATA[
             <div class="mod-section" id="story-main" style="box-sizing: border-box; margin: 0px auto; width: 1083px; min-height: initial; overflow: hidden; padding: 40px 0px; color: rgb(51, 51, 51); font-family: PNR; font-size: 15px;">
 <div id="story-body-content" style="box-sizing: border-box; padding: 0px 54.1406px; display: inline-block; width: 758.094px; vertical-align: top;">
@@ -363,10 +363,10 @@
 <p class="author" style="margin: 0px auto; color: rgb(3, 54, 61); font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 20px; line-height: normal; font-family: SHSN; box-sizing: border-box; max-width: 60%;">– Shirley Lin<span style="box-sizing: border-box; color: rgb(77, 100, 103); display: block; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: PNR; margin-top: 5px;">responsable de producto del grupo de productos de soporte</span></p>
 </section>
 
-            	        
-	        	        
+
+
         </div></div>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Descubre cómo Airbnb acogió a Zendesk como su plataforma de soporte y así miles de personas se hospedan felizmente alrededor del mundo.]]></excerpt:encoded>
     <wp:post_id>429989889</wp:post_id>
     <wp:post_date><![CDATA[2018-05-01 17:39:44]]></wp:post_date>
@@ -380,35 +380,35 @@
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="airbnb"><![CDATA[Airbnb]]></category>
-    
+
     <category domain="post_tag" nicename="airbnb"><![CDATA[Airbnb]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="customer-success"><![CDATA[customer success]]></category>
-    
+
     <category domain="post_tag" nicename="customer-success"><![CDATA[customer success]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
-    
+
     <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atenci-n"><![CDATA[atención]]></category>
-    
+
     <category domain="post_tag" nicename="atenci-n"><![CDATA[atención]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="cliente"><![CDATA[cliente]]></category>
-    
+
     <category domain="post_tag" nicename="cliente"><![CDATA[cliente]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -474,7 +474,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Descubre cómo Airbnb acogió a Zendesk como su plataforma de soporte y así miles de personas se hospedan felizmente alrededor del mundo.]]></wp:meta_value>
@@ -551,9 +551,9 @@
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Avantrip</title>
     <link>https://recursos.zendesk.com.mx/historias-de-clientes/avantrip/</link>
@@ -561,7 +561,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/historias-de-clientes/avantrip</guid>
     <description>Avantrip logró con Zendesk una experiencia de compra excelente.</description>
-    
+
     <content:encoded><![CDATA[
             <h2>Avantrip logró con Zendesk una experiencia de compra excelente.</h2>
 
@@ -570,10 +570,10 @@
 
 <div class="wistia_embed wistia_async_dtbu4xwhcm seo=false" style="height:360px;width:640px"> </div>
 
-            	        
-	        	        
+
+
         </div></div>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Avantrip logró con Zendesk una experiencia de compra excelente.]]></excerpt:encoded>
     <wp:post_id>422197845</wp:post_id>
     <wp:post_date><![CDATA[2018-04-04 18:11:01]]></wp:post_date>
@@ -587,23 +587,23 @@
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="avantrip"><![CDATA[Avantrip]]></category>
-    
+
     <category domain="post_tag" nicename="avantrip"><![CDATA[Avantrip]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="experiencia-de-compra"><![CDATA[Experiencia de compra]]></category>
-    
+
     <category domain="post_tag" nicename="experiencia-de-compra"><![CDATA[Experiencia de compra]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="customer-success"><![CDATA[customer success]]></category>
-    
+
     <category domain="post_tag" nicename="customer-success"><![CDATA[customer success]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -669,7 +669,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Avantrip logró con Zendesk una experiencia de compra excelente.]]></wp:meta_value>
@@ -746,9 +746,9 @@
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Cleverbridge </title>
     <link>https://recursos.zendesk.com.mx/historias-de-clientes/cleverbridge/</link>
@@ -756,7 +756,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/historias-de-clientes/cleverbridge</guid>
     <description>Cleverbridge experimentó un índice de redirección de tickets de un 24 % con Zendesk Guide</description>
-    
+
     <content:encoded><![CDATA[
             <h1><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/clever1.jpg" style="width: 1269px; height: 507px;"></h1>
 
@@ -820,10 +820,10 @@
 <div> </div>
 </div>
 
-            	        
-	        	        
+
+
         </div></div>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Cleverbridge experimentó un índice de redirección de tickets de un 24 % con Zendesk Guide]]></excerpt:encoded>
     <wp:post_id>388579924</wp:post_id>
     <wp:post_date><![CDATA[2017-12-04 19:12:30]]></wp:post_date>
@@ -837,15 +837,15 @@
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-cleverbridge"><![CDATA[#Cleverbridge]]></category>
-    
+
     <category domain="post_tag" nicename="-cleverbridge"><![CDATA[#Cleverbridge]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -911,7 +911,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Cleverbridge experimentó un índice de redirección de tickets de un 24 % con Zendesk Guide]]></wp:meta_value>
@@ -988,9 +988,9 @@
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Customer experience y omnicanalidad:  las claves de la estrategia digital de Elektra</title>
     <link>https://recursos.zendesk.com.mx/historias-de-clientes/experiencia-cliente-omnicanalidad-claves-estrategia-digital-elektra/</link>
@@ -998,7 +998,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/historias-de-clientes/experiencia-cliente-omnicanalidad-claves-estrategia-digital-elektra</guid>
     <description>Elektra, la empresa líder de México de comercio especializado y servicios financieros, logró poner al cliente en el centro de su negocio y brindar mejores experiencias con Zendesk.</description>
-    
+
     <content:encoded><![CDATA[
             <p dir="ltr"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-485430359-0.png" style="width: 410px; height: 123px;"></p>
 
@@ -1027,10 +1027,10 @@
 
 <div> </div>
 
-            	        
-	        	        
+
+
         </div></div>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Elektra, la empresa líder de México de comercio especializado y servicios financieros, logró poner al cliente en el centro de su negocio y brindar mejores experiencias con Zendesk]]></excerpt:encoded>
     <wp:post_id>485430359</wp:post_id>
     <wp:post_date><![CDATA[2018-12-12 7:28:54]]></wp:post_date>
@@ -1044,27 +1044,27 @@
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="omnicanal"><![CDATA[omnicanal]]></category>
-    
+
     <category domain="post_tag" nicename="omnicanal"><![CDATA[omnicanal]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-chat"><![CDATA[Zendesk Chat]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-chat"><![CDATA[Zendesk Chat]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-guide"><![CDATA[zendesk guide]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-guide"><![CDATA[zendesk guide]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="elektra"><![CDATA[elektra]]></category>
-    
+
     <category domain="post_tag" nicename="elektra"><![CDATA[elektra]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -1130,7 +1130,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Elektra, la empresa líder de México de comercio especializado y servicios financieros, logró poner al cliente en el centro de su negocio y brindar mejores experiencias con Zendesk.]]></wp:meta_value>
@@ -1207,9 +1207,9 @@
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Ebates</title>
     <link>https://recursos.zendesk.com.mx/historias-de-clientes/ebates/</link>
@@ -1217,7 +1217,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/historias-de-clientes/ebates</guid>
     <description>Ebates consiguió una puntuación CSAT del 93 % gracias a la solución omnicanal de Zendesk</description>
-    
+
     <content:encoded><![CDATA[
             <h1>
 <img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-429684234-0.jpg">Ebates consiguió una puntuación CSAT del 93 % gracias a la solución omnicanal de Zendesk</h1>
@@ -1270,10 +1270,10 @@
 <p style="text-align: center;">– Dylan Campopiano<br>
 VP de atención al cliente</p>
 
-            	        
-	        	        
+
+
         </div></div>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Ebates consiguió una puntuación CSAT del 93 % gracias a la solución omnicanal de Zendesk]]></excerpt:encoded>
     <wp:post_id>429684234</wp:post_id>
     <wp:post_date><![CDATA[2018-04-30 16:45:31]]></wp:post_date>
@@ -1287,15 +1287,15 @@ VP de atención al cliente</p>
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="ebates"><![CDATA[Ebates]]></category>
-    
+
     <category domain="post_tag" nicename="ebates"><![CDATA[Ebates]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -1361,7 +1361,7 @@ VP de atención al cliente</p>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Ebates consiguió una puntuación CSAT del 93 % gracias a la solución omnicanal de Zendesk]]></wp:meta_value>
@@ -1438,9 +1438,9 @@ VP de atención al cliente</p>
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Evernote</title>
     <link>https://recursos.zendesk.com.mx/historias-de-clientes/evernote-2/</link>
@@ -1448,7 +1448,7 @@ VP de atención al cliente</p>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/historias-de-clientes/evernote-2</guid>
     <description>Evernote experimentó una reducción de un 17 % en el volumen de tickets después de configurar su Centro de ayuda</description>
-    
+
     <content:encoded><![CDATA[
             <p><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-388567753-0.jpg"></p>
 
@@ -1512,10 +1512,10 @@ El equipo de Hastie atiende 4.000 tickets por semana de clientes de pago y clien
 </div>
 </div>
 
-            	        
-	        	        
+
+
         </div></div>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Evernote experimentó una reducción de un 17 % en el volumen de tickets después de configurar su Centro de ayuda]]></excerpt:encoded>
     <wp:post_id>388567753</wp:post_id>
     <wp:post_date><![CDATA[2017-12-04 18:48:52]]></wp:post_date>
@@ -1529,7 +1529,7 @@ El equipo de Hastie atiende 4.000 tickets por semana de clientes de pago y clien
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -1595,7 +1595,7 @@ El equipo de Hastie atiende 4.000 tickets por semana de clientes de pago y clien
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Evernote experimentó una reducción de un 17 % en el volumen de tickets después de configurar su Centro de ayuda]]></wp:meta_value>
@@ -1672,9 +1672,9 @@ El equipo de Hastie atiende 4.000 tickets por semana de clientes de pago y clien
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Fossil</title>
     <link>https://recursos.zendesk.com.mx/historias-de-clientes/fossil-2/</link>
@@ -1682,7 +1682,7 @@ El equipo de Hastie atiende 4.000 tickets por semana de clientes de pago y clien
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/historias-de-clientes/fossil-2</guid>
     <description>Fossil consolidó herramientas para dar soporte a 14 marcas con Zendesk</description>
-    
+
     <content:encoded><![CDATA[
             <p><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-388548832-0.jpg" style="color: rgb(3, 54, 61); font-family: SHSN; font-size: 32px;"></p>
 
@@ -1754,10 +1754,10 @@ El equipo de Hastie atiende 4.000 tickets por semana de clientes de pago y clien
 
 <p class="author" style="margin: 0px auto; color: rgb(3, 54, 61); font-stretch: normal; line-height: normal; font-family: SHSN; box-sizing: border-box; max-width: 60%; text-align: center;">– Bernie Gessner<span style="box-sizing: border-box; color: rgb(77, 100, 103); display: block; font-stretch: normal; font-size: 13px; line-height: normal; font-family: PNR; margin-top: 5px;">vicepresidente de atención al cliente y operaciones minoristas mundiales</span></p>
 
-            	        
-	        	        
+
+
         </div></div>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Fossil consolidó herramientas para dar soporte a 14 marcas con Zendesk]]></excerpt:encoded>
     <wp:post_id>388548832</wp:post_id>
     <wp:post_date><![CDATA[2017-12-04 16:32:19]]></wp:post_date>
@@ -1771,19 +1771,19 @@ El equipo de Hastie atiende 4.000 tickets por semana de clientes de pago y clien
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-atenci-nalcliente"><![CDATA[#AtenciónAlCliente]]></category>
-    
+
     <category domain="post_tag" nicename="-atenci-nalcliente"><![CDATA[#AtenciónAlCliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-fossil"><![CDATA[#fossil]]></category>
-    
+
     <category domain="post_tag" nicename="-fossil"><![CDATA[#fossil]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -1849,7 +1849,7 @@ El equipo de Hastie atiende 4.000 tickets por semana de clientes de pago y clien
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Fossil consolidó herramientas para dar soporte a 14 marcas con Zendesk]]></wp:meta_value>
@@ -1926,9 +1926,9 @@ El equipo de Hastie atiende 4.000 tickets por semana de clientes de pago y clien
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>GA Tech Solutions</title>
     <link>https://recursos.zendesk.com.mx/historias-de-clientes/ga-tech-solutions/</link>
@@ -1936,7 +1936,7 @@ El equipo de Hastie atiende 4.000 tickets por semana de clientes de pago y clien
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/historias-de-clientes/ga-tech-solutions</guid>
     <description>Rogelio Acebedo, CEO de GA, nos cuenta cómo en su búsqueda por estar a la vanguardia, eligió a Zendesk de entre otras soluciones en el mercado.</description>
-    
+
     <content:encoded><![CDATA[
             <p><span style="color: rgb(0, 0, 0); font-family: SHSN; font-size: 30px;">GA a la vanguardia con Zendesk.</span></p>
 
@@ -1946,10 +1946,10 @@ El equipo de Hastie atiende 4.000 tickets por semana de clientes de pago y clien
 
 <div class="wistia_embed wistia_async_kwpawuqa6y seo=false" style="height:360px;width:640px"> </div>
 
-            	        
-	        	        
+
+
         </div></div>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Rogelio Acebedo, CEO de GA, nos cuenta cómo en su búsqueda por estar a la vanguardia, eligió a Zendesk de entre otras soluciones en el mercado.]]></excerpt:encoded>
     <wp:post_id>421961448</wp:post_id>
     <wp:post_date><![CDATA[2018-04-03 21:26:32]]></wp:post_date>
@@ -1963,19 +1963,19 @@ El equipo de Hastie atiende 4.000 tickets por semana de clientes de pago y clien
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="ga-tech-solutions"><![CDATA[GA Tech Solutions]]></category>
-    
+
     <category domain="post_tag" nicename="ga-tech-solutions"><![CDATA[GA Tech Solutions]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="customer-success"><![CDATA[customer success]]></category>
-    
+
     <category domain="post_tag" nicename="customer-success"><![CDATA[customer success]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2041,7 +2041,7 @@ El equipo de Hastie atiende 4.000 tickets por semana de clientes de pago y clien
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Rogelio Acebedo, CEO de GA, nos cuenta cómo en su búsqueda por estar a la vanguardia, eligió a Zendesk de entre otras soluciones en el mercado.]]></wp:meta_value>
@@ -2118,9 +2118,9 @@ El equipo de Hastie atiende 4.000 tickets por semana de clientes de pago y clien
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>iVoy impulsa la relación con sus clientes de la mano de Zendesk</title>
     <link>https://recursos.zendesk.com.mx/historias-de-clientes/ivoy-mx/</link>
@@ -2128,7 +2128,7 @@ El equipo de Hastie atiende 4.000 tickets por semana de clientes de pago y clien
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/historias-de-clientes/ivoy-mx</guid>
     <description>Ivoy aumentó 98% de CSAT y redujo en menos de 60 minutos el tiempo de resolución de consultas</description>
-    
+
     <content:encoded><![CDATA[
             <h4 dir="ltr" style="text-align: center;"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-465811406-0.png" style="width: 400px; height: 174px;"></h4>
 
@@ -2174,10 +2174,10 @@ El equipo de Hastie atiende 4.000 tickets por semana de clientes de pago y clien
 
 <p dir="ltr"><span id="docs-internal-guid-13f551ea-7fff-346b-44d6-ba35827c3756">“Hoy, podemos investigar y brindarle al cliente una solución en menos de 60 minutos. Dependiendo el caso, hemos llegado a un 98% de satisfacción con nuestros clientes”, </span>Bryan Campos, Gerente de Operaciones de iVoy.</p>
 
-            	        
-	        	        
+
+
         </div></div>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Ivoy aumentó 98% de CSAT y redujo en menos de 60 minutos el tiempo de resolución de consultas]]></excerpt:encoded>
     <wp:post_id>465811406</wp:post_id>
     <wp:post_date><![CDATA[2018-09-24 15:15:32]]></wp:post_date>
@@ -2191,31 +2191,31 @@ El equipo de Hastie atiende 4.000 tickets por semana de clientes de pago y clien
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="empresas"><![CDATA[empresas]]></category>
-    
+
     <category domain="post_tag" nicename="empresas"><![CDATA[empresas]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="ivoy"><![CDATA[ivoy]]></category>
-    
+
     <category domain="post_tag" nicename="ivoy"><![CDATA[ivoy]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="servicio-al-cliente"><![CDATA[servicio al cliente]]></category>
-    
+
     <category domain="post_tag" nicename="servicio-al-cliente"><![CDATA[servicio al cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-chat"><![CDATA[Zendesk Chat]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-chat"><![CDATA[Zendesk Chat]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2281,7 +2281,7 @@ El equipo de Hastie atiende 4.000 tickets por semana de clientes de pago y clien
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Ivoy aumentó 98% de CSAT y redujo en menos de 60 minutos el tiempo de resolución de consultas]]></wp:meta_value>
@@ -2358,9 +2358,9 @@ El equipo de Hastie atiende 4.000 tickets por semana de clientes de pago y clien
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Kueski</title>
     <link>https://recursos.zendesk.com.mx/historias-de-clientes/kueski/</link>
@@ -2368,7 +2368,7 @@ El equipo de Hastie atiende 4.000 tickets por semana de clientes de pago y clien
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/historias-de-clientes/kueski</guid>
     <description>Kueski está en un mismo canal con Zendesk</description>
-    
+
     <content:encoded><![CDATA[
             <p><span style="font-family: SHSN; font-size: 48px;">Kueski y Zendesk están en el mismo canal</span></p>
 
@@ -2377,10 +2377,10 @@ El equipo de Hastie atiende 4.000 tickets por semana de clientes de pago y clien
 
 <div class="wistia_embed wistia_async_felqyf8a3s seo=false" style="height:360px;width:640px"> </div>
 
-            	        
-	        	        
+
+
         </div></div>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Kueski está en un mismo canal con Zendesk]]></excerpt:encoded>
     <wp:post_id>398615246</wp:post_id>
     <wp:post_date><![CDATA[2018-01-11 11:23:47]]></wp:post_date>
@@ -2394,23 +2394,23 @@ El equipo de Hastie atiende 4.000 tickets por semana de clientes de pago y clien
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="kueski"><![CDATA[kueski]]></category>
-    
+
     <category domain="post_tag" nicename="kueski"><![CDATA[kueski]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
-    
+
     <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2476,7 +2476,7 @@ El equipo de Hastie atiende 4.000 tickets por semana de clientes de pago y clien
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Kueski está en un mismo canal con Zendesk]]></wp:meta_value>
@@ -2553,9 +2553,9 @@ El equipo de Hastie atiende 4.000 tickets por semana de clientes de pago y clien
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>LimeBike</title>
     <link>https://recursos.zendesk.com.mx/historias-de-clientes/limebike/</link>
@@ -2563,7 +2563,7 @@ El equipo de Hastie atiende 4.000 tickets por semana de clientes de pago y clien
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/historias-de-clientes/limebike</guid>
     <description>LimeBike se sube al camino del crecimiento con Zendesk</description>
-    
+
     <content:encoded><![CDATA[
             <ul dir="ltr">
 	<li><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-486824654-0.jpg" style="width: 1000px; height: 400px;"></li>
@@ -2642,10 +2642,10 @@ El equipo de Hastie atiende 4.000 tickets por semana de clientes de pago y clien
 
 <div> </div>
 
-            	        
-	        	        
+
+
         </div></div>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[LimeBike se sube al camino del crecimiento con Zendesk]]></excerpt:encoded>
     <wp:post_id>486824654</wp:post_id>
     <wp:post_date><![CDATA[2018-12-18 7:36:04]]></wp:post_date>
@@ -2659,31 +2659,31 @@ El equipo de Hastie atiende 4.000 tickets por semana de clientes de pago y clien
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="am-rica"><![CDATA[América]]></category>
-    
+
     <category domain="post_tag" nicename="am-rica"><![CDATA[América]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-europa"><![CDATA[ Europa]]></category>
-    
+
     <category domain="post_tag" nicename="-europa"><![CDATA[ Europa]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="support"><![CDATA[Support]]></category>
-    
+
     <category domain="post_tag" nicename="support"><![CDATA[Support]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="internet-y-m-vil"><![CDATA[Internet y móvil]]></category>
-    
+
     <category domain="post_tag" nicename="internet-y-m-vil"><![CDATA[Internet y móvil]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="connect"><![CDATA[Connect]]></category>
-    
+
     <category domain="post_tag" nicename="connect"><![CDATA[Connect]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="viajes-y-hospitalidad"><![CDATA[Viajes y hospitalidad]]></category>
-    
+
     <category domain="post_tag" nicename="viajes-y-hospitalidad"><![CDATA[Viajes y hospitalidad]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2749,7 +2749,7 @@ El equipo de Hastie atiende 4.000 tickets por semana de clientes de pago y clien
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[LimeBike se sube al camino del crecimiento con Zendesk]]></wp:meta_value>
@@ -2826,9 +2826,9 @@ El equipo de Hastie atiende 4.000 tickets por semana de clientes de pago y clien
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>NatureBox</title>
     <link>https://recursos.zendesk.com.mx/historias-de-clientes/naturebox-2/</link>
@@ -2836,7 +2836,7 @@ El equipo de Hastie atiende 4.000 tickets por semana de clientes de pago y clien
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/historias-de-clientes/naturebox-2</guid>
     <description>NatureBox redujo el volumen de llamadas telefónicas en un 60 % gracias a Zendesk Chat</description>
-    
+
     <content:encoded><![CDATA[
             <h1 style="font-family: PNR; margin: 0px auto 30px; color: rgb(146, 146, 146); font-stretch: normal; font-size: 22px; line-height: 33px; box-sizing: border-box;"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-389670340-0.jpg"></h1>
 
@@ -2890,10 +2890,10 @@ Productos Usados: Chat, Guide, Support, Talk </strong></p>
 
 <p> </p>
 
-            	        
-	        	        
+
+
         </div></div>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[NatureBox redujo el volumen de llamadas telefónicas en un 60 % gracias a Zendesk Chat]]></excerpt:encoded>
     <wp:post_id>389670340</wp:post_id>
     <wp:post_date><![CDATA[2017-12-08 14:17:20]]></wp:post_date>
@@ -2907,15 +2907,15 @@ Productos Usados: Chat, Guide, Support, Talk </strong></p>
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="-naturebox"><![CDATA[#NatureBox]]></category>
-    
+
     <category domain="post_tag" nicename="-naturebox"><![CDATA[#NatureBox]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2981,7 +2981,7 @@ Productos Usados: Chat, Guide, Support, Talk </strong></p>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[NatureBox redujo el volumen de llamadas telefónicas en un 60 % gracias a Zendesk Chat]]></wp:meta_value>
@@ -3058,9 +3058,9 @@ Productos Usados: Chat, Guide, Support, Talk </strong></p>
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Play Telecom</title>
     <link>https://recursos.zendesk.com.mx/historias-de-clientes/telecom/</link>
@@ -3068,7 +3068,7 @@ Productos Usados: Chat, Guide, Support, Talk </strong></p>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/historias-de-clientes/telecom</guid>
     <description>Telecom utiliza Zendesk para resolver problemas que van más allá del servicio al cliente.</description>
-    
+
     <content:encoded><![CDATA[
             <p><span style="color: rgb(0, 0, 0); font-family: SHSN; font-size: 30px;">Play Telecom utiliza Zendesk para resolver problemas que van más allá del servicio al cliente.</span></p>
 
@@ -3079,10 +3079,10 @@ Productos Usados: Chat, Guide, Support, Talk </strong></p>
 
 <div class="wistia_embed wistia_async_6ruvp3jjli seo=false" style="height:360px;width:640px"> </div>
 
-            	        
-	        	        
+
+
         </div></div>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Telecom utiliza Zendesk para resolver problemas que van más allá del servicio al cliente.]]></excerpt:encoded>
     <wp:post_id>421918869</wp:post_id>
     <wp:post_date><![CDATA[2018-04-03 15:26:14]]></wp:post_date>
@@ -3096,19 +3096,19 @@ Productos Usados: Chat, Guide, Support, Talk </strong></p>
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="customer-success"><![CDATA[customer success]]></category>
-    
+
     <category domain="post_tag" nicename="customer-success"><![CDATA[customer success]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="play-telecom"><![CDATA[Play Telecom]]></category>
-    
+
     <category domain="post_tag" nicename="play-telecom"><![CDATA[Play Telecom]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -3174,7 +3174,7 @@ Productos Usados: Chat, Guide, Support, Talk </strong></p>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Telecom utiliza Zendesk para resolver problemas que van más allá del servicio al cliente.]]></wp:meta_value>
@@ -3251,9 +3251,9 @@ Productos Usados: Chat, Guide, Support, Talk </strong></p>
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Rappi</title>
     <link>https://recursos.zendesk.com.mx/historias-de-clientes/rappi/</link>
@@ -3261,7 +3261,7 @@ Productos Usados: Chat, Guide, Support, Talk </strong></p>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/historias-de-clientes/rappi</guid>
     <description>El servicio 24x7 de Rappi necesitaba una atención 24x7 como la de Zendesk</description>
-    
+
     <content:encoded><![CDATA[
             <h2>El servicio 24x7 de Rappi necesitaba una atención como la de Zendesk</h2>
 
@@ -3270,10 +3270,10 @@ Productos Usados: Chat, Guide, Support, Talk </strong></p>
 
 <div class="wistia_embed wistia_async_soae6krfh9 seo=false" style="height:360px;width:640px"> </div>
 
-            	        
-	        	        
+
+
         </div></div>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[El servicio 24x7 de Rappi necesitaba una atención 24x7 como la de Zendesk]]></excerpt:encoded>
     <wp:post_id>393617753</wp:post_id>
     <wp:post_date><![CDATA[2018-02-07 16:41:25]]></wp:post_date>
@@ -3287,7 +3287,7 @@ Productos Usados: Chat, Guide, Support, Talk </strong></p>
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -3353,7 +3353,7 @@ Productos Usados: Chat, Guide, Support, Talk </strong></p>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[El servicio 24x7 de Rappi necesitaba una atención 24x7 como la de Zendesk]]></wp:meta_value>
@@ -3430,9 +3430,9 @@ Productos Usados: Chat, Guide, Support, Talk </strong></p>
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Resuelve tu Deuda</title>
     <link>https://recursos.zendesk.com.mx/historias-de-clientes/resuelve-tu-deuda-aumenta-la-confianza-de-sus-clientes-de-la-mano-de-zendesk/</link>
@@ -3440,7 +3440,7 @@ Productos Usados: Chat, Guide, Support, Talk </strong></p>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/historias-de-clientes/resuelve-tu-deuda-aumenta-la-confianza-de-sus-clientes-de-la-mano-de-zendesk</guid>
     <description>Descubre cómo Zendesk ayudó a Resuelve tu Deuda a mejorar sus canales de comunicación con sus clientes.</description>
-    
+
     <content:encoded><![CDATA[
             <h2><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-430785186-0.jpg" style="width: 900px; height: 500px;"></h2>
 
@@ -3460,10 +3460,10 @@ Productos Usados: Chat, Guide, Support, Talk </strong></p>
 
 <p><strong>Si deseas conocer más acerca de cómo Zendesk ayuda a construir mejores experiencias de cliente, visita <a href="https://www.zendesk.com.mx/">nuestro sitio web</a>.</strong></p>
 
-            	        
-	        	        
+
+
         </div></div>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Descubre cómo Zendesk ayudó a Resuelve tu Deuda a mejorar sus canales de comunicación con sus clientes.]]></excerpt:encoded>
     <wp:post_id>430785186</wp:post_id>
     <wp:post_date><![CDATA[2018-05-04 12:57:22]]></wp:post_date>
@@ -3477,19 +3477,19 @@ Productos Usados: Chat, Guide, Support, Talk </strong></p>
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="resuelve-tu-deuda"><![CDATA[Resuelve tu Deuda]]></category>
-    
+
     <category domain="post_tag" nicename="resuelve-tu-deuda"><![CDATA[Resuelve tu Deuda]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="customer-success"><![CDATA[customer success]]></category>
-    
+
     <category domain="post_tag" nicename="customer-success"><![CDATA[customer success]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -3555,7 +3555,7 @@ Productos Usados: Chat, Guide, Support, Talk </strong></p>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Descubre cómo Zendesk ayudó a Resuelve tu Deuda a mejorar sus canales de comunicación con sus clientes.]]></wp:meta_value>
@@ -3632,9 +3632,9 @@ Productos Usados: Chat, Guide, Support, Talk </strong></p>
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Segurointeligente.mx</title>
     <link>https://recursos.zendesk.com.mx/historias-de-clientes/segurointeligente-mx/</link>
@@ -3642,7 +3642,7 @@ Productos Usados: Chat, Guide, Support, Talk </strong></p>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/historias-de-clientes/segurointeligente-mx</guid>
     <description>Para segurointeligente.mx, la buena gestión al atender a sus clientes es esencial. ¿Lo ha conseguido?</description>
-    
+
     <content:encoded><![CDATA[
             <h2>Segurointeligente.mx y la buena gestión con Zendesk</h2>
 
@@ -3651,10 +3651,10 @@ Productos Usados: Chat, Guide, Support, Talk </strong></p>
 
 <div class="wistia_embed wistia_async_lkufqugbpi seo=false" style="height:388px;width:640px"> </div>
 
-            	        
-	        	        
+
+
         </div></div>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Para segurointeligente.mx, la buena gestión al atender a sus clientes es esencial. ¿Lo ha conseguido?]]></excerpt:encoded>
     <wp:post_id>422265123</wp:post_id>
     <wp:post_date><![CDATA[2018-04-04 18:36:07]]></wp:post_date>
@@ -3668,19 +3668,19 @@ Productos Usados: Chat, Guide, Support, Talk </strong></p>
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="segurointeligente-mx"><![CDATA[segurointeligente.mx]]></category>
-    
+
     <category domain="post_tag" nicename="segurointeligente-mx"><![CDATA[segurointeligente.mx]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="customer-success"><![CDATA[customer success]]></category>
-    
+
     <category domain="post_tag" nicename="customer-success"><![CDATA[customer success]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -3746,7 +3746,7 @@ Productos Usados: Chat, Guide, Support, Talk </strong></p>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Para segurointeligente.mx, la buena gestión al atender a sus clientes es esencial. ¿Lo ha conseguido?]]></wp:meta_value>
@@ -3823,9 +3823,9 @@ Productos Usados: Chat, Guide, Support, Talk </strong></p>
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>SkyAlert</title>
     <link>https://recursos.zendesk.com.mx/historias-de-clientes/skyalert/</link>
@@ -3833,7 +3833,7 @@ Productos Usados: Chat, Guide, Support, Talk </strong></p>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/historias-de-clientes/skyalert</guid>
     <description>SkyAlert se asegura que cada uno de sus clientes sea atendido, para ello, utiliza Zendesk.</description>
-    
+
     <content:encoded><![CDATA[
             <p><span style="color: rgb(0, 0, 0); font-family: SHSN; font-size: 30px;">SkyAlert se asegura que cada uno de sus clientes sea atendido, para ello, utiliza Zendesk.</span></p>
 
@@ -3842,10 +3842,10 @@ Productos Usados: Chat, Guide, Support, Talk </strong></p>
 
 <div class="wistia_embed wistia_async_g2wmespebg seo=false" style="height:360px;width:640px"> </div>
 
-            	        
-	        	        
+
+
         </div></div>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[SkyAlert se asegura que cada uno de sus clientes sea atendido, para ello, utiliza Zendesk.]]></excerpt:encoded>
     <wp:post_id>421955049</wp:post_id>
     <wp:post_date><![CDATA[2018-04-03 17:46:15]]></wp:post_date>
@@ -3859,19 +3859,19 @@ Productos Usados: Chat, Guide, Support, Talk </strong></p>
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="skyalert"><![CDATA[skyalert]]></category>
-    
+
     <category domain="post_tag" nicename="skyalert"><![CDATA[skyalert]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="customer-success"><![CDATA[customer success]]></category>
-    
+
     <category domain="post_tag" nicename="customer-success"><![CDATA[customer success]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -3937,7 +3937,7 @@ Productos Usados: Chat, Guide, Support, Talk </strong></p>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[SkyAlert se asegura que cada uno de sus clientes sea atendido, para ello, utiliza Zendesk.]]></wp:meta_value>
@@ -4014,9 +4014,9 @@ Productos Usados: Chat, Guide, Support, Talk </strong></p>
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Spartan Race</title>
     <link>https://recursos.zendesk.com.mx/historias-de-clientes/spartan-race-2/</link>
@@ -4024,7 +4024,7 @@ Productos Usados: Chat, Guide, Support, Talk </strong></p>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/historias-de-clientes/spartan-race-2</guid>
     <description>Spartan Race redujo drásticamente sus tiempos de respuesta con Zendesk Support</description>
-    
+
     <content:encoded><![CDATA[
             <h1 style="font-family: PNR; margin: 0px auto 30px; color: rgb(146, 146, 146); font-stretch: normal; font-size: 22px; line-height: 33px; box-sizing: border-box;">
 <img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-389686174-0.jpg">VOLUMEN PROM. DE TICKETS/ANO MUNDIALMENTE: 19,000<br>
@@ -4069,10 +4069,10 @@ Productos Usados: Chat, Guide, Support </h1>
 <div> </div>
 </div>
 
-            	        
-	        	        
+
+
         </div></div>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Spartan Race redujo drásticamente sus tiempos de respuesta con Zendesk Support]]></excerpt:encoded>
     <wp:post_id>389686174</wp:post_id>
     <wp:post_date><![CDATA[2017-12-08 14:41:16]]></wp:post_date>
@@ -4086,15 +4086,15 @@ Productos Usados: Chat, Guide, Support </h1>
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="-spartanrace"><![CDATA[#SpartanRace]]></category>
-    
+
     <category domain="post_tag" nicename="-spartanrace"><![CDATA[#SpartanRace]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -4160,7 +4160,7 @@ Productos Usados: Chat, Guide, Support </h1>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Spartan Race redujo drásticamente sus tiempos de respuesta con Zendesk Support]]></wp:meta_value>
@@ -4237,9 +4237,9 @@ Productos Usados: Chat, Guide, Support </h1>
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Uber</title>
     <link>https://recursos.zendesk.com.mx/historias-de-clientes/uber-2/</link>
@@ -4247,7 +4247,7 @@ Productos Usados: Chat, Guide, Support </h1>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/historias-de-clientes/uber-2</guid>
     <description>Muy pocas compañías han alcanzado el nivel de éxito que hace que su nombre se convierta en un verbo (en inglés).</description>
-    
+
     <content:encoded><![CDATA[
             <p style="text-align: justify;"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-383526397-0.jpg"></p>
 
@@ -4297,10 +4297,10 @@ Productos Usados: Chat, Guide, Support </h1>
 <p class="author" style="margin: 0px auto; color: rgb(3, 54, 61); font-stretch: normal; font-size: 20px; line-height: normal; font-family: SHSN; box-sizing: border-box; max-width: 60%;">– Michael Mizrahi<span style="box-sizing: border-box; color: rgb(77, 100, 103); display: block; font-stretch: normal; font-size: 13px; line-height: normal; font-family: PNR; margin-top: 5px;">operaciones de la comunidad</span></p>
 </section>
 
-            	        
-	        	        
+
+
         </div></div>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Muy pocas compañías han alcanzado el nivel de éxito que hace que su nombre se convierta en un verbo (en inglés).]]></excerpt:encoded>
     <wp:post_id>383526397</wp:post_id>
     <wp:post_date><![CDATA[2017-11-21 13:10:22]]></wp:post_date>
@@ -4314,7 +4314,7 @@ Productos Usados: Chat, Guide, Support </h1>
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -4380,7 +4380,7 @@ Productos Usados: Chat, Guide, Support </h1>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Muy pocas compañías han alcanzado el nivel de éxito que hace que su nombre se convierta en un verbo (en inglés).]]></wp:meta_value>
@@ -4457,9 +4457,9 @@ Productos Usados: Chat, Guide, Support </h1>
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>WeWork</title>
     <link>https://recursos.zendesk.com.mx/historias-de-clientes/wework/</link>
@@ -4467,7 +4467,7 @@ Productos Usados: Chat, Guide, Support </h1>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/historias-de-clientes/wework</guid>
     <description>Wework elige a Zendesk para brindar experiencias únicas a sus clientes.</description>
-    
+
     <content:encoded><![CDATA[
             <p><img alt="" src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/07/WeWork.jpg" style="width: 1167px; height: 620px;"></p>
 
@@ -4487,10 +4487,10 @@ Productos Usados: Chat, Guide, Support </h1>
 
 <p>Dada la naturaleza, orígenes, trayectorias y misiones de Zendesk y WeWork, la asociación tiene sentido y su compatibilidad no causa sorpresa. Ambas empresas se fundaron con la idea de dar un mejor servicio y establecer excelentes relaciones con los miembros de la comunidad. </p>
 
-            	        
-	        	        
+
+
         </div></div>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Wework elige a Zendesk para brindar experiencias únicas a sus clientes.]]></excerpt:encoded>
     <wp:post_id>393615086</wp:post_id>
     <wp:post_date><![CDATA[2017-12-22 14:13:34]]></wp:post_date>
@@ -4504,23 +4504,23 @@ Productos Usados: Chat, Guide, Support </h1>
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="wework"><![CDATA[wework]]></category>
-    
+
     <category domain="post_tag" nicename="wework"><![CDATA[wework]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
-    
+
     <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-atenci-nalcliente"><![CDATA[#AtenciónAlCliente]]></category>
-    
+
     <category domain="post_tag" nicename="-atenci-nalcliente"><![CDATA[#AtenciónAlCliente]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -4586,7 +4586,7 @@ Productos Usados: Chat, Guide, Support </h1>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Wework elige a Zendesk para brindar experiencias únicas a sus clientes.]]></wp:meta_value>
@@ -4663,9 +4663,9 @@ Productos Usados: Chat, Guide, Support </h1>
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>11 pasos hacia un mejor documento de solicitud de propuestas de atención al cliente</title>
     <link>https://recursos.zendesk.com.mx/recursos/11-pasos-hacia-un-mejor-documento-de-solicitud-de-propuestas-de-atención-al-cliente/</link>
@@ -4673,7 +4673,7 @@ Productos Usados: Chat, Guide, Support </h1>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/11-pasos-hacia-un-mejor-documento-de-solicitud-de-propuestas-de-atención-al-cliente</guid>
     <description></description>
-    
+
     <excerpt:encoded><![CDATA[Los analistas del sector dicen que las organizaciones cambian sus herramientas de atención al cliente cada cinco años en promedio.]]></excerpt:encoded>
     <wp:post_id>386695147</wp:post_id>
     <wp:post_date><![CDATA[2017-11-27 17:06:15]]></wp:post_date>
@@ -4687,7 +4687,7 @@ Productos Usados: Chat, Guide, Support </h1>
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -4753,7 +4753,7 @@ Productos Usados: Chat, Guide, Support </h1>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -4842,8 +4842,8 @@ Productos Usados: Chat, Guide, Support </h1>
 </div>
 
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -4854,9 +4854,9 @@ Productos Usados: Chat, Guide, Support </h1>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>4 tendencias esenciales del comercio minorista para la época navideña de 2018</title>
     <link>https://recursos.zendesk.com.mx/recursos/comercio-minorista-epoca-navidena/</link>
@@ -4864,7 +4864,7 @@ Productos Usados: Chat, Guide, Support </h1>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/comercio-minorista-epoca-navidena</guid>
     <description>Para tener éxito en la época navideña, las compañías deben identificar la estrategia omnicanal óptima.</description>
-    
+
     <excerpt:encoded><![CDATA[Para tener éxito en la época navideña, las compañías deben identificar la estrategia omnicanal óptima.]]></excerpt:encoded>
     <wp:post_id>420539904</wp:post_id>
     <wp:post_date><![CDATA[2018-03-29 15:23:13]]></wp:post_date>
@@ -4878,31 +4878,31 @@ Productos Usados: Chat, Guide, Support </h1>
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="comercio-minorista"><![CDATA[comercio minorista]]></category>
-    
+
     <category domain="post_tag" nicename="comercio-minorista"><![CDATA[comercio minorista]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
-    
+
     <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-poca-navide-a"><![CDATA[época navideña]]></category>
-    
+
     <category domain="post_tag" nicename="-poca-navide-a"><![CDATA[época navideña]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="omnicanal"><![CDATA[omnicanal]]></category>
-    
+
     <category domain="post_tag" nicename="omnicanal"><![CDATA[omnicanal]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="omnichannel"><![CDATA[omnichannel]]></category>
-    
+
     <category domain="post_tag" nicename="omnichannel"><![CDATA[omnichannel]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -4968,7 +4968,7 @@ Productos Usados: Chat, Guide, Support </h1>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -5047,8 +5047,8 @@ Productos Usados: Chat, Guide, Support </h1>
 <p>Si su negocio aún no ha adoptado una estrategia de atención omnicanal, descargue el e-book <strong>4 tendencias esenciales del comercio minorista para la época navideña de 2018</strong>.  Ya es hora.</p>
 
 <iframe src="https://recursos.zendesk.com.mx/hubsFront/embed_cta/119025" scroll="none" border="0" frameborder="0" width="420" height="595"></iframe>
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -5059,9 +5059,9 @@ Productos Usados: Chat, Guide, Support </h1>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Atención omnicanal sin fricciones</title>
     <link>https://recursos.zendesk.com.mx/recursos/atencion-omnicanal-sin-fricciones/</link>
@@ -5069,7 +5069,7 @@ Productos Usados: Chat, Guide, Support </h1>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/atencion-omnicanal-sin-fricciones</guid>
     <description>Implementar un enfoque de atención al cliente omnicanal, que integre todos los canales de soporte, para optimizar la comunicación, es clave para alcanzar esta experiencia.</description>
-    
+
     <excerpt:encoded><![CDATA[Implementar un enfoque de atención al cliente omnicanal, que integre todos los canales de soporte, para optimizar la comunicación, es clave para alcanzar esta experiencia]]></excerpt:encoded>
     <wp:post_id>474833657</wp:post_id>
     <wp:post_date><![CDATA[2018-10-29 16:59:25]]></wp:post_date>
@@ -5083,31 +5083,31 @@ Productos Usados: Chat, Guide, Support </h1>
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="experiencia-del-cliente"><![CDATA[experiencia del cliente]]></category>
-    
+
     <category domain="post_tag" nicename="experiencia-del-cliente"><![CDATA[experiencia del cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="omnichannel"><![CDATA[omnichannel]]></category>
-    
+
     <category domain="post_tag" nicename="omnichannel"><![CDATA[omnichannel]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="omnicanal"><![CDATA[omnicanal]]></category>
-    
+
     <category domain="post_tag" nicename="omnicanal"><![CDATA[omnicanal]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="infograf-a"><![CDATA[infografía]]></category>
-    
+
     <category domain="post_tag" nicename="infograf-a"><![CDATA[infografía]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -5173,7 +5173,7 @@ Productos Usados: Chat, Guide, Support </h1>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -5253,8 +5253,8 @@ Productos Usados: Chat, Guide, Support </h1>
 
 <p>¿Cómo hacerlo? <a href="https://zen-marketing-pt.s3.amazonaws.com/pt/360_Velocity_ESLATAM_Info.pdf">Descarga la infografía y descúbrelo.</a></p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -5265,9 +5265,9 @@ Productos Usados: Chat, Guide, Support </h1>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Atención omnicanal: tu cliente y tu empresa la necesitan</title>
     <link>https://recursos.zendesk.com.mx/recursos/atencion-omnicanal/</link>
@@ -5275,7 +5275,7 @@ Productos Usados: Chat, Guide, Support </h1>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/atencion-omnicanal</guid>
     <description>Vea en este e-book cómo y por qué la solución de Zendesk hace de la atención al cliente una experiencia completa.</description>
-    
+
     <excerpt:encoded><![CDATA[Vea en este e-book cómo y por qué la solución de Zendesk hace de la atención al cliente una experiencia completa.]]></excerpt:encoded>
     <wp:post_id>474804104</wp:post_id>
     <wp:post_date><![CDATA[2018-10-29 14:46:48]]></wp:post_date>
@@ -5289,23 +5289,23 @@ Productos Usados: Chat, Guide, Support </h1>
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="omnicanal"><![CDATA[omnicanal]]></category>
-    
+
     <category domain="post_tag" nicename="omnicanal"><![CDATA[omnicanal]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="omnichannel"><![CDATA[omnichannel]]></category>
-    
+
     <category domain="post_tag" nicename="omnichannel"><![CDATA[omnichannel]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -5371,7 +5371,7 @@ Productos Usados: Chat, Guide, Support </h1>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -5455,8 +5455,8 @@ Productos Usados: Chat, Guide, Support </h1>
 
 <iframe src="https://recursos.zendesk.com.mx/hubsFront/embed_cta/167444" scroll="none" border="0" frameborder="0" width="420" height="595"></iframe>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -5467,9 +5467,9 @@ Productos Usados: Chat, Guide, Support </h1>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Clientes felices, resultados positivos</title>
     <link>https://recursos.zendesk.com.mx/recursos/clientes-felices-resultados-positivos/</link>
@@ -5477,7 +5477,7 @@ Productos Usados: Chat, Guide, Support </h1>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/clientes-felices-resultados-positivos</guid>
     <description>como puede ahorrar dinero con una atención al cliente ágil. Descubra como puede reducir el tiempo de respuesta de 35-40 horas hasta 1-2 horas por ticket. Vea como puede reducir el volumen de correos u</description>
-    
+
     <excerpt:encoded><![CDATA[como puede ahorrar dinero con una atención al cliente ágil. Descubra como puede reducir el tiempo de respuesta de 35-40 horas hasta 1-2 horas por ticket.]]></excerpt:encoded>
     <wp:post_id>380971072</wp:post_id>
     <wp:post_date><![CDATA[2017-11-06 19:50:14]]></wp:post_date>
@@ -5491,7 +5491,7 @@ Productos Usados: Chat, Guide, Support </h1>
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -5557,7 +5557,7 @@ Productos Usados: Chat, Guide, Support </h1>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -5641,8 +5641,8 @@ Productos Usados: Chat, Guide, Support </h1>
 
 <p><span id="docs-internal-guid-1fe41739-93f2-8ad7-c28d-b2dcfbcedfe3"><a href="https://zen-marketing-pt.s3.amazonaws.com/pt/Campaigns%202017%20LATAM/ROI_CustomerCare_Final_ebook_es-MX.pdf"><span style="font-size: 13.5pt; font-family: Arial; color: rgb(0, 92, 161); background-color: transparent; text-decoration-line: underline; vertical-align: baseline; white-space: pre-wrap;">Descargue ahora</span></a><span style="font-size: 13.5pt; font-family: Arial; color: rgb(54, 47, 45); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">.</span></span></p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -5653,9 +5653,9 @@ Productos Usados: Chat, Guide, Support </h1>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Cómo el chat en vivo ayuda a los negocios y consumidores</title>
     <link>https://recursos.zendesk.com.mx/recursos/cómo-el-chat-en-vivo-ayuda-a-los-negocios-y-consumidores/</link>
@@ -5663,7 +5663,7 @@ Productos Usados: Chat, Guide, Support </h1>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/cómo-el-chat-en-vivo-ayuda-a-los-negocios-y-consumidores</guid>
     <description>El uso del chat en vivo se ha disparado de un 30% en 2009 a un 52% en 2013, y sigue subiendo.</description>
-    
+
     <excerpt:encoded><![CDATA[El uso del chat en vivo se ha disparado de un 30% en 2009 a un 52% en 2013, y sigue subiendo.]]></excerpt:encoded>
     <wp:post_id>380957311</wp:post_id>
     <wp:post_date><![CDATA[2017-11-06 18:43:07]]></wp:post_date>
@@ -5677,27 +5677,27 @@ Productos Usados: Chat, Guide, Support </h1>
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="-chat"><![CDATA[#chat]]></category>
-    
+
     <category domain="post_tag" nicename="-chat"><![CDATA[#chat]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-colecciones"><![CDATA[#colecciones]]></category>
-    
+
     <category domain="post_tag" nicename="-colecciones"><![CDATA[#colecciones]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-chat-en-vivo"><![CDATA[#Chat en Vivo]]></category>
-    
+
     <category domain="post_tag" nicename="-chat-en-vivo"><![CDATA[#Chat en Vivo]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-canales-de-soporte"><![CDATA[#Canales de Soporte]]></category>
-    
+
     <category domain="post_tag" nicename="-canales-de-soporte"><![CDATA[#Canales de Soporte]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -5763,7 +5763,7 @@ Productos Usados: Chat, Guide, Support </h1>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -5858,8 +5858,8 @@ Productos Usados: Chat, Guide, Support </h1>
 </ul>
 </div>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -5870,9 +5870,9 @@ Productos Usados: Chat, Guide, Support </h1>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Cómo proporcionar una atención al cliente de calidad en las redes sociales</title>
     <link>https://recursos.zendesk.com.mx/recursos/atencion-al-cliente-calidad-redes-sociales/</link>
@@ -5880,7 +5880,7 @@ Productos Usados: Chat, Guide, Support </h1>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/atencion-al-cliente-calidad-redes-sociales</guid>
     <description>Entienda como proporcionar una atención al cliente de calidad en las redes sociales en este e-book de Zendesk y Sprout Social.</description>
-    
+
     <excerpt:encoded><![CDATA[Entienda como proporcionar una atención al cliente de calidad en las redes sociales en este e-book de Zendesk y Sprout Social.]]></excerpt:encoded>
     <wp:post_id>441284090</wp:post_id>
     <wp:post_date><![CDATA[2018-06-15 11:52:30]]></wp:post_date>
@@ -5894,27 +5894,27 @@ Productos Usados: Chat, Guide, Support </h1>
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
-    
+
     <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="sprout-social"><![CDATA[sprout social]]></category>
-    
+
     <category domain="post_tag" nicename="sprout-social"><![CDATA[sprout social]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="redes-sociales"><![CDATA[redes sociales]]></category>
-    
+
     <category domain="post_tag" nicename="redes-sociales"><![CDATA[redes sociales]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -5980,7 +5980,7 @@ Productos Usados: Chat, Guide, Support </h1>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -6064,8 +6064,8 @@ Sin embargo, la atención al cliente en las redes sociales sigue siendo un desaf
 
 <p><iframe border="0" frameborder="0" height="595" scroll="none" src="https://recursos.zendesk.com.mx/hubsFront/embed_cta/131600" width="420"></iframe></p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -6076,9 +6076,9 @@ Sin embargo, la atención al cliente en las redes sociales sigue siendo un desaf
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Cómo responder a los comentarios en las redes sociales</title>
     <link>https://recursos.zendesk.com.mx/recursos/responder-comentarios-redes-sociales/</link>
@@ -6086,7 +6086,7 @@ Sin embargo, la atención al cliente en las redes sociales sigue siendo un desaf
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/responder-comentarios-redes-sociales</guid>
     <description>Esta infografía de Zendesk y Sprout Social explica por qué los comentarios en las redes sociales son realmente importante.</description>
-    
+
     <excerpt:encoded><![CDATA[Esta infografía de Zendesk y Sprout Social explica por qué los comentarios en las redes sociales son realmente importante.]]></excerpt:encoded>
     <wp:post_id>442139117</wp:post_id>
     <wp:post_date><![CDATA[2018-06-19 12:08:16]]></wp:post_date>
@@ -6100,23 +6100,23 @@ Sin embargo, la atención al cliente en las redes sociales sigue siendo un desaf
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="sprout-social"><![CDATA[sprout social]]></category>
-    
+
     <category domain="post_tag" nicename="sprout-social"><![CDATA[sprout social]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="redes-sociales"><![CDATA[redes sociales]]></category>
-    
+
     <category domain="post_tag" nicename="redes-sociales"><![CDATA[redes sociales]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -6182,7 +6182,7 @@ Sin embargo, la atención al cliente en las redes sociales sigue siendo un desaf
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -6262,8 +6262,8 @@ Sin embargo, la atención al cliente en las redes sociales sigue siendo un desaf
 
 <p><!--?xml version="1.0" encoding="UTF-8"?--><span style='font-size: 12pt; white-space: pre-wrap; font-family: "Proxima Nova"; line-height: 1.2;'>¡</span>Tenga una buena lectura!</p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -6274,9 +6274,9 @@ Sin embargo, la atención al cliente en las redes sociales sigue siendo un desaf
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Conozca Zendesk Chat</title>
     <link>https://recursos.zendesk.com.mx/recursos/conozca-zendesk-chat/</link>
@@ -6284,7 +6284,7 @@ Sin embargo, la atención al cliente en las redes sociales sigue siendo un desaf
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/conozca-zendesk-chat</guid>
     <description>Zendesk Chat es una solución simple y eficaz que permite chatear directamente con las personas que visitan un sitio web a través de un widget y administrar varias conversaciones.</description>
-    
+
     <excerpt:encoded><![CDATA[Zendesk Chat es una solución simple y eficaz que permite chatear directamente con las personas que visitan un sitio web a través de un widget y administrar varias conversaciones]]></excerpt:encoded>
     <wp:post_id>398558375</wp:post_id>
     <wp:post_date><![CDATA[2018-01-10 8:55:48]]></wp:post_date>
@@ -6298,35 +6298,35 @@ Sin embargo, la atención al cliente en las redes sociales sigue siendo un desaf
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-chat"><![CDATA[Zendesk Chat]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-chat"><![CDATA[Zendesk Chat]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="chat"><![CDATA[Chat]]></category>
-    
+
     <category domain="post_tag" nicename="chat"><![CDATA[Chat]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="chat-en-vivo"><![CDATA[chat en vivo]]></category>
-    
+
     <category domain="post_tag" nicename="chat-en-vivo"><![CDATA[chat en vivo]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
-    
+
     <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="software"><![CDATA[software]]></category>
-    
+
     <category domain="post_tag" nicename="software"><![CDATA[software]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -6392,7 +6392,7 @@ Sin embargo, la atención al cliente en las redes sociales sigue siendo un desaf
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -6485,8 +6485,8 @@ sea el canal que usen.</p>
 
 <p><iframe border="0" frameborder="0" height="595" scroll="none" src="https://recursos.zendesk.com.mx/hubsFront/embed_cta/106988" width="420"></iframe></p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -6497,9 +6497,9 @@ sea el canal que usen.</p>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Conozca Zendesk Guide</title>
     <link>https://recursos.zendesk.com.mx/recursos/conozca-zendesk-guide/</link>
@@ -6507,7 +6507,7 @@ sea el canal que usen.</p>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/conozca-zendesk-guide</guid>
     <description>Zendesk Guide es la herramienta pensada especialmente para ayudar a las empresas a conocer mejor a sus clientes y llevar la experiencia de los clientes a un nivel superior.</description>
-    
+
     <excerpt:encoded><![CDATA[Zendesk Guide es la herramienta pensada especialmente para ayudar a las empresas a conocer mejor a sus clientes y llevar la experiencia de los clientes a un nivel superior]]></excerpt:encoded>
     <wp:post_id>454387985</wp:post_id>
     <wp:post_date><![CDATA[2018-08-09 13:28:16]]></wp:post_date>
@@ -6521,27 +6521,27 @@ sea el canal que usen.</p>
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-guide"><![CDATA[zendesk guide]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-guide"><![CDATA[zendesk guide]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="post_tag" nicename="guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="guide-enterprise"><![CDATA[Guide Enterprise]]></category>
-    
+
     <category domain="post_tag" nicename="guide-enterprise"><![CDATA[Guide Enterprise]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="answer-bot"><![CDATA[answer bot]]></category>
-    
+
     <category domain="post_tag" nicename="answer-bot"><![CDATA[answer bot]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -6607,7 +6607,7 @@ sea el canal que usen.</p>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -6691,8 +6691,8 @@ sea el canal que usen.</p>
 
 <p><iframe border="0" frameborder="0" height="595" scroll="none" src="https://recursos.zendesk.com.mx/hubsFront/embed_cta/144383" width="420"></iframe></p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -6703,9 +6703,9 @@ sea el canal que usen.</p>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Conozca Zendesk Support</title>
     <link>https://recursos.zendesk.com.mx/recursos/conozca-zendesk-support/</link>
@@ -6713,7 +6713,7 @@ sea el canal que usen.</p>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/conozca-zendesk-support</guid>
     <description>Zendesk Support es una solución omnicanal que permite reunir todas las interacciones de los equipos con los clientes y resolver los tickets de soporte.</description>
-    
+
     <excerpt:encoded><![CDATA[Zendesk Support es una solución omnicanal que permite reunir todas las interacciones de los equipos con los clientes y resolver los tickets de soporte.]]></excerpt:encoded>
     <wp:post_id>410444010</wp:post_id>
     <wp:post_date><![CDATA[2018-02-21 15:10:25]]></wp:post_date>
@@ -6727,39 +6727,39 @@ sea el canal que usen.</p>
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="help-desk"><![CDATA[help desk]]></category>
-    
+
     <category domain="post_tag" nicename="help-desk"><![CDATA[help desk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
-    
+
     <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="software"><![CDATA[software]]></category>
-    
+
     <category domain="post_tag" nicename="software"><![CDATA[software]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="email"><![CDATA[email]]></category>
-    
+
     <category domain="post_tag" nicename="email"><![CDATA[email]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="tickets"><![CDATA[tickets]]></category>
-    
+
     <category domain="post_tag" nicename="tickets"><![CDATA[tickets]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -6825,7 +6825,7 @@ sea el canal que usen.</p>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -6917,8 +6917,8 @@ sea el canal que usen.</p>
 
 <p><iframe border="0" frameborder="0" height="595" scroll="none" src="https://recursos.zendesk.com.mx/hubsFront/embed_cta/113469" width="420"></iframe></p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -6929,9 +6929,9 @@ sea el canal que usen.</p>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Conozca Zendesk Talk</title>
     <link>https://recursos.zendesk.com.mx/recursos/conozca-zendesk-talk/</link>
@@ -6939,7 +6939,7 @@ sea el canal que usen.</p>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/conozca-zendesk-talk</guid>
     <description>Zendesk Talk es una central telefónica integrada a la plataforma omnicanal de Zendesk que permite brindar una atención más resolutiva al cliente.</description>
-    
+
     <excerpt:encoded><![CDATA[Zendesk Talk es una central telefónica integrada a la plataforma omnicanal de Zendesk que permite brindar una atención más resolutiva al cliente.]]></excerpt:encoded>
     <wp:post_id>463955795</wp:post_id>
     <wp:post_date><![CDATA[2018-09-17 10:42:32]]></wp:post_date>
@@ -6953,35 +6953,35 @@ sea el canal que usen.</p>
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-talk"><![CDATA[Zendesk Talk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-talk"><![CDATA[Zendesk Talk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="central-telef-nica"><![CDATA[central telefônica]]></category>
-    
+
     <category domain="post_tag" nicename="central-telef-nica"><![CDATA[central telefônica]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="tel-fono"><![CDATA[teléfono]]></category>
-    
+
     <category domain="post_tag" nicename="tel-fono"><![CDATA[teléfono]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="talk"><![CDATA[Talk]]></category>
-    
+
     <category domain="post_tag" nicename="talk"><![CDATA[Talk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="omnichannel"><![CDATA[omnichannel]]></category>
-    
+
     <category domain="post_tag" nicename="omnichannel"><![CDATA[omnichannel]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -7047,7 +7047,7 @@ sea el canal que usen.</p>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -7130,8 +7130,8 @@ sea el canal que usen.</p>
 <p>¿Quieres saber más sobre Zendesk Talk? Descarga nuestro eBook hoy mismo.</p>
 
 <iframe src="https://recursos.zendesk.com.mx/hubsFront/embed_cta/155516" scroll="none" border="0" frameborder="0" width="420" height="595"></iframe>
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -7142,9 +7142,9 @@ sea el canal que usen.</p>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Cuadrante mágico de CRM para centros de interacción con los clientes de Gartner 2017</title>
     <link>https://recursos.zendesk.com.mx/recursos/cuadrante-mágico-de-crm-para-centros-de-interacción-con-los-clientes-de-gartner-2017/</link>
@@ -7152,7 +7152,7 @@ sea el canal que usen.</p>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/cuadrante-mágico-de-crm-para-centros-de-interacción-con-los-clientes-de-gartner-2017</guid>
     <description>Cuadrante mágico de CRM para centros de interacción con los clientes 2017, Gartner examina el mercado global de la atención al cliente y las aplicaciones de soporte.</description>
-    
+
     <excerpt:encoded><![CDATA[Cuadrante mágico de CRM para centros de interacción con los clientes 2017, Gartner examina el mercado global de la atención al cliente y las aplicaciones de soporte]]></excerpt:encoded>
     <wp:post_id>380939986</wp:post_id>
     <wp:post_date><![CDATA[2017-11-06 17:27:46]]></wp:post_date>
@@ -7166,31 +7166,31 @@ sea el canal que usen.</p>
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="-crm"><![CDATA[#CRM]]></category>
-    
+
     <category domain="post_tag" nicename="-crm"><![CDATA[#CRM]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-atenci-nalcliente"><![CDATA[#AtenciónAlCliente]]></category>
-    
+
     <category domain="post_tag" nicename="-atenci-nalcliente"><![CDATA[#AtenciónAlCliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-informes-de-analistas"><![CDATA[#Informes de analistas]]></category>
-    
+
     <category domain="post_tag" nicename="-informes-de-analistas"><![CDATA[#Informes de analistas]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-gartner"><![CDATA[#Gartner]]></category>
-    
+
     <category domain="post_tag" nicename="-gartner"><![CDATA[#Gartner]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-tendencias-y-observaciones"><![CDATA[#Tendencias Y Observaciones]]></category>
-    
+
     <category domain="post_tag" nicename="-tendencias-y-observaciones"><![CDATA[#Tendencias Y Observaciones]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -7256,7 +7256,7 @@ sea el canal que usen.</p>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -7350,8 +7350,8 @@ sea el canal que usen.</p>
 
 <p style="margin: 0px 0px 20px; font-stretch: normal; font-size: 18px; line-height: 1.4; font-family: PNR; color: rgb(3, 54, 61); padding-left: 60px;"> </p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -7362,9 +7362,9 @@ sea el canal que usen.</p>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Desplegar y administrar varios canales de atención al cliente</title>
     <link>https://recursos.zendesk.com.mx/recursos/varios-canales-de-atencion-al-cliente/</link>
@@ -7372,7 +7372,7 @@ sea el canal que usen.</p>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/varios-canales-de-atencion-al-cliente</guid>
     <description>En este eBook, discutimos cómo desplegar y administrar varios canales de atención al cliente para que su empresa tenga la oportunidad de forjar más y mejores relaciones.</description>
-    
+
     <excerpt:encoded><![CDATA[En este eBook, discutimos cómo desplegar y administrar varios canales de atención al cliente para que su empresa tenga la oportunidad de forjar más y mejores relaciones]]></excerpt:encoded>
     <wp:post_id>380947132</wp:post_id>
     <wp:post_date><![CDATA[2017-11-06 17:54:15]]></wp:post_date>
@@ -7386,23 +7386,23 @@ sea el canal que usen.</p>
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="-soporte-multicanal"><![CDATA[#Soporte Multicanal]]></category>
-    
+
     <category domain="post_tag" nicename="-soporte-multicanal"><![CDATA[#Soporte Multicanal]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-canal-de-soporte"><![CDATA[#Canal de Soporte]]></category>
-    
+
     <category domain="post_tag" nicename="-canal-de-soporte"><![CDATA[#Canal de Soporte]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-atenci-nalcliente"><![CDATA[#AtenciónAlCliente]]></category>
-    
+
     <category domain="post_tag" nicename="-atenci-nalcliente"><![CDATA[#AtenciónAlCliente]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -7468,7 +7468,7 @@ sea el canal que usen.</p>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -7558,8 +7558,8 @@ sea el canal que usen.</p>
 
 <p style="margin-left: 20px; font-stretch: normal; font-size: 18px; line-height: 26px; font-family: SHSN; color: rgb(3, 54, 61); margin-bottom: 7px; position: relative; text-align: justify;"><span style="color: rgb(3, 54, 61); font-family: PNR; font-size: 18px;">Proporcione soporte multicanal uniforme con nuestro eBook, </span><em style="color: rgb(3, 54, 61); font-family: PNR; font-size: 18px;"><a href="https://zen-marketing-content.s3.amazonaws.com/content/resources/Roll%20out%20and%20manage%20multiple%20service%20channels_es-MX.pdf" style="color: rgb(46, 169, 187);" target="_blank">Desplegar y administrar varios canales</a></em></p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -7570,9 +7570,9 @@ sea el canal que usen.</p>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>El valor del autoservicio</title>
     <link>https://recursos.zendesk.com.mx/recursos/el-valor-del-autoservicio/</link>
@@ -7580,7 +7580,7 @@ sea el canal que usen.</p>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/el-valor-del-autoservicio</guid>
     <description>el valor del autoservicio y las seis formas de crear y mejorar el centro de ayuda y la administración del conocimiento.</description>
-    
+
     <excerpt:encoded><![CDATA[el valor del autoservicio y las seis formas de crear y mejorar el centro de ayuda y la administración del conocimiento.]]></excerpt:encoded>
     <wp:post_id>380951341</wp:post_id>
     <wp:post_date><![CDATA[2017-11-06 18:17:34]]></wp:post_date>
@@ -7594,19 +7594,19 @@ sea el canal que usen.</p>
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-canal-de-soporte"><![CDATA[#Canal de Soporte]]></category>
-    
+
     <category domain="post_tag" nicename="-canal-de-soporte"><![CDATA[#Canal de Soporte]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-atenci-nalcliente"><![CDATA[#AtenciónAlCliente]]></category>
-    
+
     <category domain="post_tag" nicename="-atenci-nalcliente"><![CDATA[#AtenciónAlCliente]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -7672,7 +7672,7 @@ sea el canal que usen.</p>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -7770,8 +7770,8 @@ sea el canal que usen.</p>
 
 <p style="margin-left: 20px; font-stretch: normal; font-size: 18px; line-height: 26px; font-family: SHSN; color: rgb(3, 54, 61); margin-bottom: 7px; position: relative;"> </p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -7782,9 +7782,9 @@ sea el canal que usen.</p>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>En buena compañía: Amplíe el soporte más allá del servicio al cliente</title>
     <link>https://recursos.zendesk.com.mx/recursos/amplie-el-soporte/</link>
@@ -7792,7 +7792,7 @@ sea el canal que usen.</p>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/amplie-el-soporte</guid>
     <description></description>
-    
+
     <excerpt:encoded><![CDATA[Asistir a los clientes hoy en día requiere que todos los integrantes del equipo pongan manos a la obra.]]></excerpt:encoded>
     <wp:post_id>380958724</wp:post_id>
     <wp:post_date><![CDATA[2017-11-06 18:50:12]]></wp:post_date>
@@ -7806,7 +7806,7 @@ sea el canal que usen.</p>
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -7872,7 +7872,7 @@ sea el canal que usen.</p>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -7952,8 +7952,8 @@ sea el canal que usen.</p>
 
 <p><img height="fixed" src="https://zen-marketing-content.s3.amazonaws.com/content/resources/Adding_Agents_Infographic_es-MX.gif" width="636"></p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -7964,9 +7964,9 @@ sea el canal que usen.</p>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Gartner: La administración del conocimiento transformará el servicio de atención al cliente con CRM</title>
     <link>https://recursos.zendesk.com.mx/recursos/gartner-servicio-de-atencion-al-cliente-con-crm/</link>
@@ -7974,7 +7974,7 @@ sea el canal que usen.</p>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/gartner-servicio-de-atencion-al-cliente-con-crm</guid>
     <description>En este informe, Gartner describe el impacto de una buena administración del conocimiento y hace recomendaciones, por ejemplo, cómo centrarse en las personas y los procesos.</description>
-    
+
     <excerpt:encoded><![CDATA[En este informe, Gartner describe el impacto de una buena administración del conocimiento y hace recomendaciones, por ejemplo, cómo centrarse en las personas y los procesos]]></excerpt:encoded>
     <wp:post_id>423561909</wp:post_id>
     <wp:post_date><![CDATA[2018-04-09 10:18:27]]></wp:post_date>
@@ -7988,23 +7988,23 @@ sea el canal que usen.</p>
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="gartner"><![CDATA[Gartner]]></category>
-    
+
     <category domain="post_tag" nicename="gartner"><![CDATA[Gartner]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
-    
+
     <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -8070,7 +8070,7 @@ sea el canal que usen.</p>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -8164,8 +8164,8 @@ sea el canal que usen.</p>
 
 <p><em>Knowledge Management Will Transform CRM Customer Service, M. Maoz, 9 de noviembre de 2016.</em></p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -8176,9 +8176,9 @@ sea el canal que usen.</p>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Guía de la experiencia del cliente</title>
     <link>https://recursos.zendesk.com.mx/recursos/guía-de-la-experiencia-del-cliente/</link>
@@ -8186,7 +8186,7 @@ sea el canal que usen.</p>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/guía-de-la-experiencia-del-cliente</guid>
     <description></description>
-    
+
     <excerpt:encoded><![CDATA[          Todos sabemos que para que cualquier empresa tenga éxito, primero debe centrarse en las necesidades del cliente.]]></excerpt:encoded>
     <wp:post_id>380976442</wp:post_id>
     <wp:post_date><![CDATA[2017-11-06 20:26:56]]></wp:post_date>
@@ -8200,27 +8200,27 @@ sea el canal que usen.</p>
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="-colecciones"><![CDATA[#colecciones]]></category>
-    
+
     <category domain="post_tag" nicename="-colecciones"><![CDATA[#colecciones]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-operaciones-de-soporte"><![CDATA[#Operaciones de Soporte]]></category>
-    
+
     <category domain="post_tag" nicename="-operaciones-de-soporte"><![CDATA[#Operaciones de Soporte]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-administracion-de-equipos"><![CDATA[#Administracion de Equipos]]></category>
-    
+
     <category domain="post_tag" nicename="-administracion-de-equipos"><![CDATA[#Administracion de Equipos]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-atenci-nalcliente"><![CDATA[#AtenciónAlCliente]]></category>
-    
+
     <category domain="post_tag" nicename="-atenci-nalcliente"><![CDATA[#AtenciónAlCliente]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -8286,7 +8286,7 @@ sea el canal que usen.</p>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -8370,8 +8370,8 @@ sea el canal que usen.</p>
 
 <p style="margin: 0px 0px 20px; font-stretch: normal; font-size: 18px; line-height: 1.4; font-family: PNR; color: rgb(3, 54, 61); padding-left: 60px; text-align: justify;"><span style="color: rgb(3, 54, 61); font-family: PNR; font-size: 18px;">Aquí está su copia de la </span><a href="https://d26a57ydsghvgx.cloudfront.net/content/resources/Zendesk_Customer_Experience_Guide_es-MX.pdf" style="color: rgb(46, 169, 187); font-family: PNR; font-size: 18px;" target="_blank">Guía de la experiencia del cliente de Zendesk</a>.</p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -8382,9 +8382,9 @@ sea el canal que usen.</p>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Guía del ciclo de vida del agente</title>
     <link>https://recursos.zendesk.com.mx/recursos/guía-del-ciclo-de-vida-del-agente/</link>
@@ -8392,7 +8392,7 @@ sea el canal que usen.</p>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/guía-del-ciclo-de-vida-del-agente</guid>
     <description></description>
-    
+
     <excerpt:encoded><![CDATA[                 Los agentes de soporte interactúan con los clientes más que cualquier otra persona de su empresa.]]></excerpt:encoded>
     <wp:post_id>380965498</wp:post_id>
     <wp:post_date><![CDATA[2017-11-06 19:24:12]]></wp:post_date>
@@ -8406,27 +8406,27 @@ sea el canal que usen.</p>
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="-colecciones"><![CDATA[#colecciones]]></category>
-    
+
     <category domain="post_tag" nicename="-colecciones"><![CDATA[#colecciones]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-atenci-nalcliente"><![CDATA[#AtenciónAlCliente]]></category>
-    
+
     <category domain="post_tag" nicename="-atenci-nalcliente"><![CDATA[#AtenciónAlCliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-operaciones-de-soporte"><![CDATA[#Operaciones de Soporte]]></category>
-    
+
     <category domain="post_tag" nicename="-operaciones-de-soporte"><![CDATA[#Operaciones de Soporte]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-administracion-de-equipos"><![CDATA[#Administracion de Equipos]]></category>
-    
+
     <category domain="post_tag" nicename="-administracion-de-equipos"><![CDATA[#Administracion de Equipos]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -8492,7 +8492,7 @@ sea el canal que usen.</p>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -8584,8 +8584,8 @@ sea el canal que usen.</p>
 
 <p style="margin: 0px 0px 20px; font-stretch: normal; font-size: 18px; line-height: 1.4; font-family: PNR; color: rgb(3, 54, 61); padding-left: 60px;"><span style="color: rgb(3, 54, 61); font-family: PNR; font-size: 18px;">Gracias por descargarla, aquí está su copia de la </span><a href="https://d26a57ydsghvgx.cloudfront.net/content/resources/Zendesk_Agent_Life_cycle_Guide_es-MX.pdf" style="color: rgb(46, 169, 187); font-family: PNR; font-size: 18px;" target="_blank">Guía del ciclo de vida del agente de Zendesk</a></p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -8596,9 +8596,9 @@ sea el canal que usen.</p>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>La ruta basada en datos para crear un Centro de ayuda excelente</title>
     <link>https://recursos.zendesk.com.mx/recursos/la-ruta-basada-en-datos-para-crear-un-centro-de-ayuda-excelente/</link>
@@ -8606,7 +8606,7 @@ sea el canal que usen.</p>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/la-ruta-basada-en-datos-para-crear-un-centro-de-ayuda-excelente</guid>
     <description>Las interacciones de autoservicio pueden significar la diferencia entre el éxito y el fracaso de la experiencia de soporte.</description>
-    
+
     <excerpt:encoded><![CDATA[Las interacciones de autoservicio pueden significar la diferencia entre el éxito y el fracaso de la experiencia de soporte.]]></excerpt:encoded>
     <wp:post_id>430506639</wp:post_id>
     <wp:post_date><![CDATA[2018-05-03 13:12:13]]></wp:post_date>
@@ -8620,19 +8620,19 @@ sea el canal que usen.</p>
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="centro-de-ayuda"><![CDATA[Centro de ayuda]]></category>
-    
+
     <category domain="post_tag" nicename="centro-de-ayuda"><![CDATA[Centro de ayuda]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="autoservicio"><![CDATA[autoservicio]]></category>
-    
+
     <category domain="post_tag" nicename="autoservicio"><![CDATA[autoservicio]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -8698,7 +8698,7 @@ sea el canal que usen.</p>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -8867,8 +8867,8 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
 
 <p> </p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -8879,9 +8879,9 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>La solución omnichannel de Zendesk</title>
     <link>https://recursos.zendesk.com.mx/recursos/solucion-omnichannel-zendesk/</link>
@@ -8889,7 +8889,7 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/solucion-omnichannel-zendesk</guid>
     <description>Zendesk le puede ayudar a ofrecer soporte omnichannel fácil y económico.</description>
-    
+
     <excerpt:encoded><![CDATA[Zendesk le puede ayudar a ofrecer soporte omnichannel fácil y económico.]]></excerpt:encoded>
     <wp:post_id>420523143</wp:post_id>
     <wp:post_date><![CDATA[2018-03-29 14:06:23]]></wp:post_date>
@@ -8903,27 +8903,27 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="omnichannel"><![CDATA[omnichannel]]></category>
-    
+
     <category domain="post_tag" nicename="omnichannel"><![CDATA[omnichannel]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
-    
+
     <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-chat"><![CDATA[Zendesk Chat]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-chat"><![CDATA[Zendesk Chat]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -8989,7 +8989,7 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -9077,8 +9077,8 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
 
 <p>Si desea más información sobre el soporte omnichannel, descargue nuestra infografía <a href="https://zen-marketing-pt.s3.amazonaws.com/pt/Omnichannel_Info_ES.pdf">aquí.</a></p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -9089,9 +9089,9 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Llene los vacíos en autoservicio</title>
     <link>https://recursos.zendesk.com.mx/recursos/autoservicio/</link>
@@ -9099,7 +9099,7 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/autoservicio</guid>
     <description>Ofrecer una opción de autoservicio no solo puede proporcionar respuestas rápidas y fácilmente accesibles a los clientes, sino que también puede reducir las cargas de trabajo de los agentes</description>
-    
+
     <excerpt:encoded><![CDATA[Ofrecer una opción de autoservicio no solo puede proporcionar respuestas rápidas y fácilmente accesibles a los clientes, sino que también puede reducir las cargas de trabajo de los agentes]]></excerpt:encoded>
     <wp:post_id>380949799</wp:post_id>
     <wp:post_date><![CDATA[2017-11-06 18:05:53]]></wp:post_date>
@@ -9113,23 +9113,23 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="-experencia-de-los-clientes"><![CDATA[#Experencia de los Clientes]]></category>
-    
+
     <category domain="post_tag" nicename="-experencia-de-los-clientes"><![CDATA[#Experencia de los Clientes]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-canales-de-soporte"><![CDATA[#Canales de Soporte]]></category>
-    
+
     <category domain="post_tag" nicename="-canales-de-soporte"><![CDATA[#Canales de Soporte]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-tendencias-y-observaciones"><![CDATA[#Tendencias Y Observaciones]]></category>
-    
+
     <category domain="post_tag" nicename="-tendencias-y-observaciones"><![CDATA[#Tendencias Y Observaciones]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -9195,7 +9195,7 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -9279,8 +9279,8 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
 
 <p style="margin: 0px 0px 20px; font-stretch: normal; font-size: 18px; line-height: 1.4; font-family: PNR; color: rgb(3, 54, 61); padding-left: 60px;">Descarga <span style="color: rgb(3, 54, 61); font-family: PNR; font-size: 18px;">el eBook </span><a href="https://d26a57ydsghvgx.cloudfront.net/content/resources/Guide_TopTips_eBook_es-MX.pdf" style="color: rgb(46, 169, 187); font-family: PNR; font-size: 18px;" target="_blank">Primeros pasos con Zendesk Guide</a> para obtener mas informacion!</p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -9291,9 +9291,9 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Llene los vacíos en el autoservicio</title>
     <link>https://recursos.zendesk.com.mx/recursos/llene-los-vacios-en-autoservicio/</link>
@@ -9301,7 +9301,7 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/llene-los-vacios-en-autoservicio</guid>
     <description>Vea lo que los usuarios de Zendesk Guide han manifestado acerca de los beneficios del autoservicio y la administración de conocimientos correcta.</description>
-    
+
     <excerpt:encoded><![CDATA[Vea lo que los usuarios de Zendesk Guide han manifestado acerca de los beneficios del autoservicio y la administración de conocimientos correcta.]]></excerpt:encoded>
     <wp:post_id>399102717</wp:post_id>
     <wp:post_date><![CDATA[2018-01-12 8:54:16]]></wp:post_date>
@@ -9315,31 +9315,31 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="autoservicio"><![CDATA[autoservicio]]></category>
-    
+
     <category domain="post_tag" nicename="autoservicio"><![CDATA[autoservicio]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-guide"><![CDATA[zendesk guide]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-guide"><![CDATA[zendesk guide]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="post_tag" nicename="guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="servicio-al-cliente"><![CDATA[servicio al cliente]]></category>
-    
+
     <category domain="post_tag" nicename="servicio-al-cliente"><![CDATA[servicio al cliente]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -9405,7 +9405,7 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -9485,8 +9485,8 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
 
 <p><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-399102717-0.png"></p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -9497,9 +9497,9 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Mejores experiencias para los clientes con la interacción omnicanal</title>
     <link>https://recursos.zendesk.com.mx/recursos/interaccion-omnicanal/</link>
@@ -9507,7 +9507,7 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/interaccion-omnicanal</guid>
     <description>Las compañías que han implementado una solución multicanal de Zendesk han observado mejores experiencias para los clientes.</description>
-    
+
     <excerpt:encoded><![CDATA[Las compañías que han implementado una solución multicanal de Zendesk han observado mejores experiencias para los clientes.]]></excerpt:encoded>
     <wp:post_id>396359912</wp:post_id>
     <wp:post_date><![CDATA[2018-01-02 7:25:36]]></wp:post_date>
@@ -9521,27 +9521,27 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="omnicanal"><![CDATA[omnicanal]]></category>
-    
+
     <category domain="post_tag" nicename="omnicanal"><![CDATA[omnicanal]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="omnichannel"><![CDATA[omnichannel]]></category>
-    
+
     <category domain="post_tag" nicename="omnichannel"><![CDATA[omnichannel]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="customer-success"><![CDATA[customer success]]></category>
-    
+
     <category domain="post_tag" nicename="customer-success"><![CDATA[customer success]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
-    
+
     <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -9607,7 +9607,7 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -9701,8 +9701,8 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
 <iframe src="https://recursos.zendesk.com.mx/hubsFront/embed_cta/106040" scroll="none" border="0" frameborder="0" width="420" height="595"></iframe>
 <p> </p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -9713,9 +9713,9 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Predecir la satisfacción del cliente ayuda a priorizar las interacciones y evitar la pérdida de clientes</title>
     <link>https://recursos.zendesk.com.mx/recursos/predecir-la-satisfacción-del-cliente-ayuda-a-priorizar-las-interacciones-y-evitar-la-pérdida-de-clientes/</link>
@@ -9723,7 +9723,7 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/predecir-la-satisfacción-del-cliente-ayuda-a-priorizar-las-interacciones-y-evitar-la-pérdida-de-clientes</guid>
     <description></description>
-    
+
     <excerpt:encoded><![CDATA[Hay quienes dicen que la capacidad para ver el futuro es cosa de adivinos y videntes, pero predecir la satisfacción del cliente no es solo para los clarividentes (o los que se dedican a clasificar los tickets a mano basándose en suposiciones)]]></excerpt:encoded>
     <wp:post_id>380954137</wp:post_id>
     <wp:post_date><![CDATA[2017-11-06 18:34:32]]></wp:post_date>
@@ -9737,7 +9737,7 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -9803,7 +9803,7 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -9891,8 +9891,8 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
 
 <p style="margin: 0px 0px 20px; font-stretch: normal; font-size: 18px; line-height: 1.4; font-family: PNR; color: rgb(3, 54, 61); padding-left: 60px;">Estos son <em style="color: rgb(46, 169, 187);"><a href="http://d26a57ydsghvgx.cloudfront.net/content/resources/Ovum_Zendesk_ES-MX_one_pager.pdf" style="color: rgb(46, 169, 187);" target="_blank">los aspectos más destacados del informe</a>.</em></p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -9903,9 +9903,9 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Primeros pasos con Zendesk Guide: Estrategias y mejores prácticas</title>
     <link>https://recursos.zendesk.com.mx/recursos/primeros-pasos-con-zendesk-guide-estrategias-y-mejores-prácticas/</link>
@@ -9915,7 +9915,7 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
     <description>1. Crear una base de conocimientos de calidad
 2. Mejorar la eficiencia de los agentes
 3. Optimizar las capacidades de autoservicio</description>
-    
+
     <excerpt:encoded><![CDATA[1. Crear una base de conocimientos de calidad. 2. Mejorar la eficiencia de los agentes. 3. Optimizar las capacidades de autoservicio]]></excerpt:encoded>
     <wp:post_id>381487648</wp:post_id>
     <wp:post_date><![CDATA[2017-11-08 13:48:15]]></wp:post_date>
@@ -9929,23 +9929,23 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-canales-de-soporte"><![CDATA[#Canales de Soporte]]></category>
-    
+
     <category domain="post_tag" nicename="-canales-de-soporte"><![CDATA[#Canales de Soporte]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-autoservicio"><![CDATA[#AutoServicio]]></category>
-    
+
     <category domain="post_tag" nicename="-autoservicio"><![CDATA[#AutoServicio]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-operaciones-de-soporte"><![CDATA[#Operaciones de Soporte]]></category>
-    
+
     <category domain="post_tag" nicename="-operaciones-de-soporte"><![CDATA[#Operaciones de Soporte]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -10013,7 +10013,7 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -10101,8 +10101,8 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
 
 <p style="margin: 0px 0px 20px; font-stretch: normal; font-size: 18px; line-height: 1.4; font-family: PNR; color: rgb(3, 54, 61); padding-left: 60px;"> </p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -10113,9 +10113,9 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Sea el número uno en el corazón y en la mente de su cliente</title>
     <link>https://recursos.zendesk.com.mx/recursos/sea-el-numero-uno/</link>
@@ -10123,7 +10123,7 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/sea-el-numero-uno</guid>
     <description>Sea el número uno en el corazón y en la mente de su cliente</description>
-    
+
     <excerpt:encoded><![CDATA[Sea el número uno en el corazón y en la mente de su cliente]]></excerpt:encoded>
     <wp:post_id>380967154</wp:post_id>
     <wp:post_date><![CDATA[2017-11-06 19:28:52]]></wp:post_date>
@@ -10137,7 +10137,7 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -10203,7 +10203,7 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -10293,8 +10293,8 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
 
 <p dir="ltr" style="text-align: justify;"><strong>Descarga el e-book <a href="https://zen-marketing-pt.s3.amazonaws.com/pt/Campaigns%202017%20LATAM/Techvalidate-ebook-Spanish-Final.pdf">aquí.</a></strong></p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -10305,9 +10305,9 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Servicio de atención al cliente: transformar las transacciones en relaciones</title>
     <link>https://recursos.zendesk.com.mx/recursos/servicio-de-atención-al-cliente-transformar-las-transacciones-en-relaciones/</link>
@@ -10315,7 +10315,7 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/servicio-de-atención-al-cliente-transformar-las-transacciones-en-relaciones</guid>
     <description></description>
-    
+
     <excerpt:encoded><![CDATA[El servicio de atención al cliente nunca ha sido fácil. A lo largo de los años, se ha vuelto más complejo y exigente.]]></excerpt:encoded>
     <wp:post_id>380968618</wp:post_id>
     <wp:post_date><![CDATA[2017-11-06 19:40:22]]></wp:post_date>
@@ -10329,27 +10329,27 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-administracion-de-equipos"><![CDATA[#Administracion de Equipos]]></category>
-    
+
     <category domain="post_tag" nicename="-administracion-de-equipos"><![CDATA[#Administracion de Equipos]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-estrategia"><![CDATA[#Estrategia]]></category>
-    
+
     <category domain="post_tag" nicename="-estrategia"><![CDATA[#Estrategia]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-operaciones-de-soporte"><![CDATA[#Operaciones de Soporte]]></category>
-    
+
     <category domain="post_tag" nicename="-operaciones-de-soporte"><![CDATA[#Operaciones de Soporte]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-tendencias-y-observaciones"><![CDATA[#Tendencias Y Observaciones]]></category>
-    
+
     <category domain="post_tag" nicename="-tendencias-y-observaciones"><![CDATA[#Tendencias Y Observaciones]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -10415,7 +10415,7 @@ Una vez que responda a las cinco preguntas más importantes, dedíquese a genera
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -10563,8 +10563,8 @@ Como dijimos al principio, el servicio al cliente es difícil. Mientras que Zend
 
 <div class="SL_swap resource-body-content animate-slideup ungated" id="resource-body-copy-254681" style="margin-top: 0px; position: relative; padding-left: 0px; color: rgb(54, 47, 45); font-family: PNR; font-size: 15px;"> </div>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -10575,9 +10575,9 @@ Como dijimos al principio, el servicio al cliente es difícil. Mientras que Zend
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Sumérgete en el conocimiento de tu empresa con Zendesk Guide</title>
     <link>https://recursos.zendesk.com.mx/recursos/conocimiento-zendesk-guide/</link>
@@ -10585,7 +10585,7 @@ Como dijimos al principio, el servicio al cliente es difícil. Mientras que Zend
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/conocimiento-zendesk-guide</guid>
     <description>Zendesk Guide puede ser tu brújula en el océano de Big Data.</description>
-    
+
     <excerpt:encoded><![CDATA[Zendesk Guide puede ser tu brújula en el océano de Big Data.]]></excerpt:encoded>
     <wp:post_id>454682246</wp:post_id>
     <wp:post_date><![CDATA[2018-08-10 12:51:43]]></wp:post_date>
@@ -10599,27 +10599,27 @@ Como dijimos al principio, el servicio al cliente es difícil. Mientras que Zend
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-guide"><![CDATA[zendesk guide]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-guide"><![CDATA[zendesk guide]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="answer-bot"><![CDATA[answer bot]]></category>
-    
+
     <category domain="post_tag" nicename="answer-bot"><![CDATA[answer bot]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="centro-de-ayuda"><![CDATA[Centro de ayuda]]></category>
-    
+
     <category domain="post_tag" nicename="centro-de-ayuda"><![CDATA[Centro de ayuda]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="chat"><![CDATA[Chat]]></category>
-    
+
     <category domain="post_tag" nicename="chat"><![CDATA[Chat]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -10685,7 +10685,7 @@ Como dijimos al principio, el servicio al cliente es difícil. Mientras que Zend
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -10771,8 +10771,8 @@ Como dijimos al principio, el servicio al cliente es difícil. Mientras que Zend
 
 <p style="text-align: center;"><strong>Conoce más sobre Zendesk Guide <a href="https://zen-marketing-pt.s3.amazonaws.com/pt/Zendesk_Guide_Info_ES.pdf">aquí.</a></strong></p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -10783,9 +10783,9 @@ Como dijimos al principio, el servicio al cliente es difícil. Mientras que Zend
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Transforma tu atención en omnicanal</title>
     <link>https://recursos.zendesk.com.mx/recursos/transforma-atencion-omnicanal/</link>
@@ -10793,7 +10793,7 @@ Como dijimos al principio, el servicio al cliente es difícil. Mientras que Zend
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/transforma-atencion-omnicanal</guid>
     <description>La atención omnicanal integra todos los canales de soporte para garantizar una comunicación fluída y sin fricciones.</description>
-    
+
     <excerpt:encoded><![CDATA[La atención omnicanal integra todos los canales de soporte para garantizar una comunicación fluída y sin fricciones.]]></excerpt:encoded>
     <wp:post_id>474833084</wp:post_id>
     <wp:post_date><![CDATA[2018-10-29 16:55:54]]></wp:post_date>
@@ -10807,31 +10807,31 @@ Como dijimos al principio, el servicio al cliente es difícil. Mientras que Zend
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="experiencia-del-cliente"><![CDATA[experiencia del cliente]]></category>
-    
+
     <category domain="post_tag" nicename="experiencia-del-cliente"><![CDATA[experiencia del cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="omnichannel"><![CDATA[omnichannel]]></category>
-    
+
     <category domain="post_tag" nicename="omnichannel"><![CDATA[omnichannel]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="omnicanal"><![CDATA[omnicanal]]></category>
-    
+
     <category domain="post_tag" nicename="omnicanal"><![CDATA[omnicanal]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="infograf-a"><![CDATA[infografía]]></category>
-    
+
     <category domain="post_tag" nicename="infograf-a"><![CDATA[infografía]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -10897,7 +10897,7 @@ Como dijimos al principio, el servicio al cliente es difícil. Mientras que Zend
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -10977,8 +10977,8 @@ Como dijimos al principio, el servicio al cliente es difícil. Mientras que Zend
 
 <p>¿Quieres descubrir más? <a href="https://zen-marketing-pt.s3.amazonaws.com/pt/360_Enterprise_ESLATAM_Info.pdf">Lee la infografía</a> y da un paso más hacia una experiencia de atención al cliente completa.</p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -10989,9 +10989,9 @@ Como dijimos al principio, el servicio al cliente es difícil. Mientras que Zend
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Una guía de referencia rápida para implementar Zendesk Chat</title>
     <link>https://recursos.zendesk.com.mx/recursos/guia-de-referencia-zendesk-chat/</link>
@@ -10999,7 +10999,7 @@ Como dijimos al principio, el servicio al cliente es difícil. Mientras que Zend
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/guia-de-referencia-zendesk-chat</guid>
     <description>Una guía de referencia rápida para implementar Zendesk Chat y brindar grandes beneficios a la empresa.</description>
-    
+
     <excerpt:encoded><![CDATA[Una guía de referencia rápida para implementar Zendesk Chat y brindar grandes beneficios a la empresa.]]></excerpt:encoded>
     <wp:post_id>423851727</wp:post_id>
     <wp:post_date><![CDATA[2018-04-10 9:39:30]]></wp:post_date>
@@ -11013,31 +11013,31 @@ Como dijimos al principio, el servicio al cliente es difícil. Mientras que Zend
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-chat"><![CDATA[Zendesk Chat]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-chat"><![CDATA[Zendesk Chat]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="chat"><![CDATA[Chat]]></category>
-    
+
     <category domain="post_tag" nicename="chat"><![CDATA[Chat]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="chat-en-vivo"><![CDATA[chat en vivo]]></category>
-    
+
     <category domain="post_tag" nicename="chat-en-vivo"><![CDATA[chat en vivo]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
-    
+
     <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -11103,7 +11103,7 @@ Como dijimos al principio, el servicio al cliente es difícil. Mientras que Zend
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -11197,8 +11197,8 @@ Como dijimos al principio, el servicio al cliente es difícil. Mientras que Zend
 <h3 style="text-align: center;">Conoce más sobre Zendesk Chat <a href="https://zen-marketing-pt.s3.amazonaws.com/pt/Zendesk-Back-to-Basics-Infograf%C3%ADa-Chat-ES%20%281%29.pdf">aquí.</a>
 </h3>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -11209,9 +11209,9 @@ Como dijimos al principio, el servicio al cliente es difícil. Mientras que Zend
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Una guía de referencia rápida para implementar Zendesk Support</title>
     <link>https://recursos.zendesk.com.mx/recursos/guia-implementar-zendesk-support/</link>
@@ -11219,7 +11219,7 @@ Como dijimos al principio, el servicio al cliente es difícil. Mientras que Zend
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/guia-implementar-zendesk-support</guid>
     <description>Una guía de referencia rápida para implementar Zendesk Support y brindar grandes beneficios a la empresa.</description>
-    
+
     <excerpt:encoded><![CDATA[Una guía de referencia rápida para implementar Zendesk Support y brindar grandes beneficios a la empresa.]]></excerpt:encoded>
     <wp:post_id>410449314</wp:post_id>
     <wp:post_date><![CDATA[2018-02-21 15:44:18]]></wp:post_date>
@@ -11233,35 +11233,35 @@ Como dijimos al principio, el servicio al cliente es difícil. Mientras que Zend
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="soporte"><![CDATA[soporte]]></category>
-    
+
     <category domain="post_tag" nicename="soporte"><![CDATA[soporte]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="customer-success"><![CDATA[customer success]]></category>
-    
+
     <category domain="post_tag" nicename="customer-success"><![CDATA[customer success]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="tickets"><![CDATA[tickets]]></category>
-    
+
     <category domain="post_tag" nicename="tickets"><![CDATA[tickets]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="help-desk"><![CDATA[help desk]]></category>
-    
+
     <category domain="post_tag" nicename="help-desk"><![CDATA[help desk]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -11327,7 +11327,7 @@ Como dijimos al principio, el servicio al cliente es difícil. Mientras que Zend
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -11423,8 +11423,8 @@ Como dijimos al principio, el servicio al cliente es difícil. Mientras que Zend
 <h3 style="text-align: center;">Conozca más sobre Zendesk Support <a href="https://zen-marketing-pt.s3.amazonaws.com/pt/Zendesk_Support_Info_ES.pdf">aquí.</a>
 </h3>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -11435,9 +11435,9 @@ Como dijimos al principio, el servicio al cliente es difícil. Mientras que Zend
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Una hoja de referencia  de Zendesk para escoger  su solución de soporte</title>
     <link>https://recursos.zendesk.com.mx/recursos/una-hoja-de-referencia-de-zendesk-para-escoger-su-solución-de-soporte/</link>
@@ -11445,7 +11445,7 @@ Como dijimos al principio, el servicio al cliente es difícil. Mientras que Zend
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/una-hoja-de-referencia-de-zendesk-para-escoger-su-solución-de-soporte</guid>
     <description></description>
-    
+
     <excerpt:encoded><![CDATA[                 Elegir la solución de soporte adecuada para su organización no es tarea fácil.]]></excerpt:encoded>
     <wp:post_id>380960203</wp:post_id>
     <wp:post_date><![CDATA[2017-11-06 18:56:21]]></wp:post_date>
@@ -11459,7 +11459,7 @@ Como dijimos al principio, el servicio al cliente es difícil. Mientras que Zend
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -11525,7 +11525,7 @@ Como dijimos al principio, el servicio al cliente es difícil. Mientras que Zend
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -11632,8 +11632,8 @@ visite zendesk.com.mx/demo para comenzar.</p>
 
 <p style="margin-left: 20px; font-stretch: normal; font-size: 18px; line-height: 26px; font-family: SHSN; color: rgb(3, 54, 61); margin-bottom: 7px; position: relative;"> </p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -11644,9 +11644,9 @@ visite zendesk.com.mx/demo para comenzar.</p>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Zendesk Guide: estrategias y mejores prácticas</title>
     <link>https://recursos.zendesk.com.mx/recursos/zendesk-guide-mejores-practicas/</link>
@@ -11654,7 +11654,7 @@ visite zendesk.com.mx/demo para comenzar.</p>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/zendesk-guide-mejores-practicas</guid>
     <description>La importancia de Zendesk Guide para el autoaservicio.</description>
-    
+
     <excerpt:encoded><![CDATA[La importancia de Zendesk Guide para el autoaservicio.]]></excerpt:encoded>
     <wp:post_id>399100311</wp:post_id>
     <wp:post_date><![CDATA[2018-01-12 8:48:52]]></wp:post_date>
@@ -11668,31 +11668,31 @@ visite zendesk.com.mx/demo para comenzar.</p>
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="autoservicio"><![CDATA[autoservicio]]></category>
-    
+
     <category domain="post_tag" nicename="autoservicio"><![CDATA[autoservicio]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-guide"><![CDATA[zendesk guide]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-guide"><![CDATA[zendesk guide]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="post_tag" nicename="guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="servicio-al-cliente"><![CDATA[servicio al cliente]]></category>
-    
+
     <category domain="post_tag" nicename="servicio-al-cliente"><![CDATA[servicio al cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -11758,7 +11758,7 @@ visite zendesk.com.mx/demo para comenzar.</p>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -11848,8 +11848,8 @@ visite zendesk.com.mx/demo para comenzar.</p>
 
 <p><iframe border="0" frameborder="0" height="595" scroll="none" src="https://recursos.zendesk.com.mx/hubsFront/embed_cta/107328" width="420"></iframe></p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -11860,9 +11860,9 @@ visite zendesk.com.mx/demo para comenzar.</p>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Zendesk Talk: Cuando hablar es hacer más por el cliente</title>
     <link>https://recursos.zendesk.com.mx/recursos/zendesk-talk-cuando-hablar-es-hacer-mas-por-el-cliente/</link>
@@ -11870,7 +11870,7 @@ visite zendesk.com.mx/demo para comenzar.</p>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/zendesk-talk-cuando-hablar-es-hacer-mas-por-el-cliente</guid>
     <description>Zendesk Talk es una central telefónica integrada a la plataforma omnicanal de Zendesk que permite brindar una atención más resolutiva al cliente.</description>
-    
+
     <excerpt:encoded><![CDATA[Zendesk Talk es una central telefónica integrada a la plataforma omnicanal de Zendesk que permite brindar una atención más resolutiva al cliente.]]></excerpt:encoded>
     <wp:post_id>464539106</wp:post_id>
     <wp:post_date><![CDATA[2018-09-19 14:44:11]]></wp:post_date>
@@ -11884,31 +11884,31 @@ visite zendesk.com.mx/demo para comenzar.</p>
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-talk"><![CDATA[Zendesk Talk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-talk"><![CDATA[Zendesk Talk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="talk"><![CDATA[Talk]]></category>
-    
+
     <category domain="post_tag" nicename="talk"><![CDATA[Talk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="infograf-a"><![CDATA[infografía]]></category>
-    
+
     <category domain="post_tag" nicename="infograf-a"><![CDATA[infografía]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="tel-fono"><![CDATA[teléfono]]></category>
-    
+
     <category domain="post_tag" nicename="tel-fono"><![CDATA[teléfono]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="central-telef-nica"><![CDATA[central telefônica]]></category>
-    
+
     <category domain="post_tag" nicename="central-telef-nica"><![CDATA[central telefônica]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -11974,7 +11974,7 @@ visite zendesk.com.mx/demo para comenzar.</p>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -12058,8 +12058,8 @@ visite zendesk.com.mx/demo para comenzar.</p>
 
 <p style="text-align: center;"><span style="font-family: PNR;">Conoce más sobre Zendesk Talk <a href="https://zen-marketing-pt.s3.amazonaws.com/pt/Zendesk_Talk_Info_ES.pdf">aquí.</a></span></p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -12070,9 +12070,9 @@ visite zendesk.com.mx/demo para comenzar.</p>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Zendesk: una experiencia continua del cliente con la marca</title>
     <link>https://recursos.zendesk.com.mx/recursos/zendesk-experiencia-cliente-omnichannel/</link>
@@ -12080,7 +12080,7 @@ visite zendesk.com.mx/demo para comenzar.</p>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/recursos/zendesk-experiencia-cliente-omnichannel</guid>
     <description>En Zendesk, transformamos los momentos de interacción de los clientes con las marcas en grandes experiencias.</description>
-    
+
     <excerpt:encoded><![CDATA[En Zendesk, transformamos los momentos de interacción de los clientes con las marcas en grandes experiencias.]]></excerpt:encoded>
     <wp:post_id>474802331</wp:post_id>
     <wp:post_date><![CDATA[2018-10-29 14:35:55]]></wp:post_date>
@@ -12094,23 +12094,23 @@ visite zendesk.com.mx/demo para comenzar.</p>
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="experiencia-del-cliente"><![CDATA[experiencia del cliente]]></category>
-    
+
     <category domain="post_tag" nicename="experiencia-del-cliente"><![CDATA[experiencia del cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="omnichannel"><![CDATA[omnichannel]]></category>
-    
+
     <category domain="post_tag" nicename="omnichannel"><![CDATA[omnichannel]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -12176,7 +12176,7 @@ visite zendesk.com.mx/demo para comenzar.</p>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -12259,8 +12259,8 @@ visite zendesk.com.mx/demo para comenzar.</p>
 <p>¿Quieres saber cómo Zendesk brinda este tipo de soluciones? ¡Descarga el eBook y descúbrelo!</p>
 
 <iframe src="https://recursos.zendesk.com.mx/hubsFront/embed_cta/167441" scroll="none" border="0" frameborder="0" width="420" height="595"></iframe>
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -12271,600 +12271,8 @@ visite zendesk.com.mx/demo para comenzar.</p>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
-  <item>
-    <title>Asignación automática de tickets con disparadores en Zendesk Support</title>
-    <link>https://recursos.zendesk.com.mx/self-service/asignación-automática-de-tickets-con-disparadores/</link>
-    <pubDate>Fri, 15 Dec 2017 18:51:45 +0000</pubDate>
-    <dc:creator><![CDATA[stsun]]></dc:creator>
-    <guid isPermaLink="true">https://recursos.zendesk.com.mx/self-service/asignación-automática-de-tickets-con-disparadores</guid>
-    <description>Un video corto sobre la asignación automática de tickets con disparadores</description>
-    
-    <excerpt:encoded><![CDATA[Un video corto sobre la asignación automática de tickets con disparadores]]></excerpt:encoded>
-    <wp:post_id>391753239</wp:post_id>
-    <wp:post_date><![CDATA[2017-12-15 18:51:45]]></wp:post_date>
-    <wp:post_date_gmt><![CDATA[2017-12-15 18:51:45]]></wp:post_date_gmt>
-    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
-    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
-    <wp:post_name><![CDATA[]]></wp:post_name>
-    <wp:status><![CDATA[publish]]></wp:status>
-    <wp:post_parent>0</wp:post_parent>
-    <wp:menu_order>0</wp:menu_order>
-    <wp:post_type><![CDATA[resource]]></wp:post_type>
-    <wp:post_password><![CDATA[]]></wp:post_password>
-    <wp:is_sticky>0</wp:is_sticky>
-    
-    <category domain="filter_tag_blog" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
-    <category domain="post_tag" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
-    <category domain="filter_tag_blog" nicename="-asignacionautomatica"><![CDATA[#AsignacionAutomatica]]></category>
-    
-    <category domain="post_tag" nicename="-asignacionautomatica"><![CDATA[#AsignacionAutomatica]]></category>
-    
-    <category domain="filter_tag_blog" nicename="-atenci-nalcliente"><![CDATA[#AtenciónAlCliente]]></category>
-    
-    <category domain="post_tag" nicename="-atenci-nalcliente"><![CDATA[#AtenciónAlCliente]]></category>
-    
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-      <wp:meta_value><![CDATA[0]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
-      <wp:meta_value><![CDATA[Un video corto sobre la asignación automática de tickets con disparadores]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
-      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-resource-391753239.png]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
-      <wp:meta_value><![CDATA[0]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
-      <wp:meta_value><![CDATA[0]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
-      <wp:meta_value><![CDATA[none]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
-      <wp:meta_value><![CDATA[-]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-      <wp:meta_value><![CDATA[1]]></wp:meta_value>
-    </wp:postmeta>
 
-    
-    <wp:postmeta>
-			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[3]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-gated]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-gated-success-from-form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-custom-fields]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[sf-cid]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[event-id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[event-key]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-header-text]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-ebook-external-link]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-thumbnail-url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-resource-391753239.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-featured-image-url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-resource-391753239.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-resource-391753239.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-infographic-url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-video-url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-read-time-override]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-teaser-copy]]></wp:meta_key>
-			<wp:meta_value><![CDATA[
-            <p><span id="docs-internal-guid-efffff90-5c93-4531-b3b7-54807ef6d033"><span style="font-size: 15pt; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Un video corto sobre la asignación automática de tickets con disparadores.</span></span></p>
-
-<p><iframe allow="encrypted-media" allowfullscreen="" frameborder="0" gesture="media" height="315" src="https://www.youtube.com/embed/i9r_9YmsgD8" width="560"></iframe></p>
-
-            	        
-	        	        
-        ]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-body-copy]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-    
-  </item>
-  
-  <item>
-    <title>Atención multimarca de Zendesk Support</title>
-    <link>https://recursos.zendesk.com.mx/self-service/atencion-multimarca-zendesk-support/</link>
-    <pubDate>Tue, 11 Sep 2018 10:14:00 +0000</pubDate>
-    <dc:creator><![CDATA[stsun]]></dc:creator>
-    <guid isPermaLink="true">https://recursos.zendesk.com.mx/self-service/atencion-multimarca-zendesk-support</guid>
-    <description>¿Cómo es la atención multimarca de Zendesk Support? Este tutorial muestra cómo puedes hacer esta configuración y satisfacer todas esas expectativas.</description>
-    
-    <excerpt:encoded><![CDATA[¿Cómo es la atención multimarca de Zendesk Support? Este tutorial muestra cómo puedes hacer esta configuración y satisfacer todas esas expectativas.]]></excerpt:encoded>
-    <wp:post_id>462449915</wp:post_id>
-    <wp:post_date><![CDATA[2018-09-11 10:14:00]]></wp:post_date>
-    <wp:post_date_gmt><![CDATA[2018-09-11 10:14:00]]></wp:post_date_gmt>
-    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
-    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
-    <wp:post_name><![CDATA[]]></wp:post_name>
-    <wp:status><![CDATA[publish]]></wp:status>
-    <wp:post_parent>0</wp:post_parent>
-    <wp:menu_order>0</wp:menu_order>
-    <wp:post_type><![CDATA[resource]]></wp:post_type>
-    <wp:post_password><![CDATA[]]></wp:post_password>
-    <wp:is_sticky>0</wp:is_sticky>
-    
-    <category domain="filter_tag_blog" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
-    <category domain="post_tag" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
-    <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
-    <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
-    <category domain="filter_tag_blog" nicename="multimarca"><![CDATA[multimarca]]></category>
-    
-    <category domain="post_tag" nicename="multimarca"><![CDATA[multimarca]]></category>
-    
-    <category domain="filter_tag_blog" nicename="multibrand"><![CDATA[multibrand]]></category>
-    
-    <category domain="post_tag" nicename="multibrand"><![CDATA[multibrand]]></category>
-    
-    <category domain="filter_tag_blog" nicename="tutorial"><![CDATA[tutorial]]></category>
-    
-    <category domain="post_tag" nicename="tutorial"><![CDATA[tutorial]]></category>
-    
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-      <wp:meta_value><![CDATA[0]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
-      <wp:meta_value><![CDATA[¿Cómo es la atención multimarca de Zendesk Support? Este tutorial muestra cómo puedes hacer esta configuración y satisfacer todas esas expectativas.]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
-      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-resource-462449915.png]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
-      <wp:meta_value><![CDATA[Atención multimarca de Zendesk Support]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
-      <wp:meta_value><![CDATA[¿Cómo es la atención multimarca de Zendesk Support? Este tutorial muestra cómo puedes hacer esta configuración y satisfacer todas esas expectativas.]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
-      <wp:meta_value><![CDATA[0]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
-      <wp:meta_value><![CDATA[0]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
-      <wp:meta_value><![CDATA[none]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
-      <wp:meta_value><![CDATA[-]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-      <wp:meta_value><![CDATA[1]]></wp:meta_value>
-    </wp:postmeta>
-
-    
-    <wp:postmeta>
-			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[3]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-gated]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-gated-success-from-form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-custom-fields]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[sf-cid]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[event-id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[event-key]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-header-text]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-ebook-external-link]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-thumbnail-url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-resource-462449915.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-featured-image-url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-resource-462449915.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-resource-462449915.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-infographic-url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-video-url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-read-time-override]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-teaser-copy]]></wp:meta_key>
-			<wp:meta_value><![CDATA[
-            <p>Tu empresa puede tener varias marcas, que atienden diferentes segmentos. Cada marca puede tener un lenguaje, reglas y visiones diferentes. Los agentes deben ver lo que les resulta familiar en la marca en la que están especializados. Los clientes también necesitan sentirse acogidos y ser atendidos por la persona de su sector. Pero, aún así, tu empresa necesita una visión integral de todo lo que está sucediendo en términos de atención al cliente.</p>
-
-<p>¿Cómo es eso posible en la atención multimarca de Zendesk Support? Este tutorial muestra cómo puedes hacer esta configuración y satisfacer todas esas expectativas.</p>
-<script src="https://fast.wistia.com/embed/medias/y00hdsp59q.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
-
-<div class="wistia_embed wistia_async_y00hdsp59q seo=false" style="height:478px;width:850px"> </div>
-
-            	        
-	        	        
-        ]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-body-copy]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-    
-  </item>
-  
-  <item>
-    <title>Atención omnichannel de Zendesk Support</title>
-    <link>https://recursos.zendesk.com.mx/self-service/atencion-omnichannel-zendesk-support/</link>
-    <pubDate>Tue, 11 Sep 2018 9:47:28 +0000</pubDate>
-    <dc:creator><![CDATA[stsun]]></dc:creator>
-    <guid isPermaLink="true">https://recursos.zendesk.com.mx/self-service/atencion-omnichannel-zendesk-support</guid>
-    <description>Mira en este tutorial cómo configurar la atención omnichannel en tu empresa en Zendesk Support.</description>
-    
-    <excerpt:encoded><![CDATA[Mira en este tutorial cómo configurar la atención omnichannel en tu empresa en Zendesk Support.]]></excerpt:encoded>
-    <wp:post_id>462447266</wp:post_id>
-    <wp:post_date><![CDATA[2018-09-11 9:47:28]]></wp:post_date>
-    <wp:post_date_gmt><![CDATA[2018-09-11 9:47:28]]></wp:post_date_gmt>
-    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
-    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
-    <wp:post_name><![CDATA[]]></wp:post_name>
-    <wp:status><![CDATA[publish]]></wp:status>
-    <wp:post_parent>0</wp:post_parent>
-    <wp:menu_order>0</wp:menu_order>
-    <wp:post_type><![CDATA[resource]]></wp:post_type>
-    <wp:post_password><![CDATA[]]></wp:post_password>
-    <wp:is_sticky>0</wp:is_sticky>
-    
-    <category domain="filter_tag_blog" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
-    <category domain="post_tag" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
-    <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
-    <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
-    <category domain="filter_tag_blog" nicename="omnichannel"><![CDATA[omnichannel]]></category>
-    
-    <category domain="post_tag" nicename="omnichannel"><![CDATA[omnichannel]]></category>
-    
-    <category domain="filter_tag_blog" nicename="omnicanal"><![CDATA[omnicanal]]></category>
-    
-    <category domain="post_tag" nicename="omnicanal"><![CDATA[omnicanal]]></category>
-    
-    <category domain="filter_tag_blog" nicename="tutorial"><![CDATA[tutorial]]></category>
-    
-    <category domain="post_tag" nicename="tutorial"><![CDATA[tutorial]]></category>
-    
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-      <wp:meta_value><![CDATA[0]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
-      <wp:meta_value><![CDATA[Mira en este tutorial cómo configurar la atención omnichannel en tu empresa en Zendesk Support.]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
-      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-resource-462447266.png]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
-      <wp:meta_value><![CDATA[Atención omnichannel de Zendesk Support]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
-      <wp:meta_value><![CDATA[Mira en este tutorial cómo configurar la atención omnichannel en tu empresa en Zendesk Support.]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
-      <wp:meta_value><![CDATA[0]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
-      <wp:meta_value><![CDATA[0]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
-      <wp:meta_value><![CDATA[none]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
-      <wp:meta_value><![CDATA[-]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-      <wp:meta_value><![CDATA[1]]></wp:meta_value>
-    </wp:postmeta>
-
-    
-    <wp:postmeta>
-			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[3]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-gated]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-gated-success-from-form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-custom-fields]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[sf-cid]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[event-id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[event-key]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-header-text]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-ebook-external-link]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-thumbnail-url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-resource-462447266.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-featured-image-url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-resource-462447266.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-resource-462447266.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-infographic-url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-video-url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-read-time-override]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-teaser-copy]]></wp:meta_key>
-			<wp:meta_value><![CDATA[
-            <p>Estar en todas partes para relacionarte con tu cliente: esa realidad ya es fundamental para garantizar buenos resultados en customer experience. Adoptar una estrategia omnichannel para la atención al cliente, en todos los canales de compra, debe ser un objetivo de las empresas para que el negocio sea sostenible.</p>
-
-<p>Y en Zendesk Support esa necesidad es atendida con maestría. Mira en este tutorial cómo configurar la atención omnichannel en tu empresa. ¡Canales diferentes, con atención integrada!</p>
-<script src="https://fast.wistia.com/embed/medias/fghz3mkhdu.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
-
-<div class="wistia_embed wistia_async_fghz3mkhdu seo=false" style="height:478px;width:850px"> </div>
-
-            	        
-	        	        
-        ]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-body-copy]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-    
-  </item>
-  
 </channel>
 </rss>
