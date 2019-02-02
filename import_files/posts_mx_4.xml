@@ -31,7 +31,7 @@
 
 	<generator>https://wordpress.org/?v=4.7.3</generator>
 
-  
+
   <item>
     <title>Asignación automática de tickets con disparadores en Zendesk Support</title>
     <link>https://recursos.zendesk.com.mx/self-service/asignación-automática-de-tickets-con-disparadores/</link>
@@ -39,7 +39,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/self-service/asignación-automática-de-tickets-con-disparadores</guid>
     <description>Un video corto sobre la asignación automática de tickets con disparadores</description>
-    
+
     <excerpt:encoded><![CDATA[Un video corto sobre la asignación automática de tickets con disparadores]]></excerpt:encoded>
     <wp:post_id>391753239</wp:post_id>
     <wp:post_date><![CDATA[2017-12-15 18:51:45]]></wp:post_date>
@@ -53,21 +53,21 @@
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-asignacionautomatica"><![CDATA[#AsignacionAutomatica]]></category>
-    
+
     <category domain="post_tag" nicename="-asignacionautomatica"><![CDATA[#AsignacionAutomatica]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-atenci-nalcliente"><![CDATA[#AtenciónAlCliente]]></category>
-    
+
     <category domain="post_tag" nicename="-atenci-nalcliente"><![CDATA[#AtenciónAlCliente]]></category>
-    
+
     <category domain="filter_tag" nicename="library-videos"><![CDATA[Videos]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -133,7 +133,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -209,8 +209,8 @@
 
 <p><iframe allow="encrypted-media" allowfullscreen="" frameborder="0" gesture="media" height="315" src="https://www.youtube.com/embed/i9r_9YmsgD8" width="560"></iframe></p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -221,9 +221,9 @@
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Atención multimarca de Zendesk Support</title>
     <link>https://recursos.zendesk.com.mx/self-service/atencion-multimarca-zendesk-support/</link>
@@ -231,7 +231,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/self-service/atencion-multimarca-zendesk-support</guid>
     <description>¿Cómo es la atención multimarca de Zendesk Support? Este tutorial muestra cómo puedes hacer esta configuración y satisfacer todas esas expectativas.</description>
-    
+
     <excerpt:encoded><![CDATA[¿Cómo es la atención multimarca de Zendesk Support? Este tutorial muestra cómo puedes hacer esta configuración y satisfacer todas esas expectativas.]]></excerpt:encoded>
     <wp:post_id>462449915</wp:post_id>
     <wp:post_date><![CDATA[2018-09-11 10:14:00]]></wp:post_date>
@@ -245,29 +245,29 @@
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="multimarca"><![CDATA[multimarca]]></category>
-    
+
     <category domain="post_tag" nicename="multimarca"><![CDATA[multimarca]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="multibrand"><![CDATA[multibrand]]></category>
-    
+
     <category domain="post_tag" nicename="multibrand"><![CDATA[multibrand]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="tutorial"><![CDATA[tutorial]]></category>
-    
+
     <category domain="post_tag" nicename="tutorial"><![CDATA[tutorial]]></category>
-    
+
     <category domain="filter_tag" nicename="library-videos"><![CDATA[Videos]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -333,7 +333,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -410,10 +410,10 @@
 <p>¿Cómo es eso posible en la atención multimarca de Zendesk Support? Este tutorial muestra cómo puedes hacer esta configuración y satisfacer todas esas expectativas.</p>
 <script src="https://fast.wistia.com/embed/medias/y00hdsp59q.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
 
-<div class="wistia_embed wistia_async_y00hdsp59q seo=false" style="height:478px;width:850px"> </div>
+<div class="wistia_responsive_padding" style="padding:56.0% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_emkgin709o videoFoam=true" style="height:100%;width:100%"> </div></div></div>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -424,9 +424,9 @@
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Atención omnichannel de Zendesk Support</title>
     <link>https://recursos.zendesk.com.mx/self-service/atencion-omnichannel-zendesk-support/</link>
@@ -434,7 +434,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/self-service/atencion-omnichannel-zendesk-support</guid>
     <description>Mira en este tutorial cómo configurar la atención omnichannel en tu empresa en Zendesk Support.</description>
-    
+
     <excerpt:encoded><![CDATA[Mira en este tutorial cómo configurar la atención omnichannel en tu empresa en Zendesk Support.]]></excerpt:encoded>
     <wp:post_id>462447266</wp:post_id>
     <wp:post_date><![CDATA[2018-09-11 9:47:28]]></wp:post_date>
@@ -448,29 +448,29 @@
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="omnichannel"><![CDATA[omnichannel]]></category>
-    
+
     <category domain="post_tag" nicename="omnichannel"><![CDATA[omnichannel]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="omnicanal"><![CDATA[omnicanal]]></category>
-    
+
     <category domain="post_tag" nicename="omnicanal"><![CDATA[omnicanal]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="tutorial"><![CDATA[tutorial]]></category>
-    
+
     <category domain="post_tag" nicename="tutorial"><![CDATA[tutorial]]></category>
-    
+
     <category domain="filter_tag" nicename="library-videos"><![CDATA[Videos]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -536,7 +536,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -615,8 +615,8 @@
 
 <div class="wistia_embed wistia_async_fghz3mkhdu seo=false" style="height:478px;width:850px"> </div>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -627,9 +627,9 @@
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Cómo crear reportes de Insights en Zendesk Support</title>
     <link>https://recursos.zendesk.com.mx/self-service/reportes-insights-zendesk-support/</link>
@@ -637,7 +637,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/self-service/reportes-insights-zendesk-support</guid>
     <description>Entiende y actúa basándote en la información de tus tickets con reportes de Insights.</description>
-    
+
     <excerpt:encoded><![CDATA[Entiende y actúa basándote en la información de tus tickets con reportes de Insights.]]></excerpt:encoded>
     <wp:post_id>485758343</wp:post_id>
     <wp:post_date><![CDATA[2018-12-13 14:17:35]]></wp:post_date>
@@ -651,25 +651,25 @@
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="insights"><![CDATA[insights]]></category>
-    
+
     <category domain="post_tag" nicename="insights"><![CDATA[insights]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="reportes"><![CDATA[Reportes]]></category>
-    
+
     <category domain="post_tag" nicename="reportes"><![CDATA[Reportes]]></category>
-    
+
     <category domain="filter_tag" nicename="library-videos"><![CDATA[Videos]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -735,7 +735,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -812,8 +812,8 @@
 
 <div class="wistia_embed wistia_async_qy2y9qqut3 seo=false" style="height:478px;width:850px"> </div>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -824,9 +824,9 @@
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Configuración de Canales en Zendesk Support</title>
     <link>https://recursos.zendesk.com.mx/self-service/configuración-de-canales-en-zendesk-support/</link>
@@ -834,7 +834,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/self-service/configuración-de-canales-en-zendesk-support</guid>
     <description>Un video corto sobre la configuración de Canales en Zendesk Support</description>
-    
+
     <excerpt:encoded><![CDATA[Un video corto sobre la configuración de Canales en Zendesk Support]]></excerpt:encoded>
     <wp:post_id>391757028</wp:post_id>
     <wp:post_date><![CDATA[2017-12-15 19:10:14]]></wp:post_date>
@@ -848,21 +848,21 @@
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-configuraciondecanales"><![CDATA[#ConfiguraciondeCanales]]></category>
-    
+
     <category domain="post_tag" nicename="-configuraciondecanales"><![CDATA[#ConfiguraciondeCanales]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-zendesksupport"><![CDATA[#ZendeskSupport]]></category>
-    
+
     <category domain="post_tag" nicename="-zendesksupport"><![CDATA[#ZendeskSupport]]></category>
-    
+
     <category domain="filter_tag" nicename="library-videos"><![CDATA[Videos]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -928,7 +928,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -1006,8 +1006,8 @@
 
 <p><iframe allow="encrypted-media" allowfullscreen="" frameborder="0" gesture="media" height="315" src="https://www.youtube.com/embed/B1bLHBc8MBE" width="560"></iframe></p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -1018,9 +1018,9 @@
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Control de acceso de Zendesk Guide: gestión y acceso direccionados</title>
     <link>https://recursos.zendesk.com.mx/self-service/control-de-acceso-zendesk-guide/</link>
@@ -1028,7 +1028,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/self-service/control-de-acceso-zendesk-guide</guid>
     <description>Mira en este tutorial cómo puedes implementar control de acceso en Zendesk Guide, de acuerdo con el perfil y las necesidades de cada agente.</description>
-    
+
     <excerpt:encoded><![CDATA[Mira en este tutorial cómo puedes implementar control de acceso en Zendesk Guide, de acuerdo con el perfil y las necesidades de cada agente.]]></excerpt:encoded>
     <wp:post_id>462441818</wp:post_id>
     <wp:post_date><![CDATA[2018-09-11 9:16:34]]></wp:post_date>
@@ -1042,25 +1042,25 @@
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-guide"><![CDATA[zendesk guide]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-guide"><![CDATA[zendesk guide]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="control-de-acceso"><![CDATA[Control de acceso]]></category>
-    
+
     <category domain="post_tag" nicename="control-de-acceso"><![CDATA[Control de acceso]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="tutorial"><![CDATA[tutorial]]></category>
-    
+
     <category domain="post_tag" nicename="tutorial"><![CDATA[tutorial]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag" nicename="library-videos"><![CDATA[Videos]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -1126,7 +1126,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -1205,8 +1205,8 @@
 
 <div class="wistia_embed wistia_async_1xcdviqpfr seo=false" style="height:478px;width:850px"> </div>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -1217,9 +1217,9 @@
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Conversiones en Zendesk Chat (subtitulado)</title>
     <link>https://recursos.zendesk.com.mx/self-service/conversiones-en-zendesk-chat/</link>
@@ -1227,7 +1227,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/self-service/conversiones-en-zendesk-chat</guid>
     <description>Seguimiento de conversiones en Zendesk Chat. Subtitulado en Español.</description>
-    
+
     <excerpt:encoded><![CDATA[Seguimiento de conversiones en Zendesk Chat. Subtitulado en Español.]]></excerpt:encoded>
     <wp:post_id>398364182</wp:post_id>
     <wp:post_date><![CDATA[2018-01-09 15:01:50]]></wp:post_date>
@@ -1241,29 +1241,29 @@
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="chat"><![CDATA[Chat]]></category>
-    
+
     <category domain="post_tag" nicename="chat"><![CDATA[Chat]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-chat"><![CDATA[Zendesk Chat]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-chat"><![CDATA[Zendesk Chat]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="conversiones"><![CDATA[conversiones]]></category>
-    
+
     <category domain="post_tag" nicename="conversiones"><![CDATA[conversiones]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="software"><![CDATA[software]]></category>
-    
+
     <category domain="post_tag" nicename="software"><![CDATA[software]]></category>
-    
+
     <category domain="filter_tag" nicename="library-videos"><![CDATA[Videos]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -1329,7 +1329,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -1406,8 +1406,8 @@
 
 <div class="wistia_embed wistia_async_9u6432t363 seo=false" style="height:360px;width:640px"> </div>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -1418,9 +1418,9 @@
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Demostración de Zendesk</title>
     <link>https://recursos.zendesk.com.mx/self-service/demo-de-zendesk/</link>
@@ -1428,7 +1428,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/self-service/demo-de-zendesk</guid>
     <description>Demo Zendesk Support</description>
-    
+
     <excerpt:encoded><![CDATA[Demo Zendesk Support]]></excerpt:encoded>
     <wp:post_id>408488883</wp:post_id>
     <wp:post_date><![CDATA[2018-02-14 12:39:35]]></wp:post_date>
@@ -1442,33 +1442,33 @@
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="demo"><![CDATA[demo]]></category>
-    
+
     <category domain="post_tag" nicename="demo"><![CDATA[demo]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="demonstraci-n"><![CDATA[demonstración]]></category>
-    
+
     <category domain="post_tag" nicename="demonstraci-n"><![CDATA[demonstración]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="self-service"><![CDATA[self service]]></category>
-    
+
     <category domain="post_tag" nicename="self-service"><![CDATA[self service]]></category>
-    
+
     <category domain="filter_tag" nicename="library-videos"><![CDATA[Videos]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -1534,7 +1534,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -1610,8 +1610,8 @@
 
 <div class="wistia_embed wistia_async_2n7vbj2zv8 seo=false" style="height:400px;width:640px"> </div>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -1622,9 +1622,9 @@
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Desvío basado en destrezas en Zendesk Chat (subtitulado)</title>
     <link>https://recursos.zendesk.com.mx/self-service/desvio-basado-en-destrezas-zendesk-chat/</link>
@@ -1632,7 +1632,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/self-service/desvio-basado-en-destrezas-zendesk-chat</guid>
     <description>Desvío basado en destrezas en Zendesk Chat. Subtitulado en Español.</description>
-    
+
     <excerpt:encoded><![CDATA[Desvío basado en destrezas en Zendesk Chat. Subtitulado en Español.]]></excerpt:encoded>
     <wp:post_id>398365577</wp:post_id>
     <wp:post_date><![CDATA[2018-01-09 15:06:13]]></wp:post_date>
@@ -1646,29 +1646,29 @@
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="desvio"><![CDATA[desvio]]></category>
-    
+
     <category domain="post_tag" nicename="desvio"><![CDATA[desvio]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-chat"><![CDATA[Zendesk Chat]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-chat"><![CDATA[Zendesk Chat]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="chat"><![CDATA[Chat]]></category>
-    
+
     <category domain="post_tag" nicename="chat"><![CDATA[Chat]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="library-videos"><![CDATA[Videos]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -1734,7 +1734,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -1811,8 +1811,8 @@
 
 <div class="wistia_embed wistia_async_7pyur8malc seo=false" style="height:360px;width:640px"> </div>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -1823,9 +1823,9 @@
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Embeddables (subtitulado)</title>
     <link>https://recursos.zendesk.com.mx/self-service/embeddables/</link>
@@ -1833,7 +1833,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/self-service/embeddables</guid>
     <description>Zendesk Embeddables en Español.</description>
-    
+
     <excerpt:encoded><![CDATA[Zendesk Embeddables en Español.]]></excerpt:encoded>
     <wp:post_id>398371055</wp:post_id>
     <wp:post_date><![CDATA[2018-01-09 15:34:00]]></wp:post_date>
@@ -1847,21 +1847,21 @@
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="embeddables"><![CDATA[Embeddables]]></category>
-    
+
     <category domain="post_tag" nicename="embeddables"><![CDATA[Embeddables]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="library-videos"><![CDATA[Videos]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -1927,7 +1927,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -2004,8 +2004,8 @@
 
 <div class="wistia_embed wistia_async_br009t4heu seo=false" style="height:360px;width:640px"> </div>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -2016,9 +2016,9 @@
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Escalación de tickets con macros en Zendesk Support</title>
     <link>https://recursos.zendesk.com.mx/self-service/escalación-de-tickets-con-macros/</link>
@@ -2026,7 +2026,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/self-service/escalación-de-tickets-con-macros</guid>
     <description>Un video corto sobre la escalación de tickets a otros agentes con Macros.</description>
-    
+
     <excerpt:encoded><![CDATA[Un video corto sobre la escalación de tickets a otros agentes con Macros.]]></excerpt:encoded>
     <wp:post_id>391186107</wp:post_id>
     <wp:post_date><![CDATA[2017-12-13 20:22:01]]></wp:post_date>
@@ -2040,21 +2040,21 @@
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-macros"><![CDATA[#Macros]]></category>
-    
+
     <category domain="post_tag" nicename="-macros"><![CDATA[#Macros]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-servicioalcliente"><![CDATA[#ServicioAlCliente]]></category>
-    
+
     <category domain="post_tag" nicename="-servicioalcliente"><![CDATA[#ServicioAlCliente]]></category>
-    
+
     <category domain="filter_tag" nicename="library-videos"><![CDATA[Videos]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2120,7 +2120,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -2196,8 +2196,8 @@
 
 <p><iframe allow="encrypted-media" allowfullscreen="" frameborder="0" gesture="media" height="315" src="https://www.youtube.com/embed/paq9sGQOhA8" width="560"></iframe></p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -2208,9 +2208,9 @@
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Formularios de Zendesk Chat: ayudando a personalizar la atención</title>
     <link>https://recursos.zendesk.com.mx/self-service/formularios-zendesk-chat/</link>
@@ -2218,7 +2218,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/self-service/formularios-zendesk-chat</guid>
     <description>Mira este tutorial para saber cómo puedes utilizar los formularios de Zendesk Chat y preparar mejor a tu agente para cada llamada.</description>
-    
+
     <excerpt:encoded><![CDATA[Mira este tutorial para saber cómo puedes utilizar los formularios de Zendesk Chat y preparar mejor a tu agente para cada llamada.]]></excerpt:encoded>
     <wp:post_id>462444197</wp:post_id>
     <wp:post_date><![CDATA[2018-09-11 9:31:30]]></wp:post_date>
@@ -2232,21 +2232,21 @@
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-chat"><![CDATA[Zendesk Chat]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-chat"><![CDATA[Zendesk Chat]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="formularios"><![CDATA[formularios]]></category>
-    
+
     <category domain="post_tag" nicename="formularios"><![CDATA[formularios]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="tutorial"><![CDATA[tutorial]]></category>
-    
+
     <category domain="post_tag" nicename="tutorial"><![CDATA[tutorial]]></category>
-    
+
     <category domain="filter_tag" nicename="library-videos"><![CDATA[Videos]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2312,7 +2312,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -2393,8 +2393,8 @@
 
 <div class="wistia_embed wistia_async_h3ymwh2rfh seo=false" style="height:478px;width:850px"> </div>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -2405,9 +2405,9 @@
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Funciones y permisos en Zendesk Chat (subtitulado)</title>
     <link>https://recursos.zendesk.com.mx/self-service/funciones-y-permisos-en-zendesk-chat/</link>
@@ -2415,7 +2415,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/self-service/funciones-y-permisos-en-zendesk-chat</guid>
     <description>Funciones y permisos en Zendesk Chat. Subtitulado en Español.</description>
-    
+
     <excerpt:encoded><![CDATA[Funciones y permisos en Zendesk Chat. Subtitulado en Español.]]></excerpt:encoded>
     <wp:post_id>398362607</wp:post_id>
     <wp:post_date><![CDATA[2018-01-09 14:57:05]]></wp:post_date>
@@ -2429,33 +2429,33 @@
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="roles"><![CDATA[roles]]></category>
-    
+
     <category domain="post_tag" nicename="roles"><![CDATA[roles]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="funciones"><![CDATA[funciones]]></category>
-    
+
     <category domain="post_tag" nicename="funciones"><![CDATA[funciones]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="permisos"><![CDATA[permisos]]></category>
-    
+
     <category domain="post_tag" nicename="permisos"><![CDATA[permisos]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="chat"><![CDATA[Chat]]></category>
-    
+
     <category domain="post_tag" nicename="chat"><![CDATA[Chat]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-chat"><![CDATA[Zendesk Chat]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-chat"><![CDATA[Zendesk Chat]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="library-videos"><![CDATA[Videos]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2521,7 +2521,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -2598,8 +2598,8 @@
 
 <div class="wistia_embed wistia_async_7pyur8malc seo=false" style="height:360px;width:640px"> </div>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -2610,9 +2610,9 @@
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Omnichannel: una mejor experiencia para el cliente</title>
     <link>https://recursos.zendesk.com.mx/self-service/omnichannel-una-mejor-experiencia-para-el-cliente/</link>
@@ -2620,7 +2620,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/self-service/omnichannel-una-mejor-experiencia-para-el-cliente</guid>
     <description>Entienda qué es omnichannel y cómo ofrecer una mejor experiencia para el cliente</description>
-    
+
     <excerpt:encoded><![CDATA[Entienda qué es omnichannel y cómo ofrecer una mejor experiencia para el cliente]]></excerpt:encoded>
     <wp:post_id>425660601</wp:post_id>
     <wp:post_date><![CDATA[2018-04-16 14:41:56]]></wp:post_date>
@@ -2634,29 +2634,29 @@
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="omnichannel"><![CDATA[omnichannel]]></category>
-    
+
     <category domain="post_tag" nicename="omnichannel"><![CDATA[omnichannel]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="omnicanal"><![CDATA[omnicanal]]></category>
-    
+
     <category domain="post_tag" nicename="omnicanal"><![CDATA[omnicanal]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
+
     <category domain="filter_tag" nicename="library-videos"><![CDATA[Videos]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2722,7 +2722,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -2799,8 +2799,8 @@
 
 <div class="wistia_embed wistia_async_gona1rz52d seo=false" style="height:360px;width:640px"> </div>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -2811,9 +2811,9 @@
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Respuestas automatizadas con disparadores en Zendesk Chat</title>
     <link>https://recursos.zendesk.com.mx/self-service/5-chat-respuestas-automatizadas-con-disparadores/</link>
@@ -2821,7 +2821,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/self-service/5-chat-respuestas-automatizadas-con-disparadores</guid>
     <description>5 Respuestas de chat Automatizadas con Disparadores</description>
-    
+
     <excerpt:encoded><![CDATA[5 Respuestas de chat Automatizadas con Disparadores]]></excerpt:encoded>
     <wp:post_id>391079697</wp:post_id>
     <wp:post_date><![CDATA[2017-12-13 13:14:52]]></wp:post_date>
@@ -2835,25 +2835,25 @@
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-respuestasautomatizadas"><![CDATA[#RespuestasAutomatizadas]]></category>
-    
+
     <category domain="post_tag" nicename="-respuestasautomatizadas"><![CDATA[#RespuestasAutomatizadas]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-disparadores"><![CDATA[#Disparadores]]></category>
-    
+
     <category domain="post_tag" nicename="-disparadores"><![CDATA[#Disparadores]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-zenchat"><![CDATA[#ZenChat]]></category>
-    
+
     <category domain="post_tag" nicename="-zenchat"><![CDATA[#ZenChat]]></category>
-    
+
     <category domain="filter_tag" nicename="library-videos"><![CDATA[Videos]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2919,7 +2919,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -2995,8 +2995,8 @@
 
 <p><iframe allow="encrypted-media" allowfullscreen="" frameborder="0" gesture="media" height="315" src="https://www.youtube.com/embed/GAeUw_gdVag" width="560"></iframe></p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -3007,9 +3007,9 @@
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Respuestas predefinidas con métodos abreviados en Zendesk Chat</title>
     <link>https://recursos.zendesk.com.mx/self-service/4-respuestas-predefinidas-con-métodos-abreviados/</link>
@@ -3017,7 +3017,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/self-service/4-respuestas-predefinidas-con-métodos-abreviados</guid>
     <description>Un video corto sobre la configuración de respuestas predefinidas con Métodos Abreviados.</description>
-    
+
     <excerpt:encoded><![CDATA[Un video corto sobre la configuración de respuestas predefinidas con Métodos Abreviados.]]></excerpt:encoded>
     <wp:post_id>391183722</wp:post_id>
     <wp:post_date><![CDATA[2017-12-13 20:14:30]]></wp:post_date>
@@ -3031,21 +3031,21 @@
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="-zendesk"><![CDATA[#Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-respuestaspredefinidas"><![CDATA[#RespuestasPredefinidas]]></category>
-    
+
     <category domain="post_tag" nicename="-respuestaspredefinidas"><![CDATA[#RespuestasPredefinidas]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-metodosabreviados"><![CDATA[#MetodosAbreviados]]></category>
-    
+
     <category domain="post_tag" nicename="-metodosabreviados"><![CDATA[#MetodosAbreviados]]></category>
-    
+
     <category domain="filter_tag" nicename="library-videos"><![CDATA[Videos]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -3111,7 +3111,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -3187,8 +3187,8 @@
 
 <p><iframe allow="encrypted-media" allowfullscreen="" frameborder="0" gesture="media" height="315" src="https://www.youtube.com/embed/NBo81bD7lE4" width="560"></iframe></p>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -3199,9 +3199,9 @@
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Support + Chat (subtitulado)</title>
     <link>https://recursos.zendesk.com.mx/self-service/support-chat-subtitulado/</link>
@@ -3209,7 +3209,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/self-service/support-chat-subtitulado</guid>
     <description>Los beneficios de la combinación de Zendesk Support y Zendesk Chat. Subtitulado en Español.</description>
-    
+
     <excerpt:encoded><![CDATA[Los beneficios de la combinación de Zendesk Support y Zendesk Chat. Subtitulado en Español.]]></excerpt:encoded>
     <wp:post_id>398365943</wp:post_id>
     <wp:post_date><![CDATA[2018-01-09 15:10:16]]></wp:post_date>
@@ -3223,33 +3223,33 @@
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="support"><![CDATA[Support]]></category>
-    
+
     <category domain="post_tag" nicename="support"><![CDATA[Support]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-chat"><![CDATA[Zendesk Chat]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-chat"><![CDATA[Zendesk Chat]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="chat"><![CDATA[Chat]]></category>
-    
+
     <category domain="post_tag" nicename="chat"><![CDATA[Chat]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="software"><![CDATA[software]]></category>
-    
+
     <category domain="post_tag" nicename="software"><![CDATA[software]]></category>
-    
+
     <category domain="filter_tag" nicename="library-videos"><![CDATA[Videos]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -3315,7 +3315,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -3392,8 +3392,8 @@
 
 <div class="wistia_embed wistia_async_na4vv6yu64 seo=false" style="height:360px;width:640px"> </div>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -3404,9 +3404,9 @@
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Zendesk Guide (subtitulado)</title>
     <link>https://recursos.zendesk.com.mx/self-service/zendesk-guide/</link>
@@ -3414,7 +3414,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/self-service/zendesk-guide</guid>
     <description>Zendesk Guide. Subtitulado en Español.</description>
-    
+
     <excerpt:encoded><![CDATA[Zendesk Guide. Subtitulado en Español.]]></excerpt:encoded>
     <wp:post_id>398375180</wp:post_id>
     <wp:post_date><![CDATA[2018-01-09 15:38:25]]></wp:post_date>
@@ -3428,29 +3428,29 @@
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-guide"><![CDATA[zendesk guide]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-guide"><![CDATA[zendesk guide]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="post_tag" nicename="guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="base-de-conocimiento"><![CDATA[base de conocimiento]]></category>
-    
+
     <category domain="post_tag" nicename="base-de-conocimiento"><![CDATA[base de conocimiento]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="library-videos"><![CDATA[Videos]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -3516,7 +3516,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -3592,8 +3592,8 @@
 <script src="https://fast.wistia.com/embed/medias/evmlbbi4cs.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
 
 <div class="wistia_embed wistia_async_evmlbbi4cs seo=false" style="height:360px;width:640px"> </div>
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -3604,9 +3604,9 @@
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Zendesk Guide: Help Center</title>
     <link>https://recursos.zendesk.com.mx/self-service/zendesk-guide-help-center/</link>
@@ -3614,7 +3614,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/self-service/zendesk-guide-help-center</guid>
     <description>Webinar sobre Help Center de Zendesk Guide.</description>
-    
+
     <excerpt:encoded><![CDATA[Webinar sobre Help Center de Zendesk Guide.]]></excerpt:encoded>
     <wp:post_id>485755394</wp:post_id>
     <wp:post_date><![CDATA[2018-12-13 14:07:32]]></wp:post_date>
@@ -3628,25 +3628,25 @@
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-guide"><![CDATA[zendesk guide]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-guide"><![CDATA[zendesk guide]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="post_tag" nicename="guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="help-center"><![CDATA[help center]]></category>
-    
+
     <category domain="post_tag" nicename="help-center"><![CDATA[help center]]></category>
-    
+
     <category domain="filter_tag" nicename="library-videos"><![CDATA[Videos]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -3712,7 +3712,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -3788,8 +3788,8 @@
 <script src="https://fast.wistia.com/embed/medias/l62uj84lg0.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
 
 <div class="wistia_embed wistia_async_l62uj84lg0 seo=false" style="height:478px;width:850px"> </div>
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -3800,9 +3800,9 @@
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Zendesk Support: Apps</title>
     <link>https://recursos.zendesk.com.mx/self-service/zendesk-support-apps/</link>
@@ -3810,7 +3810,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/self-service/zendesk-support-apps</guid>
     <description>Webinar sobre Apps de Zendesk Support.</description>
-    
+
     <excerpt:encoded><![CDATA[Webinar sobre Apps de Zendesk Support.]]></excerpt:encoded>
     <wp:post_id>485751548</wp:post_id>
     <wp:post_date><![CDATA[2018-12-13 13:47:24]]></wp:post_date>
@@ -3824,25 +3824,25 @@
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="apps"><![CDATA[Apps]]></category>
-    
+
     <category domain="post_tag" nicename="apps"><![CDATA[Apps]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="tutorial"><![CDATA[tutorial]]></category>
-    
+
     <category domain="post_tag" nicename="tutorial"><![CDATA[tutorial]]></category>
-    
+
     <category domain="filter_tag" nicename="library-videos"><![CDATA[Videos]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -3908,7 +3908,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -3985,8 +3985,8 @@
 
 <div class="wistia_embed wistia_async_62w47izpuo seo=false" style="height:478px;width:850px"> </div>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -3997,9 +3997,9 @@
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Zendesk Support: cómo limpiar tu cuenta</title>
     <link>https://recursos.zendesk.com.mx/self-service/zendesk-support-limpiar-tu-cuenta/</link>
@@ -4007,7 +4007,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/self-service/zendesk-support-limpiar-tu-cuenta</guid>
     <description>Cómo mantener tu cuenta limpia en Zendesk Support.</description>
-    
+
     <excerpt:encoded><![CDATA[Cómo mantener tu cuenta limpia en Zendesk Support.]]></excerpt:encoded>
     <wp:post_id>485756894</wp:post_id>
     <wp:post_date><![CDATA[2018-12-13 14:13:20]]></wp:post_date>
@@ -4021,17 +4021,17 @@
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
+
     <category domain="filter_tag" nicename="library-videos"><![CDATA[Videos]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -4097,7 +4097,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -4173,8 +4173,8 @@
 <script src="https://fast.wistia.com/embed/medias/4uvqswm7p1.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
 
 <div class="wistia_embed wistia_async_4uvqswm7p1 seo=false" style="height:478px;width:850px"> </div>
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -4185,9 +4185,9 @@
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Zendesk Support: personalizando las reglas y los plazos de atención</title>
     <link>https://recursos.zendesk.com.mx/self-service/zendesk-support-reglas-negocio/</link>
@@ -4195,7 +4195,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/self-service/zendesk-support-reglas-negocio</guid>
     <description>Mira en este tutorial cómo definir tus reglas y realizar acciones programadas para cada generación de tickets en Zendesk Support.</description>
-    
+
     <excerpt:encoded><![CDATA[Mira en este tutorial cómo definir tus reglas y realizar acciones programadas para cada generación de tickets en Zendesk Support.]]></excerpt:encoded>
     <wp:post_id>462454766</wp:post_id>
     <wp:post_date><![CDATA[2018-09-11 10:22:11]]></wp:post_date>
@@ -4209,33 +4209,33 @@
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="reglas-de-negocio"><![CDATA[reglas de negocio]]></category>
-    
+
     <category domain="post_tag" nicename="reglas-de-negocio"><![CDATA[reglas de negocio]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="plazos-de-atenci-n"><![CDATA[plazos de atención]]></category>
-    
+
     <category domain="post_tag" nicename="plazos-de-atenci-n"><![CDATA[plazos de atención]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atenci-n-al-cliente"><![CDATA[atención al cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="tutorial"><![CDATA[tutorial]]></category>
-    
+
     <category domain="post_tag" nicename="tutorial"><![CDATA[tutorial]]></category>
-    
+
     <category domain="filter_tag" nicename="library-videos"><![CDATA[Videos]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -4301,7 +4301,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -4382,8 +4382,8 @@
 
 <div class="wistia_embed wistia_async_3x8p3mwm45 seo=false" style="height:478px;width:850px"> </div>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -4394,9 +4394,9 @@
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Zendesk Support: Reglas de Negocio</title>
     <link>https://recursos.zendesk.com.mx/self-service/zendesk-support-reglas-de-negocio/</link>
@@ -4404,7 +4404,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/self-service/zendesk-support-reglas-de-negocio</guid>
     <description>Reglas de negocio en Zendesk Support.</description>
-    
+
     <excerpt:encoded><![CDATA[Reglas de negocio en Zendesk Support.]]></excerpt:encoded>
     <wp:post_id>485758826</wp:post_id>
     <wp:post_date><![CDATA[2018-12-13 14:21:32]]></wp:post_date>
@@ -4418,21 +4418,21 @@
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="reglas-de-negocio"><![CDATA[reglas de negocio]]></category>
-    
+
     <category domain="post_tag" nicename="reglas-de-negocio"><![CDATA[reglas de negocio]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
+
     <category domain="filter_tag" nicename="library-videos"><![CDATA[Videos]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -4498,7 +4498,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -4574,8 +4574,8 @@
 <script src="https://fast.wistia.com/embed/medias/gpfuj3iot8.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
 
 <div class="wistia_embed wistia_async_gpfuj3iot8 seo=false" style="height:478px;width:850px"> </div>
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -4586,9 +4586,9 @@
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Zendesk Support: SLAs</title>
     <link>https://recursos.zendesk.com.mx/self-service/zendesk-support-slas/</link>
@@ -4596,7 +4596,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/self-service/zendesk-support-slas</guid>
     <description>Webinar sobre SLAs en Zendesk Support.</description>
-    
+
     <excerpt:encoded><![CDATA[Webinar sobre SLAs en Zendesk Support.]]></excerpt:encoded>
     <wp:post_id>485749487</wp:post_id>
     <wp:post_date><![CDATA[2018-12-13 13:44:23]]></wp:post_date>
@@ -4610,25 +4610,25 @@
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="webinar"><![CDATA[Webinar]]></category>
-    
+
     <category domain="post_tag" nicename="webinar"><![CDATA[Webinar]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-support"><![CDATA[zendesk support]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="slas"><![CDATA[SLAs]]></category>
-    
+
     <category domain="post_tag" nicename="slas"><![CDATA[SLAs]]></category>
-    
+
     <category domain="filter_tag" nicename="library-videos"><![CDATA[Videos]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -4694,7 +4694,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -4771,8 +4771,8 @@
 
 <div class="wistia_embed wistia_async_zbtp0w6ies seo=false" style="height:478px;width:850px"> </div>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -4783,9 +4783,9 @@
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Zendesk Talk: transferencia fácil de llamadas a otro teléfono</title>
     <link>https://recursos.zendesk.com.mx/self-service/zendesk-talk-transferencia-llamadas/</link>
@@ -4793,7 +4793,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/self-service/zendesk-talk-transferencia-llamadas</guid>
     <description>Mira en este tutorial qué tan fácil es, por ejemplo, transferir las llamadas de Zendesk Talk a teléfonos móviles u otros teléfonos fijos.</description>
-    
+
     <excerpt:encoded><![CDATA[Mira en este tutorial qué tan fácil es, por ejemplo, transferir las llamadas de Zendesk Talk a teléfonos móviles u otros teléfonos fijos.]]></excerpt:encoded>
     <wp:post_id>462456308</wp:post_id>
     <wp:post_date><![CDATA[2018-09-11 10:26:03]]></wp:post_date>
@@ -4807,33 +4807,33 @@
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-talk"><![CDATA[Zendesk Talk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-talk"><![CDATA[Zendesk Talk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="talk"><![CDATA[Talk]]></category>
-    
+
     <category domain="post_tag" nicename="talk"><![CDATA[Talk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="llamadas"><![CDATA[llamadas]]></category>
-    
+
     <category domain="post_tag" nicename="llamadas"><![CDATA[llamadas]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="transferencia-de-llamadas"><![CDATA[transferencia de llamadas]]></category>
-    
+
     <category domain="post_tag" nicename="transferencia-de-llamadas"><![CDATA[transferencia de llamadas]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="tutorial"><![CDATA[tutorial]]></category>
-    
+
     <category domain="post_tag" nicename="tutorial"><![CDATA[tutorial]]></category>
-    
+
     <category domain="filter_tag" nicename="library-videos"><![CDATA[Videos]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -4899,7 +4899,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -4978,8 +4978,8 @@
 
 <div class="wistia_embed wistia_async_56rqmnv3xs seo=false" style="height:478px;width:850px"> </div>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -4990,9 +4990,9 @@
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Zendesk: overview y demo (subtitulada)</title>
     <link>https://recursos.zendesk.com.mx/self-service/zendesk-overview-y-demo/</link>
@@ -5000,7 +5000,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/self-service/zendesk-overview-y-demo</guid>
     <description>Demonstración geral de Zendesk. Subtitulada en Español.</description>
-    
+
     <excerpt:encoded><![CDATA[Demonstración geral de Zendesk. Subtitulada en Español.]]></excerpt:encoded>
     <wp:post_id>398361017</wp:post_id>
     <wp:post_date><![CDATA[2018-01-09 14:52:26]]></wp:post_date>
@@ -5014,29 +5014,29 @@
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="overview"><![CDATA[overview]]></category>
-    
+
     <category domain="post_tag" nicename="overview"><![CDATA[overview]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="demonstraci-n"><![CDATA[demonstración]]></category>
-    
+
     <category domain="post_tag" nicename="demonstraci-n"><![CDATA[demonstración]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="demo"><![CDATA[demo]]></category>
-    
+
     <category domain="post_tag" nicename="demo"><![CDATA[demo]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="software"><![CDATA[software]]></category>
-    
+
     <category domain="post_tag" nicename="software"><![CDATA[software]]></category>
-    
+
     <category domain="filter_tag" nicename="library-videos"><![CDATA[Videos]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -5102,7 +5102,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -5179,8 +5179,8 @@
 
 <div class="wistia_embed wistia_async_r1tpos8ro7 seo=false" style="height:360px;width:640px"> </div>
 
-            	        
-	        	        
+
+
         ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -5191,8 +5191,8 @@
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
 </channel>
 </rss>
