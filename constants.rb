@@ -34,7 +34,7 @@ module Constants
   TAG_DOMAINS = ['filter_tag_blog', 'post_tag']
 
   LIBRARY_VIDEO_TAGS = [
-    { name: 'Videos', domain: 'filter_tag', nicename: 'videos-library' },
+    { name: 'Videos', domain: 'filter_tag', nicename: 'library-videos' },
   ]
 
   UBERFLIP_CDN = /\Ahttps:\/\/content\.cdntwrk\.com/
