@@ -39,7 +39,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true"><%= item['item_url'] %></guid>
     <description><%= item['item_description'] %></description>
-    <% case item['post_type']; when 'post' %>
+    <% case item['post_type']; when 'post', 'webinar' %>
     <content:encoded><![CDATA[<%= item['post_content'] %>]]></content:encoded>
     <% when 'customer_lp' %>
     <content:encoded><![CDATA[<%= item['post_content'] %></div></div>]]></content:encoded>
@@ -407,6 +407,42 @@
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+    <% when 'webinar' %>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[http://zen-marketing-pt.s3.amazonaws.com/pt/Geisi_Emilia.png]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[sf-cid]]></wp:meta_key>
+			<wp:meta_value><![CDATA[70180000000V1vg]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[http://zen-marketing-pt.s3.amazonaws.com/pt/Geisi_Emilia.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
+			<wp:meta_value><![CDATA[http://zen-marketing-pt.s3.amazonaws.com/pt/Geisi_Emilia.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-thank-you-message]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Obrigado por se registar para o webinar "Práticas Vencedoras para E-commerce". ]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-dates]]></wp:meta_key>
+			<wp:meta_value><![CDATA[12 de Agosto de 2015 das 17h às 18h]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-presenter-name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Geisiane Reinhold e Emilia Chagas ]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-presenter-bio]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Geisiane Reinhold entrou na Zendesk em abril de 2014 como Customer Advocate. Hoje, além de oferecer suporte aos clientes da América Latina, ela realiza a implementação dos programas de Customer Success da região.
+<br> </br>
+Emília Chagas é cofundadora e CEO da Contentools, a mais completa plataforma de Marketing de Conteúdo. É jornalista pela Universidade Federal de Santa Catarina (UFSC) e especialista em criar estratégias de conteúdo que engajam o público e geram oportunidades de negócio.
+]]></wp:meta_value>
 		</wp:postmeta>
     <% end %>
   </item>
