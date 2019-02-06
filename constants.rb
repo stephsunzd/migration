@@ -11,10 +11,15 @@ module Constants
   }
 
   KEYS = {
+    author: 'author',
+    author_bio: 'author_bio',
     id: 'item_id',
     image: 'item_thumbnail_url',
+    sf_cid: 'sf_cid',
+    success: 'success_message',
     type: 'post_type',
-    url: 'item_url'
+    url: 'item_url',
+    webinar_dates: 'webinar_dates',
   }
 
   RESOURCE_TYPES = {

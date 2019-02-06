@@ -130,6 +130,8 @@ module Migration
         item['post_excerpt'] = Util.excerpt(post_content.text) if item['post_excerpt'].empty?
       end
 
+      item['post_content'] += '</div></div>' if item[Constants::KEYS[:type]].eql?('customer_lp')
+
       if item['author_first_name'].nil? && item['author_last_name'].nil? && !post.css('span.author').empty?
         author = post.css('span.author').first.content.split(' ')
 
