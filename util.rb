@@ -47,6 +47,11 @@ module Util
     excerpt_text
   end
 
+  def serialize_count(string)
+    string.length +
+      string.gsub(/[\w \.\+\/\$%\-]/, '').length
+  end
+
   def download_images_from_csv(country_code, limit = nil)
     col = {}
 
@@ -92,7 +97,7 @@ module Util
   end
 
   def handle_resource(item)
-    return item unless item[Constants::KEYS[:type]].eql?('resource') 
+    return item unless item[Constants::KEYS[:type]].eql?('resource')
 
     if item[Constants::KEYS[:url]].match(/\Ahttps:\/\/[\w\.]+\/self-service/)
       item['resource-type'] = Constants::RESOURCE_TYPES[:video]

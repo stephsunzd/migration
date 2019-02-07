@@ -28,6 +28,24 @@ RSpec.describe "Util" do
       'resource-type' => Constants::RESOURCE_TYPES[:whitepaper],
     },
   ]
+  STATS_ARRAY = [
+    {
+      "customer-stat-title" => "Agentes",
+      "customer-stat-value" => "100"
+    },
+    {
+      "customer-stat-title" => "CSAT",
+      "customer-stat-value" => "96 %"
+    },
+    {
+      "customer-stat-title" => "Cliente desde",
+      "customer-stat-value" => "2011"
+    },
+    {
+      "customer-stat-title" => "de resolución de autoservicio con el Answer Bot",
+      "customer-stat-value" => "12 %"
+    }
+  ]
 
   it '#timestamp_to_pubDate converts timestamp format to pubDate format' do
     timestamp = '2019-01-08 21:22:48'
@@ -75,6 +93,16 @@ It’s beneficial for any business to take a closer look at what is working.'
     text = "#{'aa '*60}."
 
     expect(Util.excerpt(text)).to eq(text[0..-2])
+  end
+
+  it '#serialize_count counts only special characters as 2' do
+    expect(Util.serialize_count(STATS_ARRAY[3]['customer-stat-title'])).to eq(STATS_ARRAY[3]['customer-stat-title'].length + 1)
+    expect(Util.serialize_count(STATS_ARRAY[3]['customer-stat-value'])).to eq(STATS_ARRAY[3]['customer-stat-value'].length)
+    expect(Util.serialize_count('customer-stat-value')).to eq('customer-stat-value'.length)
+  end
+
+  it '#serialize reformats stats array for database' do
+    stats_string = 'a:4:{i:0;a:2:{s:19:"customer-stat-title";s:7:"Agentes";s:19:"customer-stat-value";s:3:"100";}i:1;a:2:{s:19:"customer-stat-title";s:4:"CSAT";s:19:"customer-stat-value";s:4:"96 %";}i:2;a:2:{s:19:"customer-stat-title";s:13:"Cliente desde";s:19:"customer-stat-value";s:4:"2011";}i:3;a:2:{s:19:"customer-stat-title";s:48:"de resolución de autoservicio con el Answer Bot";s:19:"customer-stat-value";s:4:"12 %";}}'
   end
 
   it '#handle_resource tags posts correctly' do
