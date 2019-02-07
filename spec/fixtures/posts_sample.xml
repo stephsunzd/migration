@@ -400,13 +400,9 @@
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
 
-    <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
+    <category domain="stories_tax" nicename="zendesk"><![CDATA[Zendesk]]></category>
 
-    <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-
-    <category domain="filter_tag_blog" nicename="99designs"><![CDATA[99designs]]></category>
-
-    <category domain="post_tag" nicename="99designs"><![CDATA[99designs]]></category>
+    <category domain="stories_tax" nicename="99designs"><![CDATA[99designs]]></category>
 
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>

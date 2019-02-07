@@ -5,43 +5,17 @@ require 'nokogiri'
 require_relative 'util'
 require_relative 'constants'
 
-module Migration
+module Scraper
   module_function
 
   def csv_to_items(country_code)
     headers = []
     items = []
 
-    CSV.foreach("metadata_files/#{country_code}.csv") do |row|
-      if headers.empty?
-        headers.replace(row)
-        next
-      end
-
-      item = { Constants::KEYS[:type] => 'post' }
-
-      row.each_with_index do |value, index|
-        case headers[index]
-        when 'item_tags'
-          item['item_tags'] = []
-
-          value.split(',').each do |tag_name|
-            Constants::TAG_DOMAINS[item[Constants::KEYS[:type]]].each do |tag_domain|
-              item['item_tags'] << {
-                domain: tag_domain,
-                name: tag_name,
-                nicename: tag_name.downcase.gsub(/\W/, '-')
-              }
-            end
-          end unless value.nil?
-        when Constants::KEYS[:type]
-          item[Constants::KEYS[:type]] = value unless value.nil?
-        else
-          item[headers[index]] = value
-        end
-      end
-
-      item['post_status'] = 'publish'
+    CSV.foreach("smartling_sitemaps/#{country_code}.csv") do |row|
+      item = {
+        'post_status' => 'publish'
+      }
       item['pubDate'] = Util.timestamp_to_pubDate(item['item_published_at'])
       item['post_excerpt'] = Util.excerpt(item['item_description'])
       item = Util.handle_resource(item)

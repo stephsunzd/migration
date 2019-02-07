@@ -36,11 +36,27 @@ module Constants
 
   MAX_POSTS_PER_IMPORT_FILE = 60
 
-  TAG_DOMAINS = ['filter_tag_blog', 'post_tag']
+  TAG_DOMAINS = {
+    'post' => ['filter_tag_blog', 'post_tag'],
+    'resource' => ['filter_tag'],
+    'customer_lp' => ['stories_tax'],
+    'webinar' => ['post_tag'],
+  }
 
   LIBRARY_VIDEO_TAGS = [
     { name: 'Videos', domain: 'filter_tag', nicename: 'library-videos' },
   ]
+
+  WEBINAR_PUBLISH_TAG = {
+    name: 'live',
+    domain: 'post_tag',
+    nicename: 'live',
+  }
+
+  SMARTLING_POST = {
+    'pubDate' => 'Mon, 4 Feb 2019 12:00:00 +0000',
+    'item_published_at' => '2019-02-04 12:00:00',
+  }
 
   UBERFLIP_CDN = /\Ahttps:\/\/content\.cdntwrk\.com/
   UBERFLIP_CDN_IMAGE_REGEXP = /https:\/\/content\.cdntwrk\.com\/files\/[\w%]+/
