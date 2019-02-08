@@ -16,6 +16,7 @@ module Constants
     id: 'item_id',
     image: 'item_thumbnail_url',
     sf_cid: 'sf_cid',
+    stats: 'customer_stats',
     success: 'success_message',
     type: 'post_type',
     url: 'item_url',
@@ -33,6 +34,13 @@ module Constants
   }
 
   MIGRATED_IMAGES_DIR = 'https://d26a57ydsghvgx.cloudfront.net/content/migration/'
+
+  POST_TYPES = {
+    'blog' => 'post',
+    'resources' => 'resource',
+    'support' => 'webinar',
+    'customer' => 'customer_lp',
+  }
 
   MAX_POSTS_PER_IMPORT_FILE = 60
 
@@ -53,9 +61,11 @@ module Constants
     nicename: 'live',
   }
 
-  SMARTLING_POST = {
-    'pubDate' => 'Mon, 4 Feb 2019 12:00:00 +0000',
+  SMARTLING_CONTENT_REGEX = /<section id="stats-box" class="cta">.*?<\/section>/m
+
+  SMARTLING_ITEM = {
     'item_published_at' => '2019-02-04 12:00:00',
+    'post_status' => 'publish',
   }
 
   UBERFLIP_CDN = /\Ahttps:\/\/content\.cdntwrk\.com/

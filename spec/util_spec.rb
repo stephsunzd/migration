@@ -61,6 +61,19 @@ RSpec.describe "Util" do
     expect(Util.clean_url(url)).to eq(url_clean)
   end
 
+  it '#get_post_type returns Wordpress post_type for a given Smartling URL' do
+    urls = {
+      'https://www.zendesk.nl/blog/all-about-armadillos' => 'post',
+      'https://www.zendesk.com.mx/customer/lorem-ipsum' => 'customer_lp',
+      'https://www.zendesk.com.br/resources/hello-world' => 'resource',
+      'https://www.zendesk.com.mx/support/webinar/web-team-b----es' => 'webinar',
+    }
+
+    urls.each do |url, post_type|
+      expect(Util.get_post_type(url)).to eql(post_type)
+    end
+  end
+
   it '#excerpt handles nil text' do
     expect(Util.excerpt(nil)).to eq('')
   end
@@ -103,6 +116,8 @@ It’s beneficial for any business to take a closer look at what is working.'
 
   it '#serialize reformats stats array for database' do
     stats_string = 'a:4:{i:0;a:2:{s:19:"customer-stat-title";s:7:"Agentes";s:19:"customer-stat-value";s:3:"100";}i:1;a:2:{s:19:"customer-stat-title";s:4:"CSAT";s:19:"customer-stat-value";s:4:"96 %";}i:2;a:2:{s:19:"customer-stat-title";s:13:"Cliente desde";s:19:"customer-stat-value";s:4:"2011";}i:3;a:2:{s:19:"customer-stat-title";s:48:"de resolución de autoservicio con el Answer Bot";s:19:"customer-stat-value";s:4:"12 %";}}'
+
+    expect(Util.serialize(STATS_ARRAY)).to eq(stats_string)
   end
 
   it '#handle_resource tags posts correctly' do

@@ -47,6 +47,24 @@ module Util
     excerpt_text
   end
 
+  def serialize(stats)
+    serialized = "a:#{stats.size}:{"
+
+    stats.each_with_index do |stat, index|
+      serialized += "i:#{index};"
+      serialized += "a:#{stat.size}:{"
+
+      stat.each do |key, val|
+        serialized += "s:#{serialize_count(key)}:\"#{key}\";"
+        serialized += "s:#{serialize_count(val)}:\"#{val}\";"
+      end
+
+      serialized += "}"
+    end
+
+    serialized += "}"
+  end
+
   def serialize_count(string)
     string.length +
       string.gsub(/[\w \.\+\/\$%\-]/, '').length
@@ -107,6 +125,14 @@ module Util
     end
 
     item
+  end
+
+  def get_post_type(url)
+    slugs = url.scan(/\Ahttps?:\/\/[a-z\.\-]+\/(.+?)\//)
+
+    return if slugs.empty?
+
+    Constants::POST_TYPES[slugs.first.first]
   end
 
   def post_type_empty?(row, col)
