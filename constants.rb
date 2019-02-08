@@ -68,6 +68,8 @@ module Constants
     'post_status' => 'publish',
   }
 
+  SMARTLING_ID_START = 201900001
+
   UBERFLIP_CDN = /\Ahttps:\/\/content\.cdntwrk\.com/
   UBERFLIP_CDN_IMAGE_REGEXP = /https:\/\/content\.cdntwrk\.com\/files\/[\w%]+/
 end

@@ -12,8 +12,9 @@ module Scraper
     headers = []
     items = []
 
-    CSV.foreach("smartling_sitemaps/#{country_code}.csv") do |url|
-      item = new_item(url)
+    CSV.foreach("smartling_sitemaps/#{country_code}.csv").with_index do |row, index|
+      url = row.first
+      item = new_item(url, (Constants::SMARTLING_ID_START + index).to_s)
       item = scrape_post(item)
 
 
@@ -50,8 +51,6 @@ module Scraper
   def scrape_post(item)
     return item if item[Constants::KEYS[:url]].nil? || item[Constants::KEYS[:url]].empty?
 
-    item['post_content'] = ''
-
     begin
       post = Nokogiri::HTML(
         open(
@@ -69,22 +68,35 @@ module Scraper
         title: '',
         content: '',
         image: '',
+        excerpt: '',
+        tags: [],
       }
 
       post_description = post.css('meta[name="description"]')
       item['item_description'] = post_description.first.attribute('content').value unless post_description.empty?
+      item['post_excerpt'] = ''
 
       case item[Constants::KEYS[:type]]
       when 'customer_lp'
         postmeta[:title] = post.css('.customer-header-box h3')
+        postmeta[:excerpt] = post.css('.customer-header-box h1')
         postmeta[:content] = post.css('#story-body-content')
         postmeta[:image] = post.css('.customer-hero-background')
+        postmeta[:tags] = post.css('.customer-header-box .tags a')
+
+        item['logo'] = post.css('.stats-customer-logo img').first.attribute('src').value
 
         item['item_seo_description'] = item['item_description']
+
+        item[Constants::KEYS[:stats]] = get_stats(post.css('#stats-box li'))
       end
 
       unless postmeta[:title].empty?
         item['item_title'] = postmeta[:title].first.text
+      end
+
+      unless postmeta[:excerpt].empty?
+        item['post_excerpt'] = postmeta[:excerpt].first.text
       end
 
       unless postmeta[:content].empty?
@@ -101,7 +113,6 @@ module Scraper
 </section>" unless post_quote.empty?
         end
 
-        item['post_excerpt'] = ''
         item['post_excerpt'] = Util.excerpt(postmeta[:content].text) if item['post_excerpt'].empty?
       end
 
@@ -114,6 +125,16 @@ module Scraper
 
         item['item_title'] = postmeta[:title].first.text
       end
+
+      item['item_tags'] = postmeta[:tags].map do |tag|
+        Constants::TAG_DOMAINS[item[Constants::KEYS[:type]]].map do |domain|
+          {
+            domain: domain,
+            name: tag.text,
+            nicename: tag.attribute('href').value[24..-1]
+          }
+        end
+      end.flatten
     end # end if post.respond_to?(:css)
 
     item['pubDate'] = Util.timestamp_to_pubDate(item['item_published_at']) unless item['item_published_at'].nil?
@@ -121,10 +142,26 @@ module Scraper
     return item
   end
 
-  def new_item(url = '')
+  def get_stats(nodes)
+    Util.serialize(
+      nodes.select do |node|
+        node.children.search('img').size.zero?
+      end.map do |node|
+        spans = node.children.search('span')
+
+        {
+          'customer-stat-title' => spans.first.text,
+          'customer-stat-value' => spans.last.text,
+        }
+      end
+    )
+  end
+
+  def new_item(url = '', id = '')
     item = Constants::SMARTLING_ITEM.dup
 
     item.merge({
+      Constants::KEYS[:id] => id,
       Constants::KEYS[:url] => url.gsub(/\/$/, ''),
       Constants::KEYS[:type] => Util.get_post_type(url),
     })
