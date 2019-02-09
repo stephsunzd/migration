@@ -98,14 +98,14 @@ module Scraper
         item['item_published_at'] = Util.cpubdate_to_timestamp(
           post.css('article.resource').first.attribute('cpubdate').value
         )
-        item['resource-gated'] = post.css('.js-leadgen-form').size.zero? ? 0 : 1
+        item['resource-gated'] = post.css('.js-leadgen-form').empty? ? 0 : 1
         item[Constants::KEYS[:sf_cid]] = post.css('#SFDCCampaigncode').first.attribute('value').value
         item[Constants::KEYS[:success_message]] = post.css('#thanks-message').first.text
 
-        resource_type = get_resource_type(post)
+        item['resource-type'] = Constants::RESOURCE_TYPES[get_resource_type(post)]
 
-        item['resource-download'] = post.css('.btn-submit').first.attribute('href').value
-
+        item['resource-download'] = post.css('.btn-submit').first.attribute('href').value unless post.css('.btn-submit').empty?
+        item['infographic'] = post.css('#infographic span img').first.attribute('src').value unless post.css('#infographic span img').empty?
       end
 
       unless postmeta[:title].empty?
@@ -162,7 +162,7 @@ module Scraper
   def get_stats(nodes)
     Util.serialize(
       nodes.select do |node|
-        node.children.search('img').size.zero?
+        node.children.search('img').empty?
       end.map do |node|
         spans = node.children.search('span')
 
@@ -185,13 +185,22 @@ module Scraper
   end
 
   def get_resource_type(post)
-    return :infographic unless post.css('#infographic').size.zero?
-    return :video unless post.css('.resource-body-video .video').size.zero?
-    # return :webinar if false # no way to tell video & ungated webinar apart so defaulting to video
-    return :guide if false
-    return :report if false
-    return :ebook if false
+    return unless post.respond_to?(:css)
 
-    :whitepaper
+    return :infographic unless post.css('#infographic').empty?
+
+    unless post.css('#form-cta').empty?
+      cta_text = post.css('#form-cta').first.text
+
+      return :webinar if cta_text.match('webinar')
+      return :guide if cta_text.match('guía')
+      return :whitepaper if cta_text.match('técnico')
+    end
+
+    return :video unless post.css('.resource-body-video .video').empty?
+    return :ebook if !post.css('.resource-body-teaser').empty? &&
+      post.css('.resource-body-teaser').first.text.match(/e\-?book/i)
+
+    :report
   end
 end

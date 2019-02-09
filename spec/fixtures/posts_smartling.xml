@@ -41,6 +41,7 @@
     <description>Dollar Shave Club resuelve el 12 % de sus tickets con el Answer Bot de Zendesk</description>
 
     <content:encoded><![CDATA[
+
       <section>
       <p class="giant highlight center">
       Cuando tu modelo comercial es tan sencillo y estupendo como el de Dollar Shave Club, más vale que la atención que brindas a tus clientes esté a la misma altura.
@@ -81,9 +82,11 @@
       <p>Al fin de cuentas, el objetivo de Dollar Shave Club es hacer que el manejo de su equipo de atención al cliente sea igual de fácil que recibir sus navajas de afeitar a domicilio. </p>
       </section>
       </div></div><section class="quote">
+
       <p class="giant">“Zendesk es una herramienta increíble para nosotros y no vemos que eso vaya a cambiar. Nos permite mejorar continuamente la experiencia de nuestros clientes”.
       </p>
       <p class="author">– Trent Hoerman <span> Gerente sénior de programas</span></p>
+      
       </section>]]></content:encoded>
 
     <excerpt:encoded><![CDATA[Dollar Shave Club reduce el coste del servicio con Answer Bot]]></excerpt:encoded>

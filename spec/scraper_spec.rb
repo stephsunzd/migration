@@ -77,6 +77,28 @@ RSpec.describe "Scraper" do
     expect(Scraper.scrape_post(TEST_ITEM_STUB)).to eq(TEST_ITEM_SCRAPER)
   end
 
+  it '#get_resource_type returns correct post types for a URL' do
+    posts = {
+      'https://www.zendesk.com.mx/resources/zendesk-product-demo/' => :video,
+      'https://www.zendesk.com.mx/resources/guided-demo-zendesk-chat/' => :webinar,
+      'https://www.zendesk.com.mx/resources/scaling-self-service/' => :whitepaper,
+      'https://www.zendesk.com.mx/resources/agent-experience-guide/' => :guide,
+      'https://www.zendesk.com.mx/resources/zendesk-benchmark-established-companies-win-digital-transformation/' => :report,
+      'https://www.zendesk.com.mx/resources/chatbots-future-real-time-communication/' => :ebook,
+      'https://www.zendesk.com.mx/resources/fill-self-service-gap/' => :infographic,
+    }
+
+    posts.each do |url, type|
+      post = Nokogiri::HTML(
+        open(
+          Util.clean_url(url)
+        )
+      )
+
+      expect(Scraper.get_resource_type(post)).to eql(type)
+    end
+  end
+
   it '#generate_import_file creates a file matching our sample' do
     Scraper.generate_import_files(TEST_CODES_SCRAPER, TEST_URL_SCRAPER)
 
