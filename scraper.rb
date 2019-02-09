@@ -97,10 +97,10 @@ module Scraper
 
         item['item_published_at'] = Util.cpubdate_to_timestamp(
           post.css('article.resource').first.attribute('cpubdate').value
-        )
+        ) unless post.css('article.resource').empty?
         item['resource-gated'] = post.css('.js-leadgen-form').empty? ? 0 : 1
-        item[Constants::KEYS[:sf_cid]] = post.css('#SFDCCampaigncode').first.attribute('value').value
-        item[Constants::KEYS[:success_message]] = post.css('#thanks-message').first.text
+        item[Constants::KEYS[:sf_cid]] = post.css('#SFDCCampaigncode').first.attribute('value').value unless post.css('#SFDCCampaigncode').empty?
+        item[Constants::KEYS[:success_message]] = post.css('#thanks-message').first.text unless post.css('#thanks-message').empty?
 
         item['resource-type'] = Constants::RESOURCE_TYPES[get_resource_type(post)]
 
