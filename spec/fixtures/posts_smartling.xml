@@ -86,7 +86,7 @@
       <p class="giant">“Zendesk es una herramienta increíble para nosotros y no vemos que eso vaya a cambiar. Nos permite mejorar continuamente la experiencia de nuestros clientes”.
       </p>
       <p class="author">– Trent Hoerman <span> Gerente sénior de programas</span></p>
-      
+
       </section>]]></content:encoded>
 
     <excerpt:encoded><![CDATA[Dollar Shave Club reduce el coste del servicio con Answer Bot]]></excerpt:encoded>
@@ -444,7 +444,8 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-body-copy]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[
+        ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>

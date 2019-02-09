@@ -97,15 +97,31 @@ module Scraper
 
         item['item_published_at'] = Util.cpubdate_to_timestamp(
           post.css('article.resource').first.attribute('cpubdate').value
-        ) unless post.css('article.resource').empty?
+        ) unless post.css('article.resource').empty? || post.css('article.resource').first.attribute('cpubdate').nil?
         item['resource-gated'] = post.css('.js-leadgen-form').empty? ? 0 : 1
         item[Constants::KEYS[:sf_cid]] = post.css('#SFDCCampaigncode').first.attribute('value').value unless post.css('#SFDCCampaigncode').empty?
         item[Constants::KEYS[:success_message]] = post.css('#thanks-message').first.text unless post.css('#thanks-message').empty?
 
         item['resource-type'] = Constants::RESOURCE_TYPES[get_resource_type(post)]
 
-        item['resource-download'] = post.css('.btn-submit').first.attribute('href').value unless post.css('.btn-submit').empty?
-        item['infographic'] = post.css('#infographic span img').first.attribute('src').value unless post.css('#infographic span img').empty?
+        item['event-id'] = post.css('#event_id').first.attribute('value').value unless post.css('#event_id').empty?
+        item['event-key'] = post.css('#event_key').first.attribute('value').value unless post.css('#event_key').empty?
+        item['resource-video-url'] = post.css('section.video iframe').first.attribute('src').value unless post.css('section.video iframe').empty?
+        item['resource-sidebar-quote'] = post.css('.twitter-pull-quote').first.text unless post.css('.twitter-pull-quote').empty?
+        item['resource-download'] = post.css('.btn-submit').first.attribute('href').value unless post.css('.btn-submit').empty? || post.css('.btn-submit').first.attribute('href').nil?
+        item['infographic'] = post.css('#infographic img').first.attribute('src').value unless post.css('#infographic img').empty?
+
+        if item['resource-type'] != Constants::RESOURCE_TYPES[:infographic] &&
+          !post.css('.gated-content-section-pager-wrapper').empty? &&
+          !post.css('.gated-content-section-pager-wrapper').first.next.nil?
+            node = post.css('.gated-content-section-pager-wrapper').first
+            item['resource-body-copy'] = ''
+
+            while node.next
+              item['resource-body-copy'] += node.next.inner_html
+              node = node.next
+            end
+        end
       end
 
       unless postmeta[:title].empty?
