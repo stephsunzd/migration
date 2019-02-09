@@ -89,6 +89,23 @@ module Scraper
         item['item_seo_description'] = item['item_description']
 
         item[Constants::KEYS[:stats]] = get_stats(post.css('#stats-box li'))
+      when 'resource'
+        postmeta[:title] = post.css('.blog-header h1')
+        postmeta[:content] = post.css('.resource-body-teaser')
+        postmeta[:image] = post.css('#main-image')
+        postmeta[:tags] = post.css('.blog-tag')
+
+        item['item_published_at'] = Util.cpubdate_to_timestamp(
+          post.css('article.resource').first.attribute('cpubdate').value
+        )
+        item['resource-gated'] = post.css('.js-leadgen-form').size.zero? ? 0 : 1
+        item[Constants::KEYS[:sf_cid]] = post.css('#SFDCCampaigncode').first.attribute('value').value
+        item[Constants::KEYS[:success_message]] = post.css('#thanks-message').first.text
+
+        resource_type = get_resource_type(post)
+
+        item['resource-download'] = post.css('.btn-submit').first.attribute('href').value
+
       end
 
       unless postmeta[:title].empty?
@@ -131,7 +148,7 @@ module Scraper
           {
             domain: domain,
             name: tag.text,
-            nicename: tag.attribute('href').value[24..-1]
+            nicename: tag.attribute('href').value[Constants::TAG_SLUG_RANGES[item[Constants::KEYS[:type]]]]
           }
         end
       end.flatten
@@ -165,5 +182,16 @@ module Scraper
       Constants::KEYS[:url] => url.gsub(/\/$/, ''),
       Constants::KEYS[:type] => Util.get_post_type(url),
     })
+  end
+
+  def get_resource_type(post)
+    return :infographic unless post.css('#infographic').size.zero?
+    return :video unless post.css('.resource-body-video .video').size.zero?
+    # return :webinar if false # no way to tell video & ungated webinar apart so defaulting to video
+    return :guide if false
+    return :report if false
+    return :ebook if false
+
+    :whitepaper
   end
 end

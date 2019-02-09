@@ -51,6 +51,13 @@ module Constants
     'webinar' => ['post_tag'],
   }
 
+  TAG_SLUG_RANGES = {
+    'post' => (24..-1),
+    'resource' => (16..-2),
+    'customer_lp' => (24..-1),
+    'webinar' => (24..-1),
+  }
+
   LIBRARY_VIDEO_TAGS = [
     { name: 'Videos', domain: 'filter_tag', nicename: 'library-videos' },
   ]

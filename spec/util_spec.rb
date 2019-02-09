@@ -47,6 +47,13 @@ RSpec.describe "Util" do
     }
   ]
 
+  it '#cpubdate_to_timestamp converts cpubdate format to timestamp format' do
+    cpubdate = 'January 8, 2019'
+    timestamp = '2019-01-08 12:00:00'
+
+    expect(Util.cpubdate_to_timestamp(cpubdate)).to eq(timestamp)
+  end
+
   it '#timestamp_to_pubDate converts timestamp format to pubDate format' do
     timestamp = '2019-01-08 21:22:48'
     pubDate = 'Tue, 08 Jan 2019 21:22:48 +0000'

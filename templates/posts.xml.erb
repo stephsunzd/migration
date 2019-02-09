@@ -257,11 +257,11 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-gated]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[<%= item['resource-gated'] %>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-gated-success-from-form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[<%= item[Constants::KEYS[:success_message]] %>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-custom-fields]]></wp:meta_key>
@@ -269,7 +269,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[sf-cid]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[<%= item[Constants::KEYS[:sf_cid]] %>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[event-id]]></wp:meta_key>
@@ -281,7 +281,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-header-text]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[<%= item['item_title'] %>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-ebook-external-link]]></wp:meta_key>
@@ -301,15 +301,15 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[<%= item['resource-download'] %>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-infographic-url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[<%= item['resource-download'] %>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-video-url]]></wp:meta_key>
@@ -334,7 +334,7 @@
     <% when 'customer_lp' %>
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<%= item['item_description'] %>]]></wp:meta_value>
+			<wp:meta_value><![CDATA[<%= item['post_excerpt'] %>]]></wp:meta_value>
 		</wp:postmeta>
     <wp:postmeta>
 			<wp:meta_key><![CDATA[customer-heading]]></wp:meta_key>

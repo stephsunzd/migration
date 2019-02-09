@@ -7,6 +7,13 @@ require_relative 'constants'
 module Util
   module_function
 
+  def cpubdate_to_timestamp(cpubdate)
+    date = cpubdate.split(' ')
+    date = Date.new(date[2].to_i, Date::MONTHNAMES.index(date[0]), date[1].to_i)
+
+    "#{date.strftime('%Y-%m-%d')} 12:00:00"
+  end
+
   def timestamp_to_pubDate(timestamp)
     pubDate = {
       year: timestamp[0..3].to_i,
@@ -17,7 +24,7 @@ module Util
 
     pubDate[:date] = Date.new(pubDate[:year], pubDate[:month], pubDate[:day])
 
-    return "#{pubDate[:date].strftime('%a, %d %b %Y')} #{pubDate[:time]} +0000"
+    "#{pubDate[:date].strftime('%a, %d %b %Y')} #{pubDate[:time]} +0000"
   end
 
   def excerpt(text, max_characters = 160)
