@@ -141,7 +141,7 @@ module Scraper
 
         date_and_presenter = post.css('.post h2')
         unless date_and_presenter.empty?
-          date_and_presenter = date_and_presenter.first.text.split(' con ')
+          date_and_presenter = date_and_presenter.first.text.split(/,?\s(con|with|por)\s/i)
           item[Constants::KEYS[:webinar_dates]] = date_and_presenter.first
           item[Constants::KEYS[:author]] = date_and_presenter.last
         end

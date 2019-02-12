@@ -3744,6 +3744,8 @@ Estos son <a href="https://zen-marketing-content.s3.amazonaws.com/content/PR-016
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
 
+    <category domain="post_tag" nicename="live"><![CDATA[live]]></category>
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -3836,7 +3838,7 @@ Estos son <a href="https://zen-marketing-content.s3.amazonaws.com/content/PR-016
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-presenter-name]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Jason Maynard y Kate Leggett ]]></wp:meta_value>
+			<wp:meta_value><![CDATA[Jason Maynard y Kate Leggett]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-presenter-bio]]></wp:meta_key>
@@ -3877,6 +3879,8 @@ Jason Maynard es VP, gerente general de Guide y productos de datos de Zendesk. E
     <wp:post_type><![CDATA[webinar]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+
+    <category domain="post_tag" nicename="live"><![CDATA[live]]></category>
 
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -3966,11 +3970,11 @@ Jason Maynard es VP, gerente general de Guide y productos de datos de Zendesk. E
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-dates]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Available On-Demand with Jason Robman, Luke Behnke, Shane Thornley, and Rachel Tobin ]]></wp:meta_value>
+			<wp:meta_value><![CDATA[Available On-Demand]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-presenter-name]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Available On-Demand with Jason Robman, Luke Behnke, Shane Thornley, and Rachel Tobin ]]></wp:meta_value>
+			<wp:meta_value><![CDATA[Jason Robman, Luke Behnke, Shane Thornley, and Rachel Tobin]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-presenter-bio]]></wp:meta_key>
@@ -4029,6 +4033,8 @@ Organizado por Manish Kalra, director de Comercialización de productos
     <wp:post_type><![CDATA[webinar]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+
+    <category domain="post_tag" nicename="live"><![CDATA[live]]></category>
 
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -4118,11 +4124,11 @@ Organizado por Manish Kalra, director de Comercialización de productos
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-dates]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Disponible a pedido y presentado por Emily Vince y Abhi Basu ]]></wp:meta_value>
+			<wp:meta_value><![CDATA[Disponible a pedido y presentado]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-presenter-name]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Disponible a pedido y presentado por Emily Vince y Abhi Basu ]]></wp:meta_value>
+			<wp:meta_value><![CDATA[Emily Vince y Abhi Basu]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-presenter-bio]]></wp:meta_key>
@@ -4163,6 +4169,8 @@ Emily Vince es gerente sénior de marketing de productos en Zendesk, especializa
     <wp:post_type><![CDATA[webinar]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+
+    <category domain="post_tag" nicename="live"><![CDATA[live]]></category>
 
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -4252,11 +4260,11 @@ Emily Vince es gerente sénior de marketing de productos en Zendesk, especializa
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-dates]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Disponible a pedido y presentado por Martin Doettling y Andrew Forbes ]]></wp:meta_value>
+			<wp:meta_value><![CDATA[Disponible a pedido y presentado]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-presenter-name]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Disponible a pedido y presentado por Martin Doettling y Andrew Forbes ]]></wp:meta_value>
+			<wp:meta_value><![CDATA[Martin Doettling y Andrew Forbes]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-presenter-bio]]></wp:meta_key>
@@ -4297,6 +4305,8 @@ Andrew Forbes es gerente de marketing de productos de Zendesk. En su opinión, l
     <wp:post_type><![CDATA[webinar]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+
+    <category domain="post_tag" nicename="live"><![CDATA[live]]></category>
 
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -4386,11 +4396,11 @@ Andrew Forbes es gerente de marketing de productos de Zendesk. En su opinión, l
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-dates]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Disponible a pedido y presentado por Ryan Nichols y Claire Peracchio ]]></wp:meta_value>
+			<wp:meta_value><![CDATA[Disponible a pedido y presentado]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-presenter-name]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Disponible a pedido y presentado por Ryan Nichols y Claire Peracchio ]]></wp:meta_value>
+			<wp:meta_value><![CDATA[Ryan Nichols y Claire Peracchio]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-presenter-bio]]></wp:meta_key>
@@ -4431,6 +4441,8 @@ Claire Peracchio, gerente de inteligencia competitiva y de mercado de Zendesk
     <wp:post_type><![CDATA[webinar]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+
+    <category domain="post_tag" nicename="live"><![CDATA[live]]></category>
 
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -4520,11 +4532,11 @@ Claire Peracchio, gerente de inteligencia competitiva y de mercado de Zendesk
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-dates]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Disponible a pedido,]]></wp:meta_value>
+			<wp:meta_value><![CDATA[Disponible a pedido]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-presenter-name]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Emily Vince y Laura West ]]></wp:meta_value>
+			<wp:meta_value><![CDATA[Emily Vince y Laura West]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-presenter-bio]]></wp:meta_key>
@@ -4565,6 +4577,8 @@ Laura West es jefa de experiencia del cliente y operaciones en ThirdLove.
     <wp:post_type><![CDATA[webinar]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+
+    <category domain="post_tag" nicename="live"><![CDATA[live]]></category>
 
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -4654,11 +4668,11 @@ Laura West es jefa de experiencia del cliente y operaciones en ThirdLove.
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-dates]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Atención a la carta del equipo de marketing de productos de Zendesk ]]></wp:meta_value>
+			<wp:meta_value><![CDATA[Atención a la carta]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-presenter-name]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Atención a la carta del equipo de marketing de productos de Zendesk ]]></wp:meta_value>
+			<wp:meta_value><![CDATA[del equipo de marketing de productos de Zendesk]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-presenter-bio]]></wp:meta_key>
@@ -4697,6 +4711,8 @@ Presentado por el equipo de marketing de productos de Zendesk:
     <wp:post_type><![CDATA[webinar]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+
+    <category domain="post_tag" nicename="live"><![CDATA[live]]></category>
 
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -4786,11 +4802,11 @@ Presentado por el equipo de marketing de productos de Zendesk:
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-dates]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Disponible a pedido y presentado por el equipo de marketing de productos de Zendesk ]]></wp:meta_value>
+			<wp:meta_value><![CDATA[Disponible a pedido y presentado]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-presenter-name]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Disponible a pedido y presentado por el equipo de marketing de productos de Zendesk ]]></wp:meta_value>
+			<wp:meta_value><![CDATA[el equipo de marketing de productos de Zendesk]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-presenter-bio]]></wp:meta_key>
@@ -4837,6 +4853,8 @@ Ryan Nichols es vicepresidente de productos y marketing de Base en Zendesk, y su
     <wp:post_type><![CDATA[webinar]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+
+    <category domain="post_tag" nicename="live"><![CDATA[live]]></category>
 
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -4926,11 +4944,11 @@ Ryan Nichols es vicepresidente de productos y marketing de Base en Zendesk, y su
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-dates]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Atención a la carta del equipo de marketing de productos de Zendesk ]]></wp:meta_value>
+			<wp:meta_value><![CDATA[Atención a la carta]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-presenter-name]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Atención a la carta del equipo de marketing de productos de Zendesk ]]></wp:meta_value>
+			<wp:meta_value><![CDATA[del equipo de marketing de productos de Zendesk]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-presenter-bio]]></wp:meta_key>
@@ -4965,6 +4983,8 @@ Presentado por el equipo de marketing de productos de Zendesk: <br> ● Abhi Bas
     <wp:post_type><![CDATA[webinar]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+
+    <category domain="post_tag" nicename="live"><![CDATA[live]]></category>
 
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -5054,11 +5074,11 @@ Presentado por el equipo de marketing de productos de Zendesk: <br> ● Abhi Bas
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-dates]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Disponible a pedido y presentado por el equipo de marketing de productos de Zendesk ]]></wp:meta_value>
+			<wp:meta_value><![CDATA[Disponible a pedido y presentado]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-presenter-name]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Disponible a pedido y presentado por el equipo de marketing de productos de Zendesk ]]></wp:meta_value>
+			<wp:meta_value><![CDATA[el equipo de marketing de productos de Zendesk]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-presenter-bio]]></wp:meta_key>
@@ -5105,6 +5125,8 @@ Jason Maynard es VP, gerente general de Guide y productos de datos de Zendesk. E
     <wp:post_type><![CDATA[webinar]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+
+    <category domain="post_tag" nicename="live"><![CDATA[live]]></category>
 
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -5194,11 +5216,11 @@ Jason Maynard es VP, gerente general de Guide y productos de datos de Zendesk. E
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-dates]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Disponible a pedido y presentado por el equipo de marketing de productos de Zendesk ]]></wp:meta_value>
+			<wp:meta_value><![CDATA[Disponible a pedido y presentado]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-presenter-name]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Disponible a pedido y presentado por el equipo de marketing de productos de Zendesk ]]></wp:meta_value>
+			<wp:meta_value><![CDATA[el equipo de marketing de productos de Zendesk]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-presenter-bio]]></wp:meta_key>
@@ -5244,6 +5266,8 @@ Kiran Max Weber es gerente de productos de Zendesk. Su equipo es el que hace rea
     <wp:post_type><![CDATA[webinar]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+
+    <category domain="post_tag" nicename="live"><![CDATA[live]]></category>
 
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -5333,11 +5357,11 @@ Kiran Max Weber es gerente de productos de Zendesk. Su equipo es el que hace rea
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-dates]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Atención a la carta del equipo de marketing de productos de Zendesk ]]></wp:meta_value>
+			<wp:meta_value><![CDATA[Atención a la carta]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-presenter-name]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Atención a la carta del equipo de marketing de productos de Zendesk ]]></wp:meta_value>
+			<wp:meta_value><![CDATA[del equipo de marketing de productos de Zendesk]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-presenter-bio]]></wp:meta_key>
@@ -5372,6 +5396,8 @@ Presentado por el equipo de marketing de productos de Zendesk: <br> ● Tim Nguy
     <wp:post_type><![CDATA[webinar]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
+
+    <category domain="post_tag" nicename="live"><![CDATA[live]]></category>
 
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
@@ -5461,11 +5487,11 @@ Presentado por el equipo de marketing de productos de Zendesk: <br> ● Tim Nguy
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-dates]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Disponible a pedido y presentado por el equipo de marketing de productos de Zendesk ]]></wp:meta_value>
+			<wp:meta_value><![CDATA[Disponible a pedido y presentado]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-presenter-name]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Disponible a pedido y presentado por el equipo de marketing de productos de Zendesk ]]></wp:meta_value>
+			<wp:meta_value><![CDATA[el equipo de marketing de productos de Zendesk]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-presenter-bio]]></wp:meta_key>
