@@ -98,9 +98,8 @@ module Scraper
         item['item_published_at'] = Util.cpubdate_to_timestamp(
           post.css('article.resource').first.attribute('cpubdate').value
         ) unless post.css('article.resource').empty? || post.css('article.resource').first.attribute('cpubdate').nil?
-        item['resource-gated'] = post.css('.js-leadgen-form').empty? ? 0 : 1
+        item['resource-gated'] = post.css('.ungated').empty? ? 1 : 0
         item[Constants::KEYS[:sf_cid]] = post.css('#SFDCCampaigncode').first.attribute('value').value unless post.css('#SFDCCampaigncode').empty?
-        item[Constants::KEYS[:success_message]] = post.css('#thanks-message').first.text unless post.css('#thanks-message').empty?
 
         item['resource-type'] = Constants::RESOURCE_TYPES[get_resource_type(post)]
 
@@ -111,8 +110,7 @@ module Scraper
         item['resource-download'] = post.css('.btn-submit').first.attribute('href').value unless post.css('.btn-submit').empty? || post.css('.btn-submit').first.attribute('href').nil?
         item['infographic'] = post.css('#infographic img').first.attribute('src').value unless post.css('#infographic img').empty?
 
-        if item['resource-type'] != Constants::RESOURCE_TYPES[:infographic] &&
-          !post.css('.gated-content-section-pager-wrapper').empty? &&
+        if !post.css('.gated-content-section-pager-wrapper').empty? &&
           !post.css('.gated-content-section-pager-wrapper').first.next.nil?
             node = post.css('.gated-content-section-pager-wrapper').first
             item['resource-body-copy'] = ''
@@ -121,6 +119,11 @@ module Scraper
               item['resource-body-copy'] += node.next.inner_html
               node = node.next
             end
+
+            item['resource-body-copy'] = item['resource-body-copy'].gsub(Constants::SMARTLING_RESOURCE_BODY_REGEX, '')
+        elsif !post.css('.resource-body-content').empty?
+          puts 'resource body content found'
+          item['resource-body-copy'] = post.css('.resource-body-content').first.inner_html
         end
       end
 
@@ -171,6 +174,8 @@ module Scraper
     end # end if post.respond_to?(:css)
 
     item['pubDate'] = Util.timestamp_to_pubDate(item['item_published_at']) unless item['item_published_at'].nil?
+
+    puts "# Scraped #{item[Constants::KEYS[:url]]}"
 
     return item
   end

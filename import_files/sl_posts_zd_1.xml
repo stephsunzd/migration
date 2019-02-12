@@ -368,7 +368,7 @@ Cuando tu modelo comercial es tan sencillo y estupendo como el de Dollar Shave C
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-gated-success-from-form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Gracias. Esperamos que disfrutes la lectura.]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-custom-fields]]></wp:meta_key>
@@ -404,11 +404,11 @@ Cuando tu modelo comercial es tan sencillo y estupendo como el de Dollar Shave C
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/self_service_checklist.png]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
@@ -444,8 +444,7 @@ Cuando tu modelo comercial es tan sencillo y estupendo como el de Dollar Shave C
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-body-copy]]></wp:meta_key>
-			<wp:meta_value><![CDATA[
-]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
