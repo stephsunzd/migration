@@ -16,6 +16,8 @@ module Constants
     id: 'item_id',
     image: 'item_thumbnail_url',
     sf_cid: 'sf_cid',
+    event_id: 'event_id',
+    event_key: 'event_key',
     stats: 'customer_stats',
     success: 'success_message',
     type: 'post_type',
@@ -70,6 +72,7 @@ module Constants
 
   SMARTLING_CONTENT_REGEX = /<section id="stats-box" class="cta">.*?<\/section>/m
   SMARTLING_RESOURCE_BODY_REGEX = /<a id="infographic" >.*?<\/a>/m
+  SMARTLING_WEBINAR_BIO_REGEX = /\A.*?<p class="bio">|<ul class="social">.*?\z/m
 
   SMARTLING_ITEM = {
     'item_published_at' => '2019-02-04 12:00:00',

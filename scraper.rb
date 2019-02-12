@@ -99,7 +99,6 @@ module Scraper
           post.css('article.resource').first.attribute('cpubdate').value
         ) unless post.css('article.resource').empty? || post.css('article.resource').first.attribute('cpubdate').nil?
         item['resource-gated'] = post.css('.ungated').empty? ? 1 : 0
-        item[Constants::KEYS[:sf_cid]] = post.css('#SFDCCampaigncode').first.attribute('value').value unless post.css('#SFDCCampaigncode').empty?
 
         item['resource-type'] = Constants::RESOURCE_TYPES[get_resource_type(post)]
 
@@ -125,7 +124,32 @@ module Scraper
           puts 'resource body content found'
           item['resource-body-copy'] = post.css('.resource-body-content').first.inner_html
         end
+      when 'webinar'
+        postmeta[:title] = post.css('.post h1')
+        postmeta[:content] = post.css('#reg p')
+        postmeta[:image] = post.css('.post aside img')
+
+        item[Constants::KEYS[:tags]] = [ Constants::WEBINAR_PUBLISH_TAG ]
+
+
+        item[Constants::KEYS[:success]] = post.css('.success-message p').first.inner_html unless post.css('#event_id').empty?
+
+        sidebar = post.css('.post aside')
+        unless sidebar.empty?
+          item[Constants::KEYS[:author_bio]] = sidebar.first.inner_html.gsub(Constants::SMARTLING_WEBINAR_BIO_REGEX, '')
+        end
+
+        date_and_presenter = post.css('.post h2')
+        unless date_and_presenter.empty?
+          date_and_presenter = date_and_presenter.first.text.split(' con ')
+          item[Constants::KEYS[:webinar_dates]] = date_and_presenter.first
+          item[Constants::KEYS[:author]] = date_and_presenter.last
+        end
       end
+
+      item[Constants::KEYS[:event_id]] = post.css('#event_id').first.attribute('value').value unless post.css('#event_id').empty?
+      item[Constants::KEYS[:event_key]] = post.css('#event_key').first.attribute('value').value unless post.css('#event_key').empty?
+      item[Constants::KEYS[:sf_cid]] = post.css('#SFDCCampaigncode').first.attribute('value').value unless post.css('#SFDCCampaigncode').empty?
 
       unless postmeta[:title].empty?
         item['item_title'] = postmeta[:title].first.text
@@ -170,7 +194,7 @@ module Scraper
             nicename: tag.attribute('href').value[Constants::TAG_SLUG_RANGES[item[Constants::KEYS[:type]]]]
           }
         end
-      end.flatten
+      end.flatten if item['item_tags'].nil?
     end # end if post.respond_to?(:css)
 
     item['pubDate'] = Util.timestamp_to_pubDate(item['item_published_at']) unless item['item_published_at'].nil?

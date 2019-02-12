@@ -273,11 +273,11 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[event-id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<%= item['event-id'] %>]]></wp:meta_value>
+			<wp:meta_value><![CDATA[<%= item[Constants::KEYS[:event_id]] %>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[event-key]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<%= item['event-key'] %>]]></wp:meta_value>
+			<wp:meta_value><![CDATA[<%= item[Constants::KEYS[:event_key]] %>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-header-text]]></wp:meta_key>
@@ -418,8 +418,12 @@
 			<wp:meta_value><![CDATA[<%= item[Constants::KEYS[:sf_cid]] %>]]></wp:meta_value>
 		</wp:postmeta>
     <wp:postmeta>
-			<wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<%= item[Constants::KEYS[:image]] %>]]></wp:meta_value>
+			<wp:meta_key><![CDATA[event-id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<%= item[Constants::KEYS[:event_id]] %>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<%= item[Constants::KEYS[:event_key]] %>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-thank-you-message]]></wp:meta_key>
