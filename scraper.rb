@@ -129,7 +129,7 @@ module Scraper
         postmeta[:content] = post.css('#reg p')
         postmeta[:image] = post.css('.post aside img')
 
-        item[Constants::KEYS[:tags]] = [ Constants::WEBINAR_PUBLISH_TAG ]
+        item['item_tags'] = [ Constants::WEBINAR_PUBLISH_TAG ]
 
 
         item[Constants::KEYS[:success]] = post.css('.success-message p').first.inner_html unless post.css('#event_id').empty?

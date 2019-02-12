@@ -14,7 +14,7 @@
 	<link>https://www.zendesk.com.mx</link>
 	<description></description>
 	<pubDate>Tue, 08 Jan 2019 21:22:48 +0000</pubDate>
-	<language>es-mx</language>
+	<language>es-LA</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://www.zendesk.com.mx/</wp:base_site_url>
 	<wp:base_blog_url>https://www.zendesk.com.mx</wp:base_blog_url>
@@ -31,203 +31,7 @@
 
 	<generator>https://wordpress.org/?v=4.7.3</generator>
 
-  
-  <item>
-    <title>El valor del autoservicio</title>
-    <link>https://www.zendesk.com.mx/resources/the-value-of-self-service/</link>
-    <pubDate>Fri, 14 Apr 2017 12:00:00 +0000</pubDate>
-    <dc:creator><![CDATA[stsun]]></dc:creator>
-    <guid isPermaLink="true">https://www.zendesk.com.mx/resources/the-value-of-self-service</guid>
-    <description>El eBook, 6 Sugerencias para crear un centro de ayuda eficaz, trata sobre el valor del autoservicio y las 6 formas de crear y mejorar el centro de ayuda y la administración del conocimiento.</description>
-    
-    <content:encoded><![CDATA[]]></content:encoded>
-    
-    <excerpt:encoded><![CDATA[Todo el mundo está ocupado en estos días.]]></excerpt:encoded>
-    <wp:post_id>201900061</wp:post_id>
-    <wp:post_date><![CDATA[2017-04-14 12:00:00]]></wp:post_date>
-    <wp:post_date_gmt><![CDATA[2017-04-14 12:00:00]]></wp:post_date_gmt>
-    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
-    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
-    <wp:post_name><![CDATA[]]></wp:post_name>
-    <wp:status><![CDATA[publish]]></wp:status>
-    <wp:post_parent>0</wp:post_parent>
-    <wp:menu_order>0</wp:menu_order>
-    <wp:post_type><![CDATA[resource]]></wp:post_type>
-    <wp:post_password><![CDATA[]]></wp:post_password>
-    <wp:is_sticky>0</wp:is_sticky>
-    
-    <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Administración de la atención al cliente]]></category>
-    
-    <category domain="filter_tag" nicename="customer-support-knowledge-base"><![CDATA[Base de conocimientos]]></category>
-    
-    <category domain="filter_tag" nicename="customer-support-channels"><![CDATA[Canales de soporte]]></category>
-    
-    <category domain="filter_tag" nicename="support-operations"><![CDATA[Operaciones de soporte]]></category>
-    
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-      <wp:meta_value><![CDATA[0]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
-      <wp:meta_value><![CDATA[Todo el mundo está ocupado en estos días.]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
-      <wp:meta_value><![CDATA[0]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
-      <wp:meta_value><![CDATA[0]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
-      <wp:meta_value><![CDATA[none]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
-      <wp:meta_value><![CDATA[-]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
-    </wp:postmeta>
-    <wp:postmeta>
-      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-      <wp:meta_value><![CDATA[1]]></wp:meta_value>
-    </wp:postmeta>
 
-    
-    <wp:postmeta>
-			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[5]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-gated]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-gated-success-from-form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-custom-fields]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[sf-cid]]></wp:meta_key>
-			<wp:meta_value><![CDATA[70180000001FFZJ]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[event-id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[event-key]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-header-text]]></wp:meta_key>
-			<wp:meta_value><![CDATA[El valor del autoservicio]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-ebook-external-link]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-thumbnail-url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-featured-image-url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-infographic-url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-video-url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-read-time-override]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-teaser-copy]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<p>Todo el mundo está ocupado en estos días. Cuando se trata de buscar la solución a un problema o de responder a una pregunta, la mayoría de la gente prefiere resolver sus propias dudas: es el camino natural de menor resistencia. En muchos casos, el autoservicio es el mejor tipo de atención al cliente. Una gran cantidad de productos y servicios han sido diseñados para que los clientes los usen sin problema. A menudo, la capacidad para buscar una solución por medio del autoservicio puede ser la atención al cliente más fácil.</p>
-<p>Según <a href="http://about.americanexpress.com/news/docs/2014x/2014-Global-Customer-Service-Barometer-US.pdf" target="_blank">American Express</a>, “el 48 % de los clientes prefiere hablar con un representante del servicio de atención al cliente cuando tiene que lidiar con problemas complejos, pero solo el 16 % prefiere el mismo contacto para problemas simples”. Los clientes tienden a buscar interacciones directas solo cuando no pueden encontrar respuestas a través de su propia investigación. Esto no ofrece una experiencia positiva al usuario, ni una imagen favorable del servicio de atención de la compañía. </p>
-<p><img src="https://zen-marketing-content.s3.amazonaws.com/content/resources/6%20tips.png" width="250" height="300" alt=""></p>
-<p>El eBook, <em>6 Sugerencias para crear un centro de ayuda eficaz</em>, trata sobre el valor del soporte de autoservicio y las seis formas de crear y mejorar la base de conocimientos y la administración del conocimiento. Cuando invierten en el autoservicio, las empresas favorecen la redirección de los tickets, las experiencias del usuario y la opinión que los clientes tienen de la marca.</p>
-<p>El autoservicio puede optimizar el servicio de atención al cliente y ayuda a su organización a:</p>
-<ul>
-<li>
-Aumentar la satisfacción del cliente proporcionando una mejor atención por medio de la administración del conocimiento (con el contenido de los centros de ayuda y las bases de conocimientos)</li>
-<li>
-Reducir los costos y aumentar la eficiencia disminuyendo el número de preguntas repetitivas que los agentes deben contestar (y que los clientes plantean continuamente)</li>
-<li>
-Hacer crecer su comunidad y crear conexiones más profundas entre su organización y sus clientes</li>
-<li>Ofrecer servicio de atención al cliente más proactivo que promueva la planificación y permita dedicar más tiempo a otras iniciativas de la compañía</li>
-</ul>
-<p>Descargue el eBook <em>6 Sugerencias para crear un centro de ayuda eficaz</em> que le ayudará a mejorar el autoservicio y establecer una base de conocimientos, una comunidad y un portal de autoservicio para el cliente, todo en un mismo lugar.</p>
-]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-body-copy]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-    
-  </item>
-  
   <item>
     <title>Las 10 métricas más importantes para un help desk</title>
     <link>https://www.zendesk.com.mx/resources/top-10-help-desk-metrics/</link>
@@ -235,11 +39,11 @@ Hacer crecer su comunidad y crear conexiones más profundas entre su organizaci�
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.mx/resources/top-10-help-desk-metrics</guid>
     <description>Saber qué métricas conviene utilizar para un help desk y qué no es necesario cuantificar, puede ser difícil. Comience con estas 10.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Todos conocemos el dicho “más vale prevenir que tener que lamentar”.]]></excerpt:encoded>
-    <wp:post_id>201900062</wp:post_id>
+    <wp:post_id>201900061</wp:post_id>
     <wp:post_date><![CDATA[2017-07-14 12:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2017-07-14 12:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -251,15 +55,15 @@ Hacer crecer su comunidad y crear conexiones más profundas entre su organizaci�
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="customer-support-analytics"><![CDATA[Análisis]]></category>
-    
+
     <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Administración de la atención al cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-metrics"><![CDATA[Métricas de atención al cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="support-operations"><![CDATA[Operaciones de soporte]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -325,7 +129,7 @@ Hacer crecer su comunidad y crear conexiones más profundas entre su organizaci�
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -372,11 +176,11 @@ Hacer crecer su comunidad y crear conexiones más profundas entre su organizaci�
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
@@ -428,15 +232,16 @@ Todos conocemos el dicho “más vale prevenir que tener que lamentar”. Y en l
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-body-copy]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[
+]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Descubra el verdadero valor de su organización de atención al cliente</title>
     <link>https://www.zendesk.com.mx/resources/uncover-true-value-customer-support-organization/</link>
@@ -444,11 +249,11 @@ Todos conocemos el dicho “más vale prevenir que tener que lamentar”. Y en l
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.mx/resources/uncover-true-value-customer-support-organization</guid>
     <description>Descubra el verdadero valor de su organización de atención al cliente con las tendencias tecnológicas que más importan en 2017.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Descubra el verdadero valor de su organización de atención al cliente con las tendencias tecnológicas que más importan en 2017.]]></excerpt:encoded>
-    <wp:post_id>201900063</wp:post_id>
+    <wp:post_id>201900062</wp:post_id>
     <wp:post_date><![CDATA[2017-03-01 12:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2017-03-01 12:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -460,17 +265,17 @@ Todos conocemos el dicho “más vale prevenir que tener que lamentar”. Y en l
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="customer-support-analyst-reports"><![CDATA[Informes de analistas]]></category>
-    
+
     <category domain="filter_tag" nicename="library-best-practices"><![CDATA[Mejores prácticas]]></category>
-    
+
     <category domain="filter_tag" nicename="best-practices-zendesk-leadership"><![CDATA[Liderazgo]]></category>
-    
+
     <category domain="filter_tag" nicename="library-research-reports"><![CDATA[Investigación e informes]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendencias y observaciones]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -536,7 +341,7 @@ Todos conocemos el dicho “más vale prevenir que tener que lamentar”. Y en l
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -583,11 +388,11 @@ Todos conocemos el dicho “más vale prevenir que tener que lamentar”. Y en l
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
@@ -620,15 +425,16 @@ Todos conocemos el dicho “más vale prevenir que tener que lamentar”. Y en l
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-body-copy]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[<p>Gracias por descargar el informe <a href="http://d26a57ydsghvgx.cloudfront.net/content/resources/KeyTrends2017eBook_ES-MX.pdf" title="Descubra el verdadero valor de su organización de atención al cliente" target="_blank">Descubra el verdadero valor de su organización de atención al cliente</a></p>
+ ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Un mejor autoservicio gracias a la IA</title>
     <link>https://www.zendesk.com.mx/resources/using-ai-better-self-service/</link>
@@ -636,11 +442,11 @@ Todos conocemos el dicho “más vale prevenir que tener que lamentar”. Y en l
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.mx/resources/using-ai-better-self-service</guid>
     <description>El eBook más reciente, “Un mejor autoservicio gracias a la IA”, ahonda en cómo mejorar las ofertas de autoservicio de la atención al cliente con el uso de la inteligencia artificial. Las herramientas de IA de Zendesk se pueden usar para los chatbots, los asistentes virtuales para el cliente y la creación de una mejor base de conocimientos.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[En el sector de negocios, la IA es muy prometedora y está transformando la manera en que trabajamos, viajamos y nos comunicamos.]]></excerpt:encoded>
-    <wp:post_id>201900064</wp:post_id>
+    <wp:post_id>201900063</wp:post_id>
     <wp:post_date><![CDATA[2018-12-05 12:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2018-12-05 12:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -652,19 +458,19 @@ Todos conocemos el dicho “más vale prevenir que tener que lamentar”. Y en l
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="zendesk-products-chat"><![CDATA[Chat]]></category>
-    
+
     <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Administración de la atención al cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="zendesk-products-guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="filter_tag" nicename="library-guides"><![CDATA[Guías]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-knowledge-base"><![CDATA[Base de conocimientos]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-technology"><![CDATA[Tecnología]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -730,7 +536,7 @@ Todos conocemos el dicho “más vale prevenir que tener que lamentar”. Y en l
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[5]]></wp:meta_value>
@@ -741,7 +547,7 @@ Todos conocemos el dicho “más vale prevenir que tener que lamentar”. Y en l
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-gated-success-from-form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Gracias. Esperamos que disfrutes la lectura.]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-custom-fields]]></wp:meta_key>
@@ -777,11 +583,11 @@ Todos conocemos el dicho “más vale prevenir que tener que lamentar”. Y en l
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/blog/Zendesk_AI_Blog-680x360.png]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
@@ -801,7 +607,7 @@ Todos conocemos el dicho “más vale prevenir que tener que lamentar”. Y en l
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-teaser-copy]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<p>En el sector de negocios, la IA es muy prometedora y está transformando la manera en que trabajamos, viajamos y nos comunicamos. Aunque todo esto es bastante novedoso y solo se ha probado en algunos casos de uso específico, hay muchas maneras en que <a href="https://www.zendesk.com.mx/blog/artificial-intelligence-customer-service-agents/" target="_blank">la inteligencia artificial se puede usar para el servicio de atención al cliente</a>.<br>  <br>Se distingue especialmente en el autoservicio: los recursos que los clientes emplean para solucionar problemas por sí mismos. Con la inteligencia artificial, se pueden optimizar las bases de conocimiento de una clientela y facilitar la búsqueda de artículos de ayuda en esas bases (gracias en parte al <a href="https://www.zendesk.com.mx/blog/machine-learning-and-deep-learning/" target="_blank">aprendizaje profundo</a> que se encarga de perfeccionar las herramientas de IA con el uso). Cuanta más ayuda puedan obtener los clientes por sí mismos, más simplificada y eficiente podrá ser una organización de servicio al cliente.<br>  <br> El eBook más reciente, <strong>Un mejor autoservicio gracias a la IA</strong>, analiza a fondo cómo mejorar las ofertas de autoservicio de la atención al cliente con el uso de la IA en <a href="https://www.zendesk.com.mx/guide/" target="_blank">Zendesk Guide</a>, con las <a href="https://www.zendesk.com.mx/blog/announcing-content-cues/" target="_blank">Pistas de contenido</a> y el <a href="https://www.zendesk.com.mx/answer-bot/" target="_blank">Answer Bot</a> principalmente. Los usuarios de <a href="https://www.zendesk.com.mx/chat/" target="_blank">Zendesk Chat</a> también pueden aprovechar la <a href="https://www.zendesk.com.mx/chat/chatbot/" target="_blank">API Conversations</a> para integrar su propio bot de autoservicio. </p>
+			<wp:meta_value><![CDATA[<p>En el sector de negocios, la IA es muy prometedora y está transformando la manera en que trabajamos, viajamos y nos comunicamos. Aunque todo esto es bastante novedoso y solo se ha probado en algunos casos de uso específico, hay muchas maneras en que <a href="https://www.zendesk.com.mx/blog/artificial-intelligence-customer-service-agents/" target="_blank">la inteligencia artificial se puede usar para el servicio de atención al cliente</a>.<br> <br>Se distingue especialmente en el autoservicio: los recursos que los clientes emplean para solucionar problemas por sí mismos. Con la inteligencia artificial, se pueden optimizar las bases de conocimiento de una clientela y facilitar la búsqueda de artículos de ayuda en esas bases (gracias en parte al <a href="https://www.zendesk.com.mx/blog/machine-learning-and-deep-learning/" target="_blank">aprendizaje profundo</a> que se encarga de perfeccionar las herramientas de IA con el uso). Cuanta más ayuda puedan obtener los clientes por sí mismos, más simplificada y eficiente podrá ser una organización de servicio al cliente.<br> <br> El eBook más reciente, <strong>Un mejor autoservicio gracias a la IA</strong>, analiza a fondo cómo mejorar las ofertas de autoservicio de la atención al cliente con el uso de la IA en <a href="https://www.zendesk.com.mx/guide/" target="_blank">Zendesk Guide</a>, con las <a href="https://www.zendesk.com.mx/blog/announcing-content-cues/" target="_blank">Pistas de contenido</a> y el <a href="https://www.zendesk.com.mx/answer-bot/" target="_blank">Answer Bot</a> principalmente. Los usuarios de <a href="https://www.zendesk.com.mx/chat/" target="_blank">Zendesk Chat</a> también pueden aprovechar la <a href="https://www.zendesk.com.mx/chat/chatbot/" target="_blank">API Conversations</a> para integrar su propio bot de autoservicio. </p>
 <p>Apenas estamos viendo el principio de la transformación de la experiencia del cliente con IA; sin embargo, las empresas que desean permitir que los clientes puedan ayudarse a sí mismos ya pueden lograr esa transformación.</p>
 ]]></wp:meta_value>
 		</wp:postmeta>
@@ -813,9 +619,9 @@ Todos conocemos el dicho “más vale prevenir que tener que lamentar”. Y en l
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Zendesk Benchmark: cómo las compañías establecidas se benefician con la transformación digital</title>
     <link>https://www.zendesk.com.mx/resources/zendesk-benchmark-established-companies-win-digital-transformation/</link>
@@ -823,11 +629,11 @@ Todos conocemos el dicho “más vale prevenir que tener que lamentar”. Y en l
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.mx/resources/zendesk-benchmark-established-companies-win-digital-transformation</guid>
     <description>Esta guía tiene el propósito de ayudar a las grandes empresas cuyos equipos de soporte se encuentran en las primeras fases de su transformación digital —los transformadores digitales— a compararse con sus pares.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Los clientes esperan poder hablar con las compañías a través de los mismos canales digitales que usan con sus amigos y familiares.]]></excerpt:encoded>
-    <wp:post_id>201900065</wp:post_id>
+    <wp:post_id>201900064</wp:post_id>
     <wp:post_date><![CDATA[2018-11-13 12:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2018-11-13 12:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -839,15 +645,15 @@ Todos conocemos el dicho “más vale prevenir que tener que lamentar”. Y en l
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Administración de la atención al cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-metrics"><![CDATA[Métricas de atención al cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-strategy"><![CDATA[Estrategia del servicio de atención al cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendencias y observaciones]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -913,7 +719,7 @@ Todos conocemos el dicho “más vale prevenir que tener que lamentar”. Y en l
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -924,7 +730,7 @@ Todos conocemos el dicho “más vale prevenir que tener que lamentar”. Y en l
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-gated-success-from-form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Gracias. Esperamos que disfrutes la lectura.]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-custom-fields]]></wp:meta_key>
@@ -960,11 +766,11 @@ Todos conocemos el dicho “más vale prevenir que tener que lamentar”. Y en l
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/Zendesk%20Enterprise_Digital%20Transformation_SocialAssets_notext-01.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
@@ -1003,9 +809,9 @@ Todos conocemos el dicho “más vale prevenir que tener que lamentar”. Y en l
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Zendesk Benchmark: cómo las empresas nativas digitales de rápido crecimiento pueden innovar y evolucionar</title>
     <link>https://www.zendesk.com.mx/resources/zendesk-benchmark-fast-growing-digital-natives-innovate-scale/</link>
@@ -1013,11 +819,11 @@ Todos conocemos el dicho “más vale prevenir que tener que lamentar”. Y en l
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.mx/resources/zendesk-benchmark-fast-growing-digital-natives-innovate-scale</guid>
     <description>Esta guía tiene el propósito de ayudar a los equipos de soporte que ya han conquistado el terreno digital —los nativos digitales— a compararse con sus pares.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Las grandes empresas que ya han adoptado la tecnología digital se enfrentan a una serie de oportunidades y dificultades únicas.]]></excerpt:encoded>
-    <wp:post_id>201900066</wp:post_id>
+    <wp:post_id>201900065</wp:post_id>
     <wp:post_date><![CDATA[2018-11-13 12:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2018-11-13 12:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1029,15 +835,15 @@ Todos conocemos el dicho “más vale prevenir que tener que lamentar”. Y en l
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Administración de la atención al cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-metrics"><![CDATA[Métricas de atención al cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-strategy"><![CDATA[Estrategia del servicio de atención al cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendencias y observaciones]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -1103,7 +909,7 @@ Todos conocemos el dicho “más vale prevenir que tener que lamentar”. Y en l
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -1114,7 +920,7 @@ Todos conocemos el dicho “más vale prevenir que tener que lamentar”. Y en l
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-gated-success-from-form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Gracias. Esperamos que disfrutes la lectura.]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-custom-fields]]></wp:meta_key>
@@ -1150,11 +956,11 @@ Todos conocemos el dicho “más vale prevenir que tener que lamentar”. Y en l
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/Zendesk%20Enterprise_DigitalNatives_SocialAssets_notext-01.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
@@ -1197,9 +1003,9 @@ Los equipos de alto rendimiento responden las solicitudes de los clientes seis v
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Una hoja de referencia de Zendesk para escoger tu solución de soporte</title>
     <link>https://www.zendesk.com.mx/resources/zendesk-cheat-sheet-picking-support-solution/</link>
@@ -1207,11 +1013,11 @@ Los equipos de alto rendimiento responden las solicitudes de los clientes seis v
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.mx/resources/zendesk-cheat-sheet-picking-support-solution</guid>
     <description>La elección de una nueva solución de soporte puede ser difícil. Hemos reunido nuestro conocimiento colectivo y hemos elaborado una lista de más de 50 preguntas para formular a su proveedor de soporte.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Elegir la solución de soporte adecuada para tu organización no es tarea fácil.]]></excerpt:encoded>
-    <wp:post_id>201900067</wp:post_id>
+    <wp:post_id>201900066</wp:post_id>
     <wp:post_date><![CDATA[2017-05-02 12:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2017-05-02 12:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1223,15 +1029,15 @@ Los equipos de alto rendimiento responden las solicitudes de los clientes seis v
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Administración de la atención al cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="support-operations"><![CDATA[Operaciones de soporte]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-technology"><![CDATA[Tecnología]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-tools"><![CDATA[Herramientas]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -1297,7 +1103,7 @@ Los equipos de alto rendimiento responden las solicitudes de los clientes seis v
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[5]]></wp:meta_value>
@@ -1308,7 +1114,7 @@ Los equipos de alto rendimiento responden las solicitudes de los clientes seis v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-gated-success-from-form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Gracias. Esperamos que disfrutes la lectura.]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-custom-fields]]></wp:meta_key>
@@ -1344,11 +1150,11 @@ Los equipos de alto rendimiento responden las solicitudes de los clientes seis v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
@@ -1396,15 +1202,15 @@ Elegir la solución de soporte adecuada para tu organización no es tarea fácil
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-body-copy]]></wp:meta_key>
-			<wp:meta_value><![CDATA[#see-all{opacity:0;display:none;}Gracias por descargarlo. Aquí está su copia <a href="http://d26a57ydsghvgx.cloudfront.net/content/blog/Zendesk_Cheat_Sheet_es-MX.pdf" target="_blank"> de la hoja de referencia de Zendesk para escoger su solución de soporte</a>. ]]></wp:meta_value>
+			<wp:meta_value><![CDATA[Gracias por descargarlo. Aquí está su copia <a href="http://d26a57ydsghvgx.cloudfront.net/content/blog/Zendesk_Cheat_Sheet_es-MX.pdf" target="_blank"> de la hoja de referencia de Zendesk para escoger su solución de soporte</a>. ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>La estrategia omnicanal de Zendesk</title>
     <link>https://www.zendesk.com.mx/resources/zendesk-omnichannel-approach/</link>
@@ -1412,11 +1218,11 @@ Elegir la solución de soporte adecuada para tu organización no es tarea fácil
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.mx/resources/zendesk-omnichannel-approach</guid>
     <description>Cuando se trata del servicio de atención, los clientes esperan recibir una invitación amplia. Con Zendesk, eso es fácil.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[    Cuando se trata del servicio de atención al cliente, los clientes esperan recibir una invitación abierta. Con Zendesk, eso es fácil.]]></excerpt:encoded>
-    <wp:post_id>201900068</wp:post_id>
+    <wp:post_id>201900067</wp:post_id>
     <wp:post_date><![CDATA[2018-02-22 12:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2018-02-22 12:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1428,17 +1234,17 @@ Elegir la solución de soporte adecuada para tu organización no es tarea fácil
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Administración de la atención al cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="omnichannel-support"><![CDATA[Guías de soporte omnicanal]]></category>
-    
+
     <category domain="filter_tag" nicename="library-omnichannel-customer-support"><![CDATA[Soporte omnicanal]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-channels"><![CDATA[Canales de soporte]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-technology"><![CDATA[Tecnología]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -1504,7 +1310,7 @@ Elegir la solución de soporte adecuada para tu organización no es tarea fácil
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -1515,7 +1321,7 @@ Elegir la solución de soporte adecuada para tu organización no es tarea fácil
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-gated-success-from-form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Gracias. Esperamos que disfrutes la lectura.]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-custom-fields]]></wp:meta_key>
@@ -1551,11 +1357,11 @@ Elegir la solución de soporte adecuada para tu organización no es tarea fácil
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
@@ -1592,9 +1398,9 @@ Elegir la solución de soporte adecuada para tu organización no es tarea fácil
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Demostración de productos Zendesk</title>
     <link>https://www.zendesk.com.mx/resources/zendesk-product-demo/</link>
@@ -1602,11 +1408,11 @@ Elegir la solución de soporte adecuada para tu organización no es tarea fácil
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.mx/resources/zendesk-product-demo</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Zendesk.]]></excerpt:encoded>
-    <wp:post_id>201900069</wp:post_id>
+    <wp:post_id>201900068</wp:post_id>
     <wp:post_date><![CDATA[2014-12-26 12:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2014-12-26 12:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1618,13 +1424,13 @@ Elegir la solución de soporte adecuada para tu organización no es tarea fácil
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="zendesk-products-support"><![CDATA[Support]]></category>
-    
+
     <category domain="filter_tag" nicename="library-videos"><![CDATA[Videos]]></category>
-    
+
     <category domain="filter_tag" nicename="library-zendesk-products"><![CDATA[Productos de Zendesk]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -1690,7 +1496,7 @@ Elegir la solución de soporte adecuada para tu organización no es tarea fácil
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -1737,11 +1543,11 @@ Elegir la solución de soporte adecuada para tu organización no es tarea fácil
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
@@ -1775,15 +1581,48 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-body-copy]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[<p><script src="https://fast.wistia.com/embed/medias/r1tpos8ro7.jsonp" async=""></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async=""></script></p>
+<div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;">
+<div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;">
+<div class="wistia_embed wistia_async_r1tpos8ro7 videoFoam=true" style="height:100%;width:100%"> </div>
+</div>
+</div>
+<h2>Preguntas frecuentes</h2>
+<h3>1. ¿Con qué aplicaciones y servicios se integra Zendesk?</h3>
+<p>Zendesk se integra con cientos de otros sistemas y herramientas. La lista completa de aplicaciones e integraciones compatibles con Zendesk se encuentra aquí: <a href="https://www.zendesk.com.mx/apps/" target="_blank">https://www.zendesk.com.mx/apps</a></p>
+<h3>2. ¿Qué tipo de clientes tienen?</h3>
+<p>Tenemos más de 100.000 clientes de pago que usan Zendesk en todos los sectores. Aquí puede leer sobre la experiencia de nuestros clientes y ver sus opiniones: <a href="https://www.zendesk.com.mx/why-zendesk/customers/" target="_blank">https://www.zendesk.com/why-zendesk/customers/</a></p>
+<h3>3. ¿Qué idiomas están disponibles en Zendesk?</h3>
+<p>Zendesk está disponible en varios idiomas tanto externamente para sus clientes como internamente para el personal de su empresa. Si desea ver qué idiomas se admiten en cada producto, visite: <a href="https://support.zendesk.com/hc/en-us/articles/203761906-Language-codes-for-Zendesk-supported-languages" target="_blank">https://support.zendesk.com/hc/en-us/articles/203761906-Language-codes-for-Zendesk-supported-languages</a></p>
+<h3>4. ¿Cuántos planes existen? ¿Cuál es la diferencia entre los planes? No estoy seguro cuál me conviene.</h3>
+<p>Si desea información sobre nuestros planes, dele una mirada a nuestra página de comparación de los planes: <a href="https://www.zendesk.com.mx/support/compare/#compare">https://www.zendesk.com.mx/support/compare/#compare</a>. Si desea hablar sobre los planes con uno de nuestros ejecutivos de cuenta, solo tiene que enviarnos un mensaje de correo electrónico a <a href="mailto:demo@zendesk.com">demo@zendesk.com</a> y lo pondremos en contacto con alguien para que le ayude. </p>
+<h3>5. ¿Cuánto tarda configurar Zendesk en mi compañía?</h3>
+<p>El tiempo necesario para configurar una cuenta de Zendesk Support depende exclusivamente de las necesidades de su organización, aunque la mayoría de las organizaciones logran tener el sistema en pleno funcionamiento dentro de los 30 días del periodo de prueba. </p>
+<h3>6. ¿Cuán personalizable es Zendesk?</h3>
+<p>Zendesk es altamente personalizable. Lo usan por igual propietarios individuales y grandes organizaciones de soporte empresarial. Se puede adaptar a escala para unos pocos agentes o para organizaciones con decenas de miles de agentes. </p>
+<h3>7. ¿Cómo se crea la base de conocimientos?</h3>
+<p>La base de conocimientos se crea con nuestro producto Guide. Todo el framework ya está listo, lo único que tiene que hacer es crear el contenido y personalizar la página, no se necesita código. </p>
+<h3>8. ¿Tiene Zendesk una función para medir el CSAT y la satisfacción del cliente como parte de sus funciones de informes?</h3>
+<p>Sí, Zendesk tiene CSAT incorporado en todos los planes a partir del plan Professional: <a href="https://support.zendesk.com/hc/en-us/articles/203662256-Using-customer-satisfaction-ratings-Professional-and-Enterprise-" target="_blank">https://support.zendesk.com/hc/en-us/articles/203662256-Using-customer-satisfaction-ratings-Professional-and-Enterprise-</a></p>
+<h3>9. ¿Puedo usar mi propio dominio? ¿Puedo configurar varios centros de ayuda?</h3>
+<p>Sí, puede usar su propio dominio. A eso se le conoce como mapeo de host: <a href="https://support.zendesk.com/hc/en-us/articles/203664356-Changing-the-address-of-your-Help-Center-subdomain-host-mapping-" target="_blank">https://support.zendesk.com/hc/en-us/articles/203664356-Changing-the-address-of-your-Help-Center-subdomain-host-mapping-</a>. También puede configurar varios centros de ayuda gracias a nuestra función de multimarca:<a href="https://support.zendesk.com/hc/en-us/articles/204579233-Multibrand-resources-Professional-Add-on-and-Enterprise-"> https://support.zendesk.com/hc/en-us/articles/204579233-Multibrand-resources-Professional-Add-on-and-Enterprise-</a></p>
+<h3>10. ¿Hay una demostración similar para Zendesk Chat?</h3>
+<p>Hay una demostración grabada para Zendesk Chat aquí: <a href="https://www.zendesk.com.mx/resources/guided-demo-zendesk-chat/" target="_blank">https://www.zendesk.com/resources/guided-demo-zendesk-chat/</a></p>
+<h3>11. ¿Admite Zendesk un número [gratuito] que luego se desvía a todo el sistema de tickets?</h3>
+<p>Zendesk sí admite un número de teléfono gratuito dentro de Talk, además de IVR para desviar llamadas: <a href="https://support.zendesk.com/hc/en-us/articles/218004987-Adding-Zendesk-Talk-numbers" target="_blank">https://support.zendesk.com/hc/en-us/articles/218004987-Adding-Zendesk-Talk-numbers</a><br> IVR: <a href="https://support.zendesk.com/hc/en-us/articles/214630317-Route-incoming-calls-with-IVR-Talk-Advanced-" target="_blank">https://support.zendesk.com/hc/en-us/articles/214630317-Route-incoming-calls-with-IVR-Talk-Advanced-</a></p>
+<h312 is="" this="" tool="" useful="" for="" a="" small="" team="" with="" only="" handful="" of="" support="" staff="" h3="">
+<p>Zendesk es de gran utilidad para equipos pequeños y grandes. En Zendesk tenemos grupos muy pequeños que usan Zendesk todos los días, y decenas de miles de nuestros clientes son empresas pequeñas. </p>
+<h3>13. ¿Puede Zendesk desviar las llamadas telefónicas entrantes? De ser así, ¿se puede crear un sistema de contestador telefónico con un menú para dirigir a las personas que llaman?</h3>
+<p>Sí, Zendesk Talk Advanced tiene incorporado el desvío de llamadas con IVR: <a href="https://support.zendesk.com/hc/en-us/articles/214630317-Route-incoming-calls-with-IVR-Talk-Advanced-" target="_blank">https://support.zendesk.com/hc/en-us/articles/214630317-Route-incoming-calls-with-IVR-Talk-Advanced-</a></p>
+</h312>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Investigación de Zendesk: indicadores de comportamiento</title>
     <link>https://www.zendesk.com.mx/resources/zendesk-research-behavioral-cues/</link>
@@ -1791,11 +1630,11 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.mx/resources/zendesk-research-behavioral-cues</guid>
     <description>In this report, we take a look at behavioral cues of customers and agents to better understand how these correlate with customer satisfaction</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[En este informe, analizamos con más detalle los indicadores del comportamiento de clientes y agentes para entender mejor cómo se correlacionan con el aumento o la disminución de la satisfacción del cliente]]></excerpt:encoded>
-    <wp:post_id>201900070</wp:post_id>
+    <wp:post_id>201900069</wp:post_id>
     <wp:post_date><![CDATA[2017-04-25 12:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2017-04-25 12:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1807,15 +1646,15 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="best-practices-customer-service"><![CDATA[Experiencia de los clientes]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-strategy"><![CDATA[Estrategia del servicio de atención al cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="library-research-reports"><![CDATA[Investigación e informes]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendencias y observaciones]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -1881,7 +1720,7 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -1928,11 +1767,11 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
@@ -1968,29 +1807,31 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-body-copy]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[
+<p>Gracias por descargarlo. Esta es su copia del informe <a href="https://d26a57ydsghvgx.cloudfront.net/content/resources/Zendesk_research_Behavioral_Cues.pdf" target="_blank">Investigación de Zendesk: indicadores de comportamiento</a></p>
+ ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
-    <title></title>
+    <title>Investigación de Zendesk: análisis de los clientes</title>
     <link>https://www.zendesk.com.mx/resources/zendesk-research-customer-analytics/</link>
-    <pubDate>Mon, 04 Feb 2019 12:00:00 +0000</pubDate>
+    <pubDate>Wed, 26 Apr 2017 12:00:00 +0000</pubDate>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.mx/resources/zendesk-research-customer-analytics</guid>
     <description>High usage of analytics in customer service pays off: companies that depend more on analytics reports are shown to perform better than those who don’t</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[En el servicio de atención al cliente, bien vale la pena el uso intensivo de los análisis: las compañías que dependen más de los informes de análisis han demostrado tener mejor rendimiento]]></excerpt:encoded>
-    <wp:post_id>201900071</wp:post_id>
-    <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
-    <wp:post_date_gmt><![CDATA[2019-02-04 12:00:00]]></wp:post_date_gmt>
+    <wp:post_id>201900070</wp:post_id>
+    <wp:post_date><![CDATA[2017-04-26 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2017-04-26 12:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
     <wp:ping_status><![CDATA[closed]]></wp:ping_status>
     <wp:post_name><![CDATA[]]></wp:post_name>
@@ -2000,17 +1841,17 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="zendesk-analytics"><![CDATA[Análisis]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-analytics"><![CDATA[Análisis]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-strategy"><![CDATA[Estrategia del servicio de atención al cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-channels"><![CDATA[Canales de soporte]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendencias y observaciones]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2076,14 +1917,14 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-gated]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-gated-success-from-form]]></wp:meta_key>
@@ -2123,11 +1964,11 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
@@ -2158,15 +1999,17 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-body-copy]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[
+<p>Gracias por descargarlo. Esta es su copia del informe <a href="https://d26a57ydsghvgx.cloudfront.net/content/resources/Zendesk_research_customer_analytics.pdf" target="_blank">Investigación de Zendesk: análisis de los clientes</a></p>
+ ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Investigación de Zendesk: satisfacción del cliente</title>
     <link>https://www.zendesk.com.mx/resources/zendesk-research-customer-satisfaction/</link>
@@ -2174,11 +2017,11 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.mx/resources/zendesk-research-customer-satisfaction</guid>
     <description>Customer satisfaction is a metric that measures how satisfied a customer was with a single support interaction</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[La métrica de satisfacción del cliente determina cuán satisfecho queda el cliente después de una sola interacción de soporte.]]></excerpt:encoded>
-    <wp:post_id>201900072</wp:post_id>
+    <wp:post_id>201900071</wp:post_id>
     <wp:post_date><![CDATA[2017-04-25 12:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2017-04-25 12:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2190,15 +2033,15 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="zendesk-library-csat"><![CDATA[CSAT]]></category>
-    
+
     <category domain="filter_tag" nicename="best-practices-customer-service"><![CDATA[Experiencia de los clientes]]></category>
-    
+
     <category domain="filter_tag" nicename="library-research-reports"><![CDATA[Investigación e informes]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendencias y observaciones]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2264,7 +2107,7 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -2311,11 +2154,11 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
@@ -2348,15 +2191,17 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-body-copy]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[
+<p>Thank you for downloading! Here is your copy of <a href="https://d26a57ydsghvgx.cloudfront.net/content/resources/zendesk_research_customer_satisfaction.pdf" target="_blank">Zendesk research: customer satisfaction</a></p>
+ ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Investigación de Zendesk: autoservicio del cliente</title>
     <link>https://www.zendesk.com.mx/resources/zendesk-research-customer-self-service/</link>
@@ -2364,11 +2209,11 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.mx/resources/zendesk-research-customer-self-service</guid>
     <description>The popularity of customer self-service is growing faster than ever. So how can companies increase the efficiency of their self-service?</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[La popularidad del autoservicio del cliente está creciendo como nunca.]]></excerpt:encoded>
-    <wp:post_id>201900073</wp:post_id>
+    <wp:post_id>201900072</wp:post_id>
     <wp:post_date><![CDATA[2017-04-25 12:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2017-04-25 12:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2380,17 +2225,17 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="best-practices-customer-service"><![CDATA[Experiencia de los clientes]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-knowledge-base"><![CDATA[Base de conocimientos]]></category>
-    
+
     <category domain="filter_tag" nicename="library-research-reports"><![CDATA[Investigación e informes]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-channels"><![CDATA[Canales de soporte]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendencias y observaciones]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2456,7 +2301,7 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -2503,11 +2348,11 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
@@ -2539,15 +2384,18 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-body-copy]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[
+<p>Gracias por descargarlo. Esta es su copia del informe <a href="https://d26a57ydsghvgx.cloudfront.net/content/resources/Zendesk_research_customer_self-service.pdf" target="_blank">Investigación de Zendesk: autoservicio del cliente</a></p>
+
+															]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Investigación de Zendesk: chat en vivo</title>
     <link>https://www.zendesk.com.mx/resources/zendesk-research-live-chat/</link>
@@ -2555,11 +2403,11 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.mx/resources/zendesk-research-live-chat</guid>
     <description>Increasingly, consumers turn to live chat when shopping online, and a growing number of consumers say it is their preferred way to engage with support</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[La popularidad del chat en vivo en la atención al cliente está aumentando rápidamente.]]></excerpt:encoded>
-    <wp:post_id>201900074</wp:post_id>
+    <wp:post_id>201900073</wp:post_id>
     <wp:post_date><![CDATA[2017-04-25 12:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2017-04-25 12:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2571,17 +2419,17 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="customer-service-strategy"><![CDATA[Estrategia del servicio de atención al cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-live-chat"><![CDATA[Chat en vivo]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-channels"><![CDATA[Canales de soporte]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-technology"><![CDATA[Tecnología]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendencias y observaciones]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2647,7 +2495,7 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -2694,11 +2542,11 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
@@ -2732,15 +2580,18 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-body-copy]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[
+<p>Gracias por descargarlo. Esta es su copia de <a href="https://d26a57ydsghvgx.cloudfront.net/content/resources/Zendesk%20Research%20Live%20Chat.pdf">Investigación de Zendesk: chat en vivo</a></p>
+
+															]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Investigación de Zendesk: Net Promoter Score® (NPS)</title>
     <link>https://www.zendesk.com.mx/resources/zendesk-research-nps/</link>
@@ -2748,11 +2599,11 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.mx/resources/zendesk-research-nps</guid>
     <description>Net Promoter Score (NPS®), which helps companies measure customer loyalty. Based on 103,000 NPS responses, our NPS data analysis reveals</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Net Promoter Score (NPS®) permite a las compañías medir la lealtad del cliente con una pregunta sencilla: ¿cuál es la probabilidad de que recomiende nuestra marca a un amigo o colega]]></excerpt:encoded>
-    <wp:post_id>201900075</wp:post_id>
+    <wp:post_id>201900074</wp:post_id>
     <wp:post_date><![CDATA[2017-04-25 12:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2017-04-25 12:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2764,17 +2615,17 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="customer-loyalty-customer-support-trends"><![CDATA[Lealtad del cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Administración de la atención al cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-metrics"><![CDATA[Métricas de atención al cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="support-operations"><![CDATA[Operaciones de soporte]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendencias y observaciones]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2840,7 +2691,7 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -2887,11 +2738,11 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
@@ -2925,15 +2776,17 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-body-copy]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[
+<p>Gracias por descargarlo. Esta es su copia del informe <a href="https://d26a57ydsghvgx.cloudfront.net/content/resources/Zendesk_research_NPS.pdf" target="_blank">Investigación de Zendesk: Net Promoter Score</a></p>
+ ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Investigación de Zendesk: puntos de referencia operativos</title>
     <link>https://www.zendesk.com.mx/resources/zendesk-research-operational-benchmarking/</link>
@@ -2941,11 +2794,11 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.mx/resources/zendesk-research-operational-benchmarking</guid>
     <description>Operational benchmarking has a long history in business: It’s natural for companies to want to compare themselves to their peers</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Los puntos de referencia operativos no son nada nuevo en el mundo de los negocios: es normal que las compañías deseen compararse con otros negocios para darle contexto y significado a su propio rendimiento, y para saber si hay oportunidades de crecimiento y mejora]]></excerpt:encoded>
-    <wp:post_id>201900076</wp:post_id>
+    <wp:post_id>201900075</wp:post_id>
     <wp:post_date><![CDATA[2017-04-25 12:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2017-04-25 12:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2957,15 +2810,15 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="customer-service-strategy"><![CDATA[Estrategia del servicio de atención al cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="best-practices-zendesk-operations"><![CDATA[Operaciones]]></category>
-    
+
     <category domain="filter_tag" nicename="library-research-reports"><![CDATA[Investigación e informes]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendencias y observaciones]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -3031,7 +2884,7 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -3078,11 +2931,11 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
@@ -3102,7 +2955,7 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-teaser-copy]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<p><img style="width: 33%; margin-right: 15px;" alt="operational benchmarking" src="https://d26a57ydsghvgx.cloudfront.net/content/resources/zendesk_research_operational_benchmarking_image.png"> Los puntos de referencia operativos no son nada nuevo en el mundo de los negocios: es normal que las compañías deseen compararse con otros negocios para darle contexto y significado a su propio rendimiento, y para saber si hay oportunidades de crecimiento y mejora. Pero con frecuencia, las similitudes entre las compañías en un mismo sector son solo superficiales y no ofrecen un punto de comparación significativo  para el establecimiento de puntos de referencia sobre el rendimiento de la atención al cliente.</p>
+			<wp:meta_value><![CDATA[<p><img style="width: 33%; margin-right: 15px;" alt="operational benchmarking" src="https://d26a57ydsghvgx.cloudfront.net/content/resources/zendesk_research_operational_benchmarking_image.png"> Los puntos de referencia operativos no son nada nuevo en el mundo de los negocios: es normal que las compañías deseen compararse con otros negocios para darle contexto y significado a su propio rendimiento, y para saber si hay oportunidades de crecimiento y mejora. Pero con frecuencia, las similitudes entre las compañías en un mismo sector son solo superficiales y no ofrecen un punto de comparación significativo para el establecimiento de puntos de referencia sobre el rendimiento de la atención al cliente.</p>
 <p>En este informe de investigación de Zendesk, tratamos esta deficiencia a través de un análisis de grupos que revela cuatro tipos de operaciones de atención al cliente y, dentro de estos, 12 grupos distintos, cada uno con su propio patrón operativo. Cada grupo está definido por una carga de trabajo, una estrategia y recursos, además del nivel típico de rendimiento de soporte que se puede esperar de las compañías incluidas en el grupo. </p>
 <p>Estos son los cuatro tipos de operaciones:</p>
 <ol>
@@ -3121,15 +2974,17 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-body-copy]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[
+<p>Gracias por descargarlo. Esta es su copia del informe <a href="https://d26a57ydsghvgx.cloudfront.net/content/resources/zendesk_research_operational_benchmarking.pdf" target="_blank">Investigación de Zendesk: puntos de referencia operativos</a></p>
+ ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>5 datos interesantes acerca del soporte omnicanal</title>
     <link>https://www.zendesk.com.mx/resources/5-fun-facts-omnichannel-support/</link>
@@ -3137,11 +2992,11 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.mx/resources/5-fun-facts-omnichannel-support</guid>
     <description>Sea que tu equipo de soporte esté expandiendo sus operaciones o creciendo mundialmente, adoptar una estrategia omnicanal es una manera comprobada de mejorar la experiencia de los agentes y de los clientes.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-    <wp:post_id>201900077</wp:post_id>
+    <wp:post_id>201900076</wp:post_id>
     <wp:post_date><![CDATA[2019-01-10 12:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2019-01-10 12:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3153,15 +3008,15 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Administración de la atención al cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="library-omnichannel-customer-support"><![CDATA[Soporte omnicanal]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-channels"><![CDATA[Canales de soporte]]></category>
-    
+
     <category domain="filter_tag" nicename="support-operations"><![CDATA[Operaciones de soporte]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -3227,7 +3082,7 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[8]]></wp:meta_value>
@@ -3238,7 +3093,7 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-gated-success-from-form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Gracias. Esperamos que disfrutes la lectura.]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-custom-fields]]></wp:meta_key>
@@ -3274,11 +3129,11 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/omnichannel%20support3.png]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
@@ -3302,15 +3157,15 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-body-copy]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[Sea que tu equipo de soporte esté expandiendo sus operaciones o creciendo mundialmente, <a href="https://www.zendesk.com.mx/suite/" target="_blank"> adoptar una estrategia omnicanal </a> es una manera comprobada de mejorar la experiencia de los agentes y de los clientes. ¿Te cuesta creerlo? Escucha lo que dicen los clientes de Zendesk que ya han disfrutado de estas ventajas.<span id="infographic-372401" class="SL_swap"><img src="https://d26a57ydsghvgx.cloudfront.net/content/omnichannel-fun-facts-infographic_esMX.png" alt=""></span>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Experiencia del empleado: Cómo las expectativas de los consumidores están transformando el lugar de trabajo</title>
     <link>https://www.zendesk.com.mx/resources/employee-experience-consumer-expectations-shaping-workplace/</link>
@@ -3318,11 +3173,11 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.mx/resources/employee-experience-consumer-expectations-shaping-workplace</guid>
     <description>El uso generalizado del servicio omnicanal ha dado lugar a la expectativa entre los consumidores de que el servicio de atención debe ser impecable. Este concepto crítico está influyendo ahora en el lugar de trabajo.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[El uso generalizado de las aplicaciones y del servicio en un sinnúmero de canales —teléfono, correo electrónico, chat y plataformas como Twitter— ha dado lugar a la expectativa entre los consumidores de que el servicio de atención debe ser impecable y omnicanal]]></excerpt:encoded>
-    <wp:post_id>201900078</wp:post_id>
+    <wp:post_id>201900077</wp:post_id>
     <wp:post_date><![CDATA[2019-01-11 12:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2019-01-11 12:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3334,13 +3189,13 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="customer-service-management-library"><![CDATA[Biblioteca de administración de atención al cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-team-management"><![CDATA[Administración de equipos]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendencias y observaciones]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -3406,7 +3261,7 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
@@ -3417,7 +3272,7 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-gated-success-from-form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Gracias. Esperamos que disfrutes la lectura.]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-custom-fields]]></wp:meta_key>
@@ -3453,11 +3308,11 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/employeeex.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
@@ -3492,9 +3347,9 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Las cuatro mejores prácticas para implementar lo último en autoservicio del cliente</title>
     <link>https://www.zendesk.com.mx/resources/four-best-practices-implementing-extreme-customer-self-service/</link>
@@ -3502,11 +3357,11 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.mx/resources/four-best-practices-implementing-extreme-customer-self-service</guid>
     <description>En esta guía, los líderes de CRM y de experiencia del cliente conocerán mejor cómo pueden mejorar las oportunidades de ofrecer el autoservicio del cliente en canales diversos.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Los clientes empoderados de hoy tienen la mentalidad del hágalo usted mismo muy arraigada, además de expectativas cambiantes en lo que se refiere a los canales de interacción que prefieren]]></excerpt:encoded>
-    <wp:post_id>201900079</wp:post_id>
+    <wp:post_id>201900078</wp:post_id>
     <wp:post_date><![CDATA[2019-01-03 12:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2019-01-03 12:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3518,15 +3373,15 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="customer-support-analyst-reports"><![CDATA[Informes de analistas]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-analytics"><![CDATA[Análisis]]></category>
-    
+
     <category domain="filter_tag" nicename="library-gartner"><![CDATA[Gartner]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendencias y observaciones]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -3592,7 +3447,7 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -3603,7 +3458,7 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-gated-success-from-form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Gracias. Esperamos que disfrutes la lectura.]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-custom-fields]]></wp:meta_key>
@@ -3639,11 +3494,11 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/blog/customer_experience_trends.png]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
@@ -3676,9 +3531,9 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Optimizar las interacciones para ofrecer la experiencia del cliente del futuro</title>
     <link>https://www.zendesk.com.mx/resources/optimizing-interactions-provide-customer-experience-tomorrow/</link>
@@ -3686,11 +3541,11 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.mx/resources/optimizing-interactions-provide-customer-experience-tomorrow</guid>
     <description>Este IDC Vendor Spotlight describe las dificultades actuales que afrontan las compañías para ofrecer una atención al cliente que supere las expectativas del sector.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[El mercado actual es hipercompetitivo. Las marcas compiten por la atención con la esperanza de convertirla en un cliente leal.]]></excerpt:encoded>
-    <wp:post_id>201900080</wp:post_id>
+    <wp:post_id>201900079</wp:post_id>
     <wp:post_date><![CDATA[2017-12-05 12:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2017-12-05 12:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3702,15 +3557,15 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="customer-support-analyst-reports"><![CDATA[Informes de analistas]]></category>
-    
+
     <category domain="filter_tag" nicename="best-practices-customer-service"><![CDATA[Experiencia de los clientes]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-strategy"><![CDATA[Estrategia del servicio de atención al cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendencias y observaciones]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -3776,7 +3631,7 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -3787,7 +3642,7 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-gated-success-from-form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Gracias. Esperamos que disfrutes la lectura.]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-custom-fields]]></wp:meta_key>
@@ -3823,11 +3678,11 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/resources/IDC_library.png]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
@@ -3854,14 +3709,1784 @@ Vea nuestra demostración a pedido sobre Zendesk Support y otros productos de Ze
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-body-copy]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[
+
+Estos son <a href="https://zen-marketing-content.s3.amazonaws.com/content/PR-016088%20IDC%20One%20Pagers_IDC%20Vendor_design_r3.1_as_es-MX.pdf" target="_blank"><em>los aspectos más destacados del informe</em></a> en su idioma.]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
+  <item>
+    <title>Cómo ofrecer un autoservicio de primera a tus clientes - América</title>
+    <link>https://www.zendesk.com.mx/support/webinar/forrester-how-to-deliver-best-in-class-self-service/</link>
+    <pubDate>Mon, 04 Feb 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://www.zendesk.com.mx/support/webinar/forrester-how-to-deliver-best-in-class-self-service</guid>
+    <description></description>
+
+    <content:encoded><![CDATA[Ante el impulso que la IA y el aprendizaje automático están dando al autoservicio, escucha lo que tienen que decir Jason Maynard y Kate Leggett —invitada especial de Forrester— en una charla sobre la convergencia de los agentes y la automatización, y sobre cómo sus roles evolucionarán más allá del manejo de los tickets.<br><br> Zendesk demostrará cómo el Answer Bot y las funciones avanzadas de Guide Enterprise liberan a los agentes de las tareas básicas a gran escala para que puedan dedicarse a cultivar la fidelidad del cliente respondiendo las preguntas más difíciles y ampliando la base de conocimientos.<br> <br> 9 de cada 10 usuarios de Guide han establecido prácticas de administración de conocimientos más avanzadas y han observado que el volumen de tickets y sus costos de soporte han disminuido en un 50 % o más.<br> <br> En este webinar de 60 minutos, podrás:<br><br> ● Aprender sobre el surgimiento del experto en conocimientos según lo explica Kate Leggett, VP y analista principal de Forrester; y sobre acciones precisas destinadas a llevar la administración de conocimientos al siguiente nivel<br> ● Oír hablar a Jason Maynard, VP y gerente general, acerca de cómo Guide Enterprise hará que todo su equipo participe en la creación y el perfeccionamiento de contenido y en las mejoras de la oferta de autoservicio<br><br> Estamos ofreciendo otras dos sesiones regionales de este webinar:<br> <a href="https://www.zendesk.com.mx/support/webinar/forrester-how-to-deliver-best-in-class-self-service-apac/">Asia-Pacífico</a><br> <a href="https://www.zendesk.com.mx/support/webinar/forrester-how-to-deliver-best-in-class-self-service-emea/">Europa </a><br><br>Míralo ahora]]></content:encoded>
+
+    <excerpt:encoded><![CDATA[Ante el impulso que la IA y el aprendizaje automático están dando al autoservicio, escucha lo que tienen que decir Jason Maynard y Kate Leggett —invitada especial de Forrester— en una charla sobre la convergencia de los agentes y la automatización, y sobre cómo sus roles evolucionarán más allá del manejo de los tickets]]></excerpt:encoded>
+    <wp:post_id>201900080</wp:post_id>
+    <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-02-04 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[webinar]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Ante el impulso que la IA y el aprendizaje automático están dando al autoservicio, escucha lo que tienen que decir Jason Maynard y Kate Leggett —invitada especial de Forrester— en una charla sobre la convergencia de los agentes y la automatización, y sobre cómo sus roles evolucionarán más allá del manejo de los tickets]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/images/kate_leggett%20100x100.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/images/kate_leggett%20100x100.png]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[sf-cid]]></wp:meta_key>
+			<wp:meta_value><![CDATA[70180000001Jg6u]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[event-id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1637964]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[AD1CDEA8A42F1E2C2CA58D432003FD2A]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-thank-you-message]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Gracias por registrarse. Haga clic en el vínculo al webinar incluido en la confirmación que recibirá por correo electrónico, o bien haga clic <a href="https://event.on24.com/wcc/r/1637964/AD1CDEA8A42F1E2C2CA58D432003FD2A">aquí</a> para verlo ahora. ]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-dates]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Disponible a pedido]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-presenter-name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Jason Maynard y Kate Leggett ]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-presenter-bio]]></wp:meta_key>
+			<wp:meta_value><![CDATA[
+<br><span style="font: 14px/1.4 PNR; font-style:italic;">Kate Leggett es VP y analista principal de Forrester, y atiende las necesidades de profesionales de desarrollo y entrega de aplicaciones. Es líder experta en la administración de la relación con el cliente (CRM) y en las estrategias de atención al cliente, madurez, análisis comparativos, gobernanza y ROI. Su trabajo ha sido publicado en The Wall Street Journal, la revista Forbes y publicaciones del sector, como CRM Magazine, KM World y Destination CRM.
+</span><br><br>
+</p>
+<p style="text-align:center;"><img src="https://zen-marketing-content.s3.amazonaws.com/content/images/jason_maynard.png" a="">
+</p>
+<p style="font: 14px/1.4 PNR; font-style:italic;">
+Jason Maynard es VP, gerente general de Guide y productos de datos de Zendesk. Es jefe de un equipo que crea productos diseñados para impulsar mejores experiencias del cliente a través del autoservicio y la automatización.
+</p>
+]]></wp:meta_value>
+		</wp:postmeta>
+
+  </item>
+
+  <item>
+    <title>Cumplimiento del GDPR con Zendesk</title>
+    <link>https://www.zendesk.com.mx/support/webinar/gdpr-amer/</link>
+    <pubDate>Mon, 04 Feb 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://www.zendesk.com.mx/support/webinar/gdpr-amer</guid>
+    <description></description>
+
+    <content:encoded><![CDATA[El 25 de mayo de 2018, el Reglamento general de protección de datos (RGPD) entrará en vigor y cambiará la manera en que las organizaciones manejan los datos personales de los ciudadanos de la UE. Aunque el RGPD se creó para proteger a los europeos, afectará a las organizaciones de todo el mundo que realicen negocios en la UE.<br> <br> Únase a nuestro equipo de expertos mientras analizamos las implicaciones del RGPD y el cumplimiento de las soluciones de Zendesk para ayudarle a administrar los datos personales de sus clientes de la UE.<br> <br> Durante este seminario web, analizaremos:<br> <br> ● Una descripción general de los requisitos del Reglamento general de protección de datos (RGPD)<br> ● Las medidas que ha tomado Zendesk y las capacidades disponibles para ayudar a sus clientes con sus programas de cumplimiento del RGPD<br> ● Las acciones que los clientes de Zendesk pueden realizar para ayudar con las solicitudes de los sujetos de datos]]></content:encoded>
+
+    <excerpt:encoded><![CDATA[El 25 de mayo de 2018, el Reglamento general de protección de datos (RGPD) entrará en vigor y cambiará la manera en que las organizaciones manejan los datos personales de los ciudadanos de la UE]]></excerpt:encoded>
+    <wp:post_id>201900081</wp:post_id>
+    <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-02-04 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[webinar]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[El 25 de mayo de 2018, el Reglamento general de protección de datos (RGPD) entrará en vigor y cambiará la manera en que las organizaciones manejan los datos personales de los ciudadanos de la UE]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/images/jason_robman.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/images/jason_robman.png]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[sf-cid]]></wp:meta_key>
+			<wp:meta_value><![CDATA[70180000001JhoB]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[event-id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1635177]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[A2B3D57ACE58B29E5191B5A0753F1080]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-thank-you-message]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Gracias por registrarse. Se le enviará una confirmación con un número único de registro por correo electrónico.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-dates]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Available On-Demand with Jason Robman, Luke Behnke, Shane Thornley, and Rachel Tobin ]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-presenter-name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Available On-Demand with Jason Robman, Luke Behnke, Shane Thornley, and Rachel Tobin ]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-presenter-bio]]></wp:meta_key>
+			<wp:meta_value><![CDATA[
+<br><span style="font: 14px/1.4 PNR; font-style:italic;">Jason Robman, vicepresidente del Consejo general
+</span><br><br>
+</p>
+<p style="text-align:center;"><img src="https://zen-marketing-content.s3.amazonaws.com/content/images/luke_behnke.png" a="">
+</p>
+<p style="font: 14px/1.4 PNR; font-style:italic;">
+Luke Behnke, vicepresidente de Producto
+<br>
+</p>
+<p style="text-align:center;"><img src="https://zen-marketing-content.s3.amazonaws.com/content/images/shane_thornley.png" a="">
+</p>
+<p style="font: 14px/1.4 PNR; font-style:italic;">
+Shane Thornley, director de Seguridad de la información
+<br>
+</p>
+<p style="text-align:center;"><img src="https://zen-marketing-content.s3.amazonaws.com/content/images/rachel_tobin.png" a="">
+</p>
+<p style="font: 14px/1.4 PNR; font-style:italic;">
+Rachel Tobin, asesora corporativa general de EMEA
+<br>
+</p>
+<p style="text-align:center;"><img src="https://zen-marketing-content.s3.amazonaws.com/content/images/manish_kalra.png" a="">
+</p>
+<p style="font: 14px/1.4 PNR; font-style:italic;">
+Organizado por Manish Kalra, director de Comercialización de productos
+</p>
+]]></wp:meta_value>
+		</wp:postmeta>
+
+  </item>
+
+  <item>
+    <title>Cómo crear un sistema de atención al cliente auténticamente omnicanal</title>
+    <link>https://www.zendesk.com.mx/support/webinar/how-to-build-true-omnichannel-customer-support-system-amer/</link>
+    <pubDate>Mon, 04 Feb 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://www.zendesk.com.mx/support/webinar/how-to-build-true-omnichannel-customer-support-system-amer</guid>
+    <description></description>
+
+    <content:encoded><![CDATA[La revolución omnicanal ya está aquí. Cada uno de los webinars de 30 minutos de esta serie de tres partes se concentra en un aspecto particular del soporte omnicanal, desde la estrategia hasta la implementación. ]]></content:encoded>
+
+    <excerpt:encoded><![CDATA[La revolución omnicanal ya está aquí.]]></excerpt:encoded>
+    <wp:post_id>201900082</wp:post_id>
+    <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-02-04 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[webinar]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[La revolución omnicanal ya está aquí.]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/images/Abhi.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/images/Abhi.png]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[sf-cid]]></wp:meta_key>
+			<wp:meta_value><![CDATA[701800000018Bki]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[event-id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1820307]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[8C4688FEBFF30683A2365BBCF264A880]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-thank-you-message]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Gracias por registrarse. Se le enviará una confirmación con un vínculo único al webinar por correo electrónico.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-dates]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Disponible a pedido y presentado por Emily Vince y Abhi Basu ]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-presenter-name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Disponible a pedido y presentado por Emily Vince y Abhi Basu ]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-presenter-bio]]></wp:meta_key>
+			<wp:meta_value><![CDATA[
+<br><span style="font: 14px/1.4 PNR; font-style:italic;">Abhiroop Basu es gerente sénior de marketing de productos en Zendesk, donde contribuye a hacer llegar contenido informativo, claro e innovador a nuestros clientes.
+</span><br><br>
+</p>
+<p style="text-align:center;"><img src="https://zen-marketing-content.s3.amazonaws.com/content/images/emily_vince.png">
+</p>
+<p style="font: 14px/1.4 PNR; font-style:italic;">
+Emily Vince es gerente sénior de marketing de productos en Zendesk, especializada en Zendesk Talk. Le encanta ayudar a los equipos de servicio de atención al cliente a mejorar su oferta de soporte en el canal más personal: el teléfono.
+</p>
+]]></wp:meta_value>
+		</wp:postmeta>
+
+  </item>
+
+  <item>
+    <title>Meet Zendesk Explore – Americas</title>
+    <link>https://www.zendesk.com.mx/support/webinar/meet-zendesk-explore-amer/</link>
+    <pubDate>Mon, 04 Feb 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://www.zendesk.com.mx/support/webinar/meet-zendesk-explore-amer</guid>
+    <description></description>
+
+    <content:encoded><![CDATA[¿Sabes cuántos datos valiosos se generan con tan solo algunas interacciones de servicio de atención al cliente? Y gracias a esos datos, tu negocio puede saber más acerca de los motivos por los que los clientes piden ayuda y, aún más importante, lo que tú puedes hacer para mejorar la manera en que tu negocio atiende a los clientes.]]></content:encoded>
+
+    <excerpt:encoded><![CDATA[¿Sabes cuántos datos valiosos se generan con tan solo algunas interacciones de servicio de atención al cliente?]]></excerpt:encoded>
+    <wp:post_id>201900083</wp:post_id>
+    <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-02-04 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[webinar]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[¿Sabes cuántos datos valiosos se generan con tan solo algunas interacciones de servicio de atención al cliente?]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/images/martin_doettling.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/images/martin_doettling.png]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[sf-cid]]></wp:meta_key>
+			<wp:meta_value><![CDATA[70180000001Fj9K]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[event-id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1868553]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[3EC32CD4B878669F06CCE32EFE28449A]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-thank-you-message]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Gracias por registrarse. Se le enviará una confirmación con un vínculo único al webinar por correo electrónico.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-dates]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Disponible a pedido y presentado por Martin Doettling y Andrew Forbes ]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-presenter-name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Disponible a pedido y presentado por Martin Doettling y Andrew Forbes ]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-presenter-bio]]></wp:meta_key>
+			<wp:meta_value><![CDATA[
+<br><span style="font: 14px/1.4 PNR; font-style:italic;">Martin Doettling es gerente general de Zendesk Explore. Su equipo crea productos que ayudan a los negocios a aprovechar el valor de sus datos y contar historias convincentes sobre los análisis.
+</span><br><br>
+</p>
+<p style="text-align:center;"><img src="https://zen-marketing-content.s3.amazonaws.com/content/images/Andrew.png">
+</p>
+<p style="font: 14px/1.4 PNR; font-style:italic;">
+Andrew Forbes es gerente de marketing de productos de Zendesk. En su opinión, los gráficos son muy útiles para analizar los datos.
+</p>
+]]></wp:meta_value>
+		</wp:postmeta>
+
+  </item>
+
+  <item>
+    <title>(¡Compárate!) Puntos de referencia para las organizaciones de atención al cliente - América</title>
+    <link>https://www.zendesk.com.mx/support/webinar/omnichannel-benchmark-amer/</link>
+    <pubDate>Mon, 04 Feb 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://www.zendesk.com.mx/support/webinar/omnichannel-benchmark-amer</guid>
+    <description></description>
+
+    <content:encoded><![CDATA[¿Conoces las normas de referencia para una atención al cliente óptima?<br><br> Con datos recopilados de 45.000 clientes de Zendesk en más de 140 países, determinamos los puntos de referencia para ofrecer una atención al cliente de primera, y la manera en que el servicio omnicanal al cliente sigue superando las normas del sector.<br><br> Escucha a Ryan Nichols, gerente general de soluciones omnicanal de Zendesk, y a Claire Peracchio, gerente de inteligencia competitiva y de mercado de Zendesk, presentar los detalles de las conclusiones y los conocimientos obtenidos de los puntos de referencia que hemos identificado más recientemente.<br><br> Este webinar tratará lo siguiente:<br> <br> ● Puntos de referencia para CSAT, tiempos de primera respuesta, tiempos de primera resolución, tiempo de espera del solicitante durante el horario de servicio y respuestas<br> ● Datos sobre expectativas y tendencias de los clientes <br> ● Integraciones de canales y evoluciones de la tecnología en todo el sector]]></content:encoded>
+
+    <excerpt:encoded><![CDATA[¿Conoces las normas de referencia para una atención al cliente óptima? Con datos recopilados de 45.]]></excerpt:encoded>
+    <wp:post_id>201900084</wp:post_id>
+    <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-02-04 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[webinar]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[¿Conoces las normas de referencia para una atención al cliente óptima? Con datos recopilados de 45.]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/images/Ryan_Nichols.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/images/Ryan_Nichols.png]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[sf-cid]]></wp:meta_key>
+			<wp:meta_value><![CDATA[70180000000wZGe]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[event-id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1806410]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[B1028A43B9007FA072BDA06A4E53091D]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-thank-you-message]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Gracias por registrarse. Se le enviará una confirmación con un vínculo único al webinar por correo electrónico.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-dates]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Disponible a pedido y presentado por Ryan Nichols y Claire Peracchio ]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-presenter-name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Disponible a pedido y presentado por Ryan Nichols y Claire Peracchio ]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-presenter-bio]]></wp:meta_key>
+			<wp:meta_value><![CDATA[
+<br><span style="font: 14px/1.4 PNR; font-style:italic;">Ryan Nichols, gerente general de soluciones omnicanal de Zendesk
+</span><br><br>
+</p>
+<p style="text-align:center;"><img src="https://zen-marketing-content.s3.amazonaws.com/content/images/Claire_Peracchio.png">
+</p>
+<p style="font: 14px/1.4 PNR; font-style:italic;">
+Claire Peracchio, gerente de inteligencia competitiva y de mercado de Zendesk
+</p>
+]]></wp:meta_value>
+		</wp:postmeta>
+
+  </item>
+
+  <item>
+    <title>Historia destacada de cliente omnicanal</title>
+    <link>https://www.zendesk.com.mx/support/webinar/omnichannel-customer-story-spotlight-amer/</link>
+    <pubDate>Mon, 04 Feb 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://www.zendesk.com.mx/support/webinar/omnichannel-customer-story-spotlight-amer</guid>
+    <description></description>
+
+    <content:encoded><![CDATA[La revolución omnicanal ya está aquí. Cada uno de los webinars de 30 minutos de esta serie de tres partes se concentra en un aspecto particular del soporte omnicanal, desde la estrategia hasta la implementación. ]]></content:encoded>
+
+    <excerpt:encoded><![CDATA[La revolución omnicanal ya está aquí.]]></excerpt:encoded>
+    <wp:post_id>201900085</wp:post_id>
+    <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-02-04 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[webinar]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[La revolución omnicanal ya está aquí.]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/images/emily_vince.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/images/emily_vince.png]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[sf-cid]]></wp:meta_key>
+			<wp:meta_value><![CDATA[701800000018Bks]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[event-id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1820368]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[FD4920B2ABD35B55EE86BBC6D4166034]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-thank-you-message]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Gracias por registrarse. Se le enviará una confirmación con un vínculo único al webinar por correo electrónico.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-dates]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Disponible a pedido,]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-presenter-name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Emily Vince y Laura West ]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-presenter-bio]]></wp:meta_key>
+			<wp:meta_value><![CDATA[
+<br><span style="font: 14px/1.4 PNR; font-style:italic;">Emily Vince es gerente sénior de marketing de productos en Zendesk, especializada en Zendesk Talk. Le encanta ayudar a los equipos de servicio de atención al cliente a mejorar su oferta de soporte en el canal más personal: el teléfono.
+</span><br><br>
+</p>
+<p style="text-align:center;"><img src="https://zen-marketing-content.s3.amazonaws.com/content/images/Laura_West.png">
+</p>
+<p style="font: 14px/1.4 PNR; font-style:italic;">
+Laura West es jefa de experiencia del cliente y operaciones en ThirdLove.
+</p>
+]]></wp:meta_value>
+		</wp:postmeta>
+
+  </item>
+
+  <item>
+    <title>Novedades de Zendesk: agosto 2017 - América</title>
+    <link>https://www.zendesk.com.mx/support/webinar/whats-new-product-updates-august-2017-amer/</link>
+    <pubDate>Mon, 04 Feb 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://www.zendesk.com.mx/support/webinar/whats-new-product-updates-august-2017-amer</guid>
+    <description></description>
+
+    <content:encoded><![CDATA[Acabamos de agregar varias funciones nuevas que proporcionan maneras más rápidas e inteligentes de chatear, enviar mensajes y ofrecer soporte a los clientes.]]></content:encoded>
+
+    <excerpt:encoded><![CDATA[Acabamos de agregar varias funciones nuevas que proporcionan maneras más rápidas e inteligentes de chatear, enviar mensajes y ofrecer soporte a los clientes.]]></excerpt:encoded>
+    <wp:post_id>201900086</wp:post_id>
+    <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-02-04 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[webinar]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Acabamos de agregar varias funciones nuevas que proporcionan maneras más rápidas e inteligentes de chatear, enviar mensajes y ofrecer soporte a los clientes.]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[http://images.hello.zendesk.com/EloquaImages/clients/ZendeskInc/%7B3a646550-94d5-4efb-91da-baef805b62c7%7D_zlogo1.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[http://images.hello.zendesk.com/EloquaImages/clients/ZendeskInc/%7B3a646550-94d5-4efb-91da-baef805b62c7%7D_zlogo1.png]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[sf-cid]]></wp:meta_key>
+			<wp:meta_value><![CDATA[70180000001TjbC]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[event-id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1473333]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[073B7B15D2501CEE1418920E6A250503]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-thank-you-message]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Gracias por registrarse. Se le enviará una confirmación con un vínculo único al webinar por correo electrónico.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-dates]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Atención a la carta del equipo de marketing de productos de Zendesk ]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-presenter-name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Atención a la carta del equipo de marketing de productos de Zendesk ]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-presenter-bio]]></wp:meta_key>
+			<wp:meta_value><![CDATA[
+Presentado por el equipo de marketing de productos de Zendesk:
+<br></p>
+<h3>Caitlin Henehan</h3> Caitlin es vicepresidenta y gerente general de Chat en Zendesk. Su equipo crea productos para conectarse con los clientes de manera rápida y receptiva.
+<h3>Jason Maynard</h3> Jason es vicepresidente y gerente general de Guide y productos de datos en Zendesk. Es líder de un equipo que crea productos diseñados para desenmarañar la complejidad de las relaciones con los clientes a través de los datos.
+<h3>Andrew Forbes</h3> Andrew es un gerente de marketing de productos en Zendesk a quien le encanta ayudar a las compañías a medir y comprender toda la experiencia de los clientes.
+
+]]></wp:meta_value>
+		</wp:postmeta>
+
+  </item>
+
+  <item>
+    <title>Novedades de Zendesk: diciembre 2018 – América</title>
+    <link>https://www.zendesk.com.mx/support/webinar/whats-new-product-updates-dec-2018-amer/</link>
+    <pubDate>Mon, 04 Feb 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://www.zendesk.com.mx/support/webinar/whats-new-product-updates-dec-2018-amer</guid>
+    <description></description>
+
+    <content:encoded><![CDATA[Aquí en Zendesk, estamos viviendo una transformación con el estreno de nuestra plataforma Zendesk Sunshine y de dos productos completamente nuevos: Zendesk Sell y Zendesk Explore. Zendesk Sunshine es nuestra plataforma de CRM abierta y flexible. Zendesk Sell es un software para la automatización de equipos de ventas que mejora la productividad, los procesos y la visibilidad de los proyectos en curso de estos grupos. Zendesk Explore es una herramienta de análisis para que los negocios puedan medir y mejorar toda la experiencia del cliente.]]></content:encoded>
+
+    <excerpt:encoded><![CDATA[Aquí en Zendesk, estamos viviendo una transformación con el estreno de nuestra plataforma Zendesk Sunshine y de dos productos completamente nuevos: Zendesk Sell y Zendesk Explore]]></excerpt:encoded>
+    <wp:post_id>201900087</wp:post_id>
+    <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-02-04 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[webinar]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Aquí en Zendesk, estamos viviendo una transformación con el estreno de nuestra plataforma Zendesk Sunshine y de dos productos completamente nuevos: Zendesk Sell y Zendesk Explore]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/images/Lisa_Kant.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/images/Lisa_Kant.png]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[sf-cid]]></wp:meta_key>
+			<wp:meta_value><![CDATA[70180000001Fj9e]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[event-id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1873490]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1BE9DCC6AAB6F95DC7455E9B930BFE51]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-thank-you-message]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Gracias por registrarse. Se le enviará una confirmación con un vínculo único al webinar por correo electrónico.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-dates]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Disponible a pedido y presentado por el equipo de marketing de productos de Zendesk ]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-presenter-name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Disponible a pedido y presentado por el equipo de marketing de productos de Zendesk ]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-presenter-bio]]></wp:meta_key>
+			<wp:meta_value><![CDATA[
+<br><br>
+</p>
+<p style="font: 14px/1.4 PNR; font-style:italic; margin-top: 25px">
+Lisa Kant se unió al equipo el año pasado y dirige el marketing de productos de Zendesk para plataforma, soluciones y análisis. Su equipo se dedica a ayudar a los clientes a conocer el valor de las soluciones para todos los productos de Zendesk, de manera que puedan ofrecer las mejores experiencias del cliente posibles.
+</p>
+<p style="text-align:center;"><img src="https://zen-marketing-content.s3.amazonaws.com/content/images/martin_doettling.png">
+</p>
+<p style="font: 14px/1.4 PNR; font-style:italic;">
+Martin Doettling es vicepresidente y gerente general de análisis en Zendesk, y se encarga de proporcionar a las compañías las herramientas que necesitan para medir y mejorar toda la experiencia del cliente.
+</p>
+<p style="text-align:center;"><img src="https://zen-marketing-content.s3.amazonaws.com/content/images/Ryan_Nichols.png">
+</p>
+<p style="font: 14px/1.4 PNR; font-style:italic;">
+Ryan Nichols es vicepresidente de productos y marketing de Base en Zendesk, y su trabajo consiste en ayudar a que los equipos de ventas y servicio puedan colaborar para conseguir una mejor experiencia para los clientes. Anteriormente, Ryan ocupó el cargo de gerente general de Talk, Chat y Zendesk Suite. </p>
+]]></wp:meta_value>
+		</wp:postmeta>
+
+  </item>
+
+  <item>
+    <title>Novedades de Zendesk: febrero 2017 – América</title>
+    <link>https://www.zendesk.com.mx/support/webinar/whats-new-product-updates-february-2017-amer/</link>
+    <pubDate>Mon, 04 Feb 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://www.zendesk.com.mx/support/webinar/whats-new-product-updates-february-2017-amer</guid>
+    <description></description>
+
+    <content:encoded><![CDATA[Únase a nuestro equipo de marketing de productos que le dará a conocer todas las actualizaciones de productos del último trimestre. En este webinar de 60 minutos, se darán a conocer las nuevas funciones de Support, el Centro de ayuda, Chat, Talk y Message, y se explicarán en detalle las ventajas que ofrece cada canal. Al final también habrá oportunidad de hacer preguntas.]]></content:encoded>
+
+    <excerpt:encoded><![CDATA[Únase a nuestro equipo de marketing de productos que le dará a conocer todas las actualizaciones de productos del último trimestre.]]></excerpt:encoded>
+    <wp:post_id>201900088</wp:post_id>
+    <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-02-04 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[webinar]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Únase a nuestro equipo de marketing de productos que le dará a conocer todas las actualizaciones de productos del último trimestre.]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[http://images.hello.zendesk.com/EloquaImages/clients/ZendeskInc/%7B3a646550-94d5-4efb-91da-baef805b62c7%7D_zlogo1.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[http://images.hello.zendesk.com/EloquaImages/clients/ZendeskInc/%7B3a646550-94d5-4efb-91da-baef805b62c7%7D_zlogo1.png]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[sf-cid]]></wp:meta_key>
+			<wp:meta_value><![CDATA[70180000001MBZx]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[event-id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1347699]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[91E54F2D638484496F7FCE7D5C9078EF]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-thank-you-message]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Gracias por registrarse. Se le enviará una confirmación con un vínculo al webinar por correo electrónico.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-dates]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Atención a la carta del equipo de marketing de productos de Zendesk ]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-presenter-name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Atención a la carta del equipo de marketing de productos de Zendesk ]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-presenter-bio]]></wp:meta_key>
+			<wp:meta_value><![CDATA[
+Presentado por el equipo de marketing de productos de Zendesk: <br> ● Abhi Basu (gerente principal de marketing de productos para Chat)<br> ● Anthony Okumura (gerente sénior de marketing de productos para Support)<br> ● Liliya Apostolova (gerente sénior de marketing de productos para el Centro de ayuda)<br> ● Emily Vince (gerente sénior de marketing de productos para Talk)<br> ● Timothy Kua (director de marketing para Message)
+</p>
+]]></wp:meta_value>
+		</wp:postmeta>
+
+  </item>
+
+  <item>
+    <title>Novedades de Zendesk: junio de 2018 – América</title>
+    <link>https://www.zendesk.com.mx/support/webinar/whats-new-product-updates-june-2018-amer/</link>
+    <pubDate>Mon, 04 Feb 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://www.zendesk.com.mx/support/webinar/whats-new-product-updates-june-2018-amer</guid>
+    <description></description>
+
+    <content:encoded><![CDATA[Nos complace anunciar un nuevo producto, un plan nuevo para Zendesk Guide y más de veinte funciones en toda la familia de productos Zendesk. El objetivo de estos nuevos lanzamientos es facilitar a los equipos de soporte la creación de experiencias personalizadas para los agentes, un análisis más minucioso de las tendencias del chat en vivo, el desarrollo de mejor contenido de autoservicio y más.<br><br> Únete al equipo de marketing de productos de Zendesk y dos invitados especiales de nuestro equipo directivo de productos para conocer en detalle las novedades de Zendesk. En este webinar de 45 minutos, hablaremos de las últimas funciones que hemos introducido y daremos sugerencias sobre cómo puedes comenzar a usarlas.<br><br> Aquí tienes un adelanto de lo que trataremos:<br> ● Un nuevo producto con el que los equipos de soporte y marketing pueden ahorrar tiempo a los clientes y ofrecerles ayuda antes de que tengan que pedirla<br> ● Herramientas que permiten a las grandes compañías crear las mejores experiencias de autoservicio para sus clientes con Guide Enterprise<br> ● Procesos para enviar tickets a los mejores agentes relacionados con la solicitud en curso con la función de desvío basado en habilidades<br> ● Nuevas formas de elaborar informes y analizar las tendencias históricas de Zendesk Chat con Chat en Insights<br><br> Ofreceremos otras dos sesiones regionales de este webinar, para que nos acompañes en la que prefieras:<br> <br> <a href="https://www.zendesk.com.mx/support/webinar/whats-new-product-updates-june-2018-emea/">Europa</a><br><a href="https://www.zendesk.com.mx/support/webinar/whats-new-product-updates-june-2018-apac/">Asia Pacífico</a><br> <br> Y no te olvides de ver la página<a href="https://www.zendesk.com.mx/whats-new/">Novedades</a> para conocer los detalles de nuestros productos más recientes.]]></content:encoded>
+
+    <excerpt:encoded><![CDATA[Nos complace anunciar un nuevo producto, un plan nuevo para Zendesk Guide y más de veinte funciones en toda la familia de productos Zendesk.]]></excerpt:encoded>
+    <wp:post_id>201900089</wp:post_id>
+    <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-02-04 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[webinar]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Nos complace anunciar un nuevo producto, un plan nuevo para Zendesk Guide y más de veinte funciones en toda la familia de productos Zendesk.]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[http://images.hello.zendesk.com/EloquaImages/clients/ZendeskInc/%7Bffc6d23f-6660-42ad-b8fd-8980a9c5f6b7%7D_Andrew.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[http://images.hello.zendesk.com/EloquaImages/clients/ZendeskInc/%7Bffc6d23f-6660-42ad-b8fd-8980a9c5f6b7%7D_Andrew.png]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[sf-cid]]></wp:meta_key>
+			<wp:meta_value><![CDATA[70180000001JlEX]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[event-id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1665573]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0BB83B4ABD234865D1A378DC065F3D0D]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-thank-you-message]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Thanks for registering! Check your inbox for an email with your unique link to the webinar or click <a href="https://event.on24.com/wcc/r/1665573/0BB83B4ABD234865D1A378DC065F3D0D">here</a> to watch now.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-dates]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Disponible a pedido y presentado por el equipo de marketing de productos de Zendesk ]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-presenter-name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Disponible a pedido y presentado por el equipo de marketing de productos de Zendesk ]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-presenter-bio]]></wp:meta_key>
+			<wp:meta_value><![CDATA[
+<br><span style="font: 14px/1.4 PNR; font-style:italic;">Andrew Forbes es gerente de marketing de productos de Zendesk. En su opinión, los gráficos son muy útiles para analizar los datos (aunque no los gráficos circulares porque esos son pésimos, según él).
+</span><br><br>
+</p>
+<p style="text-align:center;"><img src="https://zen-marketing-content.s3.amazonaws.com/content/images/steven_yan.png" a="">
+</p>
+<p style="font: 14px/1.4 PNR; font-style:italic;">
+Steven Yan es vicepresidente y gerente general de Connect en Zendesk. Dirige al equipo que diseña los productos con los que los negocios pueden crear, enviar, optimizar y probar con facilidad mensajes importantes.
+<br>
+</p>
+<p style="text-align:center;"><img src="https://zen-marketing-content.s3.amazonaws.com/content/images/jason_maynard.png" a="">
+</p>
+<p style="font: 14px/1.4 PNR; font-style:italic;">
+Jason Maynard es VP, gerente general de Guide y productos de datos de Zendesk. Es líder de un equipo que crea productos diseñados para desenmarañar la complejidad de las relaciones con los clientes a través de los datos.
+</p>
+]]></wp:meta_value>
+		</wp:postmeta>
+
+  </item>
+
+  <item>
+    <title>Novedades de Zendesk: marzo 2018 - América</title>
+    <link>https://www.zendesk.com.mx/support/webinar/whats-new-product-updates-march-2018-amer/</link>
+    <pubDate>Mon, 04 Feb 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://www.zendesk.com.mx/support/webinar/whats-new-product-updates-march-2018-amer</guid>
+    <description></description>
+
+    <content:encoded><![CDATA[Recientemente incorporamos una serie de funciones nuevas que facilitan la personalización de la experiencia del agente, la obtención de información adicional sobre el rendimiento de su equipo y cómo atender a los clientes de una manera más inteligente.<br><br> Únase al equipo de marketing de productos de Zendesk y un invitado especial de nuestro equipo de administración de productos para conocer en detalle las novedades de Zendesk. En este webinar de 45 minutos, hablaremos de las últimas funciones que hemos introducido y ofreceremos sugerencias sobre cómo puede comenzar a usarlas.<br><br> Estos son algunos de los temas que vamos a tratar:<br> <br> ● Nuevas maneras de mejorar la eficiencia del equipo de soporte mediante los    permisos para utilizar aplicaciones<br> ● Formas inteligentes de atender a los clientes en nuevos lugares e idiomas con el    Answer Bot<br> ● Cómo vigilar de cerca el rendimiento del equipo mediante las métricas del estado del    agente en Chat y los análisis del agente en Message<br> ● Maneras de integrar datos de Zendesk Talk y crear sus propios wallboards con la    nueva API para paneles<br> <br> También estamos ofreciendo dos sesiones regionales adicionales de este webinar:<br> <br> <a href="https://www.zendesk.com.mx/support/webinar/whats-new-product-updates-march-2018-apac/">Asia</a><br> <a href="https://www.zendesk.com.mx/support/webinar/whats-new-product-updates-march-2018-emea/">Europa</a><br> <br> Vaya a la página <a href="https://www.zendesk.com.mx/whats-new/">Novedades</a> donde podrá obtener más detalles sobre las versiones más recientes de nuestro producto.]]></content:encoded>
+
+    <excerpt:encoded><![CDATA[Recientemente incorporamos una serie de funciones nuevas que facilitan la personalización de la experiencia del agente, la obtención de información adicional sobre el rendimiento de su equipo y cómo atender a los clientes de una manera más inteligente]]></excerpt:encoded>
+    <wp:post_id>201900090</wp:post_id>
+    <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-02-04 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[webinar]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Recientemente incorporamos una serie de funciones nuevas que facilitan la personalización de la experiencia del agente, la obtención de información adicional sobre el rendimiento de su equipo y cómo atender a los clientes de una manera más inteligente]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[http://images.hello.zendesk.com/EloquaImages/clients/ZendeskInc/%7Bffc6d23f-6660-42ad-b8fd-8980a9c5f6b7%7D_Andrew.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[http://images.hello.zendesk.com/EloquaImages/clients/ZendeskInc/%7Bffc6d23f-6660-42ad-b8fd-8980a9c5f6b7%7D_Andrew.png]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[sf-cid]]></wp:meta_key>
+			<wp:meta_value><![CDATA[70180000001JgDk]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[event-id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1620048]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[52F7EFA81F01F603A21D5918513D3073]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-thank-you-message]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Gracias por registrarse. Se le enviará una confirmación con un número único de registro por correo electrónico.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-dates]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Disponible a pedido y presentado por el equipo de marketing de productos de Zendesk ]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-presenter-name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Disponible a pedido y presentado por el equipo de marketing de productos de Zendesk ]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-presenter-bio]]></wp:meta_key>
+			<wp:meta_value><![CDATA[
+<br><span style="font: 14px/1.4 PNR; font-style:italic;">Andrew Forbes es gerente de marketing de productos de Zendesk. En su opinión, los gráficos son muy útiles para analizar los datos.
+</span><br><br>
+</p>
+<p style="text-align:center;"><img src="https://zen-marketing-content.s3.amazonaws.com/content/images/polomi_batra.png" a="">
+</p>
+<p style="font: 14px/1.4 PNR; font-style:italic;">
+Polomi Batra es gerente de marketing de productos para Zendesk Chat. Su equipo crea productos para conectarse con los clientes de manera rápida y receptiva.
+<br>
+</p>
+<p style="text-align:center;"><img src="https://zen-marketing-content.s3.amazonaws.com/content/images/kiran_weber.png" a="">
+</p>
+<p style="font: 14px/1.4 PNR; font-style:italic;">
+Kiran Max Weber es gerente de productos de Zendesk. Su equipo es el que hace realidad la magia de la funcionalidad del sistema de generación de tickets de Support. </p>
+]]></wp:meta_value>
+		</wp:postmeta>
+
+  </item>
+
+  <item>
+    <title>Novedades de Zendesk: mayo 2017 – América</title>
+    <link>https://www.zendesk.com.mx/support/webinar/whats-new-product-updates-may-2017-amer/</link>
+    <pubDate>Mon, 04 Feb 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://www.zendesk.com.mx/support/webinar/whats-new-product-updates-may-2017-amer</guid>
+    <description></description>
+
+    <content:encoded><![CDATA[Recientemente añadimos una serie de funciones nuevas que ayudan a mejorar la experiencia del cliente, ofrecen más contexto a los agentes, y les permiten administrar equipos más grandes a los administradores. ]]></content:encoded>
+
+    <excerpt:encoded><![CDATA[Recientemente añadimos una serie de funciones nuevas que ayudan a mejorar la experiencia del cliente, ofrecen más contexto a los agentes, y les permiten administrar equipos más grandes a los administradores]]></excerpt:encoded>
+    <wp:post_id>201900091</wp:post_id>
+    <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-02-04 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[webinar]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Recientemente añadimos una serie de funciones nuevas que ayudan a mejorar la experiencia del cliente, ofrecen más contexto a los agentes, y les permiten administrar equipos más grandes a los administradores]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[http://images.hello.zendesk.com/EloquaImages/clients/ZendeskInc/%7B3a646550-94d5-4efb-91da-baef805b62c7%7D_zlogo1.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[http://images.hello.zendesk.com/EloquaImages/clients/ZendeskInc/%7B3a646550-94d5-4efb-91da-baef805b62c7%7D_zlogo1.png]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[sf-cid]]></wp:meta_key>
+			<wp:meta_value><![CDATA[70180000001MIMe ]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[event-id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1412945]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[6D1CA4416C613D5B251F52A8CB53444C]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-thank-you-message]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Gracias por registrarse. Se le enviará una confirmación con un vínculo al webinar por correo electrónico.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-dates]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Atención a la carta del equipo de marketing de productos de Zendesk ]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-presenter-name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Atención a la carta del equipo de marketing de productos de Zendesk ]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-presenter-bio]]></wp:meta_key>
+			<wp:meta_value><![CDATA[
+Presentado por el equipo de marketing de productos de Zendesk: <br> ● Tim Nguyen<br> ● Anthony Okumura<br> ● Liliya Apostolova<br> ● Emily Vince<br>
+</p>
+]]></wp:meta_value>
+		</wp:postmeta>
+
+  </item>
+
+  <item>
+    <title>Novedades de Zendesk: noviembre 2017 – América</title>
+    <link>https://www.zendesk.com.mx/support/webinar/whats-new-product-updates-november-2017-amer/</link>
+    <pubDate>Mon, 04 Feb 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://www.zendesk.com.mx/support/webinar/whats-new-product-updates-november-2017-amer</guid>
+    <description></description>
+
+    <content:encoded><![CDATA[Hace poco añadimos nuevas funciones que sirven para simplificar los flujos de trabajo y el contenido de los documentos, lo que a la larga significa que su negocio podrá funcionar con mayor eficacia a medida que va creciendo.<br><br> Únase a nuestro gerente sénior de marketing de productos de Zendesk Talk y otros del equipo de marketing de productos Zendesk para analizar en detalle las novedades de Zendesk. En este webinar de 30 minutos, hablaremos de las últimas funciones que hemos introducido y daremos sugerencias sobre cómo puede comenzar a usarlas.<br><br> Échele un vistazo a lo que vamos a discutir:<br> ● Cómo aumentar la implementación de Zendesk Talk con ayuda de los expertos de Zendesk y otras funciones novedosas de Talk Enterprise<br> ● Maneras de aprovechar su experiencia para elaborar mejor contenido con la aplicación Knowledge Capture <br> ● Cómo administrar mejor y prestar atención a sus reglas de negocio mediante la función Revisiones de disparadores<br> ● Ejemplos de cómo dar mayor visibilidad a las macros a través de la función Previsualización de macros<br> ● Nuevas maneras de mantener a los clientes informados de dónde se encuentran en la cola de Chat<br> <br> Estamos ofreciendo dos sesiones adicionales para este webinar:<br> <br> <a href="https://www.zendesk.com.mx/support/webinar/whats-new-product-updates-november-2017-apac/">Asia</a><br> <a href="https://www.zendesk.com.mx/support/webinar/whats-new-product-updates-november-2017-emea/">Europa</a><br> <br> Échele un vistazo a la <a href="https://www.zendesk.com.mx/whats-new/" target="_blank">página Novedades</a> donde encontrará información sobre las actualizaciones de productos más recientes.]]></content:encoded>
+
+    <excerpt:encoded><![CDATA[Hace poco añadimos nuevas funciones que sirven para simplificar los flujos de trabajo y el contenido de los documentos, lo que a la larga significa que su negocio podrá funcionar con mayor eficacia a medida que va creciendo]]></excerpt:encoded>
+    <wp:post_id>201900092</wp:post_id>
+    <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-02-04 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[webinar]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Hace poco añadimos nuevas funciones que sirven para simplificar los flujos de trabajo y el contenido de los documentos, lo que a la larga significa que su negocio podrá funcionar con mayor eficacia a medida que va creciendo]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/images/emily_vince.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/images/emily_vince.png]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[sf-cid]]></wp:meta_key>
+			<wp:meta_value><![CDATA[70180000001JUtC]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[event-id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1528344]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[5C1D533402F5C3E6A9C6248A5B1995FD]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-thank-you-message]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Gracias por registrarse. Se le enviará una confirmación con un vínculo único al webinar por correo electrónico.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-dates]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Disponible a pedido y presentado por el equipo de marketing de productos de Zendesk ]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-presenter-name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Disponible a pedido y presentado por el equipo de marketing de productos de Zendesk ]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[web-presenter-bio]]></wp:meta_key>
+			<wp:meta_value><![CDATA[
+<br><span style="font: 14px/1.4 PNR; font-style:italic;">Emily Vince es  gerente de marketing de productos para Zendesk Talk. Su equipo diseña productos que les permiten a las compañías resolver asuntos complejos con más rapidez con un soporte telefónico integrado.
+</span><br><br>
+</p>
+<p style="text-align:center;"><img src="http://images.hello.zendesk.com/EloquaImages/clients/ZendeskInc/%7Bffc6d23f-6660-42ad-b8fd-8980a9c5f6b7%7D_Andrew.png" a="">
+</p>
+<p style="font: 14px/1.4 PNR; font-style:italic;">
+Andrew Forbes es un gerente de marketing de productos en Zendesk que ama poder ayudar a las compañías a mejorar los flujos de trabajo del negocio y conocer más sobre sus clientes y análisis.
+<br>
+</p>
+<p style="text-align:center;"><img src="https://zen-marketing-content.s3.amazonaws.com/content/images/teresa_haun.png" a="">
+</p>
+<p style="font: 14px/1.4 PNR; font-style:italic;">
+Teresa Haun es gerente sénior de marketing de productos para Zendesk Guide. Su equipo se dedica a ayudar a las compañías a aprovechar su conocimiento institucional con el fin de ofrecer un mejor autoservicio y dar más facilidades a los agentes. </p>
+]]></wp:meta_value>
+		</wp:postmeta>
+
+  </item>
+
 </channel>
 </rss>
