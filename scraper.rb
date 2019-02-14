@@ -134,9 +134,9 @@ module Scraper
 
         item[Constants::KEYS[:success]] = post.css('.success-message p').first.inner_html unless post.css('#event_id').empty?
 
-        sidebar = post.css('.post aside')
+        sidebar = post.css('.bio')
         unless sidebar.empty?
-          item[Constants::KEYS[:author_bio]] = sidebar.first.inner_html.gsub(Constants::SMARTLING_WEBINAR_BIO_REGEX, '')
+          item[Constants::KEYS[:author_bio]] = sidebar.first.inner_html
         end
 
         date_and_presenter = post.css('.post h2')
