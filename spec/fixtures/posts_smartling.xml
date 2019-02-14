@@ -463,7 +463,7 @@
 
     <content:encoded><![CDATA[Ante el impulso que la IA y el aprendizaje automático están dando al autoservicio, escucha lo que tienen que decir Jason Maynard y Kate Leggett —invitada especial de Forrester— en una charla sobre la convergencia de los agentes y la automatización, y sobre cómo sus roles evolucionarán más allá del manejo de los tickets.<br><br> Zendesk demostrará cómo el Answer Bot y las funciones avanzadas de Guide Enterprise liberan a los agentes de las tareas básicas a gran escala para que puedan dedicarse a cultivar la fidelidad del cliente respondiendo las preguntas más difíciles y ampliando la base de conocimientos.<br> <br> 9 de cada 10 usuarios de Guide han establecido prácticas de administración de conocimientos más avanzadas y han observado que el volumen de tickets y sus costos de soporte han disminuido en un 50 % o más.<br> <br> En este webinar de 60 minutos, podrás:<br><br> ● Aprender sobre el surgimiento del experto en conocimientos según lo explica Kate Leggett, VP y analista principal de Forrester; y sobre acciones precisas destinadas a llevar la administración de conocimientos al siguiente nivel<br> ● Oír hablar a Jason Maynard, VP y gerente general, acerca de cómo Guide Enterprise hará que todo su equipo participe en la creación y el perfeccionamiento de contenido y en las mejoras de la oferta de autoservicio<br><br> Estamos ofreciendo otras dos sesiones regionales de este webinar:<br> <a href="https://www.zendesk.com.mx/support/webinar/forrester-how-to-deliver-best-in-class-self-service-apac/">Asia-Pacífico</a><br> <a href="https://www.zendesk.com.mx/support/webinar/forrester-how-to-deliver-best-in-class-self-service-emea/">Europa </a><br><br>Míralo ahora]]></content:encoded>
 
-    <excerpt:encoded><![CDATA[Ante el impulso que la IA y el aprendizaje automático están dando al autoservicio, escucha lo que tienen que decir Jason Maynard y Kate Leggett —invitada especial de Forrester— en una charla sobre la convergencia de los agentes y la automatización, y sobre cómo sus roles evolucionarán más allá del manejo de los tickets]]></excerpt:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
     <wp:post_id>201900003</wp:post_id>
     <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2019-02-04 12:00:00]]></wp:post_date_gmt>
@@ -489,7 +489,7 @@
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
-      <wp:meta_value><![CDATA[Ante el impulso que la IA y el aprendizaje automático están dando al autoservicio, escucha lo que tienen que decir Jason Maynard y Kate Leggett —invitada especial de Forrester— en una charla sobre la convergencia de los agentes y la automatización, y sobre cómo sus roles evolucionarán más allá del manejo de los tickets]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
@@ -576,15 +576,13 @@
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-presenter-bio]]></wp:meta_key>
 			<wp:meta_value><![CDATA[
-        <p><br><span style="font: 14px/1.4 PNR; font-style:italic;">Kate Leggett es VP y analista principal de Forrester, y atiende las necesidades de profesionales de desarrollo y entrega de aplicaciones. Es líder experta en la administración de la relación con el cliente (CRM) y en las estrategias de atención al cliente, madurez, análisis comparativos, gobernanza y ROI. Su trabajo ha sido publicado en The Wall Street Journal, la revista Forbes y publicaciones del sector, como CRM Magazine, KM World y Destination CRM.
-</span><br><br>
+        <br><p>Kate Leggett es VP y analista principal de Forrester, y atiende las necesidades de profesionales de desarrollo y entrega de aplicaciones. Es líder experta en la administración de la relación con el cliente (CRM) y en las estrategias de atención al cliente, madurez, análisis comparativos, gobernanza y ROI. Su trabajo ha sido publicado en The Wall Street Journal, la revista Forbes y publicaciones del sector, como CRM Magazine, KM World y Destination CRM.
 </p>
-<p style="text-align:center;"><img src="https://zen-marketing-content.s3.amazonaws.com/content/images/jason_maynard.png" a="">
-</p>
-<p style="font: 14px/1.4 PNR; font-style:italic;">
+<br><br>
+<p style="text-align:center;"><img src="https://zen-marketing-content.s3.amazonaws.com/content/images/jason_maynard.png" a=""></p>
+<p>
 Jason Maynard es VP, gerente general de Guide y productos de datos de Zendesk. Es jefe de un equipo que crea productos diseñados para impulsar mejores experiencias del cliente a través del autoservicio y la automatización.
-</p>
-]]></wp:meta_value>
+</p>]]></wp:meta_value>
 		</wp:postmeta>
 
   </item>

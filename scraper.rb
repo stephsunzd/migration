@@ -125,9 +125,8 @@ module Scraper
           item['resource-body-copy'] = post.css('.resource-body-content').first.inner_html
         end
       when 'webinar'
-        postmeta[:title] = post.css('.post h1')
-        postmeta[:content] = post.css('#reg p')
-        postmeta[:image] = post.css('.post aside img')
+        postmeta[:title] = post.css('.p-webinar h1')
+        postmeta[:image] = post.css('img.ico')
 
         item['item_tags'] = [ Constants::WEBINAR_PUBLISH_TAG ]
 
@@ -139,11 +138,20 @@ module Scraper
           item[Constants::KEYS[:author_bio]] = sidebar.first.inner_html
         end
 
-        date_and_presenter = post.css('.post h2')
-        unless date_and_presenter.empty?
-          date_and_presenter = date_and_presenter.first.text.split(/,?\s(con|with|por)\s/i)
+        date_and_presenter_node = post.at_css('.p-webinar p.h6')
+        unless date_and_presenter_node.nil?
+          date_and_presenter = date_and_presenter_node.text.split(/,?\s(con|with|por)\s/i)
           item[Constants::KEYS[:webinar_dates]] = date_and_presenter.first
           item[Constants::KEYS[:author]] = date_and_presenter.last
+
+          node = date_and_presenter_node
+          item['post_content'] = ''
+
+          while node.next.next.next # final 2 nodes, form and separator div, are unwanted here
+            item['post_content'] += node.next.inner_html
+            node = node.next
+          end
+
         end
       end
 
