@@ -31,7 +31,7 @@
 
 	<generator>https://wordpress.org/?v=4.7.3</generator>
 
-  
+
   <item>
     <title>99designs</title>
     <link>https://www.zendesk.com.br/customer/99designs/</link>
@@ -39,40 +39,52 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/customer/99designs</guid>
     <description>Saiba por que a 99designs substituiu 3 ferramentas pela solução omnichannel da Zendesk para oferecer suporte 24 horas por dia, 7 dias por semana em 8 idiomas.</description>
-    
+
     <content:encoded><![CDATA[
 
 <section>
-<p class="giant highlight center">A criatividade é o que o torna tudo possível. Essa é a filosofia da 99designs, a plataforma criativa global que facilita a colaboração entre designers e clientes. Desde 2008, a 99designs conecta mais de um milhão de empresas a designers freelancers que têm as ferramentas e a habilidade artística para transformar as visões de uma marca em realidade.
-</p>
-<p>Os dois grupos de usuários da plataforma apresentam um desafio singular para a equipe de suporte da 99designs, pois ela gerencia o relacionamento com as empresas e os designers freelancers. “Queremos ajudar nossos clientes a conseguirem o design que desejam”, disse Zach Kulas, Diretor do suporte global. “Quanto aos designers, queremos auxiliá-los a conseguirem clientes e desenvolverem relacionamentos comerciais duradouros”.</p>
-<p>Para alcançar seus objetivos e atender seus clientes internacionais, a 99designs oferece suporte ininterrupto de seus escritórios em Melbourne, Berlim e Oakland. As equipes, por sua vez, recebem suporte de uma rede de agentes remotos no mundo todo. Quanto aos canais, a 99designs oferece a seus clientes a comunicação por email, chat, telefone e autoatendimento em oito idiomas.</p>
-<p>Antes de migrar todo seu suporte para a solução omnichannel da Zendesk, a 99designs usava um prestador de serviço para cada canal de comunicação: a Desk.com para email, a SwitchFox para suporte por telefone e a Olark para chat. Para Kulas e sua equipe de suporte, a coleta de informações de canais segmentados era frustrante. “Era trabalhoso e penoso fazer o gerenciamento, a atualização e a geração de relatórios provenientes de empresas diferentes”, disse Kulas.</p>
+  <p class="giant highlight center">
+    O design é o segredo para um grande negócio. Essa é a filosofia que rege a 99designs, o maior mercado de design gráfico do mundo. Desde 2008, a 99designs conecta mais de um milhão de empresas a designers freelancers equipados com as ferramentas e a habilidade artística para transformar as visões de uma marca em realidade.
+  </p>
+  <p>O mercado bilateral representa um desafio único para a equipe de suporte da 99designs, pois ela gerencia o relacionamento entre empresas e designers freelancers. “Queremos ajudar nossos clientes a conseguirem o design que desejam”, disse Zach Kulas, Diretor do suporte global. “Quanto aos designers, queremos auxiliá-los a conseguirem clientes e desenvolverem relacionamentos comerciais duradouros”.</p>
+
+  <p>Para alcançar seus objetivos e atender seus clientes internacionais, a 99designs oferece suporte ininterrupto de seus escritórios em Melbourne, Berlim e Oakland. As equipes, por sua vez, recebem suporte de uma rede de agentes remotos no mundo todo. Quanto aos canais, a 99designs oferece a seus clientes a comunicação por email, chat, telefone e autoatendimento em oito idiomas.</p>
+
+  <p>Antes de migrar todo seu suporte para a solução omnichannel da Zendesk, a 99designs usava um prestador de serviço para cada canal de comunicação: a Desk.com para email, a SwitchFox para suporte por telefone e a Olark para chat. Para Kulas e sua equipe de suporte, a coleta de informações de canais segmentados era frustrante. “Era trabalhoso e penoso fazer o gerenciamento, a atualização e a geração de relatórios provenientes de empresas diferentes”, disse Kulas.</p>
 </section>
 <section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/99-4.jpg"></section>
 <section>
-<p>Essa constante frustração fez com que a 99designs buscasse novas ferramentas. Dessa vez, uma solução completa e otimizada tornou-se prioridade da empresa. Feita a análise das opções disponíveis, a equipe da 99designs chegou a duas soluções: Zendesk e Salesforce Service Cloud. “O Zendesk é mais intuitivo e fácil para os usuários”, ressaltou Kulas. “No Zendesk, consegui descobrir como mexer no sistema sem precisar de ajuda, enquanto no Salesforce isso não foi possível”.</p>
-<p>A interface simples do Zendesk foi outro fator decisivo para a equipe da 99designs. “Somos uma empresa de design”, disse Kulas, “e todos gostamos mais do visual da solução da Zendesk”.</p>
-<p>Assim que a 99designs decidiu adotar a solução omnichannel da Zendesk, usando o Support para email, o Chat para chat, o Talk para telefone e o Guide para autoatendimento, a aceitação da equipe foi imediata. “Adoro a facilidade de uso e a simplicidade do sistema”, declarou Kulas. “Levamos apenas dois dias para fazer a migração: numa tarde, mudamos o chat e, na seguinte, os telefones, tudo por conta própria”.</p>
+  <p>Essa constante frustração fez com que a 99designs buscasse novas ferramentas. Dessa vez, uma solução completa e otimizada tornou-se prioridade da empresa. Feita a análise das opções disponíveis, a equipe da 99designs chegou a duas soluções: Zendesk e Salesforce Service Cloud. “O Zendesk é mais intuitivo e fácil para os usuários”, ressaltou Kulas. “No Zendesk, consegui descobrir como mexer no sistema sem precisar de ajuda, enquanto no Salesforce isso não foi possível”.</p>
+
+  <p>A interface simples do Zendesk foi outro fator decisivo para a equipe da 99designs. “Somos uma empresa de design”, disse Kulas, “e todos gostamos mais do visual da solução da Zendesk”.</p>
+
+  <p>Assim que a 99designs decidiu adotar a solução omnichannel da Zendesk, usando o Support para email, o Chat para chat, o Talk para telefone e o Guide para autoatendimento, a aceitação da equipe foi imediata. “Adoro a facilidade de uso e a simplicidade do sistema”, declarou Kulas. “Levamos apenas dois dias para fazer a migração: numa tarde, mudamos o chat e, na seguinte, os telefones, tudo por conta própria”.</p>
 </section>
 <section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/99-3.png"></section>
 <section>
-<p>Com tudo centralizado, a 99designs então personalizou sua instância usando a API do Zendesk. Quando um cliente se cadastra para criar uma conta da 99designs, ele fornece seu número de telefone. Por isso, a 99designs criou um recurso no back-end que conecta as informações de perfil do cliente à ID do chamador. Agora, quando o cliente liga para a equipe de suporte, todas as informações dele são disponibilizadas facilmente para o agente. “Apenas com a ID do chamador, o agente sabe com exatidão quem é o cliente e descobre para que ele está usando nosso site”, informou Kulas. “Os agentes podem ajudar o cliente a encontrar exatamente o que ele busca sem perguntar 'Qual é o seu endereço de email para que eu possa fazer a busca para você em nossa ferramenta do administrador?”</p>
-<p>Kulas e a equipe também estão se beneficiando do Mercado de aplicativos do Zendesk. “Amo o aplicativo <a href="https://www.zendesk.com.br/apps/support/five-most-recent/" title="Cinco" most="" recent="" app="" target="_blank">Cinco mais recentes</a>”, declarou Kulas. “Esse foi um dos principais temas discutidos quando trouxemos todos os canais para o Zendesk pois, no passado, se alguém ligasse e deixasse um correio de voz e estivesse no chat ou enviasse dois emails, nossos agentes não conseguiam ver todos esses tickets”.</p>
-<p>“Agora podemos receber uma chamada e ver que o cliente deixou um correio de voz cinco minutos atrás e nos enviou dois emails há 30 e 45 minutos. Assim, quando conversarmos com ele pelo telefone, saberemos como agir e resolver todos os tickets de uma vez”.</p>
-<p>Graças ao Zendesk, a 99designs agora consegue visualizar toda sua instância de suporte omnichannel. “Estamos aprendendo cada vez mais sobre nossas chamadas, nossos chats, nossos emails, pois tudo está reunido em um só lugar”, afirmou Kulas. “Podemos marcar os tickets com tags, entender os motivos e mudar as coisas com muita facilidade. E isso é um diferencial de suma importância para nós”.</p>
+  <p>Com tudo centralizado, a 99designs então personalizou sua instância usando a API do Zendesk. Quando um cliente se cadastra para criar uma conta da 99designs, ele fornece seu número de telefone. Pra isso, a 99designs criou um recurso no back-end que conecta as informações de perfil do cliente à ID do chamador. Agora, quando o cliente liga para a equipe de suporte, todas as informações dele são disponibilizadas facilmente para o agente. “Apenas com a ID do chamador, o agente sabe com exatidão quem é o cliente e descobre para que ele está usando nosso site”, informou Kulas. “Os agentes podem ajudar o cliente a encontrar exatamente o que ele busca sem perguntar 'Qual é o seu endereço de email para que eu possa fazer a busca para você em nossa ferramenta do administrador?'”</p>
+
+  <p>Kulas e a equipe também estão se beneficiando do Mercado de aplicativos do Zendesk. “Amo o aplicativo <a href="https://www.zendesk.com/apps/support/five-most-recent/">Cinco mais recentes</a>”, declarou Kulas. “Esse foi um dos principais temas discutidos quando trouxemos todos os canais para o Zendesk pois, no passado, se alguém ligasse e deixasse um correio de voz e estivesse no chat ou enviasse dois emails, nossos agentes não conseguiam ver todos esses tickets”.</p>
+
+  <p>“Agora podemos receber uma chamada e ver que o cliente deixou um correio de voz cinco minutos atrás e nos enviou dois emails há 30 e 45 minutos. Assim, quando conversarmos com ele pelo telefone, saberemos como agir e resolver todos os tickets de uma vez”.</p>
+
+  <p>Graças ao Zendesk, a 99designs agora consegue visualizar toda sua instância de suporte omnichannel. “Estamos aprendendo cada vez mais sobre nossas chamadas, nossos chats, nossos emails, pois tudo está reunido em um só lugar”, afirmou Kulas. “Podemos marcar os tickets com tags, entender os motivos e mudar as coisas com muita facilidade. E isso é um diferencial de suma importância para nós”.</p>
 </section>
 <section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/99-5.jpg"></section>
 <section>
-<p>O Zendesk fornece à 99designs informações sobre os motivos de os clientes solicitarem reembolsos. Como a empresa garante a devolução do dinheiro em caso de desistência do cliente, ela precisa entender o motivo dos cancelamentos para minimizar experiências negativas no futuro. Tendo isso em mente, a 99designs solicita ao cliente que entre em contato com a empresa pelo telefone antes da emissão do reembolso. Quando o cliente liga para a empresa, a equipe da 99designs tem todos os dados do cliente na palma da mão, podendo deduzir os problemas e melhorar o produto.</p>
-<p>Além de coletar feedback qualitativo durante as chamadas, a equipe da 99designs aproveita para entrevistar também sobre a satisfação do cliente com o chat, conseguindo, em média, um CSAT de 97%. Com a equipe em vários locais, é importante que Kulas e os líderes da equipe de suporte estejam inteirados do desempenho dos agentes. “Gosto de receber feedback em tempo real sobre agentes específicos, especialmente dos agentes de chat, que não estão no mesmo local que nós”, disse Kulas. “É bom poder receber essas informações de forma fácil e rápida”.</p>
-<p>Como a empresa de design recebe cada vez mais freelancers e clientes, ela precisa de uma equipe de suporte que cresça com a empresa e, para tal, se faz necessário um software que possa acompanhar esse crescimento. Com o Zendesk, Kulas pode adicionar rapidamente agentes à equipe da 99designs. “É muito fácil dar alguns cliques para comprar um novo número de telefone e, então, atribuí-lo a um agente específico em questão de minutos”, declarou Kulas. “Adoro o recurso de configuração”.</p>
+  <p>O Zendesk fornece à 99designs informações sobre os motivos de os clientes solicitarem reembolsos. Como a empresa garante a devolução do dinheiro em caso de desistência do cliente, ela precisa entender o motivo dos cancelamentos para minimizar experiências negativas no futuro. Tendo isso em mente, a 99designs solicita ao cliente que entre em contato com a empresa pelo telefone antes da emissão do reembolso. Quando o cliente liga para a empresa, a equipe da 99designs tem todos os dados do cliente na palma da mão, podendo deduzir os problemas e melhorar o produto.</p>
+
+  <p>Além de coletar feedback qualitativo durante as chamadas, a equipe da 99designs aproveita para entrevistar também sobre a satisfação do cliente com o chat, conseguindo, em média, um CSAT de 97%. Com a equipe em vários locais, é importante que Kulas e os líderes da equipe de suporte estejam inteirados do desempenho dos agentes. “Gosto de receber feedback em tempo real sobre agentes específicos, especialmente dos agentes de chat, que não estão no mesmo local que nós”, disse Kulas. “É bom poder receber essas informações de forma fácil e rápida”.</p>
+
+  <p>Como a empresa de design recebe cada vez mais freelancers e clientes, ela precisa de uma equipe de suporte que cresça com a empresa e, para tal, se faz necessário um software que possa acompanhar esse crescimento. Com o Zendesk, Kulas pode adicionar rapidamente agentes à equipe da 99designs. “É muito fácil dar alguns cliques para comprar um novo número de telefone e, então, atribuí-lo a um agente específico em questão de minutos”, declarou Kulas. “Adoro o recurso de configuração”.</p>
 </section>
 <section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/99-4.png"></section>
 <section>
-<p>Quais são os planos da 99designs? Reforçar o autoatendimento com o Zendesk Guide para assegurar que cada artigo da Central de Ajuda esteja o mais completo possível para maximizar a deflexão de tickets. A equipe começou a usar o Guide para reduzir os chats recebidos. “Recentemente, implementamos o Guide em nosso widget de chat, assim, quando alguém começa a digitar uma pergunta, o sistema já sugere artigos de suporte”, explicou Kulas.</p>
-<p>Ao passo que o Guide reduz o volume de tickets, ele aumenta o tráfego orgânico para o site da 99designs. “Estamos fazendo bastante monitoramento, pois descobrimos que estamos recebendo muitas buscas orgânicas no Google na nossa Central de Ajuda”, informou Kulas. “Quando alguém busca um termo relacionado a design como, por exemplo logotipo de vetores, nossa Central de Ajuda aparece nos resultados e isso tem gerado tráfego”. Ao manter uma Central de Ajuda bem-desenvolvida com o Guide, a equipe de suporte do 99designs consequentemente aumenta o alcance da sua marca.</p>
-<p>À medida que a 99designs continua a crescer e aprimorar sua experiência do cliente, a equipe da Zendesk está sempre pronta para oferecer suporte e orientação.  “A Zendesk me mantém focado e em constante atividade”, afirmou Kulas. “Realizar reuniões a cada duas semanas para verificação de informações e compartilhamento de relatórios me motiva a trabalhar cada vez mais”.</p>
+  <p>Quais são os planos da 99designs? Reforçar o autoatendimento com o Zendesk Guide para assegurar que cada artigo da Central de Ajuda esteja o mais completo possível para maximizar a deflexão de tickets. A equipe começou a usar o Guide para reduzir os chats recebidos. “Recentemente, implementamos o Guide em nosso widget de chat, assim, quando alguém começa a digitar uma pergunta, o sistema já sugere artigos de suporte”, explicou Kulas.</p>
+
+  <p>Ao passo que o Guide reduz o volume de tickets, ele aumenta o tráfego orgânico para o site da 99designs. “Estamos fazendo bastante monitoramento, pois descobrimos que estamos recebendo muitas buscas orgânicas no Google na nossa Central de Ajuda”, informou Kulas. “Quando alguém busca um termo relacionado a design como, por exemplo logotipo de vetores, nossa Central de Ajuda aparece nos resultados e isso tem gerado tráfego”. Ao manter uma Central de Ajuda bem-desenvolvida com o Guide, a equipe de suporte do 99designs consequentemente aumenta o alcance da sua marca.</p>
+
+  <p>À medida que a 99designs continua a crescer e aprimorar sua experiência do cliente, a equipe da Zendesk está sempre pronta para oferecer suporte e orientação. “A Zendesk me mantém focado e em constante atividade”, afirmou Kulas. “Realizar reuniões a cada duas semanas para verificação de informações e compartilhamento de relatórios me motiva a trabalhar cada vez mais”.</p>
 </section>
 </div></div><section class="quote">
 
@@ -80,7 +92,7 @@
 <p class="author">– Zach Kulas <span> Diretor do Suporte global</span></p>
 
 </section>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[A 99designs substituiu 3 sistemas pela solução omnichannel da Zendesk]]></excerpt:encoded>
     <wp:post_id>201900001</wp:post_id>
     <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
@@ -94,25 +106,25 @@
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="stories_tax" nicename="americas"><![CDATA[Américas]]></category>
-    
+
     <category domain="stories_tax" nicename="asia-pacific"><![CDATA[Ásia-Pacífico]]></category>
-    
+
     <category domain="stories_tax" nicename="product-chat"><![CDATA[Chat]]></category>
-    
+
     <category domain="stories_tax" nicename="europe"><![CDATA[Europa]]></category>
-    
+
     <category domain="stories_tax" nicename="product-guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="stories_tax" nicename="internet-mobile"><![CDATA[Internet e dispositivos móveis]]></category>
-    
+
     <category domain="stories_tax" nicename="media-entertainment"><![CDATA[Mídia e entretenimento]]></category>
-    
+
     <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
-    
+
     <category domain="stories_tax" nicename="product-talk"><![CDATA[Talk]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -178,7 +190,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[A 99designs substituiu 3 sistemas pela solução omnichannel da Zendesk]]></wp:meta_value>
@@ -255,9 +267,9 @@
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Airbnb</title>
     <link>https://www.zendesk.com.br/customer/airbnb/</link>
@@ -265,7 +277,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/customer/airbnb</guid>
     <description>Aprenda como o Airbnb cresceu com a Zendesk e como seus milhares de agentes agora atendem a milhões de clientes no mundo todo por uma interface personalizada.</description>
-    
+
     <content:encoded><![CDATA[
 
 <section>
@@ -319,7 +331,7 @@ Do outro lado do mundo, você tem uma acomodação perfeita para chamar de sua (
 <p class="author">– Shirley Lin <span> Líder de produto do grupo de produtos de suporte</span></p>
 
 </section>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[O Airbnb tem uma visão completa e personalizada do cliente]]></excerpt:encoded>
     <wp:post_id>201900002</wp:post_id>
     <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
@@ -333,21 +345,21 @@ Do outro lado do mundo, você tem uma acomodação perfeita para chamar de sua (
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="stories_tax" nicename="americas"><![CDATA[Américas]]></category>
-    
+
     <category domain="stories_tax" nicename="asia-pacific"><![CDATA[Ásia-Pacífico]]></category>
-    
+
     <category domain="stories_tax" nicename="europe"><![CDATA[Europa]]></category>
-    
+
     <category domain="stories_tax" nicename="product-guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="stories_tax" nicename="internet-mobile"><![CDATA[Internet e dispositivos móveis]]></category>
-    
+
     <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
-    
+
     <category domain="stories_tax" nicename="travel-hospitality"><![CDATA[Turismo e hotelaria]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -413,7 +425,7 @@ Do outro lado do mundo, você tem uma acomodação perfeita para chamar de sua (
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[O Airbnb tem uma visão completa e personalizada do cliente]]></wp:meta_value>
@@ -490,9 +502,9 @@ Do outro lado do mundo, você tem uma acomodação perfeita para chamar de sua (
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>cleverbridge</title>
     <link>https://www.zendesk.com.br/customer/cleverbridge/</link>
@@ -500,7 +512,7 @@ Do outro lado do mundo, você tem uma acomodação perfeita para chamar de sua (
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/customer/cleverbridge</guid>
     <description>Aprenda como a equipe de atendimento ao cliente da cleverbridge conseguiu evitar 24% dos tickets oferecendo autoatendimento, além de reduzir de 20 a 25% dos custos com a Zendesk.</description>
-    
+
     <content:encoded><![CDATA[
 
 <section>
@@ -543,7 +555,7 @@ Do outro lado do mundo, você tem uma acomodação perfeita para chamar de sua (
 <p class="author">– Joe Schnaufer<span>Diretor global de suporte ao cliente</span></p>
 
 </section>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Com o Zendesk Guide, a cleverbridge viu uma taxa de deflexão de 24% dos tickets ]]></excerpt:encoded>
     <wp:post_id>201900003</wp:post_id>
     <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
@@ -557,21 +569,21 @@ Do outro lado do mundo, você tem uma acomodação perfeita para chamar de sua (
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="stories_tax" nicename="americas"><![CDATA[Américas]]></category>
-    
+
     <category domain="stories_tax" nicename="asia-pacific"><![CDATA[Ásia-Pacífico]]></category>
-    
+
     <category domain="stories_tax" nicename="europe"><![CDATA[Europa]]></category>
-    
+
     <category domain="stories_tax" nicename="financial-services"><![CDATA[Serviços financeiros]]></category>
-    
+
     <category domain="stories_tax" nicename="product-guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="stories_tax" nicename="software-technology"><![CDATA[Software e tecnologia]]></category>
-    
+
     <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -637,7 +649,7 @@ Do outro lado do mundo, você tem uma acomodação perfeita para chamar de sua (
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Com o Zendesk Guide, a cleverbridge viu uma taxa de deflexão de 24% dos tickets ]]></wp:meta_value>
@@ -714,9 +726,9 @@ Do outro lado do mundo, você tem uma acomodação perfeita para chamar de sua (
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Dollar Shave Club</title>
     <link>https://www.zendesk.com.br/customer/dollar-shave-club/</link>
@@ -724,7 +736,7 @@ Do outro lado do mundo, você tem uma acomodação perfeita para chamar de sua (
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/customer/dollar-shave-club</guid>
     <description>A Dollar Shave Club resolve 12% dos seus tickets com o Answer Bot do Zendesk</description>
-    
+
     <content:encoded><![CDATA[
 
 <section>
@@ -773,7 +785,7 @@ Se um modelo de negócio é tão simples e brilhante como o da Dollar Shave Club
 <p class="author">– Trent Hoerman <span> Gerente sênior de programas</span></p>
 
 </section>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[A Dollar Shave Club diminui os custos do atendimento com o Answer Bot]]></excerpt:encoded>
     <wp:post_id>201900004</wp:post_id>
     <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
@@ -787,19 +799,19 @@ Se um modelo de negócio é tão simples e brilhante como o da Dollar Shave Club
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="stories_tax" nicename="americas"><![CDATA[Américas]]></category>
-    
+
     <category domain="stories_tax" nicename="product-chat"><![CDATA[Chat]]></category>
-    
+
     <category domain="stories_tax" nicename="product-guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="stories_tax" nicename="internet-mobile"><![CDATA[Internet e dispositivos móveis]]></category>
-    
+
     <category domain="stories_tax" nicename="retail"><![CDATA[Varejo e comércio eletrônico]]></category>
-    
+
     <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -865,7 +877,7 @@ Se um modelo de negócio é tão simples e brilhante como o da Dollar Shave Club
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[A Dollar Shave Club diminui os custos do atendimento com o Answer Bot]]></wp:meta_value>
@@ -942,9 +954,9 @@ Se um modelo de negócio é tão simples e brilhante como o da Dollar Shave Club
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Evernote</title>
     <link>https://www.zendesk.com.br/customer/evernote/</link>
@@ -952,7 +964,7 @@ Se um modelo de negócio é tão simples e brilhante como o da Dollar Shave Club
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/customer/evernote</guid>
     <description>Aprenda por que a Evernote escolheu o Zendesk Support e Chat para fornecer suporte aos seus mais de 200 milhões de clientes, e como ela conseguiu reduzir em 17% o volume de tickets com o Zendesk Guide</description>
-    
+
     <content:encoded><![CDATA[
 
 <section>
@@ -990,7 +1002,7 @@ Se um modelo de negócio é tão simples e brilhante como o da Dollar Shave Club
 <p class="author">– Gerald Hastie<span>Diretor de experiência global do cliente</span></p>
 
 </section>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[A Evernote viu uma redução de 17% no volume de tickets após configurar sua Central de Ajuda
 ]]></excerpt:encoded>
     <wp:post_id>201900005</wp:post_id>
@@ -1005,25 +1017,25 @@ Se um modelo de negócio é tão simples e brilhante como o da Dollar Shave Club
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="stories_tax" nicename="americas"><![CDATA[Américas]]></category>
-    
+
     <category domain="stories_tax" nicename="asia-pacific"><![CDATA[Ásia-Pacífico]]></category>
-    
+
     <category domain="stories_tax" nicename="product-chat"><![CDATA[Chat]]></category>
-    
+
     <category domain="stories_tax" nicename="europe"><![CDATA[Europa]]></category>
-    
+
     <category domain="stories_tax" nicename="product-guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="stories_tax" nicename="internet-mobile"><![CDATA[Internet e dispositivos móveis]]></category>
-    
+
     <category domain="stories_tax" nicename="software-technology"><![CDATA[Software e tecnologia]]></category>
-    
+
     <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
-    
+
     <category domain="stories_tax" nicename="product-talk"><![CDATA[Talk]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -1090,7 +1102,7 @@ Se um modelo de negócio é tão simples e brilhante como o da Dollar Shave Club
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[A Evernote viu uma redução de 17% no volume de tickets após configurar sua Central de Ajuda
@@ -1168,9 +1180,9 @@ Se um modelo de negócio é tão simples e brilhante como o da Dollar Shave Club
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Fossil</title>
     <link>https://www.zendesk.com.br/customer/fossil/</link>
@@ -1178,7 +1190,7 @@ Se um modelo de negócio é tão simples e brilhante como o da Dollar Shave Club
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/customer/fossil</guid>
     <description>Saiba por que a Fossil escolheu o Zendesk como sua plataforma global de atendimento ao cliente omnichannel, com suporte para mais de 14 marcas e 21 idiomas.</description>
-    
+
     <content:encoded><![CDATA[
 
 <section>
@@ -1223,7 +1235,7 @@ Se um modelo de negócio é tão simples e brilhante como o da Dollar Shave Club
 <p class="author">– Bernie Gessner<span>Vice-presidente de Atendimento global ao cliente e operações de varejo</span></p>
 
 </section>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Com o Zendesk, a Fossil consolidou suas ferramentas para oferecer suporte a 14 marcas
 ]]></excerpt:encoded>
     <wp:post_id>201900006</wp:post_id>
@@ -1238,21 +1250,21 @@ Se um modelo de negócio é tão simples e brilhante como o da Dollar Shave Club
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="stories_tax" nicename="americas"><![CDATA[Américas]]></category>
-    
+
     <category domain="stories_tax" nicename="asia-pacific"><![CDATA[Ásia-Pacífico]]></category>
-    
+
     <category domain="stories_tax" nicename="product-chat"><![CDATA[Chat]]></category>
-    
+
     <category domain="stories_tax" nicename="europe"><![CDATA[Europa]]></category>
-    
+
     <category domain="stories_tax" nicename="product-guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="stories_tax" nicename="retail"><![CDATA[Varejo e comércio eletrônico]]></category>
-    
+
     <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -1319,7 +1331,7 @@ Se um modelo de negócio é tão simples e brilhante como o da Dollar Shave Club
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Com o Zendesk, a Fossil consolidou suas ferramentas para oferecer suporte a 14 marcas
@@ -1397,9 +1409,9 @@ Se um modelo de negócio é tão simples e brilhante como o da Dollar Shave Club
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>História do cliente da Groupon</title>
     <link>https://www.zendesk.com.br/customer/groupon/</link>
@@ -1407,7 +1419,7 @@ Se um modelo de negócio é tão simples e brilhante como o da Dollar Shave Club
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/customer/groupon</guid>
     <description>A Groupon usou o Zendesk Support para ajudar no suporte a seus negócios internacionais em rápida expansão e ainda economizou dinheiro no processo.</description>
-    
+
     <content:encoded><![CDATA[
 
 <section>
@@ -1444,7 +1456,7 @@ Se um modelo de negócio é tão simples e brilhante como o da Dollar Shave Club
 <p class="author">– Joe Harrow<span> Diretor de atendimento ao cliente da Groupon</span></p>
 
 </section>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[O Groupon escolheu o Zendesk Support para ajudar a dimensionar o suporte aos seus negócios internacionais]]></excerpt:encoded>
     <wp:post_id>201900007</wp:post_id>
     <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
@@ -1458,17 +1470,17 @@ Se um modelo de negócio é tão simples e brilhante como o da Dollar Shave Club
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="stories_tax" nicename="americas"><![CDATA[Américas]]></category>
-    
+
     <category domain="stories_tax" nicename="asia-pacific"><![CDATA[Ásia-Pacífico]]></category>
-    
+
     <category domain="stories_tax" nicename="europe"><![CDATA[Europa]]></category>
-    
+
     <category domain="stories_tax" nicename="retail"><![CDATA[Varejo e comércio eletrônico]]></category>
-    
+
     <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -1534,7 +1546,7 @@ Se um modelo de negócio é tão simples e brilhante como o da Dollar Shave Club
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[O Groupon escolheu o Zendesk Support para ajudar a dimensionar o suporte aos seus negócios internacionais]]></wp:meta_value>
@@ -1611,9 +1623,9 @@ Se um modelo de negócio é tão simples e brilhante como o da Dollar Shave Club
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Homebridge</title>
     <link>https://www.zendesk.com.br/customer/homebridge/</link>
@@ -1621,7 +1633,7 @@ Se um modelo de negócio é tão simples e brilhante como o da Dollar Shave Club
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/customer/homebridge</guid>
     <description>Com o Zendesk Support, o Guide e o Chat, a colaboração da Homebridge é mais eficiente por 10 departamentos e a experiência dos seus clientes é mais fácil</description>
-    
+
     <content:encoded><![CDATA[
 
 <section>
@@ -1659,7 +1671,7 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
 <p class="author">– Ben Chapman <span> Diretor da experiência do cliente e análise</span></p>
 
 </section>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Crédito hipotecário que ajuda seus clientes a adquirirem casas
 ]]></excerpt:encoded>
     <wp:post_id>201900008</wp:post_id>
@@ -1674,19 +1686,19 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="stories_tax" nicename="americas"><![CDATA[Américas]]></category>
-    
+
     <category domain="stories_tax" nicename="product-chat"><![CDATA[Chat]]></category>
-    
+
     <category domain="stories_tax" nicename="product-explore"><![CDATA[Explore]]></category>
-    
+
     <category domain="stories_tax" nicename="financial-services"><![CDATA[Serviços financeiros]]></category>
-    
+
     <category domain="stories_tax" nicename="product-guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -1753,7 +1765,7 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Crédito hipotecário que ajuda seus clientes a adquirirem casas
@@ -1831,9 +1843,9 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Lonely Planet</title>
     <link>https://www.zendesk.com.br/customer/lonely-planet/</link>
@@ -1841,7 +1853,7 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/customer/lonely-planet</guid>
     <description>A Lonely Planet adotou o Zendesk Support para responder a um volume grande de solicitações de atendimento ao cliente e melhorar a taxa de resposta do seu suporte.</description>
-    
+
     <content:encoded><![CDATA[
 
 <section>
@@ -1866,7 +1878,7 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
 <p class="author">– Ellie Simpson<span> Analista de comunicações dos viajantes na Lonely Planet</span></p>
 
 </section>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[A Lonely Planet agora pode acessar facilmente todo o conteúdo gerado pelos usuários em um só lugar]]></excerpt:encoded>
     <wp:post_id>201900009</wp:post_id>
     <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
@@ -1880,17 +1892,17 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="stories_tax" nicename="americas"><![CDATA[Américas]]></category>
-    
+
     <category domain="stories_tax" nicename="asia-pacific"><![CDATA[Ásia-Pacífico]]></category>
-    
+
     <category domain="stories_tax" nicename="europe"><![CDATA[Europa]]></category>
-    
+
     <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
-    
+
     <category domain="stories_tax" nicename="travel-hospitality"><![CDATA[Turismo e hotelaria]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -1956,7 +1968,7 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[A Lonely Planet agora pode acessar facilmente todo o conteúdo gerado pelos usuários em um só lugar]]></wp:meta_value>
@@ -2033,9 +2045,9 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>L'Oréal</title>
     <link>https://www.zendesk.com.br/customer/loreal/</link>
@@ -2043,7 +2055,7 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/customer/loreal</guid>
     <description>Saiba como a L'Oréal da Alemanha responde imediatamente aos riscos de saúde e segurança utilizando o Zendesk Support.</description>
-    
+
     <content:encoded><![CDATA[
 
 <section>
@@ -2070,7 +2082,7 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
 <p class="author">– David Desinger<span> Técnico em ETNEHS na L’Oréal da Alemanha</span></p>
 
 </section>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[A L'Oréal da Alemanha monitora as tendências do setor utilizando o Zendesk Support]]></excerpt:encoded>
     <wp:post_id>201900010</wp:post_id>
     <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
@@ -2084,13 +2096,13 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="stories_tax" nicename="europe"><![CDATA[Europa]]></category>
-    
+
     <category domain="stories_tax" nicename="retail"><![CDATA[Varejo e comércio eletrônico]]></category>
-    
+
     <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2156,7 +2168,7 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[A L'Oréal da Alemanha monitora as tendências do setor utilizando o Zendesk Support]]></wp:meta_value>
@@ -2233,9 +2245,9 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>NatureBox</title>
     <link>https://www.zendesk.com.br/customer/naturebox/</link>
@@ -2243,7 +2255,7 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/customer/naturebox</guid>
     <description>Saiba como a equipe de atendimento ao cliente da NatureBox diminuiu seu volume de chamadas em 60% com o Zendesk Chat</description>
-    
+
     <content:encoded><![CDATA[
 
 <section>
@@ -2276,7 +2288,7 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
 <p class="author">– Sierra Schwidder<span>Gerente de experiência do cliente</span></p>
 
 </section>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[A NatureBox diminuiu o volume do telefone em 60% com o Zendesk Chat]]></excerpt:encoded>
     <wp:post_id>201900011</wp:post_id>
     <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
@@ -2290,19 +2302,19 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="stories_tax" nicename="americas"><![CDATA[Américas]]></category>
-    
+
     <category domain="stories_tax" nicename="product-chat"><![CDATA[Chat]]></category>
-    
+
     <category domain="stories_tax" nicename="product-guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="stories_tax" nicename="retail"><![CDATA[Varejo e comércio eletrônico]]></category>
-    
+
     <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
-    
+
     <category domain="stories_tax" nicename="product-talk"><![CDATA[Talk]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2368,7 +2380,7 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[A NatureBox diminuiu o volume do telefone em 60% com o Zendesk Chat]]></wp:meta_value>
@@ -2445,9 +2457,9 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Riot Games</title>
     <link>https://www.zendesk.com.br/customer/riot-games/</link>
@@ -2455,7 +2467,7 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/customer/riot-games</guid>
     <description>A Riot Games gerencia mais de 3 milhões de tickets por ano com o Zendesk. Sua equipe de "Engenharia Wolf" usa a API do Zendesk para criar soluções inovadoras para os jogadores.</description>
-    
+
     <content:encoded><![CDATA[
 
 <section>
@@ -2495,7 +2507,7 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
 <p class="author">– Shaun "BlueFire" Randall <span> Gerente de produto, engenharia de suporte</span></p>
 
 </section>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Riot Games: redução do tempo de espera dos jogadores e aumento da satisfação]]></excerpt:encoded>
     <wp:post_id>201900012</wp:post_id>
     <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
@@ -2509,23 +2521,23 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="stories_tax" nicename="americas"><![CDATA[Américas]]></category>
-    
+
     <category domain="stories_tax" nicename="asia-pacific"><![CDATA[Ásia-Pacífico]]></category>
-    
+
     <category domain="stories_tax" nicename="product-chat"><![CDATA[Chat]]></category>
-    
+
     <category domain="stories_tax" nicename="europe"><![CDATA[Europa]]></category>
-    
+
     <category domain="stories_tax" nicename="product-guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="stories_tax" nicename="internet-mobile"><![CDATA[Internet e dispositivos móveis]]></category>
-    
+
     <category domain="stories_tax" nicename="media-entertainment"><![CDATA[Mídia e entretenimento]]></category>
-    
+
     <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2591,7 +2603,7 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Riot Games: redução do tempo de espera dos jogadores e aumento da satisfação]]></wp:meta_value>
@@ -2668,9 +2680,9 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Slack</title>
     <link>https://www.zendesk.com.br/customer/slack/</link>
@@ -2678,7 +2690,7 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/customer/slack</guid>
     <description>Saiba por que a Slack escolheu o Zendesk Support para dimensionar seu suporte em um período de crescimento rápido e como ela personalizou a API do Zendesk para gerar automaticamente tickets em segundo plano com base em um comando integrado à interface do Slack.</description>
-    
+
     <content:encoded><![CDATA[
 
 <section>
@@ -2714,7 +2726,7 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
 <p class="author">– Ali Rayl<span>, vice-presidente da Experiência do Cliente</span></p>
 
 </section>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Conversas sempre humanas, mesmo em larga escala]]></excerpt:encoded>
     <wp:post_id>201900013</wp:post_id>
     <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
@@ -2728,21 +2740,21 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="stories_tax" nicename="americas"><![CDATA[Américas]]></category>
-    
+
     <category domain="stories_tax" nicename="product-chat"><![CDATA[Chat]]></category>
-    
+
     <category domain="stories_tax" nicename="product-guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="stories_tax" nicename="internet-mobile"><![CDATA[Internet e dispositivos móveis]]></category>
-    
+
     <category domain="stories_tax" nicename="software-technology"><![CDATA[Software e tecnologia]]></category>
-    
+
     <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
-    
+
     <category domain="stories_tax" nicename="product-talk"><![CDATA[Talk]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2808,7 +2820,7 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Conversas sempre humanas, mesmo em larga escala]]></wp:meta_value>
@@ -2885,9 +2897,9 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Spartan Race</title>
     <link>https://www.zendesk.com.br/customer/spartan-race/</link>
@@ -2895,7 +2907,7 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/customer/spartan-race</guid>
     <description>Ao integrar o Shopify ao Zendesk Support, a Spartan Race percebeu um aumento de 27% nas vendas de varejo e de 15% na eficiência.</description>
-    
+
     <content:encoded><![CDATA[
 
 <section>
@@ -2928,7 +2940,7 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
 <p class="author">– Aja Varney<span> Diretora de atendimento ao cliente</span></p>
 
 </section>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[A Spartan Race cortou drasticamente seus tempos de resposta com o Zendesk Support
 ]]></excerpt:encoded>
     <wp:post_id>201900014</wp:post_id>
@@ -2943,23 +2955,23 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="stories_tax" nicename="americas"><![CDATA[Américas]]></category>
-    
+
     <category domain="stories_tax" nicename="asia-pacific"><![CDATA[Ásia-Pacífico]]></category>
-    
+
     <category domain="stories_tax" nicename="product-chat"><![CDATA[Chat]]></category>
-    
+
     <category domain="stories_tax" nicename="europe"><![CDATA[Europa]]></category>
-    
+
     <category domain="stories_tax" nicename="product-guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="stories_tax" nicename="media-entertainment"><![CDATA[Mídia e entretenimento]]></category>
-    
+
     <category domain="stories_tax" nicename="retail"><![CDATA[Varejo e comércio eletrônico]]></category>
-    
+
     <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -3026,7 +3038,7 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[A Spartan Race cortou drasticamente seus tempos de resposta com o Zendesk Support
@@ -3104,9 +3116,9 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Stanley Black and Decker</title>
     <link>https://www.zendesk.com.br/customer/stanley-black-decker/</link>
@@ -3114,7 +3126,7 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/customer/stanley-black-decker</guid>
     <description>Saiba porque a Stanley Black & Decker escolheu a solução omnichannel da Zendesk para seus call centers de atendimento aos clientes globais.</description>
-    
+
     <content:encoded><![CDATA[
 
 <section>
@@ -3159,7 +3171,7 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
 <p class="author">– Orlando Gadea Ros <span> Gestor de inovação de negócios</span></p>
 
 </section>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[A Stanley Black and Decker escolhe o Zendesk para o suporte omnichannel]]></excerpt:encoded>
     <wp:post_id>201900015</wp:post_id>
     <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
@@ -3173,23 +3185,23 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="stories_tax" nicename="americas"><![CDATA[Américas]]></category>
-    
+
     <category domain="stories_tax" nicename="asia-pacific"><![CDATA[Ásia-Pacífico]]></category>
-    
+
     <category domain="stories_tax" nicename="product-chat"><![CDATA[Chat]]></category>
-    
+
     <category domain="stories_tax" nicename="europe"><![CDATA[Europa]]></category>
-    
+
     <category domain="stories_tax" nicename="product-guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="stories_tax" nicename="retail"><![CDATA[Varejo e comércio eletrônico]]></category>
-    
+
     <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
-    
+
     <category domain="stories_tax" nicename="product-talk"><![CDATA[Talk]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -3255,7 +3267,7 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[A Stanley Black and Decker escolhe o Zendesk para o suporte omnichannel]]></wp:meta_value>
@@ -3332,9 +3344,9 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Estado do Tennessee</title>
     <link>https://www.zendesk.com.br/customer/state-tennessee/</link>
@@ -3342,7 +3354,7 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/customer/state-tennessee</guid>
     <description>Saiba como o estado do Tennessee usa o Zendesk Guide, o Chat e o Talk para oferecer uma experiência omnichannel otimizada para 6,6 milhões de habitantes</description>
-    
+
     <content:encoded><![CDATA[
 
 <section>
@@ -3386,7 +3398,7 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
 <p class="author">– Dustin Swayne <span> Vice-comissário do Ministério do Trabalho e Desenvolvimento da Força de Trabalho do Tennessee<br> </span></p>
 
 </section>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[O Estado do Tennessee teve uma melhoria de 35% no CSAT por telefone com a solução omnichannel da Zendesk]]></excerpt:encoded>
     <wp:post_id>201900016</wp:post_id>
     <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
@@ -3400,19 +3412,19 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="stories_tax" nicename="americas"><![CDATA[Américas]]></category>
-    
+
     <category domain="stories_tax" nicename="product-chat"><![CDATA[Chat]]></category>
-    
+
     <category domain="stories_tax" nicename="government"><![CDATA[Governo]]></category>
-    
+
     <category domain="stories_tax" nicename="product-guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
-    
+
     <category domain="stories_tax" nicename="product-talk"><![CDATA[Talk]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -3478,7 +3490,7 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[O Estado do Tennessee teve uma melhoria de 35% no CSAT por telefone com a solução omnichannel da Zendesk]]></wp:meta_value>
@@ -3555,9 +3567,9 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>TRUSTPILOT</title>
     <link>https://www.zendesk.com.br/customer/trustpilot/</link>
@@ -3565,7 +3577,7 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/customer/trustpilot</guid>
     <description>Com o Zendesk, a equipe de atendimento ao cliente da Trustpilot conseguiu aumentar a satisfação do cliente geral em 20 por cento. Fornecendo autoatendimento e chat em tempo real, eles viram quedas significativas no volume de chamadas e emails recebidos.</description>
-    
+
     <content:encoded><![CDATA[
 
 <section>
@@ -3609,7 +3621,7 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
 <p class="author">– Tonni Buur<span> Vice-presidente do suporte na Trustpilot</span></p>
 
 </section>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Usando os produtos Zendesk, a Trustpilot, aumentou seu CSAT global em 20%]]></excerpt:encoded>
     <wp:post_id>201900017</wp:post_id>
     <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
@@ -3623,17 +3635,17 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="stories_tax" nicename="product-chat"><![CDATA[Chat]]></category>
-    
+
     <category domain="stories_tax" nicename="europe"><![CDATA[Europa]]></category>
-    
+
     <category domain="stories_tax" nicename="product-guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="stories_tax" nicename="internet-mobile"><![CDATA[Internet e dispositivos móveis]]></category>
-    
+
     <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -3699,7 +3711,7 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Usando os produtos Zendesk, a Trustpilot, aumentou seu CSAT global em 20%]]></wp:meta_value>
@@ -3776,9 +3788,9 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Uber</title>
     <link>https://www.zendesk.com.br/customer/uber/</link>
@@ -3786,7 +3798,7 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/customer/uber</guid>
     <description>Saiba porque a Uber escolheu o Zendesk Support como seu software de atendimento ao cliente. Com o Zendesk Chat, a Uber lida com 30 mil contatos por semana, com CSAT médio de 95%.</description>
-    
+
     <content:encoded><![CDATA[
 
 <section>
@@ -3828,7 +3840,7 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
 <p class="author">– Michael Mizrahi<span>Operações da comunidade</span></p>
 
 </section>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[A Uber escolheu o Zendesk Support para expandir seu atendimento ao cliente]]></excerpt:encoded>
     <wp:post_id>201900018</wp:post_id>
     <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
@@ -3842,23 +3854,23 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="stories_tax" nicename="americas"><![CDATA[Américas]]></category>
-    
+
     <category domain="stories_tax" nicename="asia-pacific"><![CDATA[Ásia-Pacífico]]></category>
-    
+
     <category domain="stories_tax" nicename="product-chat"><![CDATA[Chat]]></category>
-    
+
     <category domain="stories_tax" nicename="europe"><![CDATA[Europa]]></category>
-    
+
     <category domain="stories_tax" nicename="internet-mobile"><![CDATA[Internet e dispositivos móveis]]></category>
-    
+
     <category domain="stories_tax" nicename="software-technology"><![CDATA[Software e tecnologia]]></category>
-    
+
     <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
-    
+
     <category domain="stories_tax" nicename="travel-hospitality"><![CDATA[Turismo e hotelaria]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -3924,7 +3936,7 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[A Uber escolheu o Zendesk Support para expandir seu atendimento ao cliente]]></wp:meta_value>
@@ -4002,9 +4014,9 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Udemy</title>
     <link>https://www.zendesk.com.br/customer/udemy/</link>
@@ -4012,7 +4024,7 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/customer/udemy</guid>
     <description>A Udemy escolheu o Zendesk Support como sua solução de atendimento ao cliente de nível empresarial devido à sua escalabilidade e ao seu autoatendimento localizado. Desde a implementação, seu CSAT aumentou para 97%.</description>
-    
+
     <content:encoded><![CDATA[
 
 <section>
@@ -4047,7 +4059,7 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
 <p class="author">– Alex Mozes<span> Diretor do Suporte ao Cliente da Udemy</span></p>
 
 </section>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[A Udemy conquista um índice de satisfação do cliente de 97% dos 14 milhões de alunos ao quais oferece suporte
 ]]></excerpt:encoded>
     <wp:post_id>201900019</wp:post_id>
@@ -4062,21 +4074,21 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="stories_tax" nicename="americas"><![CDATA[Américas]]></category>
-    
+
     <category domain="stories_tax" nicename="asia-pacific"><![CDATA[Ásia-Pacífico]]></category>
-    
+
     <category domain="stories_tax" nicename="education"><![CDATA[Educação]]></category>
-    
+
     <category domain="stories_tax" nicename="europe"><![CDATA[Europa]]></category>
-    
+
     <category domain="stories_tax" nicename="product-guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="stories_tax" nicename="internet-mobile"><![CDATA[Internet e dispositivos móveis]]></category>
-    
+
     <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -4143,7 +4155,7 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[A Udemy conquista um índice de satisfação do cliente de 97% dos 14 milhões de alunos ao quais oferece suporte
@@ -4221,9 +4233,9 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Xero</title>
     <link>https://www.zendesk.com.br/customer/xero/</link>
@@ -4231,7 +4243,7 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/customer/xero</guid>
     <description>Em cinco meses, um total de nove equipes havia adotado o Zendesk Support e o volume de tickets estava em alta. Depois que os funcionários experimentaram o Zendesk Support como clientes dos grupos internos de TI ou serviços de plataforma, eles quiseram usar o Support para gerenciar sua própria carga de trabalho.</description>
-    
+
     <content:encoded><![CDATA[
 
 <section>
@@ -4279,7 +4291,7 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
 <p class="author">– Hadleigh Lynn<span> Líder da equipe de suporte – TI interna na Xero</span></p>
 
 </section>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[A Xero fecha a conta certa para o gerenciamento de serviços de TI]]></excerpt:encoded>
     <wp:post_id>201900020</wp:post_id>
     <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
@@ -4293,17 +4305,17 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="stories_tax" nicename="americas"><![CDATA[Américas]]></category>
-    
+
     <category domain="stories_tax" nicename="asia-pacific"><![CDATA[Ásia-Pacífico]]></category>
-    
+
     <category domain="stories_tax" nicename="europe"><![CDATA[Europa]]></category>
-    
+
     <category domain="stories_tax" nicename="software-technology"><![CDATA[Software e tecnologia]]></category>
-    
+
     <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -4369,7 +4381,7 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[A Xero fecha a conta certa para o gerenciamento de serviços de TI]]></wp:meta_value>
@@ -4446,9 +4458,9 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Tesco</title>
     <link>https://www.zendesk.com.br/customer/tesco/</link>
@@ -4456,7 +4468,7 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/customer/tesco</guid>
     <description>A Tesco escolheu o Zendesk Support para auxiliar seus 460 mil funcionários. A Tesco usa o Zendesk Support para resolver mais de 40 mil tickets internos por semana.</description>
-    
+
     <content:encoded><![CDATA[
 
 <section>
@@ -4490,7 +4502,7 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
 <p class="author">– Adam Bruce<span> Gerente líder de produtos para centrais de atendimento</span></p>
 
 </section>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[A equipe global da Central de Ajuda da Tesco usa o Zendesk Support para processar mais de 40.000 tickets por semana]]></excerpt:encoded>
     <wp:post_id>201900021</wp:post_id>
     <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
@@ -4504,19 +4516,19 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="stories_tax" nicename="americas"><![CDATA[Américas]]></category>
-    
+
     <category domain="stories_tax" nicename="asia-pacific"><![CDATA[Ásia-Pacífico]]></category>
-    
+
     <category domain="stories_tax" nicename="europe"><![CDATA[Europa]]></category>
-    
+
     <category domain="stories_tax" nicename="product-guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="stories_tax" nicename="retail"><![CDATA[Varejo e comércio eletrônico]]></category>
-    
+
     <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -4582,7 +4594,7 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[A equipe global da Central de Ajuda da Tesco usa o Zendesk Support para processar mais de 40.000 tickets por semana]]></wp:meta_value>
@@ -4659,9 +4671,9 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>11 etapas para criar um documento de solicitação de propostas melhor</title>
     <link>https://www.zendesk.com.br/resources/11-steps-better-rfp-document/</link>
@@ -4669,9 +4681,9 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/11-steps-better-rfp-document</guid>
     <description>Planejar com antecedência pode estender a vida útil de sua nova solução de suporte ao cliente. Precisa de ajuda para começar? Consulte nosso novo guia.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[]]></excerpt:encoded>
     <wp:post_id>201900022</wp:post_id>
     <wp:post_date><![CDATA[2013-11-18 12:00:00]]></wp:post_date>
@@ -4685,15 +4697,15 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="library-best-practices"><![CDATA[Práticas recomendadas]]></category>
-    
+
     <category domain="filter_tag" nicename="library-guides"><![CDATA[Guias]]></category>
-    
+
     <category domain="filter_tag" nicename="best-practices-zendesk-operations"><![CDATA[Operações]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-tools"><![CDATA[Ferramentas]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -4759,7 +4771,7 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -4845,9 +4857,9 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Varejo: 4 tendências essenciais para o fim de ano 2018</title>
     <link>https://www.zendesk.com.br/resources/4-crucial-trends-2018-holiday-retail-season/</link>
@@ -4855,9 +4867,9 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/4-crucial-trends-2018-holiday-retail-season</guid>
     <description>A Zendesk analisou dados de varejistas do mundo todo para entender como eles atenderam à demanda de suporte do fim de ano.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Neste momento pós-fim de ano, os varejistas estão avaliando a temporada recém-terminada e começando a se preparar para a próxima.]]></excerpt:encoded>
     <wp:post_id>201900023</wp:post_id>
     <wp:post_date><![CDATA[2018-02-05 12:00:00]]></wp:post_date>
@@ -4871,17 +4883,17 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="customer-service-strategy"><![CDATA[Estratégia de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="omnichannel-support"><![CDATA[Guias omnichannel]]></category>
-    
+
     <category domain="filter_tag" nicename="library-omnichannel-customer-support"><![CDATA[Suporte omnichannel]]></category>
-    
+
     <category domain="filter_tag" nicename="library-retail"><![CDATA[Varejo]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendências e informações]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -4947,7 +4959,7 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[7]]></wp:meta_value>
@@ -5039,9 +5051,9 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>6 dicas para criar uma Central de Atendimento próspera</title>
     <link>https://www.zendesk.com.br/resources/6-tips-for-building-a-thriving-help-center/</link>
@@ -5049,9 +5061,9 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/6-tips-for-building-a-thriving-help-center</guid>
     <description>Aprenda a criar uma Central de Ajuda envolvente e próspera. Aumente a satisfação do cliente, reduza os custos e desenvolva a comunidade da sua empresa melhorando a sua Central de Ajuda com seis etapas simples. Também não deixe de conferir o Zendesk Guide, o Answer Bot e os Embeddables como parte da solução do Support.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Os clientes querem se ajudar.]]></excerpt:encoded>
     <wp:post_id>201900024</wp:post_id>
     <wp:post_date><![CDATA[2013-08-22 12:00:00]]></wp:post_date>
@@ -5065,17 +5077,17 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="best-practices-customer-service"><![CDATA[Experiência do cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="zendesk-products-guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-knowledge-base"><![CDATA[Base de conhecimento]]></category>
-    
+
     <category domain="filter_tag" nicename="library-mobile"><![CDATA[Dispositivo móvel]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-channels"><![CDATA[Canais de suporte]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -5141,7 +5153,7 @@ Há mais de um século, a Stanley Black &amp; Decker oferece soluções para pes
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -5313,9 +5325,9 @@ Sumário
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>A era do cliente: como empresas transformam a experiência de seus clientes com o Zendesk</title>
     <link>https://www.zendesk.com.br/resources/age-of-customer-ebook/</link>
@@ -5323,9 +5335,9 @@ Sumário
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/age-of-customer-ebook</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[ 
 “O cliente tem sempre a razão” é uma máxima que a Zendesk leva muito a sério. O que o cliente quer? O que ele precisa?]]></excerpt:encoded>
     <wp:post_id>201900025</wp:post_id>
@@ -5340,11 +5352,11 @@ Sumário
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="zendesk-library-collection"><![CDATA[Coleções]]></category>
-    
+
     <category domain="filter_tag" nicename="zendesk-customer-stories"><![CDATA[histórias de atendimento ao cliente]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -5411,7 +5423,7 @@ Sumário
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[7]]></wp:meta_value>
@@ -5504,9 +5516,9 @@ Sumário
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Guia: Experiência do agente</title>
     <link>https://www.zendesk.com.br/resources/agent-experience-guide/</link>
@@ -5514,9 +5526,9 @@ Sumário
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/agent-experience-guide</guid>
     <description>Mesmo que esteja tentando dar aos agentes de suporte o que eles precisam para serem bem-sucedidos, você sempre pode fazer mais. É por isso que escrevemos o guia Experiência do agente.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[O trabalho dos agentes de suporte ao cliente não é nada fácil.]]></excerpt:encoded>
     <wp:post_id>201900026</wp:post_id>
     <wp:post_date><![CDATA[2017-05-15 12:00:00]]></wp:post_date>
@@ -5530,15 +5542,15 @@ Sumário
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Gestão de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-management-library"><![CDATA[Biblioteca de gerenciamento de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="support-operations"><![CDATA[Operações de suporte]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-team-management"><![CDATA[Gerenciamento de equipe]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -5604,7 +5616,7 @@ Sumário
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -5697,9 +5709,9 @@ O trabalho dos agentes de suporte ao cliente não é nada fácil. Eles precisam 
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Guia: Ciclo de vida do agente</title>
     <link>https://www.zendesk.com.br/resources/agent-life-cycle-guide/</link>
@@ -5707,9 +5719,9 @@ O trabalho dos agentes de suporte ao cliente não é nada fácil. Eles precisam 
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/agent-life-cycle-guide</guid>
     <description>Encontrar e treinar os melhores talentos de suporte não é tão fácil assim. Por isso, escrevemos o guia Ciclo de vida do agente.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Os agentes de suporte interagem com os clientes mais do que qualquer outro funcionário da sua empresa.]]></excerpt:encoded>
     <wp:post_id>201900027</wp:post_id>
     <wp:post_date><![CDATA[2017-05-15 12:00:00]]></wp:post_date>
@@ -5723,15 +5735,15 @@ O trabalho dos agentes de suporte ao cliente não é nada fácil. Eles precisam 
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Gestão de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-management-library"><![CDATA[Biblioteca de gerenciamento de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="support-operations"><![CDATA[Operações de suporte]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-team-management"><![CDATA[Gerenciamento de equipe]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -5797,7 +5809,7 @@ O trabalho dos agentes de suporte ao cliente não é nada fácil. Eles precisam 
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -5889,9 +5901,9 @@ Os agentes de suporte interagem com os clientes mais do que qualquer outro funci
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Como a inteligência artificial está melhorando a experiência do cliente</title>
     <link>https://www.zendesk.com.br/resources/artificial-intelligence-customer-experience-infographic/</link>
@@ -5899,9 +5911,9 @@ Os agentes de suporte interagem com os clientes mais do que qualquer outro funci
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/artificial-intelligence-customer-experience-infographic</guid>
     <description>A inteligência artificial já tem um impacto positivo na experiência do cliente. Confira nosso infográfico para ver seus benefícios para clientes e agentes e como algumas empresas já estão colhendo ganhos.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[]]></excerpt:encoded>
     <wp:post_id>201900028</wp:post_id>
     <wp:post_date><![CDATA[2018-12-12 12:00:00]]></wp:post_date>
@@ -5915,15 +5927,15 @@ Os agentes de suporte interagem com os clientes mais do que qualquer outro funci
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="best-practices-customer-service"><![CDATA[Experiência do cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Gestão de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-strategy"><![CDATA[Estratégia de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendências e informações]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -5989,7 +6001,7 @@ Os agentes de suporte interagem com os clientes mais do que qualquer outro funci
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[8]]></wp:meta_value>
@@ -6070,9 +6082,9 @@ Os agentes de suporte interagem com os clientes mais do que qualquer outro funci
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Experiências de cliente melhores com engajamento omnichannel</title>
     <link>https://www.zendesk.com.br/resources/better-customer-experiences-omnichannel/</link>
@@ -6080,9 +6092,9 @@ Os agentes de suporte interagem com os clientes mais do que qualquer outro funci
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/better-customer-experiences-omnichannel</guid>
     <description>Ofereça uma experiência de cliente com o engajamento omnichannel. Baixe o white paper para saber mais sobre o valor que você recebe ao optar por uma solução omnichannel da Zendesk.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Criar uma experiência totalmente omnichannel permite que sua organização de suporte ofereça atendimento ao cliente excelente, agora e no futuro.]]></excerpt:encoded>
     <wp:post_id>201900029</wp:post_id>
     <wp:post_date><![CDATA[2017-10-09 12:00:00]]></wp:post_date>
@@ -6096,19 +6108,19 @@ Os agentes de suporte interagem com os clientes mais do que qualquer outro funci
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="best-practices-customer-service"><![CDATA[Experiência do cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-strategy"><![CDATA[Estratégia de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="omnichannel-support"><![CDATA[Guias omnichannel]]></category>
-    
+
     <category domain="filter_tag" nicename="library-omnichannel-customer-support"><![CDATA[Suporte omnichannel]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-channels"><![CDATA[Canais de suporte]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-technology"><![CDATA[Tecnologia]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -6174,7 +6186,7 @@ Os agentes de suporte interagem com os clientes mais do que qualquer outro funci
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -6266,9 +6278,9 @@ Os agentes de suporte interagem com os clientes mais do que qualquer outro funci
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Criação de uma experiência de autoatendimento de ponta</title>
     <link>https://www.zendesk.com.br/resources/building-best-class-customer-self-service-experience/</link>
@@ -6276,9 +6288,9 @@ Os agentes de suporte interagem com os clientes mais do que qualquer outro funci
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/building-best-class-customer-self-service-experience</guid>
     <description>Esse guia foi projetado para ajudar você a criar a melhor experiência de autoatendimento possível para os seus clientes.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Sabemos que os benefícios do autoatendimento para os seus clientes, sua equipe e sua empresa podem ser significativos.]]></excerpt:encoded>
     <wp:post_id>201900030</wp:post_id>
     <wp:post_date><![CDATA[2018-11-11 12:00:00]]></wp:post_date>
@@ -6292,15 +6304,15 @@ Os agentes de suporte interagem com os clientes mais do que qualquer outro funci
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Gestão de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-knowledge-base"><![CDATA[Base de conhecimento]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-channels"><![CDATA[Canais de suporte]]></category>
-    
+
     <category domain="filter_tag" nicename="support-operations"><![CDATA[Operações de suporte]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -6366,7 +6378,7 @@ Os agentes de suporte interagem com os clientes mais do que qualquer outro funci
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -6457,9 +6469,9 @@ Sabemos que os benefícios do autoatendimento para os seus clientes, sua equipe 
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Chatbots e o futuro da comunicação em tempo real</title>
     <link>https://www.zendesk.com.br/resources/chatbots-future-real-time-communication/</link>
@@ -6467,9 +6479,9 @@ Sabemos que os benefícios do autoatendimento para os seus clientes, sua equipe 
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/chatbots-future-real-time-communication</guid>
     <description>As marcas devem se concentrar em deixar os chatbots fazerem sua parte para que os humanos possam fazer o que fazem melhor: criar experiências de suporte reais e personalizadas</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[As empresas estão usando chatbots para crescer cada vez mais.]]></excerpt:encoded>
     <wp:post_id>201900031</wp:post_id>
     <wp:post_date><![CDATA[2017-11-28 12:00:00]]></wp:post_date>
@@ -6483,17 +6495,17 @@ Sabemos que os benefícios do autoatendimento para os seus clientes, sua equipe 
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Gestão de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-live-chat"><![CDATA[Chat em tempo real]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-messaging"><![CDATA[Mensagens]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-channels"><![CDATA[Canais de suporte]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-technology"><![CDATA[Tecnologia]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -6559,7 +6571,7 @@ Sabemos que os benefícios do autoatendimento para os seus clientes, sua equipe 
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[7]]></wp:meta_value>
@@ -6653,9 +6665,9 @@ Sabemos que os benefícios do autoatendimento para os seus clientes, sua equipe 
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Guia: Experiência do cliente</title>
     <link>https://www.zendesk.com.br/resources/customer-experience-guide/</link>
@@ -6663,9 +6675,9 @@ Sabemos que os benefícios do autoatendimento para os seus clientes, sua equipe 
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/customer-experience-guide</guid>
     <description>Uma ótima experiência do cliente resulta em clientes fiéis, melhora a propaganda boca a boca e aumenta a receita. É por isso que escrevemos o guia Experiência do cliente.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Todos sabemos que, para uma empresa ser bem-sucedida, ela deve focar primeiro e sobretudo nas necessidades do cliente.]]></excerpt:encoded>
     <wp:post_id>201900032</wp:post_id>
     <wp:post_date><![CDATA[2018-11-11 12:00:00]]></wp:post_date>
@@ -6679,15 +6691,15 @@ Sabemos que os benefícios do autoatendimento para os seus clientes, sua equipe 
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Gestão de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-management-library"><![CDATA[Biblioteca de gerenciamento de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="support-operations"><![CDATA[Operações de suporte]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-team-management"><![CDATA[Gerenciamento de equipe]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -6753,7 +6765,7 @@ Sabemos que os benefícios do autoatendimento para os seus clientes, sua equipe 
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -6847,9 +6859,9 @@ Todos sabemos que, para uma empresa ser bem-sucedida, ela deve focar primeiro e 
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Feedback de clientes: como ouvir a voz do cliente</title>
     <link>https://www.zendesk.com.br/resources/customer-feedback-hear-voice-customer/</link>
@@ -6857,9 +6869,9 @@ Todos sabemos que, para uma empresa ser bem-sucedida, ela deve focar primeiro e 
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/customer-feedback-hear-voice-customer</guid>
     <description>O feedback do cliente é um componente importante na criação de ótimos relacionamentos com os clientes. Neste guia, vamos explicar como usá-lo para desenvolver produtos melhores com base nas respostas dos formulários de feedback do cliente, Net Promoter Scores e pesquisas de perda de clientes, entre outros.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Receber o feedback de clientes não é muito diferente de receber um feedback em qualquer outra situação.]]></excerpt:encoded>
     <wp:post_id>201900033</wp:post_id>
     <wp:post_date><![CDATA[2018-11-14 12:00:00]]></wp:post_date>
@@ -6873,15 +6885,15 @@ Todos sabemos que, para uma empresa ser bem-sucedida, ela deve focar primeiro e 
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Gestão de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-strategy"><![CDATA[Estratégia de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="support-operations"><![CDATA[Operações de suporte]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendências e informações]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -6947,7 +6959,7 @@ Todos sabemos que, para uma empresa ser bem-sucedida, ela deve focar primeiro e 
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -7155,9 +7167,9 @@ A solicitação de feedback usando pesquisas pode ser, como as mensagens enviada
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Glossário de atendimento ao cliente</title>
     <link>https://www.zendesk.com.br/resources/customer-service-glossary/</link>
@@ -7165,9 +7177,9 @@ A solicitação de feedback usando pesquisas pode ser, como as mensagens enviada
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/customer-service-glossary</guid>
     <description>Para ajudar a garantir que todos entendam perfeitamente a linguagem do setor, a Zendesk criou este glossário de atendimento ao cliente muito fácil de usar</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[O ramo de atendimento ao cliente tem seu próprio vocabulário.]]></excerpt:encoded>
     <wp:post_id>201900034</wp:post_id>
     <wp:post_date><![CDATA[2018-11-14 12:00:00]]></wp:post_date>
@@ -7181,11 +7193,11 @@ A solicitação de feedback usando pesquisas pode ser, como as mensagens enviada
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="customer-service-management-library"><![CDATA[Biblioteca de gerenciamento de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendências e informações]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -7251,7 +7263,7 @@ A solicitação de feedback usando pesquisas pode ser, como as mensagens enviada
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[7]]></wp:meta_value>
@@ -7397,9 +7409,9 @@ O <a href="https://www.zendesk.com.br/blog/is-tiered-support-for-you/" target="_
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Os 3 tipos de métricas de atendimento ao cliente que importam</title>
     <link>https://www.zendesk.com.br/resources/customer-service-metrics-matter/</link>
@@ -7407,9 +7419,9 @@ O <a href="https://www.zendesk.com.br/blog/is-tiered-support-for-you/" target="_
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/customer-service-metrics-matter</guid>
     <description>Nosso guia de Métricas de atendimento ao cliente que importam traz um passo a passo para monitorar métricas de suporte.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Qual é a melhor maneira de monitorar o desempenho do nosso atendimento ao cliente?]]></excerpt:encoded>
     <wp:post_id>201900035</wp:post_id>
     <wp:post_date><![CDATA[2018-11-14 12:00:00]]></wp:post_date>
@@ -7423,15 +7435,15 @@ O <a href="https://www.zendesk.com.br/blog/is-tiered-support-for-you/" target="_
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="customer-support-analytics"><![CDATA[Análises]]></category>
-    
+
     <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Gestão de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-metrics"><![CDATA[Métricas de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="support-operations"><![CDATA[Operações de suporte]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -7497,7 +7509,7 @@ O <a href="https://www.zendesk.com.br/blog/is-tiered-support-for-you/" target="_
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -7622,9 +7634,9 @@ Qual é a melhor maneira de monitorar o desempenho do nosso atendimento ao clien
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Fornecimento de atendimento ao cliente excelente por redes sociais</title>
     <link>https://www.zendesk.com.br/resources/customer-service-through-social-media/</link>
@@ -7632,9 +7644,9 @@ Qual é a melhor maneira de monitorar o desempenho do nosso atendimento ao clien
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/customer-service-through-social-media</guid>
     <description>O atendimento ao cliente fornecido por você pelas redes sociais pode virar notícia no mundo todo num piscar de olhos. Este guia mostra como fornecer esse tipo de atendimento melhor que ninguém.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[O que é atendimento ao cliente por redes sociais?]]></excerpt:encoded>
     <wp:post_id>201900036</wp:post_id>
     <wp:post_date><![CDATA[2014-03-18 12:00:00]]></wp:post_date>
@@ -7648,17 +7660,17 @@ Qual é a melhor maneira de monitorar o desempenho do nosso atendimento ao clien
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="customer-service-strategy"><![CDATA[Estratégia de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-messaging"><![CDATA[Mensagens]]></category>
-    
+
     <category domain="filter_tag" nicename="library-omnichannel-customer-support"><![CDATA[Suporte omnichannel]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-channels"><![CDATA[Canais de suporte]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendências e informações]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -7724,7 +7736,7 @@ Qual é a melhor maneira de monitorar o desempenho do nosso atendimento ao clien
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[7]]></wp:meta_value>
@@ -7938,9 +7950,9 @@ Qual é a melhor maneira de monitorar o desempenho do nosso atendimento ao clien
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Atendimento ao cliente: transformando as transações em relacionamentos</title>
     <link>https://www.zendesk.com.br/resources/customer-service-turning-transactions-into-relationships/</link>
@@ -7948,9 +7960,9 @@ Qual é a melhor maneira de monitorar o desempenho do nosso atendimento ao clien
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/customer-service-turning-transactions-into-relationships</guid>
     <description>Fornecer atendimento ao cliente excelente significa transformar transações pontuais em relacionamentos a longo prazo.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[O atendimento ao cliente nunca foi fácil. E, com o passar do tempo, ele só ficou mais complexo e exigente.]]></excerpt:encoded>
     <wp:post_id>201900037</wp:post_id>
     <wp:post_date><![CDATA[2017-05-08 12:00:00]]></wp:post_date>
@@ -7964,17 +7976,17 @@ Qual é a melhor maneira de monitorar o desempenho do nosso atendimento ao clien
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Gestão de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-strategy"><![CDATA[Estratégia de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="support-operations"><![CDATA[Operações de suporte]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-team-management"><![CDATA[Gerenciamento de equipe]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendências e informações]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -8040,7 +8052,7 @@ Qual é a melhor maneira de monitorar o desempenho do nosso atendimento ao clien
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -8162,9 +8174,9 @@ Como dissemos, o atendimento ao cliente é difícil. Embora a Zendesk não possa
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>6 etapas para implantar o chat em seu site</title>
     <link>https://www.zendesk.com.br/resources/deploying-chat/</link>
@@ -8172,9 +8184,9 @@ Como dissemos, o atendimento ao cliente é difícil. Embora a Zendesk não possa
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/deploying-chat</guid>
     <description>Preparamos um guia abrangente sobre a implantação do chat no seu site, incluindo dicas de práticas recomendadas para os gerentes e administradores de suporte que trabalham com o chat em tempo real.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[#see-all{opacity:0;display:none;} O chat em tempo real é a maneira mais rápida e pessoal de interagir com os clientes.]]></excerpt:encoded>
     <wp:post_id>201900038</wp:post_id>
     <wp:post_date><![CDATA[2016-04-11 12:00:00]]></wp:post_date>
@@ -8188,17 +8200,17 @@ Como dissemos, o atendimento ao cliente é difícil. Embora a Zendesk não possa
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Gestão de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="library-guides"><![CDATA[Guias]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-live-chat"><![CDATA[Chat em tempo real]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-channels"><![CDATA[Canais de suporte]]></category>
-    
+
     <category domain="filter_tag" nicename="support-operations"><![CDATA[Operações de suporte]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -8264,7 +8276,7 @@ Como dissemos, o atendimento ao cliente é difícil. Embora a Zendesk não possa
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -8359,9 +8371,9 @@ Como dissemos, o atendimento ao cliente é difícil. Embora a Zendesk não possa
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Em boa companhia: expanda o suporte para além do atendimento ao cliente</title>
     <link>https://www.zendesk.com.br/resources/expand-support-beyond-customer-service/</link>
@@ -8369,9 +8381,9 @@ Como dissemos, o atendimento ao cliente é difícil. Embora a Zendesk não possa
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/expand-support-beyond-customer-service</guid>
     <description>Aprenda por que os clientes da Zendesk adicionaram outras equipes à sua instância do Zendesk Support e os benefícios que seus clientes e equipes de suporte ganharam como isso.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Atualmente, a oferta de suporte demanda uma abordagem de trabalho em equipe.]]></excerpt:encoded>
     <wp:post_id>201900039</wp:post_id>
     <wp:post_date><![CDATA[2017-04-12 12:00:00]]></wp:post_date>
@@ -8385,13 +8397,13 @@ Como dissemos, o atendimento ao cliente é difícil. Embora a Zendesk não possa
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Gestão de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="support-operations"><![CDATA[Operações de suporte]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-technology"><![CDATA[Tecnologia]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -8457,7 +8469,7 @@ Como dissemos, o atendimento ao cliente é difícil. Embora a Zendesk não possa
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[8]]></wp:meta_value>
@@ -8541,9 +8553,9 @@ Como dissemos, o atendimento ao cliente é difícil. Embora a Zendesk não possa
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Preencha a lacuna do autoatendimento</title>
     <link>https://www.zendesk.com.br/resources/fill-self-service-gap/</link>
@@ -8551,9 +8563,9 @@ Como dissemos, o atendimento ao cliente é difícil. Embora a Zendesk não possa
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/fill-self-service-gap</guid>
     <description>Oferecer uma opção de autoatendimento não só pode fornecer respostas rápidas e de fácil acesso aos clientes, mas também pode reduzir a carga de trabalho do agente.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Frequentemente, os clientes preferem se ajudar em vez de entrar em contato com um agente de suporte.]]></excerpt:encoded>
     <wp:post_id>201900040</wp:post_id>
     <wp:post_date><![CDATA[2017-05-24 12:00:00]]></wp:post_date>
@@ -8567,15 +8579,15 @@ Como dissemos, o atendimento ao cliente é difícil. Embora a Zendesk não possa
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="best-practices-customer-service"><![CDATA[Experiência do cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-knowledge-base"><![CDATA[Base de conhecimento]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-channels"><![CDATA[Canais de suporte]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendências e informações]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -8641,7 +8653,7 @@ Como dissemos, o atendimento ao cliente é difícil. Embora a Zendesk não possa
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[8]]></wp:meta_value>
@@ -8725,9 +8737,9 @@ Como dissemos, o atendimento ao cliente é difícil. Embora a Zendesk não possa
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Relatório "Total Economic Impact®" da Forrester examina ROI do Zendesk</title>
     <link>https://www.zendesk.com.br/resources/forrester-examines-potential-roi-zendesk/</link>
@@ -8735,9 +8747,9 @@ Como dissemos, o atendimento ao cliente é difícil. Embora a Zendesk não possa
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/forrester-examines-potential-roi-zendesk</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Atualizações e mais atualizações. Com todo mundo atualizando, você pode estar se perguntando se sua empresa também deveria atualizar seus sistemas.]]></excerpt:encoded>
     <wp:post_id>201900041</wp:post_id>
     <wp:post_date><![CDATA[2017-01-10 12:00:00]]></wp:post_date>
@@ -8751,15 +8763,15 @@ Como dissemos, o atendimento ao cliente é difícil. Embora a Zendesk não possa
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="customer-support-analyst-reports"><![CDATA[Relatórios de analistas]]></category>
-    
+
     <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Gestão de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-technology"><![CDATA[Tecnologia]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendências e informações]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -8825,7 +8837,7 @@ Como dissemos, o atendimento ao cliente é difícil. Embora a Zendesk não possa
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -8915,16 +8927,16 @@ Sem precisar de consultores para a manutenção da plataforma anterior, houve um
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-body-copy]]></wp:meta_key>
 			<wp:meta_value><![CDATA[<p><a href="https://zen-marketing-content.s3.amazonaws.com/content/resources/Zendesk%20TEI%20Study%20-%20May%202017.pdf" target="_blank"><em>Obrigado! Acesse aqui sua cópia do The Total Economic Impact<sup>TM</sup> of Zendesk</em></a></p>
-<a id="see-all" class="button button-white">Continuar lendo <span></span></a> 
+<a id="see-all" class="button button-white">Continuar lendo <span></span></a>
 <p>Esses são <a href="http://d26a57ydsghvgx.cloudfront.net/content/resources/Forrester_TEI_Zendesk_PT-BR-one_pager.pdf" target="_blank"><em>os destaques do relatório completo</em></a> em seu idioma.</p>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Forrester’s Top 10 Customer Service Trends for 2016</title>
     <link>https://www.zendesk.com.br/resources/forresters-top-10-customer-service-trends-2016/</link>
@@ -8932,9 +8944,9 @@ Sem precisar de consultores para a manutenção da plataforma anterior, houve um
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/forresters-top-10-customer-service-trends-2016</guid>
     <description>Acesse sua cópia grátis do relatório da Forrester para aprender sobre as principais tendências do atendimento ao cliente para 2016 e mais.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[<!--#see-all{opacity:0;display:none;}-->
 No relatório de janeiro de 2016 da Forrester Research, Inc.]]></excerpt:encoded>
     <wp:post_id>201900042</wp:post_id>
@@ -8949,17 +8961,17 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></excerpt:encoded
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="customer-support-analyst-reports"><![CDATA[Relatórios de analistas]]></category>
-    
+
     <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Gestão de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="library-forrester"><![CDATA[Forrester]]></category>
-    
+
     <category domain="filter_tag" nicename="library-research-reports"><![CDATA[Pesquisa e relatórios]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendências e informações]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -9026,7 +9038,7 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></wp:meta_value>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -9125,9 +9137,9 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></wp:meta_value>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Quadrante Mágico de CRM do Gartner de 2017 | Zendesk</title>
     <link>https://www.zendesk.com.br/resources/gartner-2017-magic-quadrant-crm/</link>
@@ -9135,9 +9147,9 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></wp:meta_value>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/gartner-2017-magic-quadrant-crm</guid>
     <description>Gartner's 2017 Magic Quadrant CRM report covered customer service trends & featured Zendesk as a Leader. *The NEW 2018 report is accessible from here!*</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Nesse relatório do Quadrante Mágico para Centros de Relacionamento com Clientes de CRM de 2017, o Gartner analisa o mercado mundial de aplicativos de suporte e atendimento ao cliente]]></excerpt:encoded>
     <wp:post_id>201900043</wp:post_id>
     <wp:post_date><![CDATA[2017-05-18 12:00:00]]></wp:post_date>
@@ -9151,11 +9163,11 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></wp:meta_value>
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="library-gartner"><![CDATA[Gartner]]></category>
-    
+
     <category domain="filter_tag" nicename="library-research-reports"><![CDATA[Pesquisa e relatórios]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -9221,7 +9233,7 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></wp:meta_value>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -9318,9 +9330,9 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></wp:meta_value>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Relatório "Customer Engagement" do Gartner</title>
     <link>https://www.zendesk.com.br/resources/gartner-critical-capabilities-look-crm-customer-engagement-center/</link>
@@ -9328,9 +9340,9 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></wp:meta_value>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/gartner-critical-capabilities-look-crm-customer-engagement-center</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Com tantas opções de CEC disponíveis para avaliar e escolher, pode ser um desafio determinar qual é a mais adequada para uma empresa.]]></excerpt:encoded>
     <wp:post_id>201900044</wp:post_id>
     <wp:post_date><![CDATA[2018-01-17 12:00:00]]></wp:post_date>
@@ -9344,13 +9356,13 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></wp:meta_value>
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="customer-support-analyst-reports"><![CDATA[Relatórios de analistas]]></category>
-    
+
     <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Gestão de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-strategy"><![CDATA[Estratégia de atendimento ao cliente]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -9416,7 +9428,7 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></wp:meta_value>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -9521,9 +9533,9 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></wp:meta_value>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Relatório do Gartner: Knowledge Management Will Transform CRM Customer Service</title>
     <link>https://www.zendesk.com.br/resources/gartner-knowledge-management-will-transform-crm-customer-service/</link>
@@ -9531,9 +9543,9 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></wp:meta_value>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/gartner-knowledge-management-will-transform-crm-customer-service</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[O gerenciamento do conhecimento é essencial para o sucesso do atendimento ao cliente da sua organização.]]></excerpt:encoded>
     <wp:post_id>201900045</wp:post_id>
     <wp:post_date><![CDATA[2017-04-21 12:00:00]]></wp:post_date>
@@ -9547,17 +9559,17 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></wp:meta_value>
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="customer-support-analyst-reports"><![CDATA[Relatórios de analistas]]></category>
-    
+
     <category domain="filter_tag" nicename="library-gartner"><![CDATA[Gartner]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-knowledge-base"><![CDATA[Base de conhecimento]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-channels"><![CDATA[Canais de suporte]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendências e informações]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -9623,7 +9635,7 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></wp:meta_value>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -9719,9 +9731,9 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></wp:meta_value>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Relatório de 2018 do Quadrante Mágico do Gartner para Centros de Relacionamento com Clientes de CRM</title>
     <link>https://www.zendesk.com.br/resources/gartner-magic-quadrant-crm/</link>
@@ -9729,9 +9741,9 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></wp:meta_value>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/gartner-magic-quadrant-crm</guid>
     <description>Baixe sua cópia de cortesia do Quadrante Mágico de CRM do Gartner de 2018, que apresenta as tendências no ramo de atendimento ao cliente em constante evolução e os motivos pelos quais a Zendesk se destaca como Líder.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[  No mercado mundial de softwares de suporte ao cliente, a Zendesk mais uma vez é reconhecida como líder no Quadrante Mágico do Gartner de 2018 para Centros de Relacionamento com Clientes de CRM]]></excerpt:encoded>
     <wp:post_id>201900046</wp:post_id>
     <wp:post_date><![CDATA[2018-11-11 12:00:00]]></wp:post_date>
@@ -9745,17 +9757,17 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></wp:meta_value>
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="customer-support-analyst-reports"><![CDATA[Relatórios de analistas]]></category>
-    
+
     <category domain="filter_tag" nicename="zendesk-library-crm"><![CDATA[CRM]]></category>
-    
+
     <category domain="filter_tag" nicename="library-gartner"><![CDATA[Gartner]]></category>
-    
+
     <category domain="filter_tag" nicename="library-research-reports"><![CDATA[Pesquisa e relatórios]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendências e informações]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -9821,7 +9833,7 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></wp:meta_value>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -9913,18 +9925,18 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></wp:meta_value>
 <p>Esses são <a href="https://zen-marketing-content.s3.amazonaws.com/content/resources/Gartner%202018%20MQ%201%20Pager_PT-BR.pdf" target="_blank"><em>os destaques do relatório completo</em></a> em seu idioma.</p>
 <p>Quer saber mais informações sobre nossa posição no quadrante Líder? <strong>Assista à demonstração do Zendesk:</strong></p>
 <p><iframe class="wistia_embed" name="wistia_embed" src="https://fast.wistia.net/embed/iframe/7kof3b6b6r" allowtransparency="true" frameborder="0" scrolling="no" width="480" height="298"></iframe></p>
- 
+
 <div class="resource-body-video animate-slideup ">
-</div> 
+</div>
 ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Previsões do Gartner para 2017: atendimento ao cliente CRM</title>
     <link>https://www.zendesk.com.br/resources/gartner-predicts-2017-crm-customer-service-support/</link>
@@ -9932,9 +9944,9 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></wp:meta_value>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/gartner-predicts-2017-crm-customer-service-support</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[2016 foi o ano no qual os líderes do setor encararam o desafio da interação com os clientes por todos os canais de suporte.]]></excerpt:encoded>
     <wp:post_id>201900047</wp:post_id>
     <wp:post_date><![CDATA[2016-12-01 12:00:00]]></wp:post_date>
@@ -9948,13 +9960,13 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></wp:meta_value>
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="customer-support-analyst-reports"><![CDATA[Relatórios de analistas]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-strategy"><![CDATA[Estratégia de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendências e informações]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -10020,7 +10032,7 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></wp:meta_value>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -10114,9 +10126,9 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></wp:meta_value>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Introdução ao Zendesk Guide: estratégias e práticas recomendadas</title>
     <link>https://www.zendesk.com.br/resources/getting-started-zendesk-guide/</link>
@@ -10124,9 +10136,9 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></wp:meta_value>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/getting-started-zendesk-guide</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[O autoatendimento das empresas, que antes era um apenas um recurso legal de ter, está se cada vez mais indispensável.]]></excerpt:encoded>
     <wp:post_id>201900048</wp:post_id>
     <wp:post_date><![CDATA[2018-11-13 12:00:00]]></wp:post_date>
@@ -10140,15 +10152,15 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></wp:meta_value>
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Gestão de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-knowledge-base"><![CDATA[Base de conhecimento]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-channels"><![CDATA[Canais de suporte]]></category>
-    
+
     <category domain="filter_tag" nicename="support-operations"><![CDATA[Operações de suporte]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -10214,7 +10226,7 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></wp:meta_value>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[7]]></wp:meta_value>
@@ -10307,9 +10319,9 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></wp:meta_value>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Seu guia para suporte omnichannel</title>
     <link>https://www.zendesk.com.br/resources/guide-to-omnichannel-support/</link>
@@ -10317,9 +10329,9 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></wp:meta_value>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/guide-to-omnichannel-support</guid>
     <description>Seus clientes esperam suporte omnichannel. Baixe este guia grátis para aprender como fornecer a melhor estratégia de experiência do cliente omnichannel ainda hoje.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Sua porta está sempre aberta, independentemente do seu negócio ou horário de operação.]]></excerpt:encoded>
     <wp:post_id>201900049</wp:post_id>
     <wp:post_date><![CDATA[2018-11-11 12:00:00]]></wp:post_date>
@@ -10333,17 +10345,17 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></wp:meta_value>
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Gestão de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="omnichannel-support"><![CDATA[Guias omnichannel]]></category>
-    
+
     <category domain="filter_tag" nicename="library-omnichannel-customer-support"><![CDATA[Suporte omnichannel]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-channels"><![CDATA[Canais de suporte]]></category>
-    
+
     <category domain="filter_tag" nicename="support-operations"><![CDATA[Operações de suporte]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -10409,7 +10421,7 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></wp:meta_value>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -10503,9 +10515,9 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></wp:meta_value>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Demonstração guiada do Zendesk Chat</title>
     <link>https://www.zendesk.com.br/resources/guided-demo-zendesk-chat/</link>
@@ -10513,9 +10525,9 @@ No relatório de janeiro de 2016 da Forrester Research, Inc.]]></wp:meta_value>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/guided-demo-zendesk-chat</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Baixe uma orientação de 30 minutos do Zendesk Chat (em inglês)
 Durante este vídeo, abordaremos: Os benefícios do chat em tempo real: aumento da satisfação do cliente e das taxas de conversão, além da melhoria da produtividade do agente;
 Algumas métricas essenciais e o ROI do Zendesk Chat de acordo com um estudo recente da Forrester;
@@ -10533,17 +10545,17 @@ Como o Zendesk Chat se integra ao Zendesk Support]]></excerpt:encoded>
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Gestão de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-live-chat"><![CDATA[Chat em tempo real]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-channels"><![CDATA[Canais de suporte]]></category>
-    
+
     <category domain="filter_tag" nicename="support-operations"><![CDATA[Operações de suporte]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-technology"><![CDATA[Tecnologia]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -10613,7 +10625,7 @@ Como o Zendesk Chat se integra ao Zendesk Support]]></wp:meta_value>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
@@ -10711,9 +10723,9 @@ Como o Zendesk Chat se integra ao Zendesk Support]]></wp:meta_value>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Clientes satisfeitos, resultados atingidos</title>
     <link>https://www.zendesk.com.br/resources/happy-customers-happy-bottom-line/</link>
@@ -10721,9 +10733,9 @@ Como o Zendesk Chat se integra ao Zendesk Support]]></wp:meta_value>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/happy-customers-happy-bottom-line</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[<!--
 #see-all{opacity:0;display:none;}
 --> Atendimento ao cliente ágil.]]></excerpt:encoded>
@@ -10739,15 +10751,15 @@ Como o Zendesk Chat se integra ao Zendesk Support]]></wp:meta_value>
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Gestão de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-strategy"><![CDATA[Estratégia de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="support-operations"><![CDATA[Operações de suporte]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendências e informações]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -10815,7 +10827,7 @@ Como o Zendesk Chat se integra ao Zendesk Support]]></wp:meta_value>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[7]]></wp:meta_value>
@@ -10905,9 +10917,9 @@ Como o Zendesk Chat se integra ao Zendesk Support]]></wp:meta_value>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Seu guia para suporte omnichannel</title>
     <link>https://www.zendesk.com.br/resources/how-to-guide-omnichannel-support/</link>
@@ -10915,9 +10927,9 @@ Como o Zendesk Chat se integra ao Zendesk Support]]></wp:meta_value>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/how-to-guide-omnichannel-support</guid>
     <description>Uma solução de suporte omnichannel é cada vez mais imperativa. Nosso guia discute a estratégia de implementação, a configuração do autoatendimento e mais.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Uma abordagem omnichannel é incomparável em termos de métricas operacionais e atendimento das expectativas do cliente.]]></excerpt:encoded>
     <wp:post_id>201900052</wp:post_id>
     <wp:post_date><![CDATA[2018-11-14 12:00:00]]></wp:post_date>
@@ -10931,17 +10943,17 @@ Como o Zendesk Chat se integra ao Zendesk Support]]></wp:meta_value>
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Gestão de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-metrics"><![CDATA[Métricas de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-strategy"><![CDATA[Estratégia de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="omnichannel-support"><![CDATA[Guias omnichannel]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendências e informações]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -11007,7 +11019,7 @@ Como o Zendesk Chat se integra ao Zendesk Support]]></wp:meta_value>
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -11102,9 +11114,9 @@ O tempo de implementação de cinco canais das empresas B2C é quase um mês mai
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>IDC: apoiando iniciativas de experiência do cliente com produtividade e processo</title>
     <link>https://www.zendesk.com.br/resources/idc-supporting-customer-experience-initiatives-productivity-process/</link>
@@ -11112,9 +11124,9 @@ O tempo de implementação de cinco canais das empresas B2C é quase um mês mai
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/idc-supporting-customer-experience-initiatives-productivity-process</guid>
     <description>A IDC explica a importância da experiência do cliente e como uma boa experiência do agente afeta esse objetivo.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[A experiência do cliente não está mais limitada a uma única interação.]]></excerpt:encoded>
     <wp:post_id>201900053</wp:post_id>
     <wp:post_date><![CDATA[2018-02-06 12:00:00]]></wp:post_date>
@@ -11128,17 +11140,17 @@ O tempo de implementação de cinco canais das empresas B2C é quase um mês mai
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="customer-support-analyst-reports"><![CDATA[Relatórios de analistas]]></category>
-    
+
     <category domain="filter_tag" nicename="best-practices-customer-service"><![CDATA[Experiência do cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="library-best-practices-customer-journey-mapping"><![CDATA[Mapeamento da jornada do cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="library-research-reports"><![CDATA[Pesquisa e relatórios]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendências e informações]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -11204,7 +11216,7 @@ O tempo de implementação de cinco canais das empresas B2C é quase um mês mai
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -11300,9 +11312,9 @@ O tempo de implementação de cinco canais das empresas B2C é quase um mês mai
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Melhore seu autoatendimento com as métricas certas</title>
     <link>https://www.zendesk.com.br/resources/improve-self-service-right-metrics/</link>
@@ -11310,9 +11322,9 @@ O tempo de implementação de cinco canais das empresas B2C é quase um mês mai
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/improve-self-service-right-metrics</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Se você já aderiu ao autoatendimento, parabéns: está expandindo suas operações de suporte de maneira inteligente e fornecendo uma experiência e um recurso excelentes para sua base de usuários]]></excerpt:encoded>
     <wp:post_id>201900054</wp:post_id>
     <wp:post_date><![CDATA[2018-11-11 12:00:00]]></wp:post_date>
@@ -11326,13 +11338,13 @@ O tempo de implementação de cinco canais das empresas B2C é quase um mês mai
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="customer-service-metrics"><![CDATA[Métricas de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-knowledge-base"><![CDATA[Base de conhecimento]]></category>
-    
+
     <category domain="filter_tag" nicename="support-operations"><![CDATA[Operações de suporte]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -11398,7 +11410,7 @@ O tempo de implementação de cinco canais das empresas B2C é quase um mês mai
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -11481,9 +11493,9 @@ O tempo de implementação de cinco canais das empresas B2C é quase um mês mai
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Por que os clientes estão preferindo as redes sociais?</title>
     <link>https://www.zendesk.com.br/resources/instaservice/</link>
@@ -11491,9 +11503,9 @@ O tempo de implementação de cinco canais das empresas B2C é quase um mês mai
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/instaservice</guid>
     <description>Responsiveness on social media is key to a positive customer experience. Read this infographic from Zendesk to learn about important metrics in social media support.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[]]></excerpt:encoded>
     <wp:post_id>201900055</wp:post_id>
     <wp:post_date><![CDATA[2013-01-10 12:00:00]]></wp:post_date>
@@ -11507,15 +11519,15 @@ O tempo de implementação de cinco canais das empresas B2C é quase um mês mai
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="customer-service-strategy"><![CDATA[Estratégia de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-messaging"><![CDATA[Mensagens]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-channels"><![CDATA[Canais de suporte]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendências e informações]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -11581,7 +11593,7 @@ O tempo de implementação de cinco canais das empresas B2C é quase um mês mai
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[8]]></wp:meta_value>
@@ -11665,9 +11677,9 @@ O tempo de implementação de cinco canais das empresas B2C é quase um mês mai
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Faça seus clientes voltarem sempre</title>
     <link>https://www.zendesk.com.br/resources/keep-customers-coming-back/</link>
@@ -11675,9 +11687,9 @@ O tempo de implementação de cinco canais das empresas B2C é quase um mês mai
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/keep-customers-coming-back</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Pense nos seus melhores relacionamentos. É possível que haja muita confiança entre as partes e que os problemas não sejam frequentes.]]></excerpt:encoded>
     <wp:post_id>201900056</wp:post_id>
     <wp:post_date><![CDATA[2016-08-26 12:00:00]]></wp:post_date>
@@ -11691,17 +11703,17 @@ O tempo de implementação de cinco canais das empresas B2C é quase um mês mai
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="customer-loyalty-customer-support-trends"><![CDATA[fidelidade do cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Gestão de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-strategy"><![CDATA[Estratégia de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="library-guides"><![CDATA[Guias]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendências e informações]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -11767,7 +11779,7 @@ O tempo de implementação de cinco canais das empresas B2C é quase um mês mai
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[7]]></wp:meta_value>
@@ -11868,9 +11880,9 @@ Tendo isso como base, o ebook descreve maneiras de criar uma experiência sem es
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Trabalho em equipe no autoatendimento com a Publicação em equipe</title>
     <link>https://www.zendesk.com.br/resources/leverage-entire-team-create-best-self-service-content/</link>
@@ -11878,9 +11890,9 @@ Tendo isso como base, o ebook descreve maneiras de criar uma experiência sem es
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/leverage-entire-team-create-best-self-service-content</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[O segredo para oferecer uma boa experiência de autoatendimento para os seus clientes é ter conteúdo excelente.]]></excerpt:encoded>
     <wp:post_id>201900057</wp:post_id>
     <wp:post_date><![CDATA[2018-11-11 12:00:00]]></wp:post_date>
@@ -11894,13 +11906,13 @@ Tendo isso como base, o ebook descreve maneiras de criar uma experiência sem es
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="customer-support-knowledge-base"><![CDATA[Base de conhecimento]]></category>
-    
+
     <category domain="filter_tag" nicename="support-operations"><![CDATA[Operações de suporte]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-team-management"><![CDATA[Gerenciamento de equipe]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -11966,7 +11978,7 @@ Tendo isso como base, o ebook descreve maneiras de criar uma experiência sem es
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -12057,9 +12069,9 @@ Tendo isso como base, o ebook descreve maneiras de criar uma experiência sem es
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Como o chat em tempo real ajuda as empresas e os clientes</title>
     <link>https://www.zendesk.com.br/resources/live-chat-benefits/</link>
@@ -12067,9 +12079,9 @@ Tendo isso como base, o ebook descreve maneiras de criar uma experiência sem es
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/live-chat-benefits</guid>
     <description>Esse eBook, que analisa os benefícios do chat em tempo real dos pontos de vista do cliente e das empresas, é um recurso valioso para os líderes do atendimento.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Fazer comprar, pagar contas, procurar informações, obter ajuda e tirar dúvidas: se você faz quase tudo pela internet hoje em dia, provavelmente já se deparou (e até tenha usado) o chat em tempo real para se comunicar com uma empresa]]></excerpt:encoded>
     <wp:post_id>201900058</wp:post_id>
     <wp:post_date><![CDATA[2018-11-13 12:00:00]]></wp:post_date>
@@ -12083,17 +12095,17 @@ Tendo isso como base, o ebook descreve maneiras de criar uma experiência sem es
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="zendesk-products-chat"><![CDATA[Chat]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-management-library"><![CDATA[Biblioteca de gerenciamento de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-live-chat"><![CDATA[Chat em tempo real]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-channels"><![CDATA[Canais de suporte]]></category>
-    
+
     <category domain="filter_tag" nicename="library-zendesk-products"><![CDATA[Produtos Zendesk]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -12159,7 +12171,7 @@ Tendo isso como base, o ebook descreve maneiras de criar uma experiência sem es
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[7]]></wp:meta_value>
@@ -12247,9 +12259,9 @@ Fazer comprar, pagar contas, procurar informações, obter ajuda e tirar dúvida
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Relatório sobre o atendimento ao cliente multicanal</title>
     <link>https://www.zendesk.com.br/resources/multichannel-customer-care-report-2017/</link>
@@ -12257,9 +12269,9 @@ Fazer comprar, pagar contas, procurar informações, obter ajuda e tirar dúvida
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/multichannel-customer-care-report-2017</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Ao mesmo tempo em que os clientes querem o calor do contato humano, eles querem a rapidez e a eficiência do atendimento automatizado.]]></excerpt:encoded>
     <wp:post_id>201900059</wp:post_id>
     <wp:post_date><![CDATA[2018-02-06 12:00:00]]></wp:post_date>
@@ -12273,17 +12285,17 @@ Fazer comprar, pagar contas, procurar informações, obter ajuda e tirar dúvida
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="best-practices-customer-service"><![CDATA[Experiência do cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-loyalty-customer-support-trends"><![CDATA[fidelidade do cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="library-omnichannel-customer-support"><![CDATA[Suporte omnichannel]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-channels"><![CDATA[Canais de suporte]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendências e informações]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -12349,7 +12361,7 @@ Fazer comprar, pagar contas, procurar informações, obter ajuda e tirar dúvida
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -12441,9 +12453,9 @@ Esse relatório explora mais profundamente essas áreas-chave, fornecendo inform
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>(Entre na linha!) Benchmark para organizações de suporte ao cliente – Américas</title>
     <link>https://www.zendesk.com.br/resources/omnichannel-benchmark-amer/</link>
@@ -12451,9 +12463,9 @@ Esse relatório explora mais profundamente essas áreas-chave, fornecendo inform
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/omnichannel-benchmark-amer</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Você conhece os padrões de benchmark para oferecer o suporte ao cliente ideal? Com dados coletados de 45.]]></excerpt:encoded>
     <wp:post_id>201900060</wp:post_id>
     <wp:post_date><![CDATA[2018-10-08 12:00:00]]></wp:post_date>
@@ -12467,7 +12479,7 @@ Esse relatório explora mais profundamente essas áreas-chave, fornecendo inform
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -12533,7 +12545,7 @@ Esse relatório explora mais profundamente essas áreas-chave, fornecendo inform
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
@@ -12619,8 +12631,8 @@ Esse relatório explora mais profundamente essas áreas-chave, fornecendo inform
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
 </channel>
 </rss>
