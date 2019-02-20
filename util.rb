@@ -74,7 +74,7 @@ module Util
 
   def serialize_count(string)
     string.length +
-      string.gsub(/[\w \.\+\/\$%\-,]/, '').length
+      string.gsub(/[\w \.\+\/\$%\-,<>]/, '').length
   end
 
   def download_images_from_csv(country_code, limit = nil)

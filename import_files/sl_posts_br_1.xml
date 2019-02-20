@@ -1155,7 +1155,7 @@ Se um modelo de negócio é tão simples e brilhante como o da Dollar Shave Club
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[customer-stats]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:4:{i:0;a:2:{s:19:"customer-stat-title";s:9:"Usuários";s:19:"customer-stat-value";s:12:"200 milhões";}i:1;a:2:{s:19:"customer-stat-title";s:18:"TICKETS POR SEMANA";s:19:"customer-stat-value";s:5:"4.000";}i:2;a:2:{s:19:"customer-stat-title";s:40:"Deflexão de tickets com autoatendimento";s:19:"customer-stat-value";s:3:"17%";}i:3;a:2:{s:19:"customer-stat-title";s:35:"Tempo da primeira reposta para Chat";s:19:"customer-stat-value";s:8:" < 30s ";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:4:{i:0;a:2:{s:19:"customer-stat-title";s:9:"Usuários";s:19:"customer-stat-value";s:12:"200 milhões";}i:1;a:2:{s:19:"customer-stat-title";s:18:"TICKETS POR SEMANA";s:19:"customer-stat-value";s:5:"4.000";}i:2;a:2:{s:19:"customer-stat-title";s:40:"Deflexão de tickets com autoatendimento";s:19:"customer-stat-value";s:3:"17%";}i:3;a:2:{s:19:"customer-stat-title";s:35:"Tempo da primeira reposta para Chat";s:19:"customer-stat-value";s:7:" < 30s ";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[customer-stat-button-text]]></wp:meta_key>
