@@ -1233,40 +1233,54 @@ Se um modelo de negócio é tão simples e brilhante como o da Dollar Shave Club
     <content:encoded><![CDATA[
 
 <section>
-<p class="giant highlight center">Para uma empresa global com um legado de décadas, pode ser difícil assumir a modernidade de uma maneira orientada. Mas, para o Fossil Group, essa foi uma evolução natural depois das profundas mudanças no setor de relógios, em que o surgimento de wearables mudou a maneira como o mundo pensa sobre moda e tecnologia
-</p>
-<p>Em 2015, o fabricante global de relógios descobriu um nicho em um espaço decididamente digital adquirindo a Misfit, uma startup de wearables. Como uma nova linha de negócios, a divisão de wearables do Fossil Group oferece mais de 300 produtos, criando um ecossistema complexo de interações entre o Fossil Group, clientes e revendedores parceiros. O Fossil Group recebe mais de 5.000 emails, chats e consultas pela web ou por dispositivos móveis toda semana, através dos canais de suporte da Fossil, de sites de parceiros e da loja do Google Play, provenientes de clientes querendo saber como combinar ou atualizar seus wearables com o dispositivo ou o relógio.</p>
-<p>O suporte aos clientes de wearables é feito por uma equipe de mais de 150 agentes, sob a liderança de Bernie Gessner, Vice-presidente de atendimento global ao cliente e operações de varejo na Fossil. A equipe oferece suporte por email e chat usando o Zendesk Support, o Zendesk Chat e o Zendesk Guide, que fazem parte da aquisição. Da perspectiva de Gessner, ter uma solução omnichannel já implementada foi parte valiosa do pacote, porque havia um repositório de registros de clientes e conhecimento interno sobre a solução de problemas com novos produtos.</p>
-<p>“Há um grande uso da Central de Ajuda interna”, diz Gessner, referindo-se ao uso do Zendesk Guide por parte da equipe. “Os dispositivos em si são simples, mas, para resolver os diferentes problemas que podem surgir, nossos agentes ainda têm muito o que monitorar. Tentamos gerenciar isso usando a Central de Ajuda, para facilitar o trabalho deles e não depender da memória coletiva”.</p>
+  <p class="giant highlight center">Para uma empresa global com um legado de décadas, pode ser difícil assumir a modernidade de uma maneira orientada. Mas, para o Fossil Group, essa foi uma evolução natural depois das profundas mudanças no setor de relógios, em que o surgimento de vestíveis mudou a maneira como o mundo pensa sobre moda e tecnologia.</p>
+  <p>Em 2015, o fabricante global de relógios descobriu um nicho em um espaço decididamente digital adquirindo a Misfit, uma startup de vestíveis. Como uma nova linha de negócios, a divisão de vestíveis do Fossil Group oferece mais de 300 produtos, criando um ecossistema complexo de interações entre o Fossil Group, clientes e revendedores parceiros. O Fossil Group recebe mais de 5.000 emails, chats e consultas pela web ou por dispositivos móveis toda semana, através dos canais de suporte da Fossil, de sites de parceiros e da loja do Google Play, provenientes de clientes querendo saber como combinar ou atualizar seus vestíveis com o dispositivo ou o relógio.</p>
+
+  <p>O suporte aos clientes de vestíveis é feito por uma equipe de mais de 150 agentes, sob a liderança de Bernie Gessner, vice-presidente de atendimento global ao cliente e operações de varejo na Fossil. A equipe oferece suporte por email e chat usando o Zendesk Support, o Zendesk Chat e o Zendesk Guide, que fazem parte da aquisição. Da perspectiva de Gessner, ter uma solução omnichannel já estabelecida foi uma parte bem-vinda do pacote, porque havia um repositório de registros de clientes e conhecimento interno a respeito da solução de problemas dos novos produtos.</p>
+
+  <p>“Há um grande uso da central de ajuda interna”, diz Gessner, referindo-se ao uso do Zendesk Guide por parte da equipe. “Os dispositivos em si são simples, mas, a fim de resolver problemas diferentes que podem surgir, nossos agentes ainda têm muito o que monitorar. Tentamos gerenciar isso por meio da central de ajuda, para facilitar o trabalho deles e não depender da memória coletiva.”</p>
 </section>
 <section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/FossilGroup-1000x400-2.jpg"></section>
 <section>
-<p>A equipe de suporte aos wearables é dividida em um modelo de suporte em níveis: o nível 1 gerencia as perguntas mais gerais e os chats em tempo real e o nível 2 resolve problemas técnicos complexos. </p>
-<p>Gessner poderia ter incorporado o suporte aos wearables à organização maior e migrar a equipe para uma ferramenta existente. Em vez disso, depois de perceber o valor que a equipe de wearables dava ao Zendesk, ele decidiu implementá-lo na organização de atendimento global ao cliente, em todas as marcas, todos os produtos e todas as regiões, dando suporte a 21 idiomas no mundo todo.</p>
-<p>“Estamos implementando o Zendesk como a tecnologia na base de nossa plataforma de experiência global do cliente”, explica Gessner. “Estenderemos seu uso globalmente a todos os agentes de atendimento ao cliente, além de algumas de nossas centrais de reparos e podemos também testá-lo nas lojas”. </p>
-<p>Liderando a gigantesca tarefa de personalizar uma solução de software herdada para uma empresa do porte da Fossil está Zac Garcia, Gerente de operações globais de atendimento ao cliente.</p>
-<p>“O desafio foi descobrir o que a Misfit já tinha criado, porque não estávamos configurando o Zendesk do zero”, justifica Garcia. “Assim que compreendemos as regras de negócios, os campos personalizados existentes e todo o restante, conseguimos resolver os problemas e criar com base no que já existia para fazer o Zendesk atender às nossas amplas necessidades comerciais globais, tudo em apenas um mês.”</p>
+  <p>A equipe de suporte de vestíveis é dividida em um modelo de suporte em níveis: o nível 1 gerencia as perguntas mais gerais e os chats em tempo real, e o nível 2 resolve soluções de problemas técnicos complexos.</p>
+
+  <p>Gessner poderia ter incorporado o suporte de vestíveis à organização maior e migrar a equipe para uma ferramenta existente. Em vez disso, depois de perceber o valor que a equipe de vestíveis dava ao Zendesk, ele decidiu lançá-lo na organização de atendimento global ao cliente, em todas as marcas, todos os produtos e todas as regiões, dando suporte a 21 idiomas globalmente.</p>
+
+  <p>“Estamos lançando o Zendesk como a tecnologia na base de nossa plataforma de experiência global do cliente”, explica Gessner. “Estenderemos seu uso globalmente a todos os agentes de atendimento ao cliente, além de algumas de nossas centrais de reparos e podemos também testá-lo nas lojas.”</p>
+
+  <p>Liderando a gigantesca tarefa de personalizar uma solução de software herdada para uma empresa do porte da Fossil está Zac Garcia, gerente de operações globais de atendimento ao cliente.</p>
+
+  <p>“O desafio foi descobrir o que a Misfit já tinha construído, porque não estávamos configurando o Zendesk do zero”, justifica Garcia. “Assim que compreendemos as regras de negócios atuais, os campos personalizados e todo o restante, conseguimos mudar a atitude e partir do que já havia para fazer o Zendesk atender às necessidades de nosso negócio global mais amplo, tudo em apenas um mês.”</p>
 </section>
 <section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/FossilGroup-1000x400-7.jpg"></section>
 <section>
-<p>“Zac e sua equipe criaram fluxos de trabalho modelados para 14 marcas, incluindo artigos da base de conhecimento, usando apenas a documentação da Central de Ajuda da Zendesk e ligando para o suporte ao cliente do Zendesk”, disse Gessner. “É um ótimo endosso da facilidade de uso do Zendesk o fato de Zac ter feito isso sem nenhum tipo de suporte de TI”.</p>
-<p>Garcia e sua pequena equipe usaram o recurso Multimarca do Support para separar fluxos de trabalho por marca e trabalharam com cada líder regional para compreender sua carga de trabalho e as necessidades do canal. Depois de desenvolver fluxos de trabalho para cada equipe regional, Garcia e sua equipe também lidaram com o aspecto do gerenciamento de mudanças do lançamento de uma nova ferramenta. No caso da organização maior, algumas equipes ainda não usavam uma solução de email corporativa, pois lidavam apenas com interações por voz e chat, enquanto que outras usavam outras ferramentas e soluções isoladas.</p>
-<p>Antes de adquirir a Misfit, Gessner procurou outras soluções omnichannel para implementar e estava pensando em usar o Zendesk junto a várias outras plataformas.</p>
-<p>“Já tínhamos investido no Salesforce e a desvantagem é que ele era caro. Mesmo assim, achávamos que poderíamos continuar usando essa ferramenta, até percebermos que ela não estava sendo adotada por toda a organização”, Gessner explica. “O motivo pelo qual escolhemos o Zendesk é que tínhamos começado esse relacionamento. Estávamos realmente procurando outras organizações empresariais que não se preocupassem apenas em vender. A Zendesk estava mais preocupada com o lado do relacionamento e sabíamos que sua plataforma atenderia às nossas necessidades e seria fácil para os agentes aprenderem. O que realmente nos fez bater o martelo foi a aquisição da Misfit e ela ter se adaptado tão bem ao Zendesk".</p>
+  <p>“Zac e sua equipe criaram fluxos de trabalho modelados para 14 marcas, incluindo artigos da base de conhecimento, usando apenas a documentação da central de ajuda do Zendesk e chamando o suporte ao cliente do Zendesk”, diz Gessner. “É um ótimo endosso da facilidade de uso do Zendesk o fato de Zac ter feito isso sem nenhum tipo de suporte de TI.”</p>
+
+  <p>Garcia e sua pequena equipe usaram o recurso de multimarca do Support para separar fluxos de trabalho por marca e trabalharam com cada líder regional para compreender sua carga de trabalho e as necessidades do canal. Depois de desenvolver fluxos de trabalho para cada equipe regional, Garcia e sua equipe também lidaram com o aspecto do gerenciamento de mudanças do lançamento de uma nova ferramenta. No caso da organização maior, algumas equipes ainda não usavam uma solução de email corporativa, antes usavam apenas voz e contatos do chat, enquanto que outras usavam outras ferramentas e soluções isoladas.</p>
+
+  <p>Antes de adquirir a Misfit, Gessner procurou outras soluções omnichannel para lançar e estava considerando usar o Zendesk junto com várias outras plataformas.</p>
+
+  <p>“Já tínhamos investido no Salesforce e a desvantagem é que ele era caro. Mesmo assim, achávamos que poderíamos continuar usando, até percebermos que toda a organização não o estava adotando”, Gessner explica. “A razão pela qual escolhemos o Zendesk é que tínhamos começado esse relacionamento. Estávamos realmente procurando outras organizações empresariais que não se preocupassem apenas em vender. O Zendesk estava mais alinhado com o aspecto do relacionamento das coisas e sabíamos que a plataforma do Zendesk nos atenderia e seria fácil para os agentes aprenderem. O que realmente nos fez decidir foi a aquisição da Misfit e ela ter se adaptado tão bem ao Zendesk.”</p>
 </section>
 <section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/FossilGroup-1000x400-1.jpg"></section>
 <section>
-<p>A solução omnichannel simplificada que a Fossil está criando com a Zendesk fornecerá ao Gessner e à liderança uma melhor visibilidade em relação à produtividade dos agentes, as áreas onde eles gastam mais tempo e por que, além de feedback da experiência do cliente em tempo real. Além disso, ser capaz de viabilizar novos canais, como autoatendimento e chat, ou gerenciar interações a partir de novos canais, como a loja do Google Play, por meio de uma ferramenta central faz parte do “valor que a plataforma da Zendesk agrega ao negócio”.</p>
-<p>“Nós usamos tantas ferramentas que gastamos muito em vez de economizarmos. Queríamos implementar o Zendesk, torná-lo nossa plataforma dedicada e desativar algumas outras soluções que executamos globalmente”, diz.</p>
-<p>Garcia adicionou: “Antes, trabalhávamos separadamente. Portanto, um dos nossos recursos favoritos do Zendesk é poder nos aprofundarmos nos nossos diferentes canais e utilizarmos as análises necessária”. Dentre as métricas mais importantes para a empresa estão o tempo de primeira resposta, a satisfação do cliente e o tempo total de resolução. A equipe está usando o recurso de SLA do Support para definir e medir contratos de nível de serviço e garantir que os tickets continuem sendo resolvidos.</p>
-<p>Outro valor agregado é a extensibilidade do Zendesk Support com o uso do Mercado de aplicativos do Zendesk. Garcia e uma pequena equipe de desenvolvedores internos estão criando integrações com outras principais ferramentas e plataformas, incluindo o CRM de origem interna da Fossil, a loja do <a href="https://www.zendesk.com.br/apps/support/google-play-reviews/" title="Google" play="" target="_blank">Google Play</a>, o <a href="https://www.zendesk.com.br/apps/support/jira/" title="&lt;br&gt;JIRA" target="_blank">JIRA</a> e o <a href="https://www.zendesk.com.br/apps/support/shopify/" title="Shopify" target="_blank">Shopify</a>.</p>
+  <p>A solução omnichannel simplificada que a Fossil está criando com o Zendesk fornecerá ao Gessner e à liderança uma melhor visibilidade em relação à produtividade do agente, onde eles estão gastando a maior parte do tempo e por que, além de feedback da experiência do cliente em tempo real. Além disso, ser capaz de se abrir a novos canais, como autoatendimento e chat, ou gerenciar interações a partir de novos canais, como a loja do Google Play, por meio de uma ferramenta central faz parte do “valor que a plataforma Zendesk agrega ao negócio”.</p>
+
+  <p>“Nós já usamos tantas ferramentas, estamos gastando mais do que conseguimos economizar. Queríamos trazer o Zendesk, torná-lo nossa plataforma dedicada, e desativar algumas outras soluções que executamos globalmente”, diz.</p>
+
+  <p>Garcia adicionou: “estávamos tão isolados antes e um dos nossos recursos favoritos do Zendesk é ser capaz de nos aprofundar nos nossos diferentes canais e utilizar a análise necessária”. Dentre as métricas mais importantes para o negócio estão o tempo de primeira resposta, a satisfação do cliente e o tempo total de resolução. A equipe está usando o recurso de SLA do Support para definir e medir contratos de nível de serviço, e garantir que os tickets continuem sendo processados.</p>
+
+  <p>Outro valor agregado é a extensibilidade do Zendesk Support em todo o Mercado de aplicativos do Zendesk. Garcia e uma pequena equipe de desenvolvedores internos estão criando integrações com outras principais ferramentas e plataformas, incluindo o CRM de origem interna da Fossil, a loja do <a href="https://www.zendesk.com.br/apps/support/google-play-reviews/" play="" style="color: rgb(48, 170, 188); box-sizing: border-box;" target="_blank" title="Google">Google Play</a>, o <a href="https://www.zendesk.com.br/apps/support/jira/" style="color: rgb(48, 170, 188); box-sizing: border-box;" target="_blank" title="&lt;br&gt;JIRA">JIRA</a> e o <a href="https://www.zendesk.com.br/apps/support/shopify/" style="color: rgb(48, 170, 188); box-sizing: border-box;" target="_blank" title="Shopify">Shopify</a>.</p>
 </section>
 <section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/fossil2.jpg"></section>
 <section>
-<p>À medida que a organização de atendimento global ao cliente da Fossil continua a diminuir o isolamento, a equipe de wearables adotou o <a href="https://support.zendesk.com/hc/en-us/community/posts/115005658787-What-is-the-Knowledge-Capture-app-" title="CONHECIMENTO" capture="" app="" target="_blank">aplicativo Captura de conhecimento</a> no Zendesk Guide. Com ele, os agentes podem pesquisar a Central de Ajuda na visualização do ticket, inserir links para artigos relevantes nos comentários do ticket e adicionar feedback embutido no próprio artigo para que os agentes aproveitem o conhecimento institucional. </p>
-<p>Conseguir encontrar facilmente respostas para perguntas comuns, além de automatizar os fluxos de trabalho, está ajudando a poupar tempo. Em relação a isso, Garcia também está desenvolvendo um portal de autoatendimento onde os clientes podem gerenciar pedidos de reparo para relógios tradicionais, diminuindo o tempo gasto com as verificações de status constantes. Isso dará à equipe mais tempo para acomodar o aumento no volume de wearables.</p>
-<p>As oportunidades nessa área tendem a continuar, diz Gessner, observando a variedade de wearables que já estão disponíveis atualmente, incluindo monitores de exercício físico, dispositivos de visualização completa que te lembram da sua próxima reunião ou permitem responder a um email, além de rastreadores híbridos que informam quando você recebeu uma mensagem de texto de um contato favorito ou permitem tirar uma selfie sem o bastão.</p>
-<p>“Os produtos estão ficando cada vez mais complexos e incentivamos o autoatendimento porque sei que a maioria dos clientes prefere isso”, diz Gessner, “e também nos permite passar mais tempo resolvendo esses problemas com os clientes”.</p>
+  <p>À medida que a organização de atendimento global ao cliente da Fossil continua a diminuir o isolamento, a equipe de vestíveis adotou o <a app="" capture="" href="https://support.zendesk.com/hc/en-us/community/posts/115005658787-What-is-the-Knowledge-Capture-app-" style="color: rgb(48, 170, 188); box-sizing: border-box;" target="_blank" title="CONHECIMENTO">aplicativo Captura de conhecimento</a> no Zendesk Guide. Com o aplicativo, os agentes podem pesquisar a central de ajuda no modo de exibição de ticket, inserir links para artigos relevantes nos comentários do ticket e adicionar feedback embutido no próprio artigo para que os agentes aproveitem o conhecimento entre si.</p>
+
+  <p>Ser capaz de localizar respostas com facilidade para perguntas comuns, além de automatizar os fluxos de trabalho, está nos ajudando a poupar tempo. Em relação a isso, Garcia também está desenvolvendo um portal de autoatendimento onde os clientes podem gerenciar ordens de reparo para relógios tradicionais, diminuindo o tempo gasto com as verificações de status constantes. Isso dará à equipe mais tempo para acomodar o aumento no volume de vestíveis.</p>
+
+  <p>As oportunidades nessa área tendem a continuar, diz Gessner, observando a variedade de vestíveis que já estão disponíveis hoje em dia, incluindo rastreadores de exercício físico, dispositivos de visualização completa que lembram a sua próxima reunião ou permitem responder a um email e rastreadores híbridos que permitem saber quando você recebeu uma mensagem de texto de um contato favorito ou tirar uma selfie sem o bastão.</p>
+
+  <p>“Os produtos estão ficando cada vez mais complexos e incentivamos o autoatendimento porque entendo que a maioria dos clientes prefere isso”, diz Gessner, “e também nos permite passar mais tempo resolvendo esses problemas com os clientes.”</p>
 </section>
 </div></div><section class="quote">
 
@@ -1275,8 +1289,7 @@ Se um modelo de negócio é tão simples e brilhante como o da Dollar Shave Club
 
 </section>]]></content:encoded>
 
-    <excerpt:encoded><![CDATA[Com o Zendesk, a Fossil consolidou suas ferramentas para oferecer suporte a 14 marcas
-]]></excerpt:encoded>
+    <excerpt:encoded><![CDATA[Com o Zendesk, a Fossil consolidou suas ferramentas para oferecer suporte a 14 marcas.]]></excerpt:encoded>
     <wp:post_id>201900006</wp:post_id>
     <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2019-02-04 12:00:00]]></wp:post_date_gmt>
@@ -1314,8 +1327,7 @@ Se um modelo de negócio é tão simples e brilhante como o da Dollar Shave Club
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
-      <wp:meta_value><![CDATA[Com o Zendesk, a Fossil consolidou suas ferramentas para oferecer suporte a 14 marcas
-]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Com o Zendesk, a Fossil consolidou suas ferramentas para oferecer suporte a 14 marcas.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
@@ -1373,8 +1385,7 @@ Se um modelo de negócio é tão simples e brilhante como o da Dollar Shave Club
 
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Com o Zendesk, a Fossil consolidou suas ferramentas para oferecer suporte a 14 marcas
-]]></wp:meta_value>
+			<wp:meta_value><![CDATA[Com o Zendesk, a Fossil consolidou suas ferramentas para oferecer suporte a 14 marcas.]]></wp:meta_value>
 		</wp:postmeta>
     <wp:postmeta>
 			<wp:meta_key><![CDATA[customer-heading]]></wp:meta_key>
