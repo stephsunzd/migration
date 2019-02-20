@@ -2962,27 +2962,37 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
     <content:encoded><![CDATA[
 
 <section>
-<p class="giant highlight center">A Spartan Race começou nas colinas verdejantes de Vermont como uma corrida única. Atualmente, a empresa é uma marca mundialmente famosa que vende estilo de vida, com academia própria, especiais de televisão e uma linha de roupas e acessórios esportivos. A marca fomentou uma comunidade de espartanos que acreditam em um bom desafio e no poder da transformação.
-</p>
-<p>Conforme a empresa levava suas corridas para mais de 30 países, ela precisava de um sistema de suporte capaz de acompanhar o rápido crescimento da sua base de clientes. Aja Varney é diretora de atendimento ao cliente da Spartan Race, mas ela já foi a única representante de suporte da empresa. "Tínhamos um sistema de tickets muito básico, com poucos recursos além de uma caixa de entrada de emails compartilhada", disse ela. </p>
-<p>Ele funcionava bem para uma única pessoa lidando apenas centenas de emails por ano, mas, em 2016, Varney já supervisionava uma equipe de 15 pessoas e 270.000 emails por ano, além de várias equipes regionais no mundo todo. Grande parte desse volume eram perguntas dos participantes sobre cadastro e outras logísticas da corrida e, com mais de 1 milhão de espartanos correndo em 2016, a empresa precisava de algo maior que seu sistema de tickets anterior.</p>
+  <p class="giant highlight center">
+    A Spartan Race cortou drasticamente seus tempos de resposta com o Zendesk Support.
+  </p>
+  <p class="giant highlight center">
+    A Spartan Race começou nas colinas verdejantes de Vermont como uma corrida única. Atualmente, a empresa é uma marca mundialmente famosa que vende estilo de vida, com academia própria, especiais de televisão e uma linha de roupas e acessórios esportivos. A marca fomentou uma comunidade de espartanos que acreditam em um bom desafio e no poder da transformação.
+  </p>
+  <p>Conforme a empresa levava suas corridas para mais de 30 países, ela precisava de um sistema de suporte capaz de acompanhar o rápido crescimento da sua base de clientes. Aja Varney é diretora de atendimento ao cliente da Spartan Race, mas ela já foi a única representante de suporte da empresa. "Tínhamos um sistema de tickets muito básico, com poucos recursos além de uma caixa de entrada de emails compartilhada", disse ela.</p>
+
+  <p>Ele funcionava bem para uma única pessoa lidando apenas centenas de emails por ano, mas, em 2016, Varney já supervisionava uma equipe de 15 pessoas e 270.000 emails por ano, além de várias equipes regionais no mundo todo. Grande parte desse volume eram perguntas dos participantes sobre cadastro e outras logísticas da corrida e, com mais de 1 milhão de espartanos correndo em 2016, a empresa precisava de algo maior que seu sistema de tickets anterior.</p>
 </section>
 <section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/spartan%20race%205.jpg"></section>
 <section>
-<p>"Precisávamos de uma solução mais robusta que nos ajudasse a nos concentrarmos em nossos clientes e realmente melhorar essa experiência", disse Varney. "Para a gente, a Zendesk se destacou graças ao seu foco em dimensionamento global. A Zendesk parece sempre estar um passo à frente, sabendo do que vamos precisar a seguir".</p>
-<p>A equipe de Varney gostou especialmente dos recursos de relatório e análise do Zendesk Support, que permitiram que ela mensurasse facilmente a satisfação do cliente. "Originalmente, era impossível mensurar ou criar relatórios", disse ela. "Tínhamos que descobrir como fazer tudo por contra própria, pois isso era parte crucial do nosso negócio". Agora, a equipe vê as tendências de volume e satisfação ao lado das corridas programadas, para adequarem a escala de pessoal. "Os relatórios nativos nos informam quando precisamos de mais recursos e quando podemos diminuir a escala", observou Varney.</p>
-<p>Desde a implementação do Zendesk Support, a iniciativa de melhoria dos fluxos de trabalho para cada canal de suporte tem aumentado. A equipe define contratos de nível de serviço (SLAs) para os canais, além de gatilhos para alertar os gerentes dos tickets próximos de infingir as metas de serviço. Originalmente, Varney definiu um SLA para os tickets de redes sociais, para que fossem respondidos dentro de quatro horas, mas descobriu que, com o Zendesk Support, esse tempo era mais do que suficiente. “O Support realmente nos ajudou a apurar nossos processos”, disse Varney, “até conseguirmos responder os tickets de redes sociais em 20 minutos ou menos, o que é maravilhoso”.</p>
+  <p>"Precisávamos de uma solução mais robusta que nos ajudasse a nos concentrarmos em nossos clientes e realmente melhorar essa experiência", disse Varney. "Para a gente, a Zendesk se destacou graças ao seu foco em dimensionamento global. A Zendesk parece sempre estar um passo à frente, sabendo do que vamos precisar a seguir".</p>
+
+  <p>A equipe de Varney gostou especialmente dos recursos de relatório e análise do Zendesk Support, que permitiram que ela mensurasse facilmente a satisfação do cliente. "Originalmente, era impossível mensurar ou criar relatórios", disse ela. "Tínhamos que descobrir como fazer tudo por contra própria, pois isso era parte crucial do nosso negócio". Agora, a equipe vê as tendências de volume e satisfação ao lado das corridas programadas, para adequarem a escala de pessoal. "Os relatórios nativos nos informam quando precisamos de mais recursos e quando podemos diminuir a escala", observou Varney.</p>
+
+  <p>Desde a implementação do Zendesk Support, a iniciativa de melhoria dos fluxos de trabalho para cada canal de suporte tem aumentado. A equipe define contratos de nível de serviço (SLAs) para os canais, além de gatilhos para alertar os gerentes dos tickets próximos de infingir as metas de serviço. Originalmente, Varney definiu um SLA para os tickets de redes sociais, para que fossem respondidos dentro de quatro horas, mas descobriu que, com o Zendesk Support, esse tempo era mais do que suficiente. “O Support realmente nos ajudou a apurar nossos processos”, disse Varney, “até conseguirmos responder os tickets de redes sociais em 20 minutos ou menos, o que é maravilhoso”.</p>
 </section>
 <section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/spartanrace1.jpg"></section>
 <section>
-<p>A equipe também oferece suporte por chat em tempo real com o Zendesk Chat, ajudando a evitar alguns tickets, o que é ótimo para uma caixa de entrada que, às vezes, parece estar estourando de cheia. "Conforme crescemos, sem o chat, nosso volume de email cresce de 10 a 15% anualmente", explica Varney. "No entanto, nos últimos dois anos de uso do Chat, percebemos uma diminuição drástica no nosso volume de email. Um número cada vez maior de clientes prefere usar o chat para obter uma resposta imediata para perguntas simples".</p>
-<p>Só nos EUA, a equipe de Varney resolveu 230.000 tickets em 2016. Desse total, 58.000 eram do chat e 5.000 eram mensagens do Facebook, outro canal em franco crescimento. O índice de satisfação do cliente médio da equipe chegou a 93% de avaliações positivas. "Ficamos muito felizes com isso", disse Varney.</p>
-<p>Como uma marca de estilo de vida com muitos seguidores, a equipe agora lida com um volume grande de solicitações de sua loja de varejo online. Antigamente, a equipe entrava em várias plataformas para coletar todas as informações pertinentes sobre as solicitações de um cliente. Agora, com a integração do Shopify ao Zendesk Support, a Spartan Race centralizou seus dados do atendimento ao cliente e comércio eletrônico. "Fizemos uma festa após a integração", disse Varney. "Agora, podemos ficar dentro do mundo do Zendesk e ver todas as informações de que precisamos. A integração com o Shopify aumentou nossa eficiência em 15%".</p>
+  <p>A equipe também oferece suporte por chat em tempo real com o Zendesk Chat, ajudando a evitar alguns tickets, o que é ótimo para uma caixa de entrada que, às vezes, parece estar estourando de cheia. "Conforme crescemos, sem o chat, nosso volume de email cresce de 10 a 15% anualmente", explica Varney. "No entanto, nos últimos dois anos de uso do Chat, percebemos uma diminuição drástica no nosso volume de email. Um número cada vez maior de clientes prefere usar o chat para obter uma resposta imediata para perguntas simples".</p>
+
+  <p>Só nos EUA, a equipe de Varney resolveu 230.000 tickets em 2016. Desse total, 58.000 eram do chat e 5.000 eram mensagens do Facebook, outro canal em franco crescimento. O índice de satisfação do cliente médio da equipe chegou a 93% de avaliações positivas. "Ficamos muito felizes com isso", disse Varney.</p>
+
+  <p>Como uma marca de estilo de vida com muitos seguidores, a equipe agora lida com um volume grande de solicitações de sua loja de varejo online. Antigamente, a equipe entrava em várias plataformas para coletar todas as informações pertinentes sobre as solicitações de um cliente. Agora, com a integração do Shopify ao Zendesk Support, a Spartan Race centralizou seus dados do atendimento ao cliente e comércio eletrônico. "Fizemos uma festa após a integração", disse Varney. "Agora, podemos ficar dentro do mundo do Zendesk e ver todas as informações de que precisamos. A integração com o Shopify aumentou nossa eficiência em 15%".</p>
 </section>
 <section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/spartan%20race%204.jpg"></section>
 <section>
-<p>Além disso, após adicionar o canal de chat em tempo real à sua loja online, a Spartan Race viu um aumento de 27% nas vendas no varejo e uma classificação de satisfação do cliente de 97% para contatos por chat em tempo real. Varney acrescentou: "estamos resolvendo tickets mais rapidamente e os clientes estão muito satisfeitos com essa velocidade".</p>
-<p>Com o crescimento contínuo da Spartan Race, a equipe de Varney planeja otimizar seu atendimento traduzindo os tickets e o conteúdo da Central de Ajuda para os idiomas locais dos corredores. Ela também gosta da facilidade de atualização da seção de Perguntas frequentes, dispensando a ajuda de um desenvolvedor web. "Os produtos Zendesk têm facilitado minha vida", disse Varney, "porque, quando estou tentando descobrir como fazer alguma coisa, eles sempre parecem ser a solução. O Shopify é um grande exemplo. Com essa integração, vimos um aumento imediato da produtividade do agente. A experiência tem sido muito positiva".</p>
+  <p>Além disso, após adicionar o canal de chat em tempo real à sua loja online, a Spartan Race viu um aumento de 27% nas vendas no varejo e uma classificação de satisfação do cliente de 97% para contatos por chat em tempo real. Varney acrescentou: "estamos resolvendo tickets mais rapidamente e os clientes estão muito satisfeitos com essa velocidade".</p>
+
+  <p>Com o crescimento contínuo da Spartan Race, a equipe de Varney planeja otimizar seu atendimento traduzindo os tickets e o conteúdo da Central de Ajuda para os idiomas locais dos corredores. Ela também gosta da facilidade de atualização da seção de Perguntas frequentes, dispensando a ajuda de um desenvolvedor web. "Os produtos Zendesk têm facilitado minha vida", disse Varney, "porque, quando estou tentando descobrir como fazer alguma coisa, eles sempre parecem ser a solução. O Shopify é um grande exemplo. Com essa integração, vimos um aumento imediato da produtividade do agente. A experiência tem sido muito positiva".</p>
 </section>
 </div></div><section class="quote">
 
@@ -2992,7 +3002,8 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
 
 </section>]]></content:encoded>
 
-    <excerpt:encoded><![CDATA[A Spartan Race cortou drasticamente seus tempos de resposta com o Zendesk Support
+    <excerpt:encoded><![CDATA[A Spartan Race começou nas colinas verdejantes de Vermont como uma corrida única.
+
 ]]></excerpt:encoded>
     <wp:post_id>201900014</wp:post_id>
     <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
@@ -3033,7 +3044,8 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
-      <wp:meta_value><![CDATA[A Spartan Race cortou drasticamente seus tempos de resposta com o Zendesk Support
+      <wp:meta_value><![CDATA[A Spartan Race começou nas colinas verdejantes de Vermont como uma corrida única.
+
 ]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
@@ -3092,7 +3104,8 @@ Você encontrou a casa dos seus sonhos, com tudo o que deseja: muitos banheiros 
 
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
-			<wp:meta_value><![CDATA[A Spartan Race cortou drasticamente seus tempos de resposta com o Zendesk Support
+			<wp:meta_value><![CDATA[A Spartan Race começou nas colinas verdejantes de Vermont como uma corrida única.
+
 ]]></wp:meta_value>
 		</wp:postmeta>
     <wp:postmeta>
