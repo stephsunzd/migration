@@ -31,7 +31,7 @@
 
 	<generator>https://wordpress.org/?v=4.7.3</generator>
 
-  
+
   <item>
     <title>** Formatação **, onde você mais precisa. Apresentando: Zendesk WYSIWYG</title>
     <link>https://recursos.zendesk.com.br/blog/formatação-onde-você-mais-precisa-apresentando-zendesk-wysiwyg/</link>
@@ -39,7 +39,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/formatação-onde-você-mais-precisa-apresentando-zendesk-wysiwyg</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <div style="text-align: center;"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/blog/WYSIWYG-soup%20%402x.png"></div>
 
@@ -50,7 +50,7 @@
 <div> </div>
 
 <div>
-<a href="https://support.zendesk.com/hc/pt-br/articles/203690856-Gerenciamento-de-tickets?_ga=2.82476383.851976317.1504276879-1648710460.1504097781">Melhorar a experiência do agente</a> (e facilitar o uso de gifs) foi a nossa luz orientadora na concepção do novo recurso Zendesk “Rich outbound content for agents” (também conhecido como WYSIWYG: what you see is what you get, em português “o que você vê é o que você obtém“). Com esse recurso, agora os agentes podem formatar comentários da mesma forma que fariam em um e-mail ou documento word, sem o incômodo de usar markdown syntax. Nós também facilitamos significativamente incorporar imagens e anexar arquivos (que comece o desfile de memes).</div>
+<a href="https://support.zendesk.com/hc/pt-br/articles/203690856-Gerenciamento-de-tickets">Melhorar a experiência do agente</a> (e facilitar o uso de gifs) foi a nossa luz orientadora na concepção do novo recurso Zendesk “Rich outbound content for agents” (também conhecido como WYSIWYG: what you see is what you get, em português “o que você vê é o que você obtém“). Com esse recurso, agora os agentes podem formatar comentários da mesma forma que fariam em um e-mail ou documento word, sem o incômodo de usar markdown syntax. Nós também facilitamos significativamente incorporar imagens e anexar arquivos (que comece o desfile de memes).</div>
 
 <div> </div>
 
@@ -93,13 +93,13 @@
 
 <div> </div>
 
-<div><a href="https://support.zendesk.com/hc/pt-br?_ga=2.86365521.851976317.1504276879-1648710460.1504097781">Entre nos nossos fóruns para aprender mais sobre as novas opções de formatação disponíveis.</a></div>
+<div><a href="https://support.zendesk.com/hc/pt-br">Entre nos nossos fóruns para aprender mais sobre as novas opções de formatação disponíveis.</a></div>
 </div>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[  Como agente de suporte ao cliente, você passa o dia resolvendo problemas.]]></excerpt:encoded>
     <wp:post_id>363442937</wp:post_id>
     <wp:post_date><![CDATA[2017-09-01 23:20:02]]></wp:post_date>
@@ -113,7 +113,7 @@
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -179,7 +179,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -304,9 +304,9 @@
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>10 livros para melhorar a experiência do cliente em 2018</title>
     <link>https://recursos.zendesk.com.br/blog/10-livros-para-melhorar-a-experiência-do-cliente-em-2018/</link>
@@ -314,7 +314,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/10-livros-para-melhorar-a-experiência-do-cliente-em-2018</guid>
     <description>A experiência do cliente sempre pode melhorar. Confira 10 livros que a Zendesk acha que vão ajudar você.</description>
-    
+
     <content:encoded><![CDATA[
             <p style="text-align: justify;"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/br/br-421897239-0.png"></p>
 
@@ -367,10 +367,10 @@ Publicada há menos de dois anos, esta obra apresenta diferentes conceitos teór
 
 <p><strong>E aí, você com a nossa lista? Tem outras sugestões de livros? Compartilhe no Twitter <a href="https://twitter.com/ZendeskLATAM">@ZendeskLATAM </a>da Zendesk com a hashtag #CustomerExperienceBooks.</strong></p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[A experiência do cliente sempre pode melhorar. Confira 10 livros que a Zendesk acha que vão ajudar você.]]></excerpt:encoded>
     <wp:post_id>421897239</wp:post_id>
     <wp:post_date><![CDATA[2018-04-03 14:09:52]]></wp:post_date>
@@ -384,43 +384,43 @@ Publicada há menos de dois anos, esta obra apresenta diferentes conceitos teór
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atendimento-ao-cliente"><![CDATA[atendimento ao cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atendimento-ao-cliente"><![CDATA[atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atendimento"><![CDATA[atendimento]]></category>
-    
+
     <category domain="post_tag" nicename="atendimento"><![CDATA[atendimento]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="cliente"><![CDATA[cliente]]></category>
-    
+
     <category domain="post_tag" nicename="cliente"><![CDATA[cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="experi-ncia-do-cliente"><![CDATA[experiência do cliente]]></category>
-    
+
     <category domain="post_tag" nicename="experi-ncia-do-cliente"><![CDATA[experiência do cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="experi-ncia"><![CDATA[experiência]]></category>
-    
+
     <category domain="post_tag" nicename="experi-ncia"><![CDATA[experiência]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="servi-o-ao-cliente"><![CDATA[serviço ao cliente]]></category>
-    
+
     <category domain="post_tag" nicename="servi-o-ao-cliente"><![CDATA[serviço ao cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="servi-o"><![CDATA[serviço]]></category>
-    
+
     <category domain="post_tag" nicename="servi-o"><![CDATA[serviço]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="livro"><![CDATA[livro]]></category>
-    
+
     <category domain="post_tag" nicename="livro"><![CDATA[livro]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -486,7 +486,7 @@ Publicada há menos de dois anos, esta obra apresenta diferentes conceitos teór
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -611,9 +611,9 @@ Publicada há menos de dois anos, esta obra apresenta diferentes conceitos teór
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>10 mudanças que a Inteligência Artificial provoca na experiência do consumidor</title>
     <link>https://recursos.zendesk.com.br/blog/10-mudanças-que-a-inteligência-artificial-provoca-na-experiência-do-consumidor-2/</link>
@@ -621,7 +621,7 @@ Publicada há menos de dois anos, esta obra apresenta diferentes conceitos teór
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/10-mudanças-que-a-inteligência-artificial-provoca-na-experiência-do-consumidor-2</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <p>Para quem nunca acreditou nas bolas de cristal, chegou o momento de crer nas adivinhações pautadas em projeções feitas por meio da Inteligência Artificial. Isso mesmo!Será possível, praticamente, adivinhar os desejos do consumidor e, com isso, aprimorar o relacionamento com o cliente, gerando uma experiência positiva com a marca.</p>
 
@@ -631,10 +631,10 @@ Publicada há menos de dois anos, esta obra apresenta diferentes conceitos teór
 
 <p style="text-align: center;"><img alt="" src="https://zen-marketing-pt.s3.amazonaws.com/pt/WP25_O-que-muda-na-experi%C3%AAncia-do-consumidor-com-a-IA.png"></p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Para quem nunca acreditou nas bolas de cristal, chegou o momento de crer nas adivinhações pautadas em projeções feitas por meio da Inteligência Artificial.]]></excerpt:encoded>
     <wp:post_id>362811815</wp:post_id>
     <wp:post_date><![CDATA[2017-08-30 14:04:14]]></wp:post_date>
@@ -648,7 +648,7 @@ Publicada há menos de dois anos, esta obra apresenta diferentes conceitos teór
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -714,7 +714,7 @@ Publicada há menos de dois anos, esta obra apresenta diferentes conceitos teór
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -839,9 +839,9 @@ Publicada há menos de dois anos, esta obra apresenta diferentes conceitos teór
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>3 lições do NRF - Big Show de varejo em Nova York</title>
     <link>https://recursos.zendesk.com.br/blog/3-lições-do-nrf-big-show-de-varejo-em-nova-york/</link>
@@ -849,7 +849,7 @@ Publicada há menos de dois anos, esta obra apresenta diferentes conceitos teór
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/3-lições-do-nrf-big-show-de-varejo-em-nova-york</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <p><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/blog/1_Series%20headers/retail_series.jpg" style="width: 680px; height: 360px;"></p>
 
@@ -879,10 +879,10 @@ Em sua palestra, Danny Meyer deu adeus à comoditização de restaurantes e loja
 
 <p>Se você perdeu a NRF este ano, não precisa esperar até 2018 para se conectar, conheça como a Zendesk vem ajudando a grandes varejistas a oferecer um melhor atendimento <a href="https://www.zendesk.com.br/recursos/ideias-brilhantes-historia-de-sucesso-de-clientes-de-varejo/">aqui&gt;&gt;</a>, separamos também <a href="https://www.zendesk.com.br/recursos/guia-de-sucesso-atendimento-ao-cliente-omnichannel-para-varejistas/">aqui um guia de sucesso no atendimento ao cliente omnichannel para varejista.</a></p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[A National Retail Federation (NRF) trouxe grandes palestrantes para seu Big Show 2017, realizado recentemente em Nova York.]]></excerpt:encoded>
     <wp:post_id>336549945</wp:post_id>
     <wp:post_date><![CDATA[2017-03-23 0:00:00]]></wp:post_date>
@@ -896,7 +896,7 @@ Em sua palestra, Danny Meyer deu adeus à comoditização de restaurantes e loja
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -962,7 +962,7 @@ Em sua palestra, Danny Meyer deu adeus à comoditização de restaurantes e loja
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -1087,9 +1087,9 @@ Em sua palestra, Danny Meyer deu adeus à comoditização de restaurantes e loja
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>4 dicas para reduzir a taxa de desistência de clientes</title>
     <link>https://recursos.zendesk.com.br/blog/4-dicas-para-reduzir-a-taxa-de-desistência-de-clientes/</link>
@@ -1097,7 +1097,7 @@ Em sua palestra, Danny Meyer deu adeus à comoditização de restaurantes e loja
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/4-dicas-para-reduzir-a-taxa-de-desistência-de-clientes</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <p style="text-align: center;"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/blog/brand_blog.png" style="width: 680px; height: 360px;"></p>
 
@@ -1139,10 +1139,10 @@ Outro esforço que não deve esmorecer nunca é o tempo de resposta: cada vez ma
 <hr>
 <p>Como está a taxa de churn rate da sua empresa?</p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Uma das maiores dores de cabeças das empresas é a taxa de desistência dos seus clientes.]]></excerpt:encoded>
     <wp:post_id>363431420</wp:post_id>
     <wp:post_date><![CDATA[2016-09-14 22:08:00]]></wp:post_date>
@@ -1156,7 +1156,7 @@ Outro esforço que não deve esmorecer nunca é o tempo de resposta: cada vez ma
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -1222,7 +1222,7 @@ Outro esforço que não deve esmorecer nunca é o tempo de resposta: cada vez ma
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -1347,9 +1347,9 @@ Outro esforço que não deve esmorecer nunca é o tempo de resposta: cada vez ma
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>4 temas que vão liderar a experiência dos clientes em 2019</title>
     <link>https://recursos.zendesk.com.br/blog/4-temas-que-vao-liderar-a-experiencia-dos-clientes-em-2019/</link>
@@ -1357,7 +1357,7 @@ Outro esforço que não deve esmorecer nunca é o tempo de resposta: cada vez ma
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/4-temas-que-vao-liderar-a-experiencia-dos-clientes-em-2019</guid>
     <description>Zendesk aponta estratégias para melhorar a relação entre empresas e consumidores</description>
-    
+
     <content:encoded><![CDATA[
             <p dir="ltr"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/br/br-488894441-0.png" style="width: 800px; height: 424px;"></p>
 
@@ -1390,10 +1390,10 @@ Outro esforço que não deve esmorecer nunca é o tempo de resposta: cada vez ma
 
 <div> </div>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Zendesk aponta estratégias para melhorar a relação entre empresas e consumidores]]></excerpt:encoded>
     <wp:post_id>488894441</wp:post_id>
     <wp:post_date><![CDATA[2018-12-27 13:45:53]]></wp:post_date>
@@ -1407,19 +1407,19 @@ Outro esforço que não deve esmorecer nunca é o tempo de resposta: cada vez ma
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="experi-ncia-do-cliente"><![CDATA[experiência do cliente]]></category>
-    
+
     <category domain="post_tag" nicename="experi-ncia-do-cliente"><![CDATA[experiência do cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="2019"><![CDATA[2019]]></category>
-    
+
     <category domain="post_tag" nicename="2019"><![CDATA[2019]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="tips"><![CDATA[tips]]></category>
-    
+
     <category domain="post_tag" nicename="tips"><![CDATA[tips]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -1485,7 +1485,7 @@ Outro esforço que não deve esmorecer nunca é o tempo de resposta: cada vez ma
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -1610,9 +1610,9 @@ Outro esforço que não deve esmorecer nunca é o tempo de resposta: cada vez ma
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>5 formas de escalar o suporte a clientes sem aumentar a equipe</title>
     <link>https://recursos.zendesk.com.br/blog/5-formas-de-escalar-o-suporte-a-clientes-sem-aumentar-a-equipe/</link>
@@ -1620,7 +1620,7 @@ Outro esforço que não deve esmorecer nunca é o tempo de resposta: cada vez ma
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/5-formas-de-escalar-o-suporte-a-clientes-sem-aumentar-a-equipe</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <p style="text-align: center;"><img alt="" src="https://d16cvnquvjw7pr.cloudfront.net/images/blog-photos-new/VirtualTeams_blog.png"></p>
 
@@ -1663,10 +1663,10 @@ Outro esforço que não deve esmorecer nunca é o tempo de resposta: cada vez ma
 <hr>
 <p>Você gostou destas dicas? Conheça agora a melhor solução do mercado para atendimento e suporte ao cliente. <a href="https://www.zendesk.com.br/register/#getstarted">Clique aqui para experimentar as soluções da Zendesk!</a></p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[À medida que o negócio cresce, aumenta o número de clientes e também as demandas de atendimento e suporte.]]></excerpt:encoded>
     <wp:post_id>363431348</wp:post_id>
     <wp:post_date><![CDATA[2017-09-01 22:04:46]]></wp:post_date>
@@ -1680,7 +1680,7 @@ Outro esforço que não deve esmorecer nunca é o tempo de resposta: cada vez ma
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -1746,7 +1746,7 @@ Outro esforço que não deve esmorecer nunca é o tempo de resposta: cada vez ma
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -1871,9 +1871,9 @@ Outro esforço que não deve esmorecer nunca é o tempo de resposta: cada vez ma
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>5 palestras do TED para repensar a experiência do cliente</title>
     <link>https://recursos.zendesk.com.br/blog/5-palestras-do-ted-para-repensar-a-experiência-do-cliente/</link>
@@ -1881,7 +1881,7 @@ Outro esforço que não deve esmorecer nunca é o tempo de resposta: cada vez ma
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/5-palestras-do-ted-para-repensar-a-experiência-do-cliente</guid>
     <description>A experiência do cliente está em toda parte, inclusive nas palestras do TED. Veja aqui as 5 palestras que a Zendesk mais curtiu.</description>
-    
+
     <content:encoded><![CDATA[
             <p>Com certeza, você já ouviu falar das <a href="https://www.ted.com/talks?language=pt-br">palestras do TED</a>, rápidas e potentes, que abrangem quase todos os temas e ajudam a divulgar ideias inovadoras no mundo todo. E, com certeza, você também já ouviu falar da importância da <a href="https://recursos.zendesk.com.br/recursos/guia-atendimento-consumidor-brasileiro">experiência do cliente</a> no mundo dos negócios.</p>
 
@@ -1931,10 +1931,10 @@ Outro esforço que não deve esmorecer nunca é o tempo de resposta: cada vez ma
 
 <p><strong>Saiba mais sobre os produtos de atendimento ao cliente da Zendesk no nosso <a href="https://www.zendesk.com.br/">site</a>.</strong></p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[A experiência do cliente está em toda parte, inclusive nas palestras do TED. Veja aqui as 5 palestras que a Zendesk mais curtiu.]]></excerpt:encoded>
     <wp:post_id>421685730</wp:post_id>
     <wp:post_date><![CDATA[2018-04-04 19:45:14]]></wp:post_date>
@@ -1948,31 +1948,31 @@ Outro esforço que não deve esmorecer nunca é o tempo de resposta: cada vez ma
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="palestras-do-ted"><![CDATA[palestras do TED]]></category>
-    
+
     <category domain="post_tag" nicename="palestras-do-ted"><![CDATA[palestras do TED]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="palestra"><![CDATA[palestra]]></category>
-    
+
     <category domain="post_tag" nicename="palestra"><![CDATA[palestra]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="experi-ncia-do-cliente"><![CDATA[experiência do cliente]]></category>
-    
+
     <category domain="post_tag" nicename="experi-ncia-do-cliente"><![CDATA[experiência do cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="experi-ncia"><![CDATA[experiência]]></category>
-    
+
     <category domain="post_tag" nicename="experi-ncia"><![CDATA[experiência]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="cliente"><![CDATA[cliente]]></category>
-    
+
     <category domain="post_tag" nicename="cliente"><![CDATA[cliente]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2038,7 +2038,7 @@ Outro esforço que não deve esmorecer nunca é o tempo de resposta: cada vez ma
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -2163,9 +2163,9 @@ Outro esforço que não deve esmorecer nunca é o tempo de resposta: cada vez ma
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>5 tendências de Big Data que você precisa saber</title>
     <link>https://recursos.zendesk.com.br/blog/5-tendências-de-big-data-que-você-precisa-sabe/</link>
@@ -2173,7 +2173,7 @@ Outro esforço que não deve esmorecer nunca é o tempo de resposta: cada vez ma
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/5-tendências-de-big-data-que-você-precisa-sabe</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <p><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/blog/35-AI.png" style="width: 680px; height: 360px;"></p>
 
@@ -2206,10 +2206,10 @@ Em breve será possível controlar quase qualquer dispositivo usando comandos de
 
 <p>As decisões de negócio, cada vez mais, vão colocar o cliente no centro de tudo e trabalhar com as informações geradas por eles, via Big Data, é mandatório para a longevidade da empresa. Fique de olho nas tendências e eleve o relacionamento com o cliente da sua empresa para o próximo patamar. Conte com a <a href="https://www.zendesk.com.br/demo/">Zendesk</a> nessa jornada!</p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Com a transformação digital, o cliente passou a ser o foco da estratégia das empresas.]]></excerpt:encoded>
     <wp:post_id>363305105</wp:post_id>
     <wp:post_date><![CDATA[2017-09-01 11:29:30]]></wp:post_date>
@@ -2223,7 +2223,7 @@ Em breve será possível controlar quase qualquer dispositivo usando comandos de
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2289,7 +2289,7 @@ Em breve será possível controlar quase qualquer dispositivo usando comandos de
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -2414,9 +2414,9 @@ Em breve será possível controlar quase qualquer dispositivo usando comandos de
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>5 tendências de experiência do cliente em 2018</title>
     <link>https://recursos.zendesk.com.br/blog/5-tendencias-de-experiencia-do-cliente-em-2018/</link>
@@ -2424,7 +2424,7 @@ Em breve será possível controlar quase qualquer dispositivo usando comandos de
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/5-tendencias-de-experiencia-do-cliente-em-2018</guid>
     <description>Descubra as novas tendências em torno do atendimento ao cliente em 2018, e como prestar atenção a esses itens para ter clientes satisfeitos</description>
-    
+
     <content:encoded><![CDATA[
             <p><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/br/br-441940511-0.png"></p>
 
@@ -2484,10 +2484,10 @@ Reuben Yonatan é fundador e CEO da <a href="https://getvoip.com/">GetVoIP</a> e
 
 <p> </p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Descubra as novas tendências em torno do atendimento ao cliente em 2018, e como prestar atenção a esses itens para ter clientes satisfeitos]]></excerpt:encoded>
     <wp:post_id>441940511</wp:post_id>
     <wp:post_date><![CDATA[2018-06-18 15:04:29]]></wp:post_date>
@@ -2501,27 +2501,27 @@ Reuben Yonatan é fundador e CEO da <a href="https://getvoip.com/">GetVoIP</a> e
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="experi-ncia-do-cliente"><![CDATA[experiência do cliente]]></category>
-    
+
     <category domain="post_tag" nicename="experi-ncia-do-cliente"><![CDATA[experiência do cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="customer-support-software"><![CDATA[customer support software]]></category>
-    
+
     <category domain="post_tag" nicename="customer-support-software"><![CDATA[customer support software]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="software-de-atendimento"><![CDATA[software de atendimento]]></category>
-    
+
     <category domain="post_tag" nicename="software-de-atendimento"><![CDATA[software de atendimento]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="aten--o-ao-cliente"><![CDATA[Atenção ao cliente]]></category>
-    
+
     <category domain="post_tag" nicename="aten--o-ao-cliente"><![CDATA[Atenção ao cliente]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2587,7 +2587,7 @@ Reuben Yonatan é fundador e CEO da <a href="https://getvoip.com/">GetVoIP</a> e
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -2712,9 +2712,9 @@ Reuben Yonatan é fundador e CEO da <a href="https://getvoip.com/">GetVoIP</a> e
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>6 relacionamentos que você não deve estragar na “Startupland”</title>
     <link>https://recursos.zendesk.com.br/blog/6-relacionamentos-que-voce-nao-deve-estragar-na-startupland/</link>
@@ -2722,14 +2722,14 @@ Reuben Yonatan é fundador e CEO da <a href="https://getvoip.com/">GetVoIP</a> e
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/6-relacionamentos-que-voce-nao-deve-estragar-na-startupland</guid>
     <description>Segundo Mikkel Svane, CEO da Zendesk, “tudo se resume a relacionamentos”. Veja como em seis níveis diferentes.</description>
-    
+
     <content:encoded><![CDATA[
             <p><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/br/br-440367323-0.png"></p>
 
 <p> </p>
 
 <br>
-<p>Muita gente peca por não perceber a importância dos relacionamentos para uma startup. E não só os relacionamentos de trabalho, mas os pessoais também influenciam muito o sucesso da sua empresa. Já escrevi sobre a Zendesk para a <a href="https://www.ere.net/diversity-from-denmark-the-value-of-recruiting-collectivists-like-mikkel-svane/?_ga=2.189546923.1260633037.1522960362-1199993175.1522960362">ERE Media</a> e para o <a href="https://www.relode.com/?utm_medium=blog&amp;utm_source=startupland-blog&amp;utm_campaign=relationship-blog">Relode</a>, mas nunca sobre a Zendesk como startup. O CEO da Zendesk, Mikkel Svane, diz que o segredo do seu sucesso como startup foi o foco em fomentar relacionamentos saudáveis em todas as áreas. Com Svane e seu livro Startupland, aprendi por que os relacionamentos são fundamentais para o sucesso de uma startup e quais são os seis relacionamentos em que os empreendedores devem se concentrar.</p>
+<p>Muita gente peca por não perceber a importância dos relacionamentos para uma startup. E não só os relacionamentos de trabalho, mas os pessoais também influenciam muito o sucesso da sua empresa. Já escrevi sobre a Zendesk para a <a href="https://www.ere.net/diversity-from-denmark-the-value-of-recruiting-collectivists-like-mikkel-svane/">ERE Media</a> e para o <a href="https://www.relode.com/?utm_medium=blog&amp;utm_source=startupland-blog&amp;utm_campaign=relationship-blog">Relode</a>, mas nunca sobre a Zendesk como startup. O CEO da Zendesk, Mikkel Svane, diz que o segredo do seu sucesso como startup foi o foco em fomentar relacionamentos saudáveis em todas as áreas. Com Svane e seu livro Startupland, aprendi por que os relacionamentos são fundamentais para o sucesso de uma startup e quais são os seis relacionamentos em que os empreendedores devem se concentrar.</p>
 
 <p> </p>
 
@@ -2777,10 +2777,10 @@ Reuben Yonatan é fundador e CEO da <a href="https://getvoip.com/">GetVoIP</a> e
 
 <p> </p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Segundo Mikkel Svane, CEO da Zendesk, “tudo se resume a relacionamentos”. Veja como em seis níveis diferentes.]]></excerpt:encoded>
     <wp:post_id>440367323</wp:post_id>
     <wp:post_date><![CDATA[2018-06-11 15:02:29]]></wp:post_date>
@@ -2794,31 +2794,31 @@ Reuben Yonatan é fundador e CEO da <a href="https://getvoip.com/">GetVoIP</a> e
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="startup"><![CDATA[startup]]></category>
-    
+
     <category domain="post_tag" nicename="startup"><![CDATA[startup]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="relacionamento"><![CDATA[relacionamento]]></category>
-    
+
     <category domain="post_tag" nicename="relacionamento"><![CDATA[relacionamento]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="relacionamento-com-cliente"><![CDATA[relacionamento com cliente]]></category>
-    
+
     <category domain="post_tag" nicename="relacionamento-com-cliente"><![CDATA[relacionamento com cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="aten--o-ao-cliente"><![CDATA[Atenção ao cliente]]></category>
-    
+
     <category domain="post_tag" nicename="aten--o-ao-cliente"><![CDATA[Atenção ao cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="relode"><![CDATA[Relode]]></category>
-    
+
     <category domain="post_tag" nicename="relode"><![CDATA[Relode]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2884,7 +2884,7 @@ Reuben Yonatan é fundador e CEO da <a href="https://getvoip.com/">GetVoIP</a> e
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -3009,9 +3009,9 @@ Reuben Yonatan é fundador e CEO da <a href="https://getvoip.com/">GetVoIP</a> e
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>7 estratégias eficazes para fidelizar o cliente</title>
     <link>https://recursos.zendesk.com.br/blog/7-estratégias-eficazes-para-fidelizar-o-cliente/</link>
@@ -3019,7 +3019,7 @@ Reuben Yonatan é fundador e CEO da <a href="https://getvoip.com/">GetVoIP</a> e
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/7-estratégias-eficazes-para-fidelizar-o-cliente</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <p style="text-align: center;"><img alt="" src="https://d16cvnquvjw7pr.cloudfront.net/images/blog-photos-new/VirtualTeams_blog.png" style="width: 678px; height: 359px;"></p>
 
@@ -3063,10 +3063,10 @@ Já passou do tempo em que precisávamos confiar apenas na cabeça e no papel. A
 
 <p><strong>Você já investe na fidelização de clientes?</strong></p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Se alguém tivesse que eleger a maior riqueza dentro de uma organização, indiferente do seu tamanho ou da sua área de atuação, com certeza, seria o cliente fiel]]></excerpt:encoded>
     <wp:post_id>363436592</wp:post_id>
     <wp:post_date><![CDATA[2015-09-17 22:34:00]]></wp:post_date>
@@ -3080,7 +3080,7 @@ Já passou do tempo em que precisávamos confiar apenas na cabeça e no papel. A
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -3146,7 +3146,7 @@ Já passou do tempo em que precisávamos confiar apenas na cabeça e no papel. A
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -3271,9 +3271,9 @@ Já passou do tempo em que precisávamos confiar apenas na cabeça e no papel. A
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>8 dicas e 3 motivos para você melhorar o atendimento sempre</title>
     <link>https://recursos.zendesk.com.br/blog/8-dicas-e-3-motivos-para-você-melhorar-o-atendimento-sempre/</link>
@@ -3281,7 +3281,7 @@ Já passou do tempo em que precisávamos confiar apenas na cabeça e no papel. A
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/8-dicas-e-3-motivos-para-você-melhorar-o-atendimento-sempre</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <p style="text-align: center;"><img alt="" src="https://zen-marketing-pt.s3.amazonaws.com/pt/blog/AutorConvidado.png"></p>
 
@@ -3335,10 +3335,10 @@ Já passou do tempo em que precisávamos confiar apenas na cabeça e no papel. A
 
 <p>* Este post foi escrito pelos nossos parceiros da <a href="http://www.wedologos.com.br/3/">We do Logos</a>, o maior site de concorrência criativa da América Latina. Muito mais que um excelente site para criar logomarca, através da <a href="http://www.wedologos.com.br/3/">We do Logos</a> você pode solucionar qualquer demanda de design, como folders, e-mail marketing ou até mesmo a criação do nome da sua empresa e muito mais.</p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Melhorar o atendimento ao cliente é algo que todo empresário deve buscar sempre.]]></excerpt:encoded>
     <wp:post_id>364984319</wp:post_id>
     <wp:post_date><![CDATA[2017-09-08 8:28:58]]></wp:post_date>
@@ -3352,7 +3352,7 @@ Já passou do tempo em que precisávamos confiar apenas na cabeça e no papel. A
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -3418,7 +3418,7 @@ Já passou do tempo em que precisávamos confiar apenas na cabeça e no papel. A
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -3543,9 +3543,9 @@ Já passou do tempo em que precisávamos confiar apenas na cabeça e no papel. A
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>8 dicas para melhorar a experiência do cliente</title>
     <link>https://recursos.zendesk.com.br/blog/8-dicas-para-melhorar-a-experiência-do-cliente/</link>
@@ -3553,7 +3553,7 @@ Já passou do tempo em que precisávamos confiar apenas na cabeça e no papel. A
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/8-dicas-para-melhorar-a-experiência-do-cliente</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <p style="text-align: center;"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/blog/proactive-ebook-blog.png"></p>
 
@@ -3591,10 +3591,10 @@ Seja você o exemplo que quer ver na companhia e faça com seus clientes o que g
 
 <p><strong>Você tem alguma outra dica relacionada à experiência de compra do cliente? Compartilhe conosco!</strong></p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Transformar a experiência de compra do cliente em algo inesquecível deve estar na pauta número um de toda empresa.]]></excerpt:encoded>
     <wp:post_id>363436745</wp:post_id>
     <wp:post_date><![CDATA[2015-08-01 22:40:00]]></wp:post_date>
@@ -3608,7 +3608,7 @@ Seja você o exemplo que quer ver na companhia e faça com seus clientes o que g
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -3674,7 +3674,7 @@ Seja você o exemplo que quer ver na companhia e faça com seus clientes o que g
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -3799,9 +3799,9 @@ Seja você o exemplo que quer ver na companhia e faça com seus clientes o que g
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>8 razões para manter bons relacionamentos com seus clientes</title>
     <link>https://recursos.zendesk.com.br/blog/8-razões-para-manter-bons-relacionamentos-com-seus-clientes/</link>
@@ -3809,7 +3809,7 @@ Seja você o exemplo que quer ver na companhia e faça com seus clientes o que g
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/8-razões-para-manter-bons-relacionamentos-com-seus-clientes</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <p style="text-align: center;"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/blog/community_hands-02.jpg"></p>
 
@@ -3850,10 +3850,10 @@ O cliente tem que ter muitas opções para falar com a sua companhia. E-mail, re
 
 <p>E então? O que acha de começar a praticar um atendimento focado no relacionamento de longo prazo a partir de agora? </p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Muito se fala, hoje em dia, sobre a importância da qualidade do produto ou serviço que entregamos aos clientes.]]></excerpt:encoded>
     <wp:post_id>364979486</wp:post_id>
     <wp:post_date><![CDATA[2017-09-08 8:05:18]]></wp:post_date>
@@ -3867,7 +3867,7 @@ O cliente tem que ter muitas opções para falar com a sua companhia. E-mail, re
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -3933,7 +3933,7 @@ O cliente tem que ter muitas opções para falar com a sua companhia. E-mail, re
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -4058,9 +4058,9 @@ O cliente tem que ter muitas opções para falar com a sua companhia. E-mail, re
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>A Biva confiou na Zendesk e o resultado foi o melhor possível</title>
     <link>https://recursos.zendesk.com.br/blog/a-biva-confiou-na-zendesk-e-o-resultado-foi-o-melhor-possível/</link>
@@ -4068,7 +4068,7 @@ O cliente tem que ter muitas opções para falar com a sua companhia. E-mail, re
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/a-biva-confiou-na-zendesk-e-o-resultado-foi-o-melhor-possível</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <p style="text-align: justify;"><img alt="" src="https://zen-marketing-pt.s3.amazonaws.com/pt/blog/Biva-Sucesso.png"></p>
 
@@ -4096,10 +4096,10 @@ O cliente tem que ter muitas opções para falar com a sua companhia. E-mail, re
 
 <p style="text-align: justify;">Está mais que provado que a Zendesk torna o atendimento ao cliente das empresas mais fácil, organizado e com muitos recursos práticos e bastante úteis para além de atender o cliente, para, principalmente, ter uma relação próxima com eles.</p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[A premissa da Zendesk é sempre deixar seus clientes satisfeitos proporcionando o melhor serviço de atendimento ao cliente que uma empresa pode ter.]]></excerpt:encoded>
     <wp:post_id>364979432</wp:post_id>
     <wp:post_date><![CDATA[2017-09-08 8:00:28]]></wp:post_date>
@@ -4113,7 +4113,7 @@ O cliente tem que ter muitas opções para falar com a sua companhia. E-mail, re
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -4179,7 +4179,7 @@ O cliente tem que ter muitas opções para falar com a sua companhia. E-mail, re
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -4304,9 +4304,9 @@ O cliente tem que ter muitas opções para falar com a sua companhia. E-mail, re
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>A evolução das inovações para a experiência do cliente</title>
     <link>https://recursos.zendesk.com.br/blog/a-evolução-das-inovações-para-a-experiência-do-cliente/</link>
@@ -4314,13 +4314,13 @@ O cliente tem que ter muitas opções para falar com a sua companhia. E-mail, re
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/a-evolução-das-inovações-para-a-experiência-do-cliente</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <p style="text-align: center;"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/Relate/Retail_history_infographic_thumbnail.gif" style="width: 712px; height: 440px;"></p>
 
 <p>Vender seus produtos sem esforço tem sido o objetivo dos varejistas por séculos. Itens que usamos diariamente (como o recibo de 3000 a.C., os carrinhos de compras de 1937 e as listas de espera de 2010)  - são apenas alguns dos exemplos de maneiras que os varejistas tornam mais fáceis as experiências de compra de seus clientes.</p>
 
-<p>Aprenda mais sobre essas invenções do varejo e descubra o que aguarda o futuro do universo das compras <a href="https://relate.zendesk.com/articles/infographic_retail_innovation/?_ga=2.75569238.217990064.1504870045-1648710460.1504097781">nesse infográfico interativo do Relate</a>. As descobertas chave para cada período do tempo incluem:</p>
+<p>Aprenda mais sobre essas invenções do varejo e descubra o que aguarda o futuro do universo das compras <a href="https://relate.zendesk.com/articles/infographic_retail_innovation/">nesse infográfico interativo do Relate</a>. As descobertas chave para cada período do tempo incluem:</p>
 
 <p><strong>PASSADO (1800 A MEADOS DE 1900)</strong><br>
 No final do século iniciado em 1800, os lojistas compreenderam que quanto mais tempo seus clientes passavam dentro de suas lojas, mais eles se encontravam propensos para comprar. Consequentemente eles se dedicaram a desenvolver meios e produtos que melhoravam a experiência do cliente dentro da loja, mantendo seus clientes envolvidos durante todo o processo de compras.</p>
@@ -4336,10 +4336,10 @@ Seja bem vindo à era das compras 24 horas. A tecnologia está tornando cada vez
 <p><br>
 De que forma você tem contribuído para a experiência de compra de seu cliente? </p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Vender seus produtos sem esforço tem sido o objetivo dos varejistas por séculos. Itens que usamos diariamente (como o recibo de 3000 a.C.]]></excerpt:encoded>
     <wp:post_id>364980863</wp:post_id>
     <wp:post_date><![CDATA[2017-09-08 8:12:04]]></wp:post_date>
@@ -4353,7 +4353,7 @@ De que forma você tem contribuído para a experiência de compra de seu cliente
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -4419,7 +4419,7 @@ De que forma você tem contribuído para a experiência de compra de seu cliente
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -4544,9 +4544,9 @@ De que forma você tem contribuído para a experiência de compra de seu cliente
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>A evolução no modelo de atendimento ao cliente</title>
     <link>https://recursos.zendesk.com.br/blog/a-evolução-no-modelo-de-atendimento-ao-cliente/</link>
@@ -4554,7 +4554,7 @@ De que forma você tem contribuído para a experiência de compra de seu cliente
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/a-evolução-no-modelo-de-atendimento-ao-cliente</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <p>Para chegar à era multicanal, o atendimento ao cliente percorreu um longo caminho, e, nos últimos tempos mudou a velocidade, impulsionado pela transformação digital.</p>
 
@@ -4562,10 +4562,10 @@ De que forma você tem contribuído para a experiência de compra de seu cliente
 
 <p>Baixe sua cópia do <a href="https://zen-marketing-pt.s3.amazonaws.com/pt/MAI%20-%20IF%20-%2029%20-%20Zendesk%20-%20A%20evolu%C3%A7%C3%A3o%20no%20modelo%20de%20atendimento%20ao%20cliente.pdf">ebook aqui.</a></p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Para chegar à era multicanal, o atendimento ao cliente percorreu um longo caminho, e, nos últimos tempos mudou a velocidade, impulsionado pela transformação digital]]></excerpt:encoded>
     <wp:post_id>362252147</wp:post_id>
     <wp:post_date><![CDATA[2017-08-28 12:51:32]]></wp:post_date>
@@ -4579,7 +4579,7 @@ De que forma você tem contribuído para a experiência de compra de seu cliente
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -4645,7 +4645,7 @@ De que forma você tem contribuído para a experiência de compra de seu cliente
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -4770,9 +4770,9 @@ De que forma você tem contribuído para a experiência de compra de seu cliente
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>A evolução no modelo de atendimento ao cliente</title>
     <link>https://recursos.zendesk.com.br/blog/a-evolução-no-modelo-de-atendimento-ao-cliente-2/</link>
@@ -4780,7 +4780,7 @@ De que forma você tem contribuído para a experiência de compra de seu cliente
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/a-evolução-no-modelo-de-atendimento-ao-cliente-2</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <p style="text-align: center;"><img alt="" src="https://zen-marketing-pt.s3.amazonaws.com/pt/thumbnail_evolucao.jpg"></p>
 
@@ -4788,10 +4788,10 @@ De que forma você tem contribuído para a experiência de compra de seu cliente
 
 <p>Neste infográfico você entenderá visualmente como essas mudanças levaram à melhor versão do atendimento ao cliente. Da idade média, passando pela era do produto, até chegar à era do cliente o atendimento passou por profundas mudanças.</p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Para chegar à era multicanal, o atendimento ao cliente percorreu um longo caminho, e, nos últimos tempos mudou a velocidade, impulsionado pela transformação digital]]></excerpt:encoded>
     <wp:post_id>362761739</wp:post_id>
     <wp:post_date><![CDATA[2017-08-30 10:19:17]]></wp:post_date>
@@ -4805,7 +4805,7 @@ De que forma você tem contribuído para a experiência de compra de seu cliente
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -4871,7 +4871,7 @@ De que forma você tem contribuído para a experiência de compra de seu cliente
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -4996,9 +4996,9 @@ De que forma você tem contribuído para a experiência de compra de seu cliente
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>A história da Zendesk</title>
     <link>https://recursos.zendesk.com.br/blog/a-historia-da-zendesk/</link>
@@ -5006,7 +5006,7 @@ De que forma você tem contribuído para a experiência de compra de seu cliente
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/a-historia-da-zendesk</guid>
     <description>Timeline da história da Zendesk.</description>
-    
+
     <content:encoded><![CDATA[
             <p>Em 2017 a Zendesk completou 10 anos. Já conhece a nossa trajetória?</p>
 
@@ -5014,10 +5014,10 @@ De que forma você tem contribuído para a experiência de compra de seu cliente
 
 <p><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/br/br-393354847-0.png"></p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Timeline da história da Zendesk.]]></excerpt:encoded>
     <wp:post_id>393354847</wp:post_id>
     <wp:post_date><![CDATA[2017-12-21 15:47:54]]></wp:post_date>
@@ -5031,27 +5031,27 @@ De que forma você tem contribuído para a experiência de compra de seu cliente
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atendimento-ao-cliente"><![CDATA[atendimento ao cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atendimento-ao-cliente"><![CDATA[atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="experi-ncia-do-cliente"><![CDATA[experiência do cliente]]></category>
-    
+
     <category domain="post_tag" nicename="experi-ncia-do-cliente"><![CDATA[experiência do cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="customer-service"><![CDATA[Customer service]]></category>
-    
+
     <category domain="post_tag" nicename="customer-service"><![CDATA[Customer service]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="customer-support"><![CDATA[Customer support]]></category>
-    
+
     <category domain="post_tag" nicename="customer-support"><![CDATA[Customer support]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -5117,7 +5117,7 @@ De que forma você tem contribuído para a experiência de compra de seu cliente
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -5242,9 +5242,9 @@ De que forma você tem contribuído para a experiência de compra de seu cliente
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>A inovação não espera. Quem não se adapta, fica para trás.</title>
     <link>https://recursos.zendesk.com.br/blog/a-inovação-não-espera-quem-não-se-adapta-fica-para-trás/</link>
@@ -5252,7 +5252,7 @@ De que forma você tem contribuído para a experiência de compra de seu cliente
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/a-inovação-não-espera-quem-não-se-adapta-fica-para-trás</guid>
     <description>Tom Keiser, diretor de operações e informações da Zendesk, fala sobre as novas tendências que estão revolucionando a TI. Leia mais aqui.</description>
-    
+
     <content:encoded><![CDATA[
             <p><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/br/br-421676988-0.png"></p>
 
@@ -5270,10 +5270,10 @@ De que forma você tem contribuído para a experiência de compra de seu cliente
 
 <p style="text-align: justify;">No nosso blog, temos muito mais artigos sobre as novas tecnologias de atendimento ao cliente. <a href="https://recursos.zendesk.com.br/blog">Confira</a>!</p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Tom Keiser, diretor de operações e informações da Zendesk, fala sobre as novas tendências que estão revolucionando a TI. Leia mais aqui.]]></excerpt:encoded>
     <wp:post_id>421676988</wp:post_id>
     <wp:post_date><![CDATA[2018-04-02 19:06:45]]></wp:post_date>
@@ -5287,35 +5287,35 @@ De que forma você tem contribuído para a experiência de compra de seu cliente
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="atendimento-ao-cliente"><![CDATA[atendimento ao cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atendimento-ao-cliente"><![CDATA[atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="experi-ncia-do-cliente"><![CDATA[experiência do cliente]]></category>
-    
+
     <category domain="post_tag" nicename="experi-ncia-do-cliente"><![CDATA[experiência do cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="cliente"><![CDATA[cliente]]></category>
-    
+
     <category domain="post_tag" nicename="cliente"><![CDATA[cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atendimento"><![CDATA[atendimento]]></category>
-    
+
     <category domain="post_tag" nicename="atendimento"><![CDATA[atendimento]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="machine-learning"><![CDATA[machine learning]]></category>
-    
+
     <category domain="post_tag" nicename="machine-learning"><![CDATA[machine learning]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="experi-ncia"><![CDATA[experiência]]></category>
-    
+
     <category domain="post_tag" nicename="experi-ncia"><![CDATA[experiência]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -5381,7 +5381,7 @@ De que forma você tem contribuído para a experiência de compra de seu cliente
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -5506,9 +5506,9 @@ De que forma você tem contribuído para a experiência de compra de seu cliente
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>A recuperação econômica, as oportunidades que ela traz e como aproveitá-las</title>
     <link>https://recursos.zendesk.com.br/blog/a-recuperação-econômica-as-oportunidades-que-ela-traz-e-como-aproveitá-las/</link>
@@ -5516,7 +5516,7 @@ De que forma você tem contribuído para a experiência de compra de seu cliente
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/a-recuperação-econômica-as-oportunidades-que-ela-traz-e-como-aproveitá-las</guid>
     <description>Nos últimos três anos, a economia brasileira viveu sua mais profunda contração desde 1900. Naturalmente, isto gerou muito pessimismo com relação às expectativas para os próximos anos.</description>
-    
+
     <content:encoded><![CDATA[
             <p style="text-align: center;"><img alt="" src="https://zen-marketing-pt.s3.amazonaws.com/pt/Speakers/Speakers/RicardoAmori.png"></p>
 
@@ -5538,10 +5538,10 @@ Estando preparadas para responderem com agilidade à medida que a recuperação 
 <hr>
 <p><a href="http://www.ricamconsultoria.com.br/ricardo-amorim.php">Ricardo Amorim,</a> autor do bestseller <a href="http://www.saraiva.com.br/catalog/product/view/id/3744470">Depois da Tempestade</a>, apresentador do <a href="http://ricamconsultoria.com.br/news/previsoes/ricardo-amorim-preve-cratera-economica-nos-eua-em-2008-ou-2009">Manhattan Connection</a> da Globonews, único brasileiro entre os melhores <a href="http://www.ricamconsultoria.com.br/palestra-de-economia.php">palestrantes</a> mundiais do Speakers Corner e o economista mais influente do Brasil segundo a revista <a href="https://www.forbes.com/forbes/welcome/?toURL=http://www.forbes.com/sites/ricardogeromel/2014/08/15/meet-ricardo-amorim-brazils-most-influential-economist/&amp;refURL=&amp;referrer=">Forbes</a>.</p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Nos últimos três anos, a economia brasileira viveu sua mais profunda contração desde 1900.]]></excerpt:encoded>
     <wp:post_id>363395318</wp:post_id>
     <wp:post_date><![CDATA[2017-11-02 19:17:00]]></wp:post_date>
@@ -5555,7 +5555,7 @@ Estando preparadas para responderem com agilidade à medida que a recuperação 
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -5621,7 +5621,7 @@ Estando preparadas para responderem com agilidade à medida que a recuperação 
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -5746,9 +5746,9 @@ Estando preparadas para responderem com agilidade à medida que a recuperação 
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>A uberização do relacionamento com o cliente</title>
     <link>https://recursos.zendesk.com.br/blog/a-uberização-do-relacionamento-com-o-cliente/</link>
@@ -5756,7 +5756,7 @@ Estando preparadas para responderem com agilidade à medida que a recuperação 
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/a-uberização-do-relacionamento-com-o-cliente</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <p style="text-align: center;"><img alt="" src="https://zen-marketing-pt.s3.amazonaws.com/pt/blog/Marcio_Photo%20%281%29.jpg"></p>
 
@@ -5782,10 +5782,10 @@ Estando preparadas para responderem com agilidade à medida que a recuperação 
 
 <p>A maior parte dos líderes de serviço ao cliente tem entendido que esta é a melhor solução, a qual faz parte do atendimento uberizado, que trata o consumidor com respeito e inteligência, além de ser sempre individual e nada premeditada. Portanto, se planeja manter-se ou entrar no mercado, seja de qual segmento for, adquira o pensamento da uberização.</p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Uberização se tornou um termo recorrente no dia a dia não simplesmente fazendo menção ao serviço do Uber – alternativa de transporte privado-, mas também ilustrando a mudança no modo de consumo causada pela economia digital]]></excerpt:encoded>
     <wp:post_id>363404765</wp:post_id>
     <wp:post_date><![CDATA[2016-08-16 19:25:00]]></wp:post_date>
@@ -5799,7 +5799,7 @@ Estando preparadas para responderem com agilidade à medida que a recuperação 
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -5865,7 +5865,7 @@ Estando preparadas para responderem com agilidade à medida que a recuperação 
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -5990,9 +5990,9 @@ Estando preparadas para responderem com agilidade à medida que a recuperação 
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>A Zendesk no seu atendimento ao cliente</title>
     <link>https://recursos.zendesk.com.br/blog/a-zendesk-no-seu-atendimento-ao-cliente/</link>
@@ -6000,7 +6000,7 @@ Estando preparadas para responderem com agilidade à medida que a recuperação 
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/a-zendesk-no-seu-atendimento-ao-cliente</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <p>A transformação digital está por toda parte, seja por seu impacto no mercado, que precisa se reinventar para acompanhá-la, seja pelas mudanças comportamentais que vem provocando, criando novas formas de relacionamento e contato com o mundo.</p>
 
@@ -6023,10 +6023,10 @@ Estando preparadas para responderem com agilidade à medida que a recuperação 
 
 <p style="text-align: center;"><img alt="" src="https://zen-marketing-pt.s3.amazonaws.com/pt/WP21_Zendesk-no-seu-atendimento-1.png"></p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[A transformação digital está por toda parte, seja por seu impacto no mercado, que precisa se reinventar para acompanhá-la, seja pelas mudanças comportamentais que vem provocando, criando novas formas de relacionamento e contato com o mundo]]></excerpt:encoded>
     <wp:post_id>362810318</wp:post_id>
     <wp:post_date><![CDATA[2017-08-30 13:59:51]]></wp:post_date>
@@ -6040,7 +6040,7 @@ Estando preparadas para responderem com agilidade à medida que a recuperação 
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -6106,7 +6106,7 @@ Estando preparadas para responderem com agilidade à medida que a recuperação 
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -6231,9 +6231,9 @@ Estando preparadas para responderem com agilidade à medida que a recuperação 
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Adote uma estratégia omnichannel bem sucedida</title>
     <link>https://recursos.zendesk.com.br/blog/adote-uma-estratégia-omnichannel-bem-sucedida/</link>
@@ -6241,7 +6241,7 @@ Estando preparadas para responderem com agilidade à medida que a recuperação 
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/adote-uma-estratégia-omnichannel-bem-sucedida</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <p>Estar em todos os lugares. Ser onisciente, onipresente e onipotente. Parece coisa de fé ou literatura, mas é apenas o que a estratégia omnichannel traz de legado para o atendimento ao cliente. Estar em todos os canais de compra é a meta de todos os negócios depois que esse conceito passou a habitar o vocabulário empresarial. As empresas precisam dar resposta a esse poder de compra dos consumidores, espalhado entre diversos meios.</p>
 
@@ -6292,10 +6292,10 @@ Estando preparadas para responderem com agilidade à medida que a recuperação 
 
 <p>Sabe aquela informação difícil de encontrar? Aquele ticket perdido? A Zendesk pode dar uma mãozinha para que a sua empresa encontre um rumo na estratégia de relacionamento com o cliente. Na verdade, essa ajuda vem do Answer Bot, que pode se tornar o melhor amigo dos seus atendentes e da sua empresa na estratégia cross-channel e omnichannel. Veja se essa amizade flui! Faça o teste: www.zendesk.com.br/register</p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Estar em todos os lugares. Ser onisciente, onipresente e onipotente.]]></excerpt:encoded>
     <wp:post_id>362804984</wp:post_id>
     <wp:post_date><![CDATA[2017-08-30 13:49:35]]></wp:post_date>
@@ -6309,7 +6309,7 @@ Estando preparadas para responderem com agilidade à medida que a recuperação 
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -6375,7 +6375,7 @@ Estando preparadas para responderem com agilidade à medida que a recuperação 
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -6500,9 +6500,9 @@ Estando preparadas para responderem com agilidade à medida que a recuperação 
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Answer Bot da Zendesk, uma ferramenta que fala o seu idioma</title>
     <link>https://recursos.zendesk.com.br/blog/answer-bot-da-zendesk-uma-ferramenta-que-fala-o-seu-idioma/</link>
@@ -6510,7 +6510,7 @@ Estando preparadas para responderem com agilidade à medida que a recuperação 
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/answer-bot-da-zendesk-uma-ferramenta-que-fala-o-seu-idioma</guid>
     <description>O atendimento ao cliente ficou mais fácil com o Answer Bot da Zendesk, que responde as consultas dos clientes no idioma deles. Saiba mais.</description>
-    
+
     <content:encoded><![CDATA[
             <p style="text-align: justify;"><a href="https://d26a57ydsghvgx.cloudfront.net/content/migration/br/br-421911801-0.png"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/br/br-421911801-1.png" style="width: 1066px; height: 400px;"></a>Os clientes que precisam de suporte não têm a obrigação de saber falar inglês. Muito menos se estiverem procurando respostas instantâneas que ajudem a resolver uma dúvida ou um problema. O atendimento ao cliente precisava de uma "revolução idiomática", e a resposta chegou com o <a href="https://www.zendesk.com.br/answer-bot/">Answer Bot</a>, o assistente virtual da Zendesk, que agora também está disponível em espanhol e português.</p>
 
@@ -6524,10 +6524,10 @@ Estando preparadas para responderem com agilidade à medida que a recuperação 
 
 <p style="text-align: justify;"><strong>O Answer Bot está disponível em português a partir de 9 de janeiro de 2018. Saiba mais em <a href="https://www.zendesk.com.br/">www.zendesk.com.br</a>.</strong></p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[O atendimento ao cliente ficou mais fácil com o Answer Bot da Zendesk, que responde as consultas dos clientes no idioma deles. Saiba mais.]]></excerpt:encoded>
     <wp:post_id>421911801</wp:post_id>
     <wp:post_date><![CDATA[2018-04-03 14:25:51]]></wp:post_date>
@@ -6541,39 +6541,39 @@ Estando preparadas para responderem com agilidade à medida que a recuperação 
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="answer-bot"><![CDATA[answer bot]]></category>
-    
+
     <category domain="post_tag" nicename="answer-bot"><![CDATA[answer bot]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="resposta"><![CDATA[resposta]]></category>
-    
+
     <category domain="post_tag" nicename="resposta"><![CDATA[resposta]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atendimento-ao-cliente"><![CDATA[atendimento ao cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atendimento-ao-cliente"><![CDATA[atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atendimento"><![CDATA[atendimento]]></category>
-    
+
     <category domain="post_tag" nicename="atendimento"><![CDATA[atendimento]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="cliente"><![CDATA[cliente]]></category>
-    
+
     <category domain="post_tag" nicename="cliente"><![CDATA[cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="suporte"><![CDATA[suporte]]></category>
-    
+
     <category domain="post_tag" nicename="suporte"><![CDATA[suporte]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="servi-o-ao-cliente"><![CDATA[serviço ao cliente]]></category>
-    
+
     <category domain="post_tag" nicename="servi-o-ao-cliente"><![CDATA[serviço ao cliente]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -6639,7 +6639,7 @@ Estando preparadas para responderem com agilidade à medida que a recuperação 
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -6764,9 +6764,9 @@ Estando preparadas para responderem com agilidade à medida que a recuperação 
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Aposte em Atendimento Inteligente e personalize suas interações com o cliente</title>
     <link>https://recursos.zendesk.com.br/blog/aposte-em-atendimento-inteligente-e-personalize-suas-interações-com-o-cliente/</link>
@@ -6774,7 +6774,7 @@ Estando preparadas para responderem com agilidade à medida que a recuperação 
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/aposte-em-atendimento-inteligente-e-personalize-suas-interações-com-o-cliente</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <p style="text-align: center;"><img alt="" src="https://zen-marketing-pt.s3.amazonaws.com/pt/Fotos%20/DicasdeSucesso.png"></p>
 
@@ -6799,10 +6799,10 @@ Primeiro, procure compreender a fundo como os produtos e serviços oferecidos pe
 
 <p>Para elaborar todo esse cenário, é essencial investir em tecnologias para gerenciar esse marketing de relacionamento. Oferecer multiplataformas para que ele possa entrar em contato com a sua empresa é explorar um conceito chamado de atendimento inteligente. Além de poder escolher como falar com a sua empresa, por e-mail, web chat ou telefone, os colaboradores devem oferecer uma comunicação pessoal altamente personalizada – a melhor maneira de interagir com ele. </p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[De um lado, os clientes novos. De outro, os antigos. Todas as empresas que existem vivem desses dois fluxos.]]></excerpt:encoded>
     <wp:post_id>364982282</wp:post_id>
     <wp:post_date><![CDATA[2017-09-08 8:16:47]]></wp:post_date>
@@ -6816,7 +6816,7 @@ Primeiro, procure compreender a fundo como os produtos e serviços oferecidos pe
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -6882,7 +6882,7 @@ Primeiro, procure compreender a fundo como os produtos e serviços oferecidos pe
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -7007,9 +7007,9 @@ Primeiro, procure compreender a fundo como os produtos e serviços oferecidos pe
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Aprenda a navegar no universo da empatia</title>
     <link>https://recursos.zendesk.com.br/blog/aprenda-a-navegar-no-universo-da-empatia/</link>
@@ -7017,7 +7017,7 @@ Primeiro, procure compreender a fundo como os produtos e serviços oferecidos pe
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/aprenda-a-navegar-no-universo-da-empatia</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <p style="text-align: center;"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/blog/Relate-Zendesk-empathy.png"></p>
 
@@ -7081,11 +7081,11 @@ Primeiro, procure compreender a fundo como os produtos e serviços oferecidos pe
 
 <p><em>Suzanne Barnecut é uma produtora de conteúdos de marketing para a Zendesk e uma frequente colaboradora da Relate. Ela é fascinada com tecnologia, mas uma apaixonada por livros de papel e cartas feitas à mão. Encontre-a no twitter: @elisesuz</em></p>
 
-            	        
-	        
-	        
+
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[  As chances de que encontremos atos de empatia no nosso dia a dia são maiores do que imaginamos.]]></excerpt:encoded>
     <wp:post_id>364988309</wp:post_id>
     <wp:post_date><![CDATA[2017-09-08 8:53:37]]></wp:post_date>
@@ -7099,7 +7099,7 @@ Primeiro, procure compreender a fundo como os produtos e serviços oferecidos pe
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -7165,7 +7165,7 @@ Primeiro, procure compreender a fundo como os produtos e serviços oferecidos pe
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -7290,9 +7290,9 @@ Primeiro, procure compreender a fundo como os produtos e serviços oferecidos pe
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Apresentando o Satisfaction Prediction</title>
     <link>https://recursos.zendesk.com.br/blog/apresentando-o-satisfaction-prediction/</link>
@@ -7300,7 +7300,7 @@ Primeiro, procure compreender a fundo como os produtos e serviços oferecidos pe
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/apresentando-o-satisfaction-prediction</guid>
     <description>Agentes de suporte têm muitas tarefas a fazer. Eles devem responder a uma grande variedade de questões, constantemente flexionando seus músculos de resolução de problemas, ao mesmo tempo, e trabalhand</description>
-    
+
     <content:encoded><![CDATA[
             <div style="text-align: center;"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/blog/Csat_Blog_new.png" style="width: 700px; height: 360px; margin: 50px;"></div>
 
@@ -7342,10 +7342,10 @@ Primeiro, procure compreender a fundo como os produtos e serviços oferecidos pe
 <div>O Satisfaction Prediction já está disponível para os clientes no plano Enterprise.</div>
 </div>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Agentes de suporte têm muitas tarefas a fazer.]]></excerpt:encoded>
     <wp:post_id>363414080</wp:post_id>
     <wp:post_date><![CDATA[2017-08-02 20:19:00]]></wp:post_date>
@@ -7359,7 +7359,7 @@ Primeiro, procure compreender a fundo como os produtos e serviços oferecidos pe
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -7425,7 +7425,7 @@ Primeiro, procure compreender a fundo como os produtos e serviços oferecidos pe
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -7550,9 +7550,9 @@ Primeiro, procure compreender a fundo como os produtos e serviços oferecidos pe
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Apresentando o Zendesk Message</title>
     <link>https://recursos.zendesk.com.br/blog/bem-vindo-ao-mundo-de-mensagens-para-os-clientes-feitas-em-escala-apresentando-o-zendesk-message/</link>
@@ -7560,7 +7560,7 @@ Primeiro, procure compreender a fundo como os produtos e serviços oferecidos pe
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/bem-vindo-ao-mundo-de-mensagens-para-os-clientes-feitas-em-escala-apresentando-o-zendesk-message</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <p style="text-align: center;"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/blog/zendesk-message-blog-image.gif"></p>
 
@@ -7601,10 +7601,10 @@ O potencial do envio de mensagens como o canal de suporte tradicional para o cli
 
 <p>Nessa fase inicial nós vamos priorizar clientes que tem a intenção de migrar o uso de aplicativos de mensagem para uma escala maior, e que estão comprometidos a melhorar a jornada do consumidor utilizando as ferramentas de desenvolvimento do Facebook, como descrevemos acima.</p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[O potencial do envio de mensagens como o canal de suporte tradicional para o cliente não pode ser negado.]]></excerpt:encoded>
     <wp:post_id>363411452</wp:post_id>
     <wp:post_date><![CDATA[2017-09-01 20:04:16]]></wp:post_date>
@@ -7618,7 +7618,7 @@ O potencial do envio de mensagens como o canal de suporte tradicional para o cli
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -7684,7 +7684,7 @@ O potencial do envio de mensagens como o canal de suporte tradicional para o cli
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -7809,9 +7809,9 @@ O potencial do envio de mensagens como o canal de suporte tradicional para o cli
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>As 25 startups mais desejadas no Brasil</title>
     <link>https://recursos.zendesk.com.br/blog/as-25-startups-mais-desejadas-no-brasil/</link>
@@ -7819,7 +7819,7 @@ O potencial do envio de mensagens como o canal de suporte tradicional para o cli
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/as-25-startups-mais-desejadas-no-brasil</guid>
     <description>Das 25 startups brasileiras mais desejadas, segundo levantamento realizado pelo LinkedIn, muitas são clientes da Zendesk. Confira o ranking.</description>
-    
+
     <content:encoded><![CDATA[
             <p dir="ltr"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/br/br-468353126-0.png" style="width: 680px; height: 360px;"></p>
 
@@ -7847,10 +7847,10 @@ O potencial do envio de mensagens como o canal de suporte tradicional para o cli
 
 <div> </div>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Das 25 startups brasileiras mais desejadas, segundo levantamento realizado pelo LinkedIn, muitas são clientes da Zendesk. Confira o ranking.]]></excerpt:encoded>
     <wp:post_id>468353126</wp:post_id>
     <wp:post_date><![CDATA[2018-10-04 12:37:07]]></wp:post_date>
@@ -7864,19 +7864,19 @@ O potencial do envio de mensagens como o canal de suporte tradicional para o cli
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="startup"><![CDATA[startup]]></category>
-    
+
     <category domain="post_tag" nicename="startup"><![CDATA[startup]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="empresa"><![CDATA[empresa]]></category>
-    
+
     <category domain="post_tag" nicename="empresa"><![CDATA[empresa]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atendimento-ao-cliente"><![CDATA[atendimento ao cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atendimento-ao-cliente"><![CDATA[atendimento ao cliente]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -7942,7 +7942,7 @@ O potencial do envio de mensagens como o canal de suporte tradicional para o cli
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -8067,9 +8067,9 @@ O potencial do envio de mensagens como o canal de suporte tradicional para o cli
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>As consequências do mau atendimento ao cliente</title>
     <link>https://recursos.zendesk.com.br/blog/consequencias-do-mau-atendimento-ao-cliente/</link>
@@ -8077,7 +8077,7 @@ O potencial do envio de mensagens como o canal de suporte tradicional para o cli
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/consequencias-do-mau-atendimento-ao-cliente</guid>
     <description>Sabemos dos impactos qualitativos e anedóticos do mau atendimento ao cliente — a maioria pode facilmente lembrar-se da última vez que sofreu com isso. Mas, um recente relatório atualizado da Forrester</description>
-    
+
     <content:encoded><![CDATA[
             <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:30pt;"><span id="docs-internal-guid-cb09934f-93e7-8e9f-494f-ad524f6e0188"><span style='font-size: 14pt; font-family: "Proxima Nova"; color: rgb(54, 47, 45); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;'><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/br/br-380968603-0.png"></span></span></p>
 
@@ -8107,10 +8107,10 @@ O potencial do envio de mensagens como o canal de suporte tradicional para o cli
 
 <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:15pt;"><span id="docs-internal-guid-7383619d-db13-9a5e-d174-d6dc2970684f"><span style='font-size: 14pt; font-family: "Proxima Nova"; color: rgb(54, 47, 45); vertical-align: baseline; white-space: pre-wrap;'>Se suas intenções são boas, mas você ainda não implementou uma solução, não se preocupe. Você pode</span><a href="https://www.zendesk.com.br/blog/faq-page-design-savvy-self-service/" style="text-decoration-line: none;"><span style='font-size: 14pt; font-family: "Proxima Nova"; color: rgb(54, 47, 45); vertical-align: baseline; white-space: pre-wrap;'> </span><span style='font-size: 14pt; font-family: "Proxima Nova"; color: rgb(48, 170, 188); text-decoration-line: underline; vertical-align: baseline; white-space: pre-wrap;'>atualizar sua página de perguntas frequentes</span></a><span style='font-size: 14pt; font-family: "Proxima Nova"; color: rgb(54, 47, 45); vertical-align: baseline; white-space: pre-wrap;'> ou experimentar o</span><a href="https://www.zendesk.com.br/blog/video-can-enhance-self-service/" style="text-decoration-line: none;"><span style='font-size: 14pt; font-family: "Proxima Nova"; color: rgb(54, 47, 45); vertical-align: baseline; white-space: pre-wrap;'> </span><span style='font-size: 14pt; font-family: "Proxima Nova"; color: rgb(48, 170, 188); text-decoration-line: underline; vertical-align: baseline; white-space: pre-wrap;'>uso de vídeos para oferecer autoatendimento aos clientes</span></a><span style='font-size: 14pt; font-family: "Proxima Nova"; color: rgb(54, 47, 45); vertical-align: baseline; white-space: pre-wrap;'>, lhes proporcionando a possibilidade de autoajuda online.</span></span></p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Sabemos dos impactos qualitativos e anedóticos do mau atendimento ao cliente — a maioria pode facilmente lembrar-se da última vez que sofreu com isso.]]></excerpt:encoded>
     <wp:post_id>380968603</wp:post_id>
     <wp:post_date><![CDATA[2017-11-06 0:00:00]]></wp:post_date>
@@ -8124,23 +8124,23 @@ O potencial do envio de mensagens como o canal de suporte tradicional para o cli
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="-atendimentoaocliente"><![CDATA[#Atendimentoaocliente]]></category>
-    
+
     <category domain="post_tag" nicename="-atendimentoaocliente"><![CDATA[#Atendimentoaocliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-sac"><![CDATA[#SAC]]></category>
-    
+
     <category domain="post_tag" nicename="-sac"><![CDATA[#SAC]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-atendimento"><![CDATA[#Atendimento]]></category>
-    
+
     <category domain="post_tag" nicename="-atendimento"><![CDATA[#Atendimento]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="-cliente--zendesk"><![CDATA[#cliente #zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="-cliente--zendesk"><![CDATA[#cliente #zendesk]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -8206,7 +8206,7 @@ O potencial do envio de mensagens como o canal de suporte tradicional para o cli
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -8331,9 +8331,9 @@ O potencial do envio de mensagens como o canal de suporte tradicional para o cli
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>As marcas do varejo de moda investem em Zendesk para atendimento ao cliente</title>
     <link>https://recursos.zendesk.com.br/blog/marcas-varejo-moda-investem-zendesk-atendimento-ao-cliente/</link>
@@ -8341,7 +8341,7 @@ O potencial do envio de mensagens como o canal de suporte tradicional para o cli
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/marcas-varejo-moda-investem-zendesk-atendimento-ao-cliente</guid>
     <description>Descubra como os varejistas de moda Shoulder e Maria Filó investiram no Zendesk para melhorar seu atendimento ao cliente.</description>
-    
+
     <content:encoded><![CDATA[
             <p><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/br/br-437445791-0.png"></p>
 
@@ -8383,10 +8383,10 @@ O potencial do envio de mensagens como o canal de suporte tradicional para o cli
 
 <p><strong>Quer saber mais sobre como a Zendesk ajuda a criar as melhores experiências do cliente? <a href="https://recursos.zendesk.com.br/blog">Continue lendo o nosso blog</a>.</strong></p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Descubra como os varejistas de moda Shoulder e Maria Filó investiram no Zendesk para melhorar seu atendimento ao cliente.]]></excerpt:encoded>
     <wp:post_id>437445791</wp:post_id>
     <wp:post_date><![CDATA[2018-05-29 14:05:09]]></wp:post_date>
@@ -8400,51 +8400,51 @@ O potencial do envio de mensagens como o canal de suporte tradicional para o cli
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="shoulder"><![CDATA[Shoulder]]></category>
-    
+
     <category domain="post_tag" nicename="shoulder"><![CDATA[Shoulder]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="maria-filo"><![CDATA[Maria Filo]]></category>
-    
+
     <category domain="post_tag" nicename="maria-filo"><![CDATA[Maria Filo]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="fashion-week-brasil"><![CDATA[Fashion Week Brasil]]></category>
-    
+
     <category domain="post_tag" nicename="fashion-week-brasil"><![CDATA[Fashion Week Brasil]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="aten--o-ao-cliente"><![CDATA[Atenção ao cliente]]></category>
-    
+
     <category domain="post_tag" nicename="aten--o-ao-cliente"><![CDATA[Atenção ao cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atendimento-ao-cliente"><![CDATA[atendimento ao cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atendimento-ao-cliente"><![CDATA[atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="software-de-atendimento"><![CDATA[software de atendimento]]></category>
-    
+
     <category domain="post_tag" nicename="software-de-atendimento"><![CDATA[software de atendimento]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="customer-support-software"><![CDATA[customer support software]]></category>
-    
+
     <category domain="post_tag" nicename="customer-support-software"><![CDATA[customer support software]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="spfw"><![CDATA[SPFW]]></category>
-    
+
     <category domain="post_tag" nicename="spfw"><![CDATA[SPFW]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="sao-paulo"><![CDATA[Sao Paulo]]></category>
-    
+
     <category domain="post_tag" nicename="sao-paulo"><![CDATA[Sao Paulo]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="sao-paulo-fashion-week"><![CDATA[Sao Paulo Fashion Week]]></category>
-    
+
     <category domain="post_tag" nicename="sao-paulo-fashion-week"><![CDATA[Sao Paulo Fashion Week]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -8510,7 +8510,7 @@ O potencial do envio de mensagens como o canal de suporte tradicional para o cli
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -8635,9 +8635,9 @@ O potencial do envio de mensagens como o canal de suporte tradicional para o cli
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Atendimento ao cliente além dos tickets</title>
     <link>https://recursos.zendesk.com.br/blog/atendimento-ao-cliente-além-dos-tickets/</link>
@@ -8645,7 +8645,7 @@ O potencial do envio de mensagens como o canal de suporte tradicional para o cli
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/atendimento-ao-cliente-além-dos-tickets</guid>
     <description>Saiba como a plataforma Zendesk pode ajudar a gerenciar equipes de atendimento ao cliente e empresas com eficiência.</description>
-    
+
     <content:encoded><![CDATA[
             <h3><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/br/br-387192238-0.png"></h3>
 
@@ -8704,10 +8704,10 @@ O potencial do envio de mensagens como o canal de suporte tradicional para o cli
 Adicionar novos usuários do Zendesk a uma lista do Mailchimp: <a href="https://zapier.com/apps/mailchimp/integrations/zendesk/2826/add-zendesk-users-to-a-mailchimp-list">Usar este Zap</a><br>
 Adicionar novos <span style="color: rgb(85, 85, 85);">tickets</span> do Zendesk a Planilhas Google: <a href="https://zapier.com/apps/google-sheets/integrations/zendesk/2822/add-new-zendesk-tickets-to-google-sheets">Usar este Zap</a></p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Saiba como a plataforma Zendesk pode ajudar a gerenciar equipes de atendimento ao cliente e empresas com eficiência.]]></excerpt:encoded>
     <wp:post_id>387192238</wp:post_id>
     <wp:post_date><![CDATA[2017-11-29 12:07:00]]></wp:post_date>
@@ -8721,43 +8721,43 @@ Adicionar novos <span style="color: rgb(85, 85, 85);">tickets</span> do Zendesk 
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="atendimento-ao-cliente"><![CDATA[atendimento ao cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atendimento-ao-cliente"><![CDATA[atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="tickets"><![CDATA[tickets]]></category>
-    
+
     <category domain="post_tag" nicename="tickets"><![CDATA[tickets]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="automa--o"><![CDATA[automação]]></category>
-    
+
     <category domain="post_tag" nicename="automa--o"><![CDATA[automação]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="economia-de-tempo"><![CDATA[economia de tempo]]></category>
-    
+
     <category domain="post_tag" nicename="economia-de-tempo"><![CDATA[economia de tempo]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="efici-ncia"><![CDATA[eficiência]]></category>
-    
+
     <category domain="post_tag" nicename="efici-ncia"><![CDATA[eficiência]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="produtividade"><![CDATA[produtividade]]></category>
-    
+
     <category domain="post_tag" nicename="produtividade"><![CDATA[produtividade]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zapier"><![CDATA[zapier]]></category>
-    
+
     <category domain="post_tag" nicename="zapier"><![CDATA[zapier]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zaps"><![CDATA[zaps]]></category>
-    
+
     <category domain="post_tag" nicename="zaps"><![CDATA[zaps]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -8823,7 +8823,7 @@ Adicionar novos <span style="color: rgb(85, 85, 85);">tickets</span> do Zendesk 
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -8948,9 +8948,9 @@ Adicionar novos <span style="color: rgb(85, 85, 85);">tickets</span> do Zendesk 
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Atendimento ao cliente: o que muda com a inteligência artificial</title>
     <link>https://recursos.zendesk.com.br/blog/atendimento-ao-cliente-o-que-muda-com-a-inteligência-artificial/</link>
@@ -8958,7 +8958,7 @@ Adicionar novos <span style="color: rgb(85, 85, 85);">tickets</span> do Zendesk 
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/atendimento-ao-cliente-o-que-muda-com-a-inteligência-artificial</guid>
     <description>Entenda neste informativo, como é possível levar tornar o atendente mais poderoso, assim como entregar nas mãos do cliente a chave da solução de problemas.</description>
-    
+
     <content:encoded><![CDATA[
             <p>Compreender e solucionar desafios do relacionamento com o cliente pode ser aterrorizante, ainda mais se o atendente não tiver acesso às ferramentas certas. A inteligência artificial tem provado ser a melhor aliada neste cenário de mudanças em que a quantidade crescente de dados deixa de ser um desafio e se torna a maior aliada na solução de tickets.</p>
 
@@ -8970,10 +8970,10 @@ Adicionar novos <span style="color: rgb(85, 85, 85);">tickets</span> do Zendesk 
 
 <p style="text-align: center;"><img alt="" src="https://zen-marketing-pt.s3.amazonaws.com/pt/WP26_Intelig%C3%AAncia-artificial-no-atendimento-ao-cliente-1.png"></p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Entenda neste informativo, como é possível levar tornar o atendente mais poderoso, assim como entregar nas mãos do cliente a chave da solução de problemas.]]></excerpt:encoded>
     <wp:post_id>362810336</wp:post_id>
     <wp:post_date><![CDATA[2017-09-14 12:02:00]]></wp:post_date>
@@ -8987,7 +8987,7 @@ Adicionar novos <span style="color: rgb(85, 85, 85);">tickets</span> do Zendesk 
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -9053,7 +9053,7 @@ Adicionar novos <span style="color: rgb(85, 85, 85);">tickets</span> do Zendesk 
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -9178,9 +9178,9 @@ Adicionar novos <span style="color: rgb(85, 85, 85);">tickets</span> do Zendesk 
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Atendimento ao cliente: passado, presente e futuro</title>
     <link>https://recursos.zendesk.com.br/blog/atendimento-ao-cliente-passado-presente-e-futuro/</link>
@@ -9188,7 +9188,7 @@ Adicionar novos <span style="color: rgb(85, 85, 85);">tickets</span> do Zendesk 
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/atendimento-ao-cliente-passado-presente-e-futuro</guid>
     <description>O atendimento ao cliente evoluiu tanto em um século e meio que é até difícil de acreditar. Veja o caminho que percorremos até falar com robôs.</description>
-    
+
     <content:encoded><![CDATA[
             <p><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/br/br-398617076-0.png"></p>
 
@@ -9234,10 +9234,10 @@ Adicionar novos <span style="color: rgb(85, 85, 85);">tickets</span> do Zendesk 
 
 <p><strong>Não fique para trás. <a href="https://recursos.zendesk.com.br/recursos/zendesk-chat">Conheça o Zendesk Chat</a> e acompanhe o rumo do atendimento ao cliente. </strong></p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[O atendimento ao cliente evoluiu tanto em um século e meio que é até difícil de acreditar. Veja o caminho que percorremos até falar com robôs.]]></excerpt:encoded>
     <wp:post_id>398617076</wp:post_id>
     <wp:post_date><![CDATA[2018-01-10 13:19:15]]></wp:post_date>
@@ -9251,27 +9251,27 @@ Adicionar novos <span style="color: rgb(85, 85, 85);">tickets</span> do Zendesk 
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="atendimento-ao-cliente"><![CDATA[atendimento ao cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atendimento-ao-cliente"><![CDATA[atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="suporte"><![CDATA[suporte]]></category>
-    
+
     <category domain="post_tag" nicename="suporte"><![CDATA[suporte]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="servi-o-ao-cliente"><![CDATA[serviço ao cliente]]></category>
-    
+
     <category domain="post_tag" nicename="servi-o-ao-cliente"><![CDATA[serviço ao cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
-    
+
     <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -9337,7 +9337,7 @@ Adicionar novos <span style="color: rgb(85, 85, 85);">tickets</span> do Zendesk 
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -9462,9 +9462,9 @@ Adicionar novos <span style="color: rgb(85, 85, 85);">tickets</span> do Zendesk 
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Atendimento de excelência: 4 dicas do que fazer e do que não fazer</title>
     <link>https://recursos.zendesk.com.br/blog/atendimento-de-excelência-4-dicas-do-que-fazer-e-do-que-não-fazer/</link>
@@ -9472,7 +9472,7 @@ Adicionar novos <span style="color: rgb(85, 85, 85);">tickets</span> do Zendesk 
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/atendimento-de-excelência-4-dicas-do-que-fazer-e-do-que-não-fazer</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <p style="text-align: center;"><img alt="" src="https://zen-marketing-pt.s3.amazonaws.com/pt/Fotos%20/DicasdeSucesso.png" style="width: 680px; height: 359px;"></p>
 
@@ -9510,10 +9510,10 @@ A presteza em atender aos pedidos, consultas ou reclamações dos clientes é um
 
 <p>Esperamos que essas dicas tenham ajudado você a compreender a importância de um atendimento de qualidade. Quando um cliente sente-se bem atendido, ele é motivado a falar da sua marca.</p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[O atendimento ao cliente é a atenção que uma empresa ou negócio contempla aos seus clientes no momento de atender suas consultas, pedidos ou reclamações.]]></excerpt:encoded>
     <wp:post_id>364987850</wp:post_id>
     <wp:post_date><![CDATA[2017-09-08 8:43:22]]></wp:post_date>
@@ -9527,7 +9527,7 @@ A presteza em atender aos pedidos, consultas ou reclamações dos clientes é um
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -9593,7 +9593,7 @@ A presteza em atender aos pedidos, consultas ou reclamações dos clientes é um
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -9718,9 +9718,9 @@ A presteza em atender aos pedidos, consultas ou reclamações dos clientes é um
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Atendimento omnichannel: o cliente em primeiro lugar</title>
     <link>https://recursos.zendesk.com.br/blog/atendimento-omnichannel/</link>
@@ -9728,7 +9728,7 @@ A presteza em atender aos pedidos, consultas ou reclamações dos clientes é um
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/atendimento-omnichannel</guid>
     <description>A consistência na qualidade do atendimento ao cliente em diferentes canais pode ter um impacto significativo sobre a receita.</description>
-    
+
     <content:encoded><![CDATA[
             <p><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/br/br-390203361-0.png"></p>
 
@@ -9768,10 +9768,10 @@ A presteza em atender aos pedidos, consultas ou reclamações dos clientes é um
 
 <p><strong>Para saber mais sobre isso, confira o nosso <a href="https://www.zendesk.com.br/resources/guide-to-omnichannel-support/">Guia para suporte omnichannel</a></strong></p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[A consistência na qualidade do atendimento ao cliente em diferentes canais pode ter um impacto significativo sobre a receita.]]></excerpt:encoded>
     <wp:post_id>390203361</wp:post_id>
     <wp:post_date><![CDATA[2017-12-10 12:17:32]]></wp:post_date>
@@ -9785,23 +9785,23 @@ A presteza em atender aos pedidos, consultas ou reclamações dos clientes é um
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="atendimento-ao-cliente"><![CDATA[atendimento ao cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atendimento-ao-cliente"><![CDATA[atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="estrat-gia"><![CDATA[estratégia]]></category>
-    
+
     <category domain="post_tag" nicename="estrat-gia"><![CDATA[estratégia]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="omnichannel"><![CDATA[omnichannel]]></category>
-    
+
     <category domain="post_tag" nicename="omnichannel"><![CDATA[omnichannel]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="cliente-em-primeiro-lugar"><![CDATA[cliente em primeiro lugar]]></category>
-    
+
     <category domain="post_tag" nicename="cliente-em-primeiro-lugar"><![CDATA[cliente em primeiro lugar]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -9867,7 +9867,7 @@ A presteza em atender aos pedidos, consultas ou reclamações dos clientes é um
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -9992,9 +9992,9 @@ A presteza em atender aos pedidos, consultas ou reclamações dos clientes é um
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Aumente o nível da liderança no atendimento ao cliente</title>
     <link>https://recursos.zendesk.com.br/blog/aumente-o-nível-da-liderança-no-atendimento-ao-cliente/</link>
@@ -10002,7 +10002,7 @@ A presteza em atender aos pedidos, consultas ou reclamações dos clientes é um
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/aumente-o-nível-da-liderança-no-atendimento-ao-cliente</guid>
     <description>Para fazer uma empresa avançar, não basta quantificar e medir as iniciativas, é preciso fazer alguma coisa útil com os dados.</description>
-    
+
     <content:encoded><![CDATA[
             <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:14pt;"><span id="docs-internal-guid-4b1b4699-db2a-a138-eec5-f99752dff23e"><span style='font-size: 14pt; font-family: "Proxima Nova"; font-weight: 700; font-style: italic; vertical-align: baseline; white-space: pre-wrap;'><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/40-Measurement%20and%20growth.png" style="width: 680px; height: 360px;"></span></span></p>
 
@@ -10036,10 +10036,10 @@ A presteza em atender aos pedidos, consultas ou reclamações dos clientes é um
 
 <div> </div>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Para fazer uma empresa avançar, não basta quantificar e medir as iniciativas, é preciso fazer alguma coisa útil com os dados.]]></excerpt:encoded>
     <wp:post_id>384851236</wp:post_id>
     <wp:post_date><![CDATA[2017-11-20 15:44:02]]></wp:post_date>
@@ -10053,19 +10053,19 @@ A presteza em atender aos pedidos, consultas ou reclamações dos clientes é um
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="-n-o-basta-quantificar-e-medir-as-iniciativas"><![CDATA[ não basta quantificar e medir as iniciativas]]></category>
-    
+
     <category domain="post_tag" nicename="-n-o-basta-quantificar-e-medir-as-iniciativas"><![CDATA[ não basta quantificar e medir as iniciativas]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="para-fazer-uma-empresa-avan-ar"><![CDATA[Para fazer uma empresa avançar]]></category>
-    
+
     <category domain="post_tag" nicename="para-fazer-uma-empresa-avan-ar"><![CDATA[Para fazer uma empresa avançar]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="---preciso-fazer-alguma-coisa--til-com-os-dados-"><![CDATA[ é preciso fazer alguma coisa útil com os dados.]]></category>
-    
+
     <category domain="post_tag" nicename="---preciso-fazer-alguma-coisa--til-com-os-dados-"><![CDATA[ é preciso fazer alguma coisa útil com os dados.]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -10131,7 +10131,7 @@ A presteza em atender aos pedidos, consultas ou reclamações dos clientes é um
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -10256,9 +10256,9 @@ A presteza em atender aos pedidos, consultas ou reclamações dos clientes é um
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Aumente os resultados de sua empresa se relacionando bem com seus clientes</title>
     <link>https://recursos.zendesk.com.br/blog/aumente-os-resultados-de-sua-empresa-se-relacionando-bem-com-seus-clientes/</link>
@@ -10266,7 +10266,7 @@ A presteza em atender aos pedidos, consultas ou reclamações dos clientes é um
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/aumente-os-resultados-de-sua-empresa-se-relacionando-bem-com-seus-clientes</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <p style="text-align: center;"><img alt="" src="https://zen-marketing-pt.s3.amazonaws.com/pt/blog/__fidelizar-clientes%20%281%29.png"></p>
 
@@ -10276,10 +10276,10 @@ A presteza em atender aos pedidos, consultas ou reclamações dos clientes é um
 
 <p>Os resultados serão vistos à partir do momento em que sua empresa colocar essa trilha em prática. Não perca a chance de alavancar essa parte tão importante para o relacionamento empresa/cliente, se inscreva <a href="http://materiais.resultadosdigitais.com.br/trilha-de-resultados-fidelizar-clientes">aqui &gt;&gt;</a></p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Você sabe qual a maneira certa de se relacionar com seus clientes?]]></excerpt:encoded>
     <wp:post_id>364976699</wp:post_id>
     <wp:post_date><![CDATA[2017-09-08 7:55:31]]></wp:post_date>
@@ -10293,7 +10293,7 @@ A presteza em atender aos pedidos, consultas ou reclamações dos clientes é um
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -10359,7 +10359,7 @@ A presteza em atender aos pedidos, consultas ou reclamações dos clientes é um
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -10484,9 +10484,9 @@ A presteza em atender aos pedidos, consultas ou reclamações dos clientes é um
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Autoatendimento automatizado onde os clientes (e agentes) mais precisam</title>
     <link>https://recursos.zendesk.com.br/blog/autoatendimento-automatizado-onde-os-clientes-e-agentes-mais-precisam/</link>
@@ -10494,7 +10494,7 @@ A presteza em atender aos pedidos, consultas ou reclamações dos clientes é um
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/autoatendimento-automatizado-onde-os-clientes-e-agentes-mais-precisam</guid>
     <description>o Answer Bot pode ajudar as empresas a diminuir seu volume de tickets, além de permitir que os clientes se ajudem melhor.</description>
-    
+
     <content:encoded><![CDATA[
             <p><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/br/br-480351173-0.png" style="width: 975px; height: 515px;"></p>
 
@@ -10526,10 +10526,10 @@ A presteza em atender aos pedidos, consultas ou reclamações dos clientes é um
 
 <p> </p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[o Answer Bot pode ajudar as empresas a diminuir seu volume de tickets, além de permitir que os clientes se ajudem melhor.]]></excerpt:encoded>
     <wp:post_id>480351173</wp:post_id>
     <wp:post_date><![CDATA[2018-11-21 8:26:53]]></wp:post_date>
@@ -10543,27 +10543,27 @@ A presteza em atender aos pedidos, consultas ou reclamações dos clientes é um
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="autoatendimento"><![CDATA[autoatendimento]]></category>
-    
+
     <category domain="post_tag" nicename="autoatendimento"><![CDATA[autoatendimento]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="clientes"><![CDATA[clientes]]></category>
-    
+
     <category domain="post_tag" nicename="clientes"><![CDATA[clientes]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="agentes"><![CDATA[agentes]]></category>
-    
+
     <category domain="post_tag" nicename="agentes"><![CDATA[agentes]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="answer-bot"><![CDATA[answer bot]]></category>
-    
+
     <category domain="post_tag" nicename="answer-bot"><![CDATA[answer bot]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="inteligencia-artificial"><![CDATA[Inteligencia Artificial]]></category>
-    
+
     <category domain="post_tag" nicename="inteligencia-artificial"><![CDATA[Inteligencia Artificial]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -10629,7 +10629,7 @@ A presteza em atender aos pedidos, consultas ou reclamações dos clientes é um
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -10754,9 +10754,9 @@ A presteza em atender aos pedidos, consultas ou reclamações dos clientes é um
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Autoatendimento: o futuro já chegou</title>
     <link>https://recursos.zendesk.com.br/blog/autoatendimento-futuro/</link>
@@ -10764,7 +10764,7 @@ A presteza em atender aos pedidos, consultas ou reclamações dos clientes é um
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/autoatendimento-futuro</guid>
     <description>Os usuários procuram o autoatendimento para um serviço de qualidade, que seja rápido, fácil de usar e permita que eles resolvam os problemas por conta própria.</description>
-    
+
     <content:encoded><![CDATA[
             <p><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/br/br-399126528-0.png"></p>
 
@@ -10803,10 +10803,10 @@ A presteza em atender aos pedidos, consultas ou reclamações dos clientes é um
 
 <p><strong>Quer saber mais sobre inteligência artificial e atendimento ao cliente? <a href="https://recursos.zendesk.com.br/blog/atendimento-ao-cliente-o-que-muda-com-a-intelig%C3%AAncia-artificial">Continue lendo o nosso blog.</a></strong></p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Os usuários procuram o autoatendimento para um serviço de qualidade, que seja rápido, fácil de usar e permita que eles resolvam os problemas por conta própria.]]></excerpt:encoded>
     <wp:post_id>399126528</wp:post_id>
     <wp:post_date><![CDATA[2018-01-12 11:15:10]]></wp:post_date>
@@ -10820,39 +10820,39 @@ A presteza em atender aos pedidos, consultas ou reclamações dos clientes é um
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="autoatendimento"><![CDATA[autoatendimento]]></category>
-    
+
     <category domain="post_tag" nicename="autoatendimento"><![CDATA[autoatendimento]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-guide"><![CDATA[zendesk guide]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-guide"><![CDATA[zendesk guide]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="post_tag" nicename="guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="chatbot"><![CDATA[chatbot]]></category>
-    
+
     <category domain="post_tag" nicename="chatbot"><![CDATA[chatbot]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="chatbots"><![CDATA[chatbots]]></category>
-    
+
     <category domain="post_tag" nicename="chatbots"><![CDATA[chatbots]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="base-de-conhecimento"><![CDATA[base de conhecimento]]></category>
-    
+
     <category domain="post_tag" nicename="base-de-conhecimento"><![CDATA[base de conhecimento]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atendimento-ao-cliente"><![CDATA[atendimento ao cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atendimento-ao-cliente"><![CDATA[atendimento ao cliente]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -10918,7 +10918,7 @@ A presteza em atender aos pedidos, consultas ou reclamações dos clientes é um
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -11043,9 +11043,9 @@ A presteza em atender aos pedidos, consultas ou reclamações dos clientes é um
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Automação de marketing no pós-venda: como fazer</title>
     <link>https://recursos.zendesk.com.br/blog/automacao-de-marketing-no-pos-venda-como-fazer/</link>
@@ -11053,7 +11053,7 @@ A presteza em atender aos pedidos, consultas ou reclamações dos clientes é um
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/automacao-de-marketing-no-pos-venda-como-fazer</guid>
     <description>Neste artigo explicaremos como tirar proveito de cada “fato novo”, apresentando 4 fluxos de automação de marketing que podem ser trabalhados nas estratégias da empresa.</description>
-    
+
     <content:encoded><![CDATA[
             <p><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/br/br-427682193-0.png">Quando falamos de <a href="https://resultadosdigitais.com.br/marketing-digital/">Marketing Digital</a> e automação de marketing, é comum relacionarmos a tecnologia com a aquisição de clientes e nos limitarmos a isso, como se ela fosse inaplicável aos demais eventos.<br>
 Mas, na verdade, a automação vai muito além da conquista de clientes. É possível explorar ações feitas em pós-vendas que alavancam os resultados da empresa, como novas compras, testes de produtos complementares e upgrades.<br>
@@ -11105,10 +11105,10 @@ Assim, a automação de marketing tem o seu valor para a fidelização de client
 
 <p> </p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Neste artigo explicaremos como tirar proveito de cada “fato novo”, apresentando 4 fluxos de automação de marketing que podem ser trabalhados nas estratégias da empresa]]></excerpt:encoded>
     <wp:post_id>427682193</wp:post_id>
     <wp:post_date><![CDATA[2018-04-23 14:29:29]]></wp:post_date>
@@ -11122,27 +11122,27 @@ Assim, a automação de marketing tem o seu valor para a fidelização de client
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="-marketing"><![CDATA[ marketing]]></category>
-    
+
     <category domain="post_tag" nicename="-marketing"><![CDATA[ marketing]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="vendas"><![CDATA[vendas]]></category>
-    
+
     <category domain="post_tag" nicename="vendas"><![CDATA[vendas]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="customer-success"><![CDATA[customer success]]></category>
-    
+
     <category domain="post_tag" nicename="customer-success"><![CDATA[customer success]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="marketing"><![CDATA[marketing]]></category>
-    
+
     <category domain="post_tag" nicename="marketing"><![CDATA[marketing]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -11208,7 +11208,7 @@ Assim, a automação de marketing tem o seu valor para a fidelização de client
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -11333,9 +11333,9 @@ Assim, a automação de marketing tem o seu valor para a fidelização de client
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Benefícios do autoatendimento para os clientes da Zendesk</title>
     <link>https://recursos.zendesk.com.br/blog/benefícios-do-autoatendimento-para-os-clientes-da-zendesk/</link>
@@ -11343,7 +11343,7 @@ Assim, a automação de marketing tem o seu valor para a fidelização de client
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/benefícios-do-autoatendimento-para-os-clientes-da-zendesk</guid>
     <description>Benefícios do autoatendimento para os clientes da Zendesk.</description>
-    
+
     <content:encoded><![CDATA[
             <p dir="ltr" style="line-height:1.2;margin-top:5pt;margin-bottom:14pt;"><img alt="ow Zendesk customers benefit from self-service" src="https://lh3.googleusercontent.com/KvImZf2WcHSI_LuWukE5EeN3f5Z3FtumoNHBm40dTgh0-ZiN9dfWsrln1htczybIFM8Ql2GkncnVBcCBuuSFwpgFh-DDTLyh0PzQDaz4HvtIIp7n-7JM5mIn64PFiygHVUdkqdqr1WZdhfT6GA" style='font-family: "Proxima Nova"; font-size: 12pt; white-space: pre-wrap; border-width: initial; border-style: none; transform: rotate(0rad); width: 879px; height: 461px;'></p>
 
@@ -11397,10 +11397,10 @@ Assim, a automação de marketing tem o seu valor para a fidelização de client
 <em>“Os resultados da nossa pesquisa indicam que nossos membros gostam do autoatendimento. Não vimos queda na satisfação geral desde a implementação do Answer Bot. Isso é ótimo, pois nosso índice de satisfação permaneceu em torno de 94-96% desde que começamos a usá-lo”.</em><br>
 <strong>– Trent Hoerman, Gerente de programas</strong></p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Benefícios do autoatendimento para os clientes da Zendesk.]]></excerpt:encoded>
     <wp:post_id>424578528</wp:post_id>
     <wp:post_date><![CDATA[2018-04-12 18:35:20]]></wp:post_date>
@@ -11414,15 +11414,15 @@ Assim, a automação de marketing tem o seu valor para a fidelização de client
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-guide"><![CDATA[zendesk guide]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-guide"><![CDATA[zendesk guide]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -11488,7 +11488,7 @@ Assim, a automação de marketing tem o seu valor para a fidelização de client
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -11613,9 +11613,9 @@ Assim, a automação de marketing tem o seu valor para a fidelização de client
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Big data como fonte de receita: libere o potencial dos seus dados</title>
     <link>https://recursos.zendesk.com.br/blog/big-data-como-fonte-de-receita-libere-o-potencial-dos-seus-dados/</link>
@@ -11623,7 +11623,7 @@ Assim, a automação de marketing tem o seu valor para a fidelização de client
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/big-data-como-fonte-de-receita-libere-o-potencial-dos-seus-dados</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <p><img alt="" src="https://zen-marketing-content.s3.amazonaws.com/content/blog/Which%20call%20center%20metrics%20blog%20image.png" style="width: 680px; height: 360px;"></p>
 
@@ -11637,10 +11637,10 @@ Assim, a automação de marketing tem o seu valor para a fidelização de client
 
 <p style="text-align: center;"><img alt="" src="https://zen-marketing-pt.s3.amazonaws.com/pt/WP28_Big-data-como-fonte-geradora-de-receita--libere-todo-o-potencial-dos-seus-dados.png"></p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Em pesquisa com 171 diretores de marketing (CMO) de empresas americanas, 54% acreditam que big data será essencial para sua estratégia de marketing a longo prazo]]></excerpt:encoded>
     <wp:post_id>362810135</wp:post_id>
     <wp:post_date><![CDATA[2017-09-14 12:46:00]]></wp:post_date>
@@ -11654,7 +11654,7 @@ Assim, a automação de marketing tem o seu valor para a fidelização de client
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -11720,7 +11720,7 @@ Assim, a automação de marketing tem o seu valor para a fidelização de client
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -11845,9 +11845,9 @@ Assim, a automação de marketing tem o seu valor para a fidelização de client
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Certo e errado: como garantir uma boa experiência do cliente</title>
     <link>https://recursos.zendesk.com.br/blog/certo-e-errado-como-garantir-uma-boa-experiência-do-cliente/</link>
@@ -11855,7 +11855,7 @@ Assim, a automação de marketing tem o seu valor para a fidelização de client
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/certo-e-errado-como-garantir-uma-boa-experiência-do-cliente</guid>
     <description>Post sobre erros e acertos na busca pela boa experiência do cliente.</description>
-    
+
     <content:encoded><![CDATA[
             <p><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/br/br-417696600-0.png"><br>
 <br>
@@ -11913,10 +11913,10 @@ Agora só falta aprimorar aqueles que ainda precisam de atenção e investir do 
 
 <p> </p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Post sobre erros e acertos na busca pela boa experiência do cliente.]]></excerpt:encoded>
     <wp:post_id>417696600</wp:post_id>
     <wp:post_date><![CDATA[2018-03-20 17:55:34]]></wp:post_date>
@@ -11930,7 +11930,7 @@ Agora só falta aprimorar aqueles que ainda precisam de atenção e investir do 
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -11996,7 +11996,7 @@ Agora só falta aprimorar aqueles que ainda precisam de atenção e investir do 
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -12121,9 +12121,9 @@ Agora só falta aprimorar aqueles que ainda precisam de atenção e investir do 
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Como a experiência de Amyr Klink pode influenciar o atendimento ao cliente</title>
     <link>https://recursos.zendesk.com.br/blog/como-a-experiência-de-amyr-klink-pode-influenciar-o-atendimento-ao-cliente/</link>
@@ -12131,7 +12131,7 @@ Agora só falta aprimorar aqueles que ainda precisam de atenção e investir do 
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/como-a-experiência-de-amyr-klink-pode-influenciar-o-atendimento-ao-cliente</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <p style="text-align: center;"><img alt="" src="https://zen-marketing-pt.s3.amazonaws.com/pt/Amyr_Klink.jpg"></p>
 
@@ -12153,10 +12153,10 @@ Agora só falta aprimorar aqueles que ainda precisam de atenção e investir do 
 
 <p>Quer ter um parceiro para tornar a experiência do seu cliente um sucesso? </p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Amyr Klink é dessas pessoas que quando começa a falar, a sensação que se tem é que se está diante de um velho amigo contando suas histórias de viagem.]]></excerpt:encoded>
     <wp:post_id>362778416</wp:post_id>
     <wp:post_date><![CDATA[2017-08-30 11:38:49]]></wp:post_date>
@@ -12170,7 +12170,7 @@ Agora só falta aprimorar aqueles que ainda precisam de atenção e investir do 
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -12236,7 +12236,7 @@ Agora só falta aprimorar aqueles que ainda precisam de atenção e investir do 
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -12361,9 +12361,9 @@ Agora só falta aprimorar aqueles que ainda precisam de atenção e investir do 
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Como a tecnologia pode humanizar o atendimento? </title>
     <link>https://recursos.zendesk.com.br/blog/como-a-tecnologia-pode-humanizar-o-atendimento/</link>
@@ -12371,7 +12371,7 @@ Agora só falta aprimorar aqueles que ainda precisam de atenção e investir do 
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/como-a-tecnologia-pode-humanizar-o-atendimento</guid>
     <description>As tecnologias não são as vilãs do atendimento ao cliente, muito pelo contrário, as novas ferramentas existem para aprimorar os processos, mas é preciso utilizá-las de forma correta.</description>
-    
+
     <content:encoded><![CDATA[
             <p dir="ltr"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/br/br-481825598-0.png" style="width: 680px; height: 360px;"></p>
 
@@ -12392,10 +12392,10 @@ As melhores experiências do cliente são criadas com Zendesk. A poderosa e flex
 
 <div> </div>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[As tecnologias não são as vilãs do atendimento ao cliente, muito pelo contrário, as novas ferramentas existem para aprimorar os processos, mas é preciso utilizá-las de forma correta]]></excerpt:encoded>
     <wp:post_id>481825598</wp:post_id>
     <wp:post_date><![CDATA[2018-11-27 13:35:43]]></wp:post_date>
@@ -12409,23 +12409,23 @@ As melhores experiências do cliente são criadas com Zendesk. A poderosa e flex
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="tecnologia"><![CDATA[tecnologia]]></category>
-    
+
     <category domain="post_tag" nicename="tecnologia"><![CDATA[tecnologia]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="humanizar"><![CDATA[humanizar]]></category>
-    
+
     <category domain="post_tag" nicename="humanizar"><![CDATA[humanizar]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="cliente"><![CDATA[cliente]]></category>
-    
+
     <category domain="post_tag" nicename="cliente"><![CDATA[cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="experi-ncia-ao-cliente"><![CDATA[experiência ao cliente]]></category>
-    
+
     <category domain="post_tag" nicename="experi-ncia-ao-cliente"><![CDATA[experiência ao cliente]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -12491,7 +12491,7 @@ As melhores experiências do cliente são criadas com Zendesk. A poderosa e flex
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -12616,9 +12616,9 @@ As melhores experiências do cliente são criadas com Zendesk. A poderosa e flex
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Como a transformação digital influencia no Customer Intelligence</title>
     <link>https://recursos.zendesk.com.br/blog/como-a-transformação-digital-influencia-no-customer-intelligence/</link>
@@ -12626,7 +12626,7 @@ As melhores experiências do cliente são criadas com Zendesk. A poderosa e flex
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/como-a-transformação-digital-influencia-no-customer-intelligence</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <div><img alt="" src="https://zen-marketing-pt.s3.amazonaws.com/pt/post1_WCK_page-01.jpg"></div>
 
@@ -12751,10 +12751,10 @@ As melhores experiências do cliente são criadas com Zendesk. A poderosa e flex
 <div>*Post escrito por <a href="https://www.linkedin.com/in/taynarcosta/">Taynar Costa</a>, Coordenadora de Conteúdo da <a href="http://agenciawck.com.br">Agência WCK</a>, parceira estratégica de Marketing Digital, Inbound Marketing e Vendas para pequenas, médias e grandes empresas: www.agenciawck.com.br</div>
 </div>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[  Hoje, o consumidor não é mais só um indivíduo passivo, receptor de conteúdo.]]></excerpt:encoded>
     <wp:post_id>362801036</wp:post_id>
     <wp:post_date><![CDATA[2017-08-30 13:33:20]]></wp:post_date>
@@ -12768,7 +12768,7 @@ As melhores experiências do cliente são criadas com Zendesk. A poderosa e flex
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -12834,7 +12834,7 @@ As melhores experiências do cliente são criadas com Zendesk. A poderosa e flex
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -12959,9 +12959,9 @@ As melhores experiências do cliente são criadas com Zendesk. A poderosa e flex
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Como capacitar seus atendentes para um atendimento mais humano e natural?</title>
     <link>https://recursos.zendesk.com.br/blog/como-capacitar-seus-atendentes-para-um-atendimento-mais-humano-e-natural/</link>
@@ -12969,7 +12969,7 @@ As melhores experiências do cliente são criadas com Zendesk. A poderosa e flex
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/como-capacitar-seus-atendentes-para-um-atendimento-mais-humano-e-natural</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <p style="text-align: center;"><img alt="" src="https://zen-marketing-pt.s3.amazonaws.com/pt/Fotos%20/DicasdeSucesso.png" style="width: 680px; height: 359px;"></p>
 
@@ -13007,10 +13007,10 @@ Para conseguir esse atendimento diferenciado e mais humanizado é preciso capaci
 
 <p><strong>Sua empresa já investe em um atendimento mais natural? </strong></p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[É fato que cada vez mais as pessoas detestam “estar sendo atendidas” por profissionais que “vão estar lhe ajudando”, falando cheios de gerúndios e com a naturalidade de robôs]]></excerpt:encoded>
     <wp:post_id>363436697</wp:post_id>
     <wp:post_date><![CDATA[2015-05-01 22:38:00]]></wp:post_date>
@@ -13024,7 +13024,7 @@ Para conseguir esse atendimento diferenciado e mais humanizado é preciso capaci
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -13090,7 +13090,7 @@ Para conseguir esse atendimento diferenciado e mais humanizado é preciso capaci
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -13215,9 +13215,9 @@ Para conseguir esse atendimento diferenciado e mais humanizado é preciso capaci
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Como colocar em prática o chat em tempo real</title>
     <link>https://recursos.zendesk.com.br/blog/chat-tempo-real/</link>
@@ -13225,7 +13225,7 @@ Para conseguir esse atendimento diferenciado e mais humanizado é preciso capaci
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/chat-tempo-real</guid>
     <description>O chat em tempo real é um dos canais de atendimento preferidos dos clientes. Descubra por que e como implementar essa opção no seu site.</description>
-    
+
     <content:encoded><![CDATA[
             <p><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/br/br-398618216-0.png"></p>
 
@@ -13273,10 +13273,10 @@ Para conseguir esse atendimento diferenciado e mais humanizado é preciso capaci
 
 <p><span style="font-family: PNR;">Não fique para trás. Está na hora de <a href="https://recursos.zendesk.com.br/recursos/zendesk-chat">conhecer o Zendesk Chat.</a></span></p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[O chat em tempo real é um dos canais de atendimento preferidos dos clientes. Descubra por que e como implementar essa opção no seu site.]]></excerpt:encoded>
     <wp:post_id>398618216</wp:post_id>
     <wp:post_date><![CDATA[2018-01-10 13:22:23]]></wp:post_date>
@@ -13290,31 +13290,31 @@ Para conseguir esse atendimento diferenciado e mais humanizado é preciso capaci
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="atendimento-ao-cliente"><![CDATA[atendimento ao cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atendimento-ao-cliente"><![CDATA[atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="chat"><![CDATA[Chat]]></category>
-    
+
     <category domain="post_tag" nicename="chat"><![CDATA[Chat]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="chat-em-tempo-real"><![CDATA[chat em tempo real]]></category>
-    
+
     <category domain="post_tag" nicename="chat-em-tempo-real"><![CDATA[chat em tempo real]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="customer-experience"><![CDATA[Customer experience]]></category>
-    
+
     <category domain="post_tag" nicename="customer-experience"><![CDATA[Customer experience]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk-chat"><![CDATA[Zendesk Chat]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk-chat"><![CDATA[Zendesk Chat]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -13380,7 +13380,7 @@ Para conseguir esse atendimento diferenciado e mais humanizado é preciso capaci
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -13505,9 +13505,9 @@ Para conseguir esse atendimento diferenciado e mais humanizado é preciso capaci
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Como Criar uma Estratégia para Transformar a Experiência do seu Cliente</title>
     <link>https://recursos.zendesk.com.br/blog/como-criar-uma-estratégia-para-transformar-a-experiência-do-seu-cliente/</link>
@@ -13515,7 +13515,7 @@ Para conseguir esse atendimento diferenciado e mais humanizado é preciso capaci
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/como-criar-uma-estratégia-para-transformar-a-experiência-do-seu-cliente</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <p style="text-align: center;"><img alt="" src="https://zen-marketing-pt.s3.amazonaws.com/pt/post3_WCK_page.jpg"></p>
 
@@ -13551,10 +13551,10 @@ Para conseguir esse atendimento diferenciado e mais humanizado é preciso capaci
 
 <p><a href="http://agenciawck.com.br">www.agenciawck.com.br</a></p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Uma estratégia de marketing e vendas, seja ela qual for, deve estar pautada em pilares focados na experiência do seu cliente para obter o máximo de desempenho e resultados]]></excerpt:encoded>
     <wp:post_id>362778881</wp:post_id>
     <wp:post_date><![CDATA[2017-08-30 11:56:02]]></wp:post_date>
@@ -13568,7 +13568,7 @@ Para conseguir esse atendimento diferenciado e mais humanizado é preciso capaci
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -13634,7 +13634,7 @@ Para conseguir esse atendimento diferenciado e mais humanizado é preciso capaci
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -13759,9 +13759,9 @@ Para conseguir esse atendimento diferenciado e mais humanizado é preciso capaci
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Como ensinar seus clientes a usarem seu produto</title>
     <link>https://recursos.zendesk.com.br/blog/como-ensinar-seus-clientes-a-usarem-seu-produto/</link>
@@ -13769,7 +13769,7 @@ Para conseguir esse atendimento diferenciado e mais humanizado é preciso capaci
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/como-ensinar-seus-clientes-a-usarem-seu-produto</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <p style="text-align: center;"><img alt="" src="https://zen-marketing-pt.s3.amazonaws.com/pt/Fotos%20/DicasdeSucesso.png"></p>
 
@@ -13797,10 +13797,10 @@ Para conseguir esse atendimento diferenciado e mais humanizado é preciso capaci
 
 <p><strong>Você já realizou algum tipo de treinamento com seus clientes? </strong></p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[A era digital chegou com tudo e os softwares oferecem aos clientes funcionalidades que ninguém poderia imaginar que fossem possíveis há alguns anos.]]></excerpt:encoded>
     <wp:post_id>363434324</wp:post_id>
     <wp:post_date><![CDATA[2015-09-15 22:21:00]]></wp:post_date>
@@ -13814,7 +13814,7 @@ Para conseguir esse atendimento diferenciado e mais humanizado é preciso capaci
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -13880,7 +13880,7 @@ Para conseguir esse atendimento diferenciado e mais humanizado é preciso capaci
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -14005,9 +14005,9 @@ Para conseguir esse atendimento diferenciado e mais humanizado é preciso capaci
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Como fazer seu negócio crescer por meio do atendimento ao cliente</title>
     <link>https://recursos.zendesk.com.br/blog/como-fazer-seu-negócio-crescer-por-meio-do-atendimento-ao-cliente/</link>
@@ -14015,7 +14015,7 @@ Para conseguir esse atendimento diferenciado e mais humanizado é preciso capaci
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/como-fazer-seu-negócio-crescer-por-meio-do-atendimento-ao-cliente</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <p style="text-align: center;"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/blog/integrations.jpg" style="width: 600px; height: 317px;"></p>
 
@@ -14038,10 +14038,10 @@ Atender as expectativas é importante para conquistar a satisfação dos cliente
 
 <p>Além disso, é importante monitorar as redes sociais e descobrir o que os consumidores falam da sua marca, mesmo quando as opiniões não são dadas nas páginas oficiais da empresa. Em casos de reclamações, entre em contato com o cliente e descubra a melhor maneira de solucionar o problema. </p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[O caminho mais rápido para uma empresa crescer é por meio do atendimento ao cliente.]]></excerpt:encoded>
     <wp:post_id>364985705</wp:post_id>
     <wp:post_date><![CDATA[2017-09-08 8:31:23]]></wp:post_date>
@@ -14055,7 +14055,7 @@ Atender as expectativas é importante para conquistar a satisfação dos cliente
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -14121,7 +14121,7 @@ Atender as expectativas é importante para conquistar a satisfação dos cliente
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -14246,9 +14246,9 @@ Atender as expectativas é importante para conquistar a satisfação dos cliente
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Como melhorar a experiência do cliente usando Machine Learning</title>
     <link>https://recursos.zendesk.com.br/blog/como-melhorar-a-experiência-do-cliente-usando-machine-learning/</link>
@@ -14256,7 +14256,7 @@ Atender as expectativas é importante para conquistar a satisfação dos cliente
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/como-melhorar-a-experiência-do-cliente-usando-machine-learning</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <div style="text-align: center;"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/blog/Csat_Blog_new.png" style="margin: 30px; float: left; width: 600px; height: 318px;"></div>
 
@@ -14339,10 +14339,10 @@ Atender as expectativas é importante para conquistar a satisfação dos cliente
 <div>No futuro, à medida que os produtos de consumo continuarem a interagir com a Internet, os canais digitais fornecerão ainda mais dados. Auxiliados pelo aprendizado de máquina, as centrais de atendimento ao cliente estarão em condições de analisar esses dados e reagir a um problema antes que o cliente esteja ciente da questão - realmente um passo inovador para as empresas focadas no atendimento ao cliente.</div>
 </div>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[                          A satisfação do cliente é o item básico de cada equipe de atendimento ao cliente.]]></excerpt:encoded>
     <wp:post_id>363341450</wp:post_id>
     <wp:post_date><![CDATA[2017-09-01 13:56:04]]></wp:post_date>
@@ -14356,7 +14356,7 @@ Atender as expectativas é importante para conquistar a satisfação dos cliente
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -14422,7 +14422,7 @@ Atender as expectativas é importante para conquistar a satisfação dos cliente
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -14547,9 +14547,9 @@ Atender as expectativas é importante para conquistar a satisfação dos cliente
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Como migrar seus dados sem stress?</title>
     <link>https://recursos.zendesk.com.br/blog/como-migrar-seus-dados-sem-stress/</link>
@@ -14557,7 +14557,7 @@ Atender as expectativas é importante para conquistar a satisfação dos cliente
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/como-migrar-seus-dados-sem-stress</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <p style="text-align: center;"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/blog/Penguin.png"></p>
 
@@ -14597,10 +14597,10 @@ Essa etapa se refere à migração de artigos de conhecimento. Ela requer audito
 
 <p>A migração entre sistemas de <em>help desk</em>, apesar de toda a complexidade que envolve, pode ser conduzida de forma a garantir excelentes resultados para a organização.  Para tanto, planejamento é fundamental.  Além disso, este é um trabalho que requer tempo.  Queimar etapas pode representar perda de dados ou impactar negativamente o cronograma.</p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[O processo de migração de dados de um sistema de help desk para um novo, consiste em uma operação extremamente delicada para a organização.]]></excerpt:encoded>
     <wp:post_id>363437816</wp:post_id>
     <wp:post_date><![CDATA[2015-08-01 22:46:00]]></wp:post_date>
@@ -14614,7 +14614,7 @@ Essa etapa se refere à migração de artigos de conhecimento. Ela requer audito
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -14680,7 +14680,7 @@ Essa etapa se refere à migração de artigos de conhecimento. Ela requer audito
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -14805,9 +14805,9 @@ Essa etapa se refere à migração de artigos de conhecimento. Ela requer audito
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Como não errar a mão nas redes sociais</title>
     <link>https://recursos.zendesk.com.br/blog/como-não-errar-a-mão-nas-redes-sociais/</link>
@@ -14815,7 +14815,7 @@ Essa etapa se refere à migração de artigos de conhecimento. Ela requer audito
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/como-não-errar-a-mão-nas-redes-sociais</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <p style="text-align: center;"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/blog/careerinsupport.png" style="width: 682px; height: 360px;"></p>
 
@@ -14840,10 +14840,10 @@ Redes sociais são ambientes de atendimento mais descontraídos, ainda assim é 
 
 <p><strong>Sabe mais alguma dica sobre como atender bem os clientes nas redes sociais? </strong></p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Um dos canais de comunicação mais populares da atualidade são as mídias sociais.]]></excerpt:encoded>
     <wp:post_id>363434210</wp:post_id>
     <wp:post_date><![CDATA[2015-09-16 22:18:00]]></wp:post_date>
@@ -14857,7 +14857,7 @@ Redes sociais são ambientes de atendimento mais descontraídos, ainda assim é 
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -14923,7 +14923,7 @@ Redes sociais são ambientes de atendimento mais descontraídos, ainda assim é 
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -15048,9 +15048,9 @@ Redes sociais são ambientes de atendimento mais descontraídos, ainda assim é 
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Como o chat em tempo real pode transformar a sua empresa?</title>
     <link>https://recursos.zendesk.com.br/blog/como-o-chat-em-tempo-real-pode-transformar-a-sua-empresa/</link>
@@ -15058,7 +15058,7 @@ Redes sociais são ambientes de atendimento mais descontraídos, ainda assim é 
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/como-o-chat-em-tempo-real-pode-transformar-a-sua-empresa</guid>
     <description></description>
-    
+
     <content:encoded><![CDATA[
             <p style="text-align: center;"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/blog/chat-benefits-ebook-blog.png"></p>
 
@@ -15090,10 +15090,10 @@ Redes sociais são ambientes de atendimento mais descontraídos, ainda assim é 
 
 <p><strong>Quais canais de interação com o cliente são mantidos por sua empresa? <a href="https://www.zendesk.com.br/chat/">Conheça o Zendesk Chat</a>.</strong></p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Estabelecer canais de comunicação eficientes com os clientes se tornou indispensável para as organizações.]]></excerpt:encoded>
     <wp:post_id>363432848</wp:post_id>
     <wp:post_date><![CDATA[2017-09-01 22:15:49]]></wp:post_date>
@@ -15107,7 +15107,7 @@ Redes sociais são ambientes de atendimento mais descontraídos, ainda assim é 
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -15173,7 +15173,7 @@ Redes sociais são ambientes de atendimento mais descontraídos, ainda assim é 
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -15298,9 +15298,9 @@ Redes sociais são ambientes de atendimento mais descontraídos, ainda assim é 
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Como reduzir o estresse do contato constante</title>
     <link>https://recursos.zendesk.com.br/blog/como-reduzir-o-estresse-do-contato-constante/</link>
@@ -15308,7 +15308,7 @@ Redes sociais são ambientes de atendimento mais descontraídos, ainda assim é 
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/como-reduzir-o-estresse-do-contato-constante</guid>
     <description>Confira dicas para os agentes ficarem mais relaxados no ambiente de trabalho e, assim, melhorarem o atendimento.</description>
-    
+
     <content:encoded><![CDATA[
             <p><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/br/br-387473110-0.png"></p>
 
@@ -15350,10 +15350,10 @@ Redes sociais são ambientes de atendimento mais descontraídos, ainda assim é 
 
 <p><strong>Saiba mais sobre <a href="https://recursos.zendesk.com.br/blog/mapeamento-da-estrat%C3%A9gia-de-suporte-omnichannel">como uma estratégia de suporte omnichannel pode ajudar os seus clientes</a>.</strong></p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Confira dicas para os agentes ficarem mais relaxados no ambiente de trabalho e, assim, melhorarem o atendimento.]]></excerpt:encoded>
     <wp:post_id>387473110</wp:post_id>
     <wp:post_date><![CDATA[2017-11-30 12:45:43]]></wp:post_date>
@@ -15367,27 +15367,27 @@ Redes sociais são ambientes de atendimento mais descontraídos, ainda assim é 
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="estresse"><![CDATA[estresse]]></category>
-    
+
     <category domain="post_tag" nicename="estresse"><![CDATA[estresse]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="contato"><![CDATA[contato]]></category>
-    
+
     <category domain="post_tag" nicename="contato"><![CDATA[contato]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="relaxar"><![CDATA[relaxar]]></category>
-    
+
     <category domain="post_tag" nicename="relaxar"><![CDATA[relaxar]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="ansiedade"><![CDATA[ansiedade]]></category>
-    
+
     <category domain="post_tag" nicename="ansiedade"><![CDATA[ansiedade]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="confian-a"><![CDATA[confiança]]></category>
-    
+
     <category domain="post_tag" nicename="confian-a"><![CDATA[confiança]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -15453,7 +15453,7 @@ Redes sociais são ambientes de atendimento mais descontraídos, ainda assim é 
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -15578,9 +15578,9 @@ Redes sociais são ambientes de atendimento mais descontraídos, ainda assim é 
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Como reter e fidelizar seus clientes com o Marketing de Conteúdo</title>
     <link>https://recursos.zendesk.com.br/blog/reter-e-fidelizar-clientes-com-marketing-de-conteudo/</link>
@@ -15588,7 +15588,7 @@ Redes sociais são ambientes de atendimento mais descontraídos, ainda assim é 
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.br/blog/reter-e-fidelizar-clientes-com-marketing-de-conteudo</guid>
     <description>Investir em marketing de conteúdo traz inúmeros benefícios para o seu negócio ao reter e fidelizar seus clientes.</description>
-    
+
     <content:encoded><![CDATA[
             <p><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/br/br-419582325-0.png"></p>
 
@@ -15672,10 +15672,10 @@ Disparar releases ou e-mails sempre que uma coisa importante acontece, por exemp
 
 <p><em>Especializado em marketing digital, tem vasta experiência dentro de várias vertentes, como SEO, blogs e geração de leads, e-mail marketing, monitoramento, análise e otimização, além de extenso histórico de palestras e entrevistas em veículos relevantes.</em></p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Investir em marketing de conteúdo traz inúmeros benefícios para o seu negócio ao reter e fidelizar seus clientes.]]></excerpt:encoded>
     <wp:post_id>419582325</wp:post_id>
     <wp:post_date><![CDATA[2018-03-26 9:54:28]]></wp:post_date>
@@ -15689,31 +15689,31 @@ Disparar releases ou e-mails sempre que uma coisa importante acontece, por exemp
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag_blog" nicename="marketing-de-conte-do"><![CDATA[marketing de conteúdo]]></category>
-    
+
     <category domain="post_tag" nicename="marketing-de-conte-do"><![CDATA[marketing de conteúdo]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="resultados-digitais"><![CDATA[resultados digitais]]></category>
-    
+
     <category domain="post_tag" nicename="resultados-digitais"><![CDATA[resultados digitais]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="clientes"><![CDATA[clientes]]></category>
-    
+
     <category domain="post_tag" nicename="clientes"><![CDATA[clientes]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="fidelizar"><![CDATA[fidelizar]]></category>
-    
+
     <category domain="post_tag" nicename="fidelizar"><![CDATA[fidelizar]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="atendimento-ao-cliente"><![CDATA[atendimento ao cliente]]></category>
-    
+
     <category domain="post_tag" nicename="atendimento-ao-cliente"><![CDATA[atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag_blog" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <category domain="post_tag" nicename="zendesk"><![CDATA[Zendesk]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -15779,7 +15779,7 @@ Disparar releases ou e-mails sempre que uma coisa importante acontece, por exemp
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -15904,8 +15904,8 @@ Disparar releases ou e-mails sempre que uma coisa importante acontece, por exemp
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
 </channel>
 </rss>
