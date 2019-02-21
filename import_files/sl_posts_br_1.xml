@@ -8756,11 +8756,11 @@ Como dissemos, o atendimento ao cliente é difícil. Embora a Zendesk não possa
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-thumbnail-url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://zen-marketing-pt.s3.amazonaws.com/pt/fishtank.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-featured-image-url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://zen-marketing-pt.s3.amazonaws.com/pt/fishtank.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
@@ -8795,7 +8795,7 @@ Como dissemos, o atendimento ao cliente é difícil. Embora a Zendesk não possa
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-body-copy]]></wp:meta_key>
 			<wp:meta_value><![CDATA[<aside>Fonte: <a href="https://www.techvalidate.com/product-research/zendesk-guide" target="_blank">TechValidate e Zendesk Surveys, 2017</a></aside>
-<a id="infographic"><img src="http://d26a57ydsghvgx.cloudfront.net/content/resources/Guide_TopTips_Infographic_pt-BR.png" alt="Preencha a lacuna do autoatendimento"></a> ]]></wp:meta_value>
+ ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
