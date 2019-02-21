@@ -2432,7 +2432,7 @@ Em breve será possível controlar quase qualquer dispositivo usando comandos de
 
 <p>Empresas que melhoram a experiência do cliente com avanços tecnológicos e priorizam a vontade dos clientes em relação a outras considerações saem na frente da concorrência. Vamos analisar o que as empresas têm feito em 2018 para priorizar a experiência do cliente.</p>
 
-<p><span style="color: rgb(85, 85, 85); font-family: SHSN; font-size: 22px; font-weight: 700;">1. Inteligência artificial e assistentes virtuais</span></p>
+<p><span >1. Inteligência artificial e assistentes virtuais</span></p>
 
 <p>A inteligência artificial tem desempenhado uma função importante em todos os aspectos do mundo corporativo. Mas a verdade é que ela realmente tem brilhado na experiência do cliente. Soluções de experiência do cliente baseadas em IA fornecem às empresas análise e informações essenciais sobre os consumidores, ao mesmo tempo em que personalizam cada interação com os clientes. A inteligência artificial é usada para muitos recursos importantes da experiência do cliente, como automação e assistentes virtuais.</p>
 
@@ -11354,7 +11354,7 @@ Assim, a automação de marketing tem o seu valor para a fidelização de client
 <p>Nossos clientes que utilizam o<a href="https://www.zendesk.com.br/guide/"> Zendesk Guide</a> para atender às suas necessidades de autoatendimento observaram vários benefícios, como redução dos custos operacionais, melhoria da produtividade dos agentes e aumento da satisfação dos clientes. Para analisar mais profundamente esses benefícios do autoatendimento, destacamos cinco clientes nossos e seus casos de uso relacionados:</p>
 
 <p><br>
-<a href="https://www.zendesk.com.br/customer/evernote/" style="font-family: SHSN; font-size: 22px; font-weight: 700;">Evernote</a></p>
+<a href="https://www.zendesk.com.br/customer/evernote/" >Evernote</a></p>
 
 <p>A Central de Ajuda da Evernote exerce um papel essencial na redução do volume de tickets e no atendimento da base de clientes freemium de seu software de anotações. A equipe de suporte elevou ainda mais o nível do autoatendimento utilizando a API do Zendesk para projetar seu próprio recurso de pesquisa dinâmica no Guide. Ele ajuda os clientes a encontrarem com precisão o artigo que os ajudará a resolver seus problemas.</p>
 
@@ -11363,7 +11363,7 @@ Assim, a automação de marketing tem o seu valor para a fidelização de client
 <strong>– Gerald Hastie, Diretor de experiência global do cliente</strong></p>
 
 <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:18.75pt;background-color:#ffffff;"><br>
-<a href="https://www.zendesk.com.br/customer/swiftkey/" style="font-family: SHSN; font-size: 22px; font-weight: 700;">Swiftkey</a></p>
+<a href="https://www.zendesk.com.br/customer/swiftkey/" >Swiftkey</a></p>
 
 <p>Os dados de suporte da Swiftkey mostram uma estatística impressionante: para cada 70 visualizações da sua Central de Ajuda, apenas um ticket é criado. A proporção de 70:1 provou que os clientes conseguem encontrar respostas sozinhos para suas perguntas sobre o teclado preditivo inteligente da empresa.</p>
 
@@ -11372,7 +11372,7 @@ Assim, a automação de marketing tem o seu valor para a fidelização de client
 <strong>– Josh Greenwald, Líder de suporte de comunidade</strong></p>
 
 <p><br>
-<a href="https://www.zendesk.com.br/customer/trackr/" style="font-family: SHSN; font-size: 22px; font-weight: 700;">TrackR</a></p>
+<a href="https://www.zendesk.com.br/customer/trackr/" >TrackR</a></p>
 
 <p>Graças aos recursos de autoatendimento do Guide, a TrackR descobriu que tinha espaço para expandir seus canais de suporte. A deflexão de tickets deu à empresa mais tempo para investir em seu suporte por telefone e chat, usado para responder a perguntas complexas sobre seus produtos de rastreamento wireless. Como um dos primeiros participantes do programa beta do Answer Bot da Zendesk, ela foi um dos primeiros clientes a aproveitar o autoatendimento baseado em inteligência artificial do Guide.</p>
 
@@ -11380,7 +11380,7 @@ Assim, a automação de marketing tem o seu valor para a fidelização de client
 <strong>– Daniel Reeves, Gerente sênior do sucesso do cliente</strong></p>
 
 <p><br>
-<a href="https://www.zendesk.com.br/customer/tony-bianco/" style="font-family: SHSN; font-size: 22px; font-weight: 700;">Tony Bianco</a></p>
+<a href="https://www.zendesk.com.br/customer/tony-bianco/" >Tony Bianco</a></p>
 
 <p>A equipe de atendimento ao cliente da Tony Bianco direciona os clientes para o autoatendimento usando os aplicativos do Guide. O aplicativo Captura de conhecimento permite que eles enviem um link para os seus artigos da Central de Ajuda nos tickets e o Pathfinder permite que eles consultem os artigos que os clientes já visualizaram. Isso tem sido muito útil no frenético período de fim de ano para essa marca de calçados premium.</p>
 
@@ -11389,7 +11389,7 @@ Assim, a automação de marketing tem o seu valor para a fidelização de client
 <strong>– Cassie Chen, Gerente de fidelidade e experiência do cliente</strong></p>
 
 <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:18.75pt;background-color:#ffffff;"><br>
-<a href="https://www.zendesk.com/blog/dollar-shave-club/" style="font-family: SHSN; font-size: 22px; font-weight: 700;">Dollar Shave Club</a></p>
+<a href="https://www.zendesk.com/blog/dollar-shave-club/" >Dollar Shave Club</a></p>
 
 <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:18.75pt;background-color:#ffffff;">Outro participante do programa beta do Answer Bot, o Dollar Shave Club descobriu que o autoatendimento com inteligência artificial pode ser muito eficaz. A equipe de atendimento ao cliente do serviço de entrega de barbeadores descobriu que economizava muito tempo com a deflexão de tickets, podendo então expandir a disponibilidade do seu suporte por chat para 21 horas semanais, e tudo isso sem precisar contratar mais pessoal.</p>
 
@@ -11869,7 +11869,7 @@ Essa é a pergunta que pode levar a sua empresa a desenvolver uma estratégia ef
  <br>
 O grande desafio é saber como colocar em prática o conceito. No estudo <a href="https://digitalks.com.br/indicadores-do-mercado/abordagem-tradicional-da-experiencia-do-cliente-precisa-evoluir-revela-pesquisa/">“O papel de redes de experiência de clientes na entrega de transformação digital com base no valor”</a>, feito pela <a href="https://www.axway.com/pt-br">Axway</a> em parceria com o <a href="http://br.idclatin.com/about/whyidc.aspx">IDC</a>, mais de 600 executivos apontam as principais questões sobre a experiência do cliente:<br>
 <br>
-<span style="color: rgb(85, 85, 85); font-family: SHSN; font-size: 22px; font-weight: 700; text-align: center;">A </span><strong style="color: rgb(85, 85, 85); font-size: 22px; text-align: center;">visão unificada do cliente ainda é uma carência para 69%</strong><span style="color: rgb(85, 85, 85); font-family: SHSN; font-size: 22px; font-weight: 700; text-align: center;"> dos entrevistados e a </span><strong style="color: rgb(85, 85, 85); font-size: 22px; text-align: center;">experiência do cliente é um desafio para mais de 70%</strong><span style="color: rgb(85, 85, 85); font-family: SHSN; font-size: 22px; font-weight: 700; text-align: center;"> deles.</span><br>
+<span >A </span><strong style="color: rgb(85, 85, 85); font-size: 22px; text-align: center;">visão unificada do cliente ainda é uma carência para 69%</strong><span > dos entrevistados e a </span><strong style="color: rgb(85, 85, 85); font-size: 22px; text-align: center;">experiência do cliente é um desafio para mais de 70%</strong><span > deles.</span><br>
 <br>
 Enxergar o <em>Customer Success</em> como um setor isolado na empresa está errado e tem contribuído para tais estatísticas. Como antídoto a essa visão, considerar o consumidor um participante da construção de sua experiência é uma boa prática.<br>
 <br>
@@ -13271,7 +13271,7 @@ Para conseguir esse atendimento diferenciado e mais humanizado é preciso capaci
 
 <p>Hoje em dia, a tecnologia de chat é totalmente diferente das primeiras plataformas. Agora, a instalação do chat em tempo real é um processo simples e ágil, ainda mais com o Zendesk Chat.</p>
 
-<p><span style="font-family: PNR;">Não fique para trás. Está na hora de <a href="https://recursos.zendesk.com.br/recursos/zendesk-chat">conhecer o Zendesk Chat.</a></span></p>
+<p><span >Não fique para trás. Está na hora de <a href="https://recursos.zendesk.com.br/recursos/zendesk-chat">conhecer o Zendesk Chat.</a></span></p>
 
 
 
@@ -15332,7 +15332,7 @@ Redes sociais são ambientes de atendimento mais descontraídos, ainda assim é 
 
 <p>Escolha ferramentas com design de fluxo de trabalho limpo, claro, intuitivo e versátil. Você deve se sentir <a href="https://www.zendesk.com/blog/efficient-customer-service-affects-bottom-line/">orientado e capacitado.</a> Por exemplo, com uma solução omnichannel integrada, os usuários podem saber se os agentes estão disponíveis ou não. Ajudar os funcionários a se desligar quando necessário também ajuda a melhorar o trabalho.</p>
 
-<p>Se você é administrador ou gerente, passe um tempo trabalhando como agente na equipe para entender como pode ajudar, além de perguntar a opinião dos agentes. Se você é agente, conheça o produto que usa e peça para o gerente fazer ajustes para melhorar o fluxo.<span style="background-color: rgb(251, 251, 251); color: rgb(0, 0, 0); font-family: PNL; font-size: 24px;"> </span></p>
+<p>Se você é administrador ou gerente, passe um tempo trabalhando como agente na equipe para entender como pode ajudar, além de perguntar a opinião dos agentes. Se você é agente, conheça o produto que usa e peça para o gerente fazer ajustes para melhorar o fluxo.<span > </span></p>
 
 <blockquote>
 <p><a href="https://twitter.com/intent/tweet?url=www.zendesk.com&amp;amp;text=Confidence%20is%20a%20superpower,%20says%20Faith%20Hanna,%20Team%20Lead,%20Technical%20Support%20@zendesk%20http://zdsk.co/2tm2qj3">“A confiança é um superpoder.”</a> – Faith Hanna</p>
