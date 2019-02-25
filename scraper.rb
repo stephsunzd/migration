@@ -77,6 +77,20 @@ module Scraper
       item['post_excerpt'] = ''
 
       case item[Constants::KEYS[:type]]
+      when 'post'
+        postmeta[:title] = post.css('.blog-header h1')
+        postmeta[:content] = post.css('.post-body')
+        postmeta[:image] = post.css('.blog-image img')
+        postmeta[:tags] = post.css('.blog-tag')
+
+        item['item_seo_description'] = item['item_description']
+        item['author_first_name'] = post.css('.post-author').first.text unless post.css('.post-author').empty?
+        item['author-title'] = post.css('.post-author-title').first.text unless post.css('.post-author-title').empty?
+        item['author-twitter'] = post.css('.post-twitter').first.text.gsub('@', '') unless post.css('.post-twitter').empty?
+
+        item['item_published_at'] = Util.cpubdate_to_timestamp(
+          post.css('.meta .date').first.text
+        ) unless post.css('.meta .date').empty?
       when 'customer_lp'
         postmeta[:title] = post.css('.customer-header-box h3')
         postmeta[:excerpt] = post.css('.customer-header-box h1')
