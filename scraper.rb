@@ -77,6 +77,36 @@ module Scraper
       item['post_excerpt'] = ''
 
       case item[Constants::KEYS[:type]]
+      when 'post'
+        postmeta[:title] = post.css('.blog-header h1')
+        postmeta[:content] = post.css('.post-body')
+        postmeta[:image] = post.css('.blog-image img')
+        postmeta[:tags] = post.css('.blog-tag')
+
+        item['item_seo_description'] = item['item_description']
+        item['author_first_name'] = post.css('.post-author').first.text unless post.css('.post-author').empty?
+        item['author-title'] = post.css('.post-author-title').first.text unless post.css('.post-author-title').empty?
+        item['author-twitter'] = post.css('.post-twitter').first.text.gsub('@', '') unless post.css('.post-twitter').empty?
+
+        item['item_published_at'] = Util.cpubdate_to_timestamp(
+          post.css('.meta .date').first.text
+        ) unless post.css('.meta .date').empty?
+
+        item['blog-post-gated-enable'] = post.css('.gated-content-ad').empty? ? 0 : 1
+
+        if item['blog-post-gated-enable'].eql?(1)
+          item['blog-post-gated-img'] = post.css('.gated-content-image').first.attribute('style').value.scan(/url\('?"?(.+?)"?'?\)/).first.first unless post.css('.gated-content-image').empty?
+          item['blog-post-gated-img'] = item['blog-post-gated-img'].gsub(/\s/, '')
+          item['blog-post-gated-headline'] = post.css('.gated-content-text h4').first.inner_html unless post.css('.gated-content-text h4').empty?
+          item['blog-post-gated-subheadline'] = post.css('.gated-content-teaser p').first.inner_html unless post.css('.gated-content-teaser p').empty?
+
+          blog_gated_cta = post.css('.gated-content-ad .btn-primary-cta')
+
+          unless blog_gated_cta.empty?
+            item['blog-post-gated-url'] = blog_gated_cta.first.attribute('href').value
+            item['blog-post-gated-button-text'] = blog_gated_cta.first.text
+          end
+        end
       when 'customer_lp'
         postmeta[:title] = post.css('.customer-header-box h3')
         postmeta[:excerpt] = post.css('.customer-header-box h1')

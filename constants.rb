@@ -54,7 +54,7 @@ module Constants
   }
 
   TAG_SLUG_RANGES = {
-    'post' => (24..-1),
+    'post' => (11..-2),
     'resource' => (16..-2),
     'customer_lp' => (24..-1),
     'webinar' => (24..-1),
