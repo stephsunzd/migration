@@ -233,7 +233,7 @@
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[blog-post-gated-enable]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[blog-post-gated-enable-checkbox-fix]]></wp:meta_key>
@@ -241,23 +241,23 @@
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[blog-post-gated-url]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
+      <wp:meta_value><![CDATA[https://www.zendesk.nl/resources/using-ai-better-self-service/]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[blog-post-gated-img]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/blog/Zendesk_AI_Blog-680x360.png]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[blog-post-gated-headline]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Kunstmatige intelligentie gebruiken<br>voor een betere selfservice]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[blog-post-gated-subheadline]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Er zijn nogal wat manieren waarop kunstmatige intelligentie kan worden ingezet voor klantenservice, vooral binnen uw helpdesk.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[blog-post-gated-button-text]]></wp:meta_key>
-      <wp:meta_value><![CDATA[]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Download de gids]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer1]]></wp:meta_key>

@@ -91,6 +91,22 @@ module Scraper
         item['item_published_at'] = Util.cpubdate_to_timestamp(
           post.css('.meta .date').first.text
         ) unless post.css('.meta .date').empty?
+
+        item['blog-post-gated-enable'] = post.css('.gated-content-ad').empty? ? 0 : 1
+
+        if item['blog-post-gated-enable'].eql?(1)
+          item['blog-post-gated-img'] = post.css('.gated-content-image').first.attribute('style').value.scan(/url\('?"?(.+?)"?'?\)/).first.first unless post.css('.gated-content-image').empty?
+          item['blog-post-gated-img'] = item['blog-post-gated-img'].gsub(/\s/, '')
+          item['blog-post-gated-headline'] = post.css('.gated-content-text h4').first.inner_html unless post.css('.gated-content-text h4').empty?
+          item['blog-post-gated-subheadline'] = post.css('.gated-content-teaser p').first.inner_html unless post.css('.gated-content-teaser p').empty?
+
+          blog_gated_cta = post.css('.gated-content-ad .btn-primary-cta')
+
+          unless blog_gated_cta.empty?
+            item['blog-post-gated-url'] = blog_gated_cta.first.attribute('href').value
+            item['blog-post-gated-button-text'] = blog_gated_cta.first.text
+          end
+        end
       when 'customer_lp'
         postmeta[:title] = post.css('.customer-header-box h3')
         postmeta[:excerpt] = post.css('.customer-header-box h1')
