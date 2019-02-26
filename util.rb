@@ -8,8 +8,11 @@ module Util
   module_function
 
   def cpubdate_to_timestamp(cpubdate)
-    date = cpubdate.split(' ')
-    date = Date.new(date[2].to_i, Date::MONTHNAMES.index(date[0]), date[1].to_i)
+    return '' if cpubdate.nil? || cpubdate.empty?
+
+    date = cpubdate.gsub(/oktober/i, 'October') # hack for missing Oktober
+
+    date = Date.parse(date)
 
     "#{date.strftime('%Y-%m-%d')} 12:00:00"
   end
