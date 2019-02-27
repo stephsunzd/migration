@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- generator="WordPress/4.7.3" created="2019-01-08 21:22" -->
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Zendesk</title>
+	<link>https://www.zendesk.nl</link>
+	<description></description>
+	<pubDate>Tue, 08 Jan 2019 21:22:48 +0000</pubDate>
+	<language>nl</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://www.zendesk.nl/</wp:base_site_url>
+	<wp:base_blog_url>https://www.zendesk.nl</wp:base_blog_url>
+
+	<wp:author>
+    <wp:author_id>2871</wp:author_id>
+    <wp:author_login><![CDATA[stsun]]></wp:author_login>
+    <wp:author_email><![CDATA[stsun@zendesk.com]]></wp:author_email>
+    <wp:author_display_name><![CDATA[Stephanie Sun]]></wp:author_display_name>
+    <wp:author_first_name><![CDATA[Stephanie]]></wp:author_first_name>
+    <wp:author_last_name><![CDATA[Sun]]></wp:author_last_name>
+  </wp:author>
+
+
+	<generator>https://wordpress.org/?v=4.7.3</generator>
+
+  
+  <item>
+    <title>Ervaring van werknemers: hoe verwachtingen van de consument de werkplek vormgeven</title>
+    <link>https://www.zendesk.nl/resources/employee-experience-consumer-expectations-shaping-workplace/</link>
+    <pubDate>Fri, 11 Jan 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://www.zendesk.nl/resources/employee-experience-consumer-expectations-shaping-workplace</guid>
+    <description>De alomtegenwoordigheid van omnichannel service heeft bij de consument de verwachting van een naadloze service gewekt. Dit belangrijke concept beïnvloedt nu de werkplek.</description>
+    
+    <content:encoded><![CDATA[]]></content:encoded>
+    
+    <excerpt:encoded><![CDATA[De ruime aanwezigheid van apps en service bij talloze kanalen (telefoon en e-mail, maar ook chat en platforms zoals Twitter) heeft bij consumenten de verwachting gewekt dat service altijd naadloos en omnichannel is]]></excerpt:encoded>
+    <wp:post_id>201900001</wp:post_id>
+    <wp:post_date><![CDATA[2019-01-11 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-01-11 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[resource]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="filter_tag" nicename="customer-service-management-library"><![CDATA[bibliotheek voor klantenservicebeheer]]></category>
+    
+    <category domain="filter_tag" nicename="customer-service-team-management"><![CDATA[Teammanagement]]></category>
+    
+    <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Trends en inzichten]]></category>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[De ruime aanwezigheid van apps en service bij talloze kanalen (telefoon en e-mail, maar ook chat en platforms zoals Twitter) heeft bij consumenten de verwachting gewekt dat service altijd naadloos en omnichannel is]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/employeeex.jpg]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+    
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-gated]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-gated-success-from-form]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-custom-fields]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[sf-cid]]></wp:meta_key>
+			<wp:meta_value><![CDATA[7011E000001K1Gf]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-header-text]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Ervaring van werknemers: hoe verwachtingen van de consument de werkplek vormgeven]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-ebook-external-link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-thumbnail-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/employeeex.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-featured-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/employeeex.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/Employee-Experience_Whitepaper_NL.pdf]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-infographic-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-video-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-read-time-override]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-teaser-copy]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<p>De ruime aanwezigheid van apps en service bij talloze kanalen (telefoon en e-mail, maar ook chat en platforms zoals Twitter) heeft bij consumenten de verwachting gewekt dat service altijd <a href="https://www.zendesk.nl/resources/customer-experience-guide/" target="_blank">naadloos en omnichannel</a> is. Dit kritische concept begint een bredere relevantie te krijgen in de verschillende aspecten van het dagelijks leven van de consument, ook daar waar de meeste mensen het grootste deel van hun tijd doorbrengen: op de werkplek.</p>
+<p><img src="https://zen-marketing-content.s3.amazonaws.com/content/Employee-Experience_Whitepaper_Thumbnail.png" width="270" height="340" alt=""></p>
+<p>De verwachtingen van werknemers veranderen mee met de stijgende verwachtingen van de klant. Uw werknemers zijn immers ook consumenten en zij verwachten dezelfde soort service op hun werk als ze vragen hebben over hun secundaire arbeidsvoorwaarden, de salarisadministratie, een laptop die het niet goed doet en over de processen tijdens hun inwerkperiode, kortom dezelfde service die ze gewend zijn van bedrijven waarvan ze klant zijn. </p>
+<p>Bedrijven merken de impact van de ervaring van werknemers op de prestaties van het bedrijf. In een onderzoek onder bedrijven die staan op de lijst met de 'beste plekken om te werken', is vastgesteld dat de bedrijven op de jaarlijkse lijst van Fortune tussen 2009 en 2014 de S&amp;P 500 met 84 procent overtroffen. Deze trend dwingt afdelingen, waaronder IT en HR, verder om manieren te vinden waarop zij hun helpdeskstrategie kunnen optimaliseren om aan de verwachtingen van hun werknemers te voldoen. </p>
+<p>In dit whitepaper gaan we in op de belangrijkste obstakels en drijfveren van de ervaring van werknemers, en de belangrijkste manieren waarop Zendesk kan helpen om de betrokkenheid van werknemers te verbeteren, <a href="https://www.zendesk.nl/resources/using-ai-better-self-service/" target="_blank">de efficiëntie te verhogen en de prestaties van teams te optimaliseren</a>. Ontdek hoe Zendesk u kan helpen bij het leveren van consumentenervaringen binnen uw bedrijf.</p>
+]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-body-copy]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+    
+  </item>
+  
+</channel>
+</rss>
