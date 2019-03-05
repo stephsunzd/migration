@@ -1,0 +1,1432 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- generator="WordPress/4.7.3" created="2019-01-08 21:22" -->
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Zendesk</title>
+	<link>https://www.zendesk.com.mx</link>
+	<description></description>
+	<pubDate>Tue, 08 Jan 2019 21:22:48 +0000</pubDate>
+	<language>mx</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://www.zendesk.com.mx/</wp:base_site_url>
+	<wp:base_blog_url>https://www.zendesk.com.mx</wp:base_blog_url>
+
+	<wp:author>
+    <wp:author_id>2871</wp:author_id>
+    <wp:author_login><![CDATA[stsun]]></wp:author_login>
+    <wp:author_email><![CDATA[stsun@zendesk.com]]></wp:author_email>
+    <wp:author_display_name><![CDATA[Stephanie Sun]]></wp:author_display_name>
+    <wp:author_first_name><![CDATA[Stephanie]]></wp:author_first_name>
+    <wp:author_last_name><![CDATA[Sun]]></wp:author_last_name>
+  </wp:author>
+
+
+	<generator>https://wordpress.org/?v=4.7.3</generator>
+
+  
+  <item>
+    <title>OLX</title>
+    <link>https://www.zendesk.com.mx/customer/olx/</link>
+    <pubDate>Mon, 04 Feb 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://www.zendesk.com.mx/customer/olx</guid>
+    <description>OLX seleccionó a Zendesk como solución para su servicio de atención al cliente omnicanal. OLX saca partido de la función multimarca de Support para ofrecer soporte a más de 90 sitios y en más de 22 idiomas. Con Zendesk Guide, la empresa ha logrado un índice de redirección de tickets del 40 %.</description>
+    
+    <content:encoded><![CDATA[
+
+<section>
+<p class="giant highlight center">Vivas en Berlín o en Buenos Aires, Ciudad del Cabo o Caracas, lo más seguro es que te enfrentes a uno de los problemas más habituales de la vida moderna: admitir que la cara bicicleta estática que compraste para ponerte en forma se ha convertido en una anticuada y poco elegante percha para la ropa. O, quién sabe, a lo mejor acabas de terminar de leer <em>La magia del orden</em> de Marie Kondō. Sea como sea, es el momento de deshacerse de la bicicleta.
+</p>
+<p>Pero, en lugar de tirar sin más la bicicleta al contenedor, puedes decidir recuperar parte de tu dinero vendiéndola o incluso cambiándola por algo que sí vas a utilizar. Aquí es donde puede ayudarte OLX, una empresa fundada en 2006 como plataforma de anuncios para comprar, vender e intercambiar bienes y servicios, y que opera en más de 40 países. Sus sitios web, como <a href="https://us.letgo.com/en" title="LetGo" target="_blank">LetGo</a> y <a href="https://www.olx.in/" title="OLX" india="" target="_blank">OLX India</a>, reciben en promedio 54 millones de anuncios al mes y la exorbitante cantidad de 1.700 millones de visualizaciones. Comprada en 2010 por Naspers Classifieds, una sociedad internacional de inversiones en ocio y tecnología, OLX tiene 1.200 empleados en todo el mundo.</p>
+<p>Esta presencia global les obliga a plantearse el delicado asunto de las diferencias culturales y a proporcionar soporte en varios idiomas. Anteriormente OLX mantenía una mezcolanza de soluciones de servicio de atención al cliente internas. Por ejemplo, una herramienta de terceros personalizada para la región de Latinoamérica se utilizaba para dar soporte en 14 países. El mantenimiento de estas herramientas dejaba mucho que desear, nos explica Cynthia Toral, responsable de producto de OLX Global. Los procedimientos para crear disparadores y notificaciones automáticas para los agentes acabaron siendo tan complicados que Toral se decidió a buscar una solución eficaz y unificada que se pudiera implantar en todos los países. </p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/OLX3.jpg"></section>
+<section>
+<p>Tras examinar los productos de Freshdesk y otros proveedores, OLX optó por la solución omnicanal de Zendesk por su facilidad de configuración y las posibilidades de personalización que ofrece su API. Toral confiaba en que los flujos de trabajo configurados en Zendesk Support ayudarían a los responsables del servicio de atención al cliente a asignar las prioridades de trabajo en sus equipos.</p>
+<p>“Esto es algo poco frecuente”, dice Toral, que trabaja en OLX desde hace más de nueve años. “Por ejemplo, Freshdesk es muy flexible porque permite cambiar muchas cosas con el código de la página de ayuda, pero no ofrece ninguna configuración para el agente, lo cual es muy necesario. Nosotros queremos ofrecer el mejor soporte posible y conseguir que nuestros usuarios estén realmente satisfechos”.</p>
+<p>Una vez implantado Zendesk, en septiembre de 2014, OLX empezó a sacar partido rápidamente de sus posibilidades multimarca. Con más de 90 sitios globales a los que proporcionar soporte, la empresa puso en marcha 35 instancias de Zendesk, personalizadas para diferentes regiones y muchas veces segmentadas con la <a href="https://support.zendesk.com/hc/en-us/articles/204579233-Multibrand-resources-Professional-Add-on-and-Enterprise-" title="Multimarca" feature="" target="_blank">función multimarca</a>. “Empezamos con 14 países de Latinoamérica”, cuenta Toral.</p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/OLX6.jpg"></section>
+<section>
+<p>Con Zendesk, OLX puede centrarse fácilmente en los canales preferidos de sus clientes, en lugar de utilizar una única solución para todos. “Todo depende de las necesidades del mercado”, dice Toral. “Por ejemplo, tenemos el caso de Sudáfrica, donde necesitamos soporte telefónico porque en los mercados africanos esta opción tiene más demanda que el correo electrónico. Todo el mundo tiene un teléfono móvil, pero no todos tienen correo electrónico”.</p>
+<p>Uno de los canales preferidos en muchos mercados es el chat en vivo, y OLX utiliza Zendesk para iniciar chats de forma proactiva que faciliten la redirección general de los tickets. Por ejemplo, OLX India ha incrustado Zendesk Chat en su aplicación de Android, de tal manera que, si los clientes abandonan una página de publicación de anuncios, se abra el widget de chat para animar al cliente a que termine de publicar el anuncio que tiene a medias. </p>
+<p>“Lo que queríamos, en definitiva, era convencer al usuario de que publicase el anuncio”, explica Toral, y gracias a esto el equipo puede averiguar cuántas conversaciones han tenido lugar sobre la publicación de un anuncio, así como la cantidad de anuncios que se publican después de esta interacción proactiva.</p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/OLX1.jpg"></section>
+<section>
+<p>Otro procedimiento gracias al cual OLX pudo reducir la cantidad de tickets recibidos fue la creación de artículos de autoservicio específicos para cada mercado en Zendesk Guide, que se tradujo en una reducción de un 40 por ciento en los tickets a nivel mundial. La empresa siempre se preocupa por probar la eficacia de sus diferentes metodologías. OLX también ha experimentado con el rellenado automático de formularios y las sugerencias basadas en campos en lugar de texto. Ahora está añadiendo un cuadro emergente con posibles soluciones para ayudar a los usuarios a encontrar el contenido del centro de ayuda más pertinente para un sitio en concreto.</p>
+<p>“Supongamos que quieres recuperar tu contraseña. En ese caso, te sugeriríamos ‘Haz clic aquí’”, explica Toral. “Hemos examinado el contenido sugerido en cada campo personalizado del formulario de contacto y hemos observado una reducción del 30 por ciento en los tickets relacionados con estas preguntas básicas”.</p>
+<p>Con tantos sitios en todo el mundo, los análisis de datos de OLX han demostrado ser sumamente complejos y absolutamente decisivos. Para abordar esta tarea, OLX ha comenzado a sacar partido de la <a href="https://developer.zendesk.com/rest_api/docs/core/introduction" title="Zendesk’s" api="" target="_blank">API de Zendesk</a>. “Estamos programando un panel con el que extraemos datos de la API en todas las cuentas de Zendesk", explica Toral. Este panel, al que llamamos ‘La voz del cliente’, incorporará todos los motivos de contacto seleccionados por los usuarios, lo que nos permitirá relacionar esta información con la plataforma utilizada por el usuario e incluso con la versión de su aplicación. Gracias a esto podremos crear un producto más elaborado”.</p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/OLX2.jpg"></section>
+<section>
+<p>El objetivo último es compartir la información de los países y regiones y poder comparar las métricas desde una fuente central. Es un trabajo en desarrollo, dice Toral. “La cuestión es que tienes que extraer la información de lo que conoces de los clientes, pero no puedes planteártelo como: ‘Leamos 200.000 tickets al mes de todo el mundo y veamos qué nos están diciendo los clientes’”, afirma. “La única forma inteligente de hacerlo consiste en pedir un pequeño esfuerzo al usuario y dejarle que elija el motivo del contacto. Luego, con estos contactos y estos campos, podemos crear mejores informes”.</p>
+<p>En opinión de Toral, generar mejores informes y facilitar el trabajo a los agentes mejorará la satisfacción de los clientes, y Zendesk desempeña un papel fundamental en este sentido. “Al contar con una única herramienta y tener todo integrado en Zendesk, es más fácil hacerse una idea más clara de todo lo que estamos haciendo. Queremos que todos nuestros proveedores de soporte y control de calidad externos se integren en Zendesk, para que toda nuestra información esté en un único lugar”.</p>
+</section>
+</div></div><section class="quote">
+
+<p class="giant">“La API de Zendesk es muy avanzada, por lo que resulta muy fácil trabajar con ella”.
+</p>
+<p class="author">– Cynthia Toral, <span>responsable de producto de OLX Global</span></p>
+
+</section>]]></content:encoded>
+    
+    <excerpt:encoded><![CDATA[OLX redujo el volumen de tickets en todo el mundo en un 40 % gracias a Zendesk]]></excerpt:encoded>
+    <wp:post_id>201900001</wp:post_id>
+    <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-02-04 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="stories_tax" nicename="americas"><![CDATA[América]]></category>
+    
+    <category domain="stories_tax" nicename="asia-pacific"><![CDATA[Asia Pacífico]]></category>
+    
+    <category domain="stories_tax" nicename="product-chat"><![CDATA[Chat]]></category>
+    
+    <category domain="stories_tax" nicename="europe"><![CDATA[Europa]]></category>
+    
+    <category domain="stories_tax" nicename="product-guide"><![CDATA[Guide]]></category>
+    
+    <category domain="stories_tax" nicename="retail"><![CDATA[Comercio minorista y electrónico]]></category>
+    
+    <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
+    
+    <category domain="stories_tax" nicename="product-talk"><![CDATA[Talk]]></category>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[OLX redujo el volumen de tickets en todo el mundo en un 40 % gracias a Zendesk]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/OLX5.jpg]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[OLX seleccionó a Zendesk como solución para su servicio de atención al cliente omnicanal. OLX saca partido de la función multimarca de Support para ofrecer soporte a más de 90 sitios y en más de 22 idiomas. Con Zendesk Guide, la empresa ha logrado un índice de redirección de tickets del 40 %.]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+    
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
+			<wp:meta_value><![CDATA[OLX redujo el volumen de tickets en todo el mundo en un 40 % gracias a Zendesk]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[customer-heading]]></wp:meta_key>
+			<wp:meta_value><![CDATA[OLX]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-main-bg-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/OLX5.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-video-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-main-logo-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/OLX_Logo%20copy.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stats]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{i:0;a:2:{s:19:"customer-stat-title";s:7:"Agentes";s:19:"customer-stat-value";s:3:"695";}i:1;a:2:{s:19:"customer-stat-title";s:17:"Idiomas admitidos";s:19:"customer-stat-value";s:2:"22";}i:2;a:2:{s:19:"customer-stat-title";s:27:"Promedio mensual de tickets";s:19:"customer-stat-value";s:7:"200.000";}i:3;a:2:{s:19:"customer-stat-title";s:53:"Disminución del volumen de tickets con Zendesk Guide";s:19:"customer-stat-value";s:3:"40%";}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stat-button-text]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stat-button-link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-highlight]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-highlight-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-featured-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-footer-quote]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-footer-quote-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[featured-section]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[tagline-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-author]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+    
+  </item>
+  
+  <item>
+    <title>Mediaocean</title>
+    <link>https://www.zendesk.com.mx/customer/mediaocean/</link>
+    <pubDate>Mon, 04 Feb 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://www.zendesk.com.mx/customer/mediaocean</guid>
+    <description>El regreso de Mediaocean a Zendesk, tras haberse cambiado a Salesforce, produjo un 305 % de aumento en la adopción del autoservicio y una calificación de 98 % en CSAT.</description>
+    
+    <content:encoded><![CDATA[
+
+<section>
+<p class="giant highlight center">Si bien la publicidad pagada ha cambiado drásticamente a lo largo de los años debido a la proliferación de canales de marketing en los mercados globales, esta sigue siendo una de las mejores maneras de publicitar productos nuevos y contenido multimedia.
+</p>
+<p>En la actualidad, este mar de opciones se hace más navegable gracias a Mediaocean, que ofrece a marcas, agencias y vendedores de contenido multimedia en 77 países una plataforma y productos para gestionar y coordinar todo el flujo de trabajo, desde la planificación hasta los pagos, en espacios publicitarios tradicionales y digitales.</p>
+<p>Esta amplitud de alcance, que permite inversiones globales en medios de comunicación por $ 140000 millones, para más de 80,000 usuarios, exige que la empresa tenga una sólida red troncal de soporte.Como líder de esta iniciativa está Stephanie Dorman, vicepresidente sénior de servicios para clientes.«Mucho de lo que hacemos es trabajo de consultoría.Nuestros clientes quieren saber cómo usar nuestro sistema de la mejor manera posible», explicó. </p>
+<p>Los agentes de soporte deben entender los objetivos específicos de los clientes, lo cual constituye una tarea monumental si tenemos en cuenta que el equipo de servicios al cliente maneja, en promedio, 26,000 tickets por trimestre, 50 % de los cuales se envían por correo electrónico.Para responder a este volumen, Dorman supervisa a un equipo distribuido de 150 especialistas en servicio de atención al cliente que proporcionan soporte técnico para varias plataformas 24 horas al día, 5 días a la semana, desde 10 de sus 14 oficinas en todo el mundo. </p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/mediaocean7.jpg"></section>
+<section>
+<p>Su equipo en constante crecimiento ha duplicado su tamaño dado el rápido crecimiento y las adquisiciones desde que Mediaocean implementó Zendesk Support por primera vez en 2012.En ese momento, la empresa recién se formada tras una fusión y Dorman se propuso combinar dos equipos de soporte para implementar una nueva solución unificada de servicio de atención al cliente.Esta solución debía ser asequible y fácil de implementar. </p>
+<p>El equipo consideró 10 opciones antes de seleccionar Zendesk Support, que se destacó por su interfaz de usuario de líneas limpias y la eficiencia que permite el software.«Consideramos que Zendesk ofrecería un mayor rendimiento de la inversión que las otras opciones.Hicimos un análisis de costos y vimos que con Zendesk podríamos ahorrar dinero y aumentar la productividad», relató Dorman.</p>
+<p>Al principio, la implementación fue desafiante, lo que llevó a Dorman a asociarse con un ejecutivo especialista en éxito de clientes de Zendesk para superar los obstáculos y crear una estrategia que garantice el éxito de la implementación.«Necesitaba a alguien que facilitara los resultados, y eso fue exactamente lo que sucedió», dijo Dorman.«Estábamos contentísimos porque tanto a nuestros usuarios internos como a nuestros clientes les encantó el producto».</p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Mediaocean4.jpg"></section>
+<section>
+<p>Al desarrollar una sociedad colaborativa sólida con Zendesk desde el comienzo, Mediaocean y Zendesk forjaron una relación que sigue siendo sólida después de cinco años.Con los agentes y los clientes satisfechos, el equipo de Dorman siguió creciendo y su experiencia positiva con Zendesk se amplió aún más con el foro Service Leadership Forum de Zendesk, donde pudo compartir e intercambiar experiencias y conocimientos con sus colegas.En cuanto a los productos, el equipo había integrado SnapEngage y Talkdesk para proporcionar una experiencia omnicanal a los agentes y capturar todos lo contactos del cliente en Zendesk.</p>
+<p>Pero se avecinaban más cambios: Mediaocean fue adquirida por otra empresa, que le indicó que se pasara a un importante proveedor de CRM.Aunque se resistían al cambio, Dorman y su equipo mantuvieron una actitud positiva y objetiva.Sin embargo, la primera señal de problemas se produjo durante el proceso de implementación.Dorman explicó: «El otro sistema tenía algunas ventajas, pero para nosotros, era complicado y muy costoso.A cada paso surgía alguna personalización o cambio inesperado».</p>
+<p>Estos costos adicionales incluían la contratación de un administrador especializado para gestionar la herramienta a tiempo completo.A su vez, los problemas de conflictos entre casos reducía la productividad de los agentes.Dorman explicó: «Esto era muy importante porque somos muy colaborativos.Nuestra métrica de “cantidad promedio de tickets cerrados por día por representante” estaba en baja porque el personal pasaba mucho más tiempo en el proceso».</p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/mediaocean6.jpg"></section>
+<section>
+<p>El cambio de sistema también afectó la experiencia de los clientes.Dorman declaró: «El uso de nuestro portal web disminuyó en un 75 % en el primer trimestre posterior a la implementación, lo que representó más llamadas entrantes a la mesa de ayuda.Nuestros clientes indicaban que ya no encontraban lo que necesitaban».</p>
+<p>Tras analizar los comentarios de los agentes y los clientes, se determinó que muchos de los problemas se debían al sistema nuevo.Dorman también se dio cuenta de que el proveedor consideraba que Mediaocean era demasiado pequeña como para ser una prioridad.Al mismo tiempo, una matriz que ella y su equipo crearon para comparar Zendesk con su reemplazo reveló que un 90 % de lo que necesitaban estaba disponible y listo para usar en Zendesk, pero que requería configuración o personalización costosa y dilatoria con el otro proveedor.</p>
+<p>Incluso con estos datos a su disposición, Dorman dudaba de que Mediaocean aprobara volver a Zendesk.Explicó: «Habíamos invertido muchísimo dinero en el cambio.Pero entre más avanzaba el proceso, más claro estaba que nos convenía revertir este cambio.Estamos gastando varios cientos de miles de dólares antes de revertirlo porque aún nos quedan dos años de contrato».</p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Mediaocean1.jpg"></section>
+<section>
+<p>Dorman y su equipo pudieron expresar un argumento convincente y, cuando se tomó la decisión, todos en Mediaocean la aceptaron con alegría.Dorman dijo: «Se pusieron de pie y aplaudieron la decisión».No solo fue el equipo de soporte, sino también el equipo de gestión de cuentas, el de RR. HH.Estábamos tan felices que comenzamos el proceso de implementación de inmediato».</p>
+<p>Mediaocean volvió a implementar Zendesk en dos meses, para el 2017 de agosto.«La implementación salió perfecta.Realmente superó todas las expectativas.Como empresa de software, esperábamos tener que enfrentar algunos desafíos.Pero el proceso se dio sin contratiempos», declaró.</p>
+<p>El nuevo comienzo le permitió a Mediaocean mejorar la configuración y los procesos anteriores.Tanto los clientes como los agentes internos ahora usan una base de conocimientos con tecnología de Zendesk Guide.Desde Apps Marketplace de Zendesk, el equipo usa la aplicación <a href="https://www.zendesk.com.mx/apps/support/cloudset/" title="CloudSET" app="" target="_blank">CloudSET</a> para hacer un seguimiento de 6 niveles de componentes de ticket con miles de posibles combinaciones y para gestionar los SLA del cliente.</p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Mediaocean9.jpg"></section>
+<section>
+<p>Dorman y su equipo ampliaron Zendesk con una sólida integración entre Salesforce y Support, con la ayuda de <a href="https://www.zendesk.com.mx/apps/support/azuqua/" title="Azuqua" target="_blank">Azuqua</a>, uno de los socios de sincronización de datos preferidos por Zendesk.La plataforma de integración de datos de Azuqua facilita la conexión e implementación de los datos entre sistemas sin el mantenimiento ni los gastos en administradores de TI.Mediaocean también desarrolla una integración compleja con <a href="https://www.zendesk.com.mx/apps/support/jira/" title="&lt;br&gt;JIRA" target="_blank">JIRA</a>, algo que el equipo no había podido lograr antes. </p>
+<p>«Nos encantan nuestras herramientas integradas, y el portal es quizá la más importante para mí porque hemos invertido mucho en desarrollar una base de conocimientos para nuestros clientes y nuestro equipo interno», dijo Dorman.</p>
+<p>Hay más métricas de éxito en esta historia de proporcionar experiencias de excelencia.La satisfacción de los empleados, que se había reducido en 20 puntos cuando Mediaocean dejó de usar Zendesk, aumentó 40 puntos desde entonces.Dorman notó que volver a usar Zendesk tuvo un impacto directo en el ánimo de los agentes, que disfrutan especialmente de la interfaz de tickets de líneas limpias y la capacidad de edición incorporada.Con un equipo satisfecho y las herramientas fáciles de usar, Mediaocean mantiene una tasa de deserción de agentes de menos del 3 % y puede proporcionar a los empleados nuevos una base de conocimientos que ayuda a fortalecer y acelerar el proceso de iniciación.</p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/mediaocean5.jpg"></section>
+<section>
+<p>«Usamos nuestra base de conocimientos interna para proporcionar al nuevo personal información adicional que puede ayudarlos en el proceso de iniciación», indicó.En cuanto a los clientes, el equipo desarrolló una biblioteca de videos educativos en línea.Dorman señaló: «Muchas veces, nuestros clientes no tienen el nivel de detalle sobre un producto que se necesita para acotar una búsqueda.Por eso pudimos desarrollar con mucha facilidad los videos y otros materiales educativos con Zendesk Guide sin tener que invertir recursos ni dinero adicionales, y nuestros clientes pueden encontrar fácilmente lo que necesitan».</p>
+<p>Mediaocean obtuvo un aumento inmediato en la puntuación de CSAT del 95 al 98 %, y los clientes volvieron a usar el portal de la empresa.Dorman dijo: «La adopción de nuestro portal aumentó en un 305 % en seis semanas sin que hiciéramos nada.No me esperaba obtener ese nivel de readopción tan rápido.Para mí, esto fue una gran ventaja adicional, el beneficio inesperado de Zendesk».</p>
+<p>Dorman sabe mejor que nadie que no todas las experiencias de los clientes son perfectas y que la manera en que una empresa responde hace toda la diferencia.Ella explicó: «Respondemos con una llamada a casi todos los comentarios negativos que recibimos.Nuestra puntuación de CSAT es muy alta, por lo que esto resulta factible.En el paquete mensual de métricas de informe de clientes, proporcionamos transparencia total de todos los comentarios negativos que recibimos y qué hicimos al respecto.Esto es muy valorado por nuestros clientes».</p>
+</section>
+</div></div><section class="quote">
+
+<p class="giant">«De hecho, recibo correos electrónicos de agradecimiento por parte de nuestros clientes por haber vuelto a usar Zendesk, donde comentan que es la mejor decisión que pudimos haber tomado».
+</p>
+<p class="author">– Stephanie Dorman <span> vicepresidente sénior de servicios al cliente</span></p>
+
+</section>]]></content:encoded>
+    
+    <excerpt:encoded><![CDATA[El retorno a Zendesk aumenta la satisfacción de clientes y agentes]]></excerpt:encoded>
+    <wp:post_id>201900002</wp:post_id>
+    <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-02-04 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="stories_tax" nicename="americas"><![CDATA[América]]></category>
+    
+    <category domain="stories_tax" nicename="asia-pacific"><![CDATA[Asia Pacífico]]></category>
+    
+    <category domain="stories_tax" nicename="europe"><![CDATA[Europa]]></category>
+    
+    <category domain="stories_tax" nicename="product-guide"><![CDATA[Guide]]></category>
+    
+    <category domain="stories_tax" nicename="software-technology"><![CDATA[Software y tecnología]]></category>
+    
+    <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[El retorno a Zendesk aumenta la satisfacción de clientes y agentes]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Mediaocean2.jpg]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[El regreso de Mediaocean a Zendesk, tras haberse cambiado a Salesforce, produjo un 305 % de aumento en la adopción del autoservicio y una calificación de 98 % en CSAT.]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+    
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
+			<wp:meta_value><![CDATA[El retorno a Zendesk aumenta la satisfacción de clientes y agentes]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[customer-heading]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Mediaocean]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-main-bg-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Mediaocean2.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-video-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-main-logo-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Mediaocean%20logo.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stats]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{i:0;a:2:{s:19:"customer-stat-title";s:7:"Agentes";s:19:"customer-stat-value";s:11:"Más de 150";}i:1;a:2:{s:19:"customer-stat-title";s:17:"Tickets/Trimestre";s:19:"customer-stat-value";s:6:"26.000";}i:2;a:2:{s:19:"customer-stat-title";s:20:"Adopción del portal";s:19:"customer-stat-value";s:14:"Más del 305 %";}i:3;a:2:{s:19:"customer-stat-title";s:4:"CSAT";s:19:"customer-stat-value";s:2:"98";}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stat-button-text]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stat-button-link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-highlight]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-highlight-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-featured-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-footer-quote]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-footer-quote-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[featured-section]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[tagline-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-author]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+    
+  </item>
+  
+  <item>
+    <title>Customer satisfaction surveys in Zendesk Support</title>
+    <link>https://www.zendesk.com.mx/resources/customer-satisfaction-surveys-zendesk-support/</link>
+    <pubDate>Mon, 23 Oct 2017 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://www.zendesk.com.mx/resources/customer-satisfaction-surveys-zendesk-support</guid>
+    <description>Descubre cómo una sencilla pregunta a los clientes puede impulsar importantes mejoras y ayudarte a entender la salud de tu organización de soporte.</description>
+    
+    <content:encoded><![CDATA[]]></content:encoded>
+    
+    <excerpt:encoded><![CDATA[Las encuestas de satisfacción del cliente obtienen directamente las opiniones de los clientes.]]></excerpt:encoded>
+    <wp:post_id>201900003</wp:post_id>
+    <wp:post_date><![CDATA[2017-10-23 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2017-10-23 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[resource]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Administración de la atención al cliente]]></category>
+    
+    <category domain="filter_tag" nicename="support-operations"><![CDATA[Operaciones de soporte]]></category>
+    
+    <category domain="filter_tag" nicename="customer-support-technology"><![CDATA[Tecnología]]></category>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Las encuestas de satisfacción del cliente obtienen directamente las opiniones de los clientes.]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+    
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-gated]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-gated-success-from-form]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-custom-fields]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[sf-cid]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-header-text]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Customer satisfaction surveys in Zendesk Support]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-ebook-external-link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-thumbnail-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-featured-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-infographic-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-video-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-read-time-override]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-teaser-copy]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<p>Las encuestas de satisfacción del cliente obtienen directamente las opiniones de los clientes. Descubre cómo una sencilla pregunta a los clientes puede impulsar importantes mejoras y ayudarte a entender la salud de tu organización de soporte. </p>
+<h3>Más información sobre las <a href="https://support.zendesk.com/hc/en-us/community/posts/220097067-Zendesk-on-Zendesk-How-we-manage-customer-satisfaction-surveys-and-ratings" target="_blank">Encuestas de satisfacción del cliente en Zendesk Support</a>
+</h3>
+<p><script src="https://fast.wistia.com/embed/medias/mqjrsbi6nx.jsonp" async=""></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async=""></script></p>
+<div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;">
+<div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;">
+<div class="wistia_embed wistia_async_mqjrsbi6nx videoFoam=true" style="height:100%;width:100%"> </div>
+</div>
+</div>
+]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-body-copy]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+    
+  </item>
+  
+  <item>
+    <title>Mediaocean utiliza Zendesk para facultar a sus equipos de atención al cliente y mejorar su contenido</title>
+    <link>https://www.zendesk.com.mx/resources/mediaocean-empowers-better-customer-support-teams-content-zendesk/</link>
+    <pubDate>Tue, 05 Dec 2017 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://www.zendesk.com.mx/resources/mediaocean-empowers-better-customer-support-teams-content-zendesk</guid>
+    <description>Con una combinación de sus plataformas multimedia tradicional y digital, Mediaocean permite que las agencias y las marcas administren su flujo de trabajo a escala mundial.</description>
+    
+    <content:encoded><![CDATA[]]></content:encoded>
+    
+    <excerpt:encoded><![CDATA[Mediaocean es una compañía de software y servicios publicitarios, con sede en la Ciudad de Nueva York, 1.000 empleados que atienden a más de 80.]]></excerpt:encoded>
+    <wp:post_id>201900004</wp:post_id>
+    <wp:post_date><![CDATA[2017-12-05 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2017-12-05 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[resource]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="filter_tag" nicename="customer-support-analyst-reports"><![CDATA[Informes de analistas]]></category>
+    
+    <category domain="filter_tag" nicename="best-practices-customer-service"><![CDATA[Experiencia de los clientes]]></category>
+    
+    <category domain="filter_tag" nicename="customer-service-strategy"><![CDATA[Estrategia del servicio de atención al cliente]]></category>
+    
+    <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendencias y observaciones]]></category>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Mediaocean es una compañía de software y servicios publicitarios, con sede en la Ciudad de Nueva York, 1.000 empleados que atienden a más de 80.]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/resources/IDC_library.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+    
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-gated]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-gated-success-from-form]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-custom-fields]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[sf-cid]]></wp:meta_key>
+			<wp:meta_value><![CDATA[7011E000001K3BN]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-header-text]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Mediaocean utiliza Zendesk para facultar a sus equipos de atención al cliente y mejorar su contenido]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-ebook-external-link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-thumbnail-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/resources/IDC_library.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-featured-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/resources/IDC_library.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/whitepapers/Final%20Mediaocean%20Zendesk%20IDC%20Spotlight%20Paper.pdf]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-infographic-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-video-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-read-time-override]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-teaser-copy]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<p>Mediaocean es una compañía de software y servicios publicitarios, con sede en la Ciudad de Nueva York, 1.000 empleados que atienden a más de 80.000 clientes en más de 77 mercados y un gasto mundial en multimedia de más de $140 mil millones. La compañía fue fundada en 2012 por medio de la fusión de dos firmas de tecnología de publicidad.</p>
+<p>Después de su fundación, Mediaocean evaluó a 10 vendedores de servicios de atención al cliente antes de elegir la plataforma de Zendesk Support para administrar sus actividades de soporte internacionales. Sin embargo, tres años después, una empresa de capital adquirió la participación mayoritaria de la compañía y ordenó el cambio a otra plataforma. Cuando la nueva plataforma comenzó a ocasionar problemas, Mediaocean retomó nuevamente la solución de Zendesk para satisfacción de empleados y clientes. A fin de cuantificar los beneficios comerciales de la reimplementación de Zendesk, IDC entrevistó a Stephanie Dorman, vicepresidenta sénior de atención al cliente. IDC pronostica que, en el caso de Mediaocean, el retorno de la inversión en cinco años será de un 170 %, con un plazo de amortización de menos de seis meses.</p>
+]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-body-copy]]></wp:meta_key>
+			<wp:meta_value><![CDATA[
+Estos son <a href="https://zen-marketing-content.s3.amazonaws.com/content/Datasheets/PR-016088%20IDC%20One%20Pagers_Mediaocean%20Spotlight_design_r3.1_as_es-MX.pdf" target="_blank"><em> los aspectos más destacados del informe</em></a> en su idioma.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+    
+  </item>
+  
+  <item>
+    <title>Soporte de autoservicio adaptable a la medida de cada compañía</title>
+    <link>https://www.zendesk.com.mx/resources/scalable-self-service-support-tailor-made-every-company/</link>
+    <pubDate>Wed, 23 Jan 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://www.zendesk.com.mx/resources/scalable-self-service-support-tailor-made-every-company</guid>
+    <description>Cada negocio es diferente, por lo que no hay una receta única para ofrecer autoservicio de calidad. En Zendesk, ayudamos a las compañías a diseñar soluciones de autoservicio adaptadas a cada necesidad.</description>
+    
+    <content:encoded><![CDATA[]]></content:encoded>
+    
+    <excerpt:encoded><![CDATA[Proporcionar autoservicio flexible y de calidad se ha convertido en parte esencial del trabajo de Zendesk.]]></excerpt:encoded>
+    <wp:post_id>201900005</wp:post_id>
+    <wp:post_date><![CDATA[2019-01-23 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-01-23 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[resource]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="filter_tag" nicename="zendesk-library-collection"><![CDATA[Colecciones]]></category>
+    
+    <category domain="filter_tag" nicename="zendesk-customer-stories"><![CDATA[Anécdotas del servicio de atención al cliente]]></category>
+    
+    <category domain="filter_tag" nicename="zendesk-products-guide"><![CDATA[Guide]]></category>
+    
+    <category domain="filter_tag" nicename="customer-support-knowledge-base"><![CDATA[Base de conocimientos]]></category>
+    
+    <category domain="filter_tag" nicename="customer-support-channels"><![CDATA[Canales de soporte]]></category>
+    
+    <category domain="filter_tag" nicename="library-zendesk-products"><![CDATA[Productos de Zendesk]]></category>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Proporcionar autoservicio flexible y de calidad se ha convertido en parte esencial del trabajo de Zendesk.]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/SSS_blog_image-680x360.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+    
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-gated]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-gated-success-from-form]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-custom-fields]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[sf-cid]]></wp:meta_key>
+			<wp:meta_value><![CDATA[7011E000001K1Dg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-header-text]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Soporte de autoservicio adaptable a la medida de cada compañía]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-ebook-external-link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-thumbnail-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/SSS_blog_image-680x360.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-featured-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/SSS_blog_image-680x360.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-infographic-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-video-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-read-time-override]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-teaser-copy]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<p>Proporcionar autoservicio flexible y de calidad se ha convertido en parte esencial del trabajo de Zendesk. Los líderes del sector se están dando cuenta de que ofrecer autoservicio de calidad no es solo una opción atractiva, sino también indispensable. Y los clientes la buscan activamente.</p>
+<p>Cada negocio es diferente, por lo que no hay una receta única para ofrecer autoservicio de calidad. En Zendesk, ayudamos a las compañías a diseñar soluciones de autoservicio adaptadas a cada necesidad. En este eBook, descubrirás cómo Zendesk ha proporcionado soluciones personalizadas para ayudar a empresas como Squarespace y Dollar Shave Club a impulsar sus metas comerciales con más eficacia.</p>
+]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-body-copy]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<strong>Este es el eBook que buscabas: <a href="https://zen-marketing-content.s3.amazonaws.com/content/Guide%20Enterprise/Zendesk_Self%20Service-Customer%20Story_D3_esLA.pdf" target="_blank">Soporte de autoservicio adaptable a la medida de cada compañía</a>.</strong>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+    
+  </item>
+  
+  <item>
+    <title>Zendesk Benchmark: guía práctica para las tendencias de la experiencia del cliente</title>
+    <link>https://www.zendesk.com.mx/resources/zendesk-customer-experience-trends-how-to-guide/</link>
+    <pubDate>Mon, 18 Feb 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://www.zendesk.com.mx/resources/zendesk-customer-experience-trends-how-to-guide</guid>
+    <description>Esta guía práctica, un complemento de nuestro Informe sobre las tendencias de la experiencia del cliente en 2019, te ayudará a adoptar las tendencias crecientes en la atención al cliente.</description>
+    
+    <content:encoded><![CDATA[]]></content:encoded>
+    
+    <excerpt:encoded><![CDATA[Tus clientes te están comparando en todo momento con la mejor experiencia del cliente que han tenido.]]></excerpt:encoded>
+    <wp:post_id>201900006</wp:post_id>
+    <wp:post_date><![CDATA[2019-02-18 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-02-18 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[resource]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="filter_tag" nicename="customer-support-analyst-reports"><![CDATA[Informes de analistas]]></category>
+    
+    <category domain="filter_tag" nicename="best-practices-customer-service"><![CDATA[Experiencia de los clientes]]></category>
+    
+    <category domain="filter_tag" nicename="customer-service-strategy"><![CDATA[Estrategia del servicio de atención al cliente]]></category>
+    
+    <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendencias y observaciones]]></category>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Tus clientes te están comparando en todo momento con la mejor experiencia del cliente que han tenido.]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/Zendesk%20Enterprise_DigitalNatives_SocialAssets_notext-01.jpg]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+    
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-gated]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-gated-success-from-form]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-custom-fields]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[sf-cid]]></wp:meta_key>
+			<wp:meta_value><![CDATA[7011E000001K2b5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-header-text]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Zendesk Benchmark: guía práctica para las tendencias de la experiencia del cliente]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-ebook-external-link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-thumbnail-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/Zendesk%20Enterprise_DigitalNatives_SocialAssets_notext-01.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-featured-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/Zendesk%20Enterprise_DigitalNatives_SocialAssets_notext-01.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-infographic-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-video-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-read-time-override]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-teaser-copy]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<p>Tus clientes te están comparando en todo momento con la mejor experiencia del cliente que han tenido. Es una realidad innegable con consecuencias trascendentales para tu negocio, no importa el tamaño de este ni el sector donde se encuentre. </p>
+<p>Con Zendesk Benchmark (nuestro índice de datos de las 45.000 compañías que usan Zendesk), analizamos cómo las principales compañías emplean la atención al cliente para identificar lo que distingue a los líderes. </p>
+<p>En esta guía práctica, un complemento de nuestras Tendencias de la experiencia del cliente en 2019, te ofrecemos:</p>
+<ul>
+<li>Cinco pasos para dominar con destreza la estrategia omnicanal</li>
+<li>La importancia de crear con una plataforma abierta y de dar prioridad a los datos conectados de los clientes</li>
+<li>Cómo comenzar a interactuar proactivamente con los clientes</li>
+<li>Cuáles tareas se deben delegar a los bots</li>
+<li>El rol de las herramientas y la cultura de alta calidad en el éxito de un equipo de soporte</li>
+</ul>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-body-copy]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Gracias por descargar nuestra guía práctica sobre las tendencias de la experiencia del cliente en 2019. <a href="https://zen-marketing-content.s3.amazonaws.com/content/The_Zendesk_Customer_Experience_Trends_2019_How-To_Guide_ES.pdf" target="_blank">Lee el informe completo aquí.</a>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+    
+  </item>
+  
+  <item>
+    <title>Zendesk Benchmark: Tendencias de la experiencia del cliente en 2019</title>
+    <link>https://www.zendesk.com.mx/resources/zendesk-benchmark-customer-experience-trends/</link>
+    <pubDate>Mon, 18 Feb 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://www.zendesk.com.mx/resources/zendesk-benchmark-customer-experience-trends</guid>
+    <description>Con Zendesk Benchmark, analizamos cómo las principales compañías emplean la atención al cliente para identificar lo que distingue a los líderes.</description>
+    
+    <content:encoded><![CDATA[]]></content:encoded>
+    
+    <excerpt:encoded><![CDATA[Get your personalized Customer Support Performance Report Card here.]]></excerpt:encoded>
+    <wp:post_id>201900007</wp:post_id>
+    <wp:post_date><![CDATA[2019-02-18 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-02-18 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[resource]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="filter_tag" nicename="customer-support-analyst-reports"><![CDATA[Informes de analistas]]></category>
+    
+    <category domain="filter_tag" nicename="best-practices-customer-service"><![CDATA[Experiencia de los clientes]]></category>
+    
+    <category domain="filter_tag" nicename="customer-service-strategy"><![CDATA[Estrategia del servicio de atención al cliente]]></category>
+    
+    <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendencias y observaciones]]></category>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Get your personalized Customer Support Performance Report Card here.]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/Zendesk%20Enterprise_Digital%20Transformation_SocialAssets_notext-01.jpg]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+    
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-gated]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-gated-success-from-form]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-custom-fields]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[sf-cid]]></wp:meta_key>
+			<wp:meta_value><![CDATA[7011E000001K2aC]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-header-text]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Zendesk Benchmark: Tendencias de la experiencia del cliente en 2019]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-ebook-external-link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-thumbnail-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/Zendesk%20Enterprise_Digital%20Transformation_SocialAssets_notext-01.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-featured-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/Zendesk%20Enterprise_Digital%20Transformation_SocialAssets_notext-01.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-infographic-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-video-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-read-time-override]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-teaser-copy]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<p><strong>Get your personalized Customer Support Performance Report Card <a href="https://www.zendesk.com.mx/customer-experience-trends/#scorecard" target="_blank">here.</a></strong><br>
+</p>
+<p>Tus clientes te están comparando en todo momento con la mejor experiencia del cliente que han tenido. Es una realidad innegable con consecuencias trascendentales para tu negocio, no importa el tamaño de este ni el sector donde se encuentre. </p>
+<p>Con Zendesk Benchmark (nuestro índice de datos de las 45.000 compañías que usan Zendesk), analizamos cómo las principales compañías emplean la atención al cliente para identificar lo que distingue a los líderes.</p>
+<p>La información incluye:</p>
+<ul>
+<li>Entre las expectativas de los clientes, ya se encuentra el soporte omnicanal impecable y totalmente integrado</li>
+<li>El soporte con una plataforma abierta y flexible basada en los datos conectados de los clientes permite a las compañías crear mejores experiencias</li>
+<li>Los clientes desean una interacción proactiva, pero las compañías todavía no la ofrecen</li>
+<li>Los mejores equipos de soporte ya aprovechan la IA para brindar experiencias excelentes a los clientes</li>
+<li>La cultura, las herramientas y los procesos adecuados son ingredientes indispensables para el éxito </li>
+</ul>
+]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-body-copy]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Gracias por descargar nuestra guía sobre las tendencias de la experiencia del cliente en 2019. <a href="https://zen-marketing-content.s3.amazonaws.com/content/The_Zendesk_Customer_Experience_Trends_2019_ES.pdf" target="_blank">Lee el informe completo aquí.</a>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+    
+  </item>
+  
+</channel>
+</rss>
