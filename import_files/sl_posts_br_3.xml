@@ -31,7 +31,7 @@
 
 	<generator>https://wordpress.org/?v=4.7.3</generator>
 
-  
+
   <item>
     <title>Mediaocean</title>
     <link>https://www.zendesk.com.br/customer/mediaocean/</link>
@@ -39,7 +39,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/customer/mediaocean</guid>
     <description>O retorno da Mediaocean à Zendesk, após mudar para a Salesforce, resultou em um aumento de 305% na adoção de autoatendimento e 98% no índice do CSAT.</description>
-    
+
     <content:encoded><![CDATA[
 
 <section>
@@ -92,9 +92,9 @@
 <p class="author">– Stephanie Dorman <span> vice-presidente sênior de atendimento ao cliente</span></p>
 
 </section>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Voltar ao Zendesk aumenta a satisfação de clientes e agentes]]></excerpt:encoded>
-    <wp:post_id>201900001</wp:post_id>
+    <wp:post_id>201900101</wp:post_id>
     <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2019-02-04 12:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -106,19 +106,19 @@
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="stories_tax" nicename="americas"><![CDATA[Américas]]></category>
-    
+
     <category domain="stories_tax" nicename="asia-pacific"><![CDATA[Ásia-Pacífico]]></category>
-    
+
     <category domain="stories_tax" nicename="europe"><![CDATA[Europa]]></category>
-    
+
     <category domain="stories_tax" nicename="product-guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="stories_tax" nicename="software-technology"><![CDATA[Software e tecnologia]]></category>
-    
+
     <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -184,7 +184,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Voltar ao Zendesk aumenta a satisfação de clientes e agentes]]></wp:meta_value>
@@ -261,9 +261,9 @@
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>OLX</title>
     <link>https://www.zendesk.com.br/customer/olx/</link>
@@ -271,7 +271,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/customer/olx</guid>
     <description>A OLX escolheu o Zendesk como sua solução de atendimento ao cliente omnichannel. Aproveitando o recurso Multimarca do Support, a OLX oferece suporte a mais de 90 sites e 22 idiomas. Com o Zendesk Guide, a empresa conseguiu evitar 40% dos tickets.</description>
-    
+
     <content:encoded><![CDATA[
 
 <section>
@@ -310,9 +310,9 @@
 <p class="author">– Cynthia Toral <span>Gerente de produto da OLX Global</span></p>
 
 </section>]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[A OLX reduziu o volume global de tickets em 40% com o Zendesk]]></excerpt:encoded>
-    <wp:post_id>201900002</wp:post_id>
+    <wp:post_id>201900102</wp:post_id>
     <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2019-02-04 12:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -324,23 +324,23 @@
     <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="stories_tax" nicename="americas"><![CDATA[Américas]]></category>
-    
+
     <category domain="stories_tax" nicename="asia-pacific"><![CDATA[Ásia-Pacífico]]></category>
-    
+
     <category domain="stories_tax" nicename="product-chat"><![CDATA[Chat]]></category>
-    
+
     <category domain="stories_tax" nicename="europe"><![CDATA[Europa]]></category>
-    
+
     <category domain="stories_tax" nicename="product-guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="stories_tax" nicename="retail"><![CDATA[Varejo e comércio eletrônico]]></category>
-    
+
     <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
-    
+
     <category domain="stories_tax" nicename="product-talk"><![CDATA[Talk]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -406,7 +406,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
 			<wp:meta_value><![CDATA[A OLX reduziu o volume global de tickets em 40% com o Zendesk]]></wp:meta_value>
@@ -483,9 +483,9 @@
 			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Customer satisfaction surveys in Zendesk Support</title>
     <link>https://www.zendesk.com.br/resources/customer-satisfaction-surveys-zendesk-support/</link>
@@ -493,11 +493,11 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/customer-satisfaction-surveys-zendesk-support</guid>
     <description>Veja como fazer uma pergunta simples aos clientes pode resultar em importantes melhorias e ajudar você a entender a integridade da sua organização de suporte.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Pesquisas de satisfação do cliente coletam feedback direto.]]></excerpt:encoded>
-    <wp:post_id>201900003</wp:post_id>
+    <wp:post_id>201900103</wp:post_id>
     <wp:post_date><![CDATA[2017-10-23 12:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2017-10-23 12:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -509,13 +509,13 @@
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Gestão de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="support-operations"><![CDATA[Operações de suporte]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-technology"><![CDATA[Tecnologia]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -581,7 +581,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -671,9 +671,9 @@
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>A Mediaocean capacita sua equipe de suporte e melhora seu conteúdo com a Zendesk</title>
     <link>https://www.zendesk.com.br/resources/mediaocean-empowers-better-customer-support-teams-content-zendesk/</link>
@@ -681,11 +681,11 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/mediaocean-empowers-better-customer-support-teams-content-zendesk</guid>
     <description>Combinando suas plataformas de mídia digital e tradicional, a Mediaocean permite que agências e marcas gerenciem seus fluxos de trabalho em escala global.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[A Mediaocean é uma empresa de softwares e serviços publicitários de Nova York. Seus 1.]]></excerpt:encoded>
-    <wp:post_id>201900004</wp:post_id>
+    <wp:post_id>201900104</wp:post_id>
     <wp:post_date><![CDATA[2017-12-05 12:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2017-12-05 12:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -697,15 +697,15 @@
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="customer-support-analyst-reports"><![CDATA[Relatórios de analistas]]></category>
-    
+
     <category domain="filter_tag" nicename="best-practices-customer-service"><![CDATA[Experiência do cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-strategy"><![CDATA[Estratégia de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendências e informações]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -771,7 +771,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -855,9 +855,9 @@ Esses são <a href="https://zen-marketing-content.s3.amazonaws.com/content/Datas
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Autoatendimento dimensionável, feito sob medida para cada empresa</title>
     <link>https://www.zendesk.com.br/resources/scalable-self-service-support-tailor-made-every-company/</link>
@@ -865,11 +865,11 @@ Esses são <a href="https://zen-marketing-content.s3.amazonaws.com/content/Datas
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/scalable-self-service-support-tailor-made-every-company</guid>
     <description>Cada empresa é diferente. Portanto, não existe uma solução única de autoatendimento. Na Zendesk, ajudamos as empresas a criar soluções de autoatendimento que atendam a todas as suas necessidades.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Fornecer um autoatendimento flexível e de qualidade tornou-se uma missão para a Zendesk.]]></excerpt:encoded>
-    <wp:post_id>201900005</wp:post_id>
+    <wp:post_id>201900105</wp:post_id>
     <wp:post_date><![CDATA[2019-01-23 12:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2019-01-23 12:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -881,19 +881,19 @@ Esses são <a href="https://zen-marketing-content.s3.amazonaws.com/content/Datas
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="zendesk-library-collection"><![CDATA[Coleções]]></category>
-    
+
     <category domain="filter_tag" nicename="zendesk-customer-stories"><![CDATA[histórias de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="zendesk-products-guide"><![CDATA[Guide]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-knowledge-base"><![CDATA[Base de conhecimento]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-channels"><![CDATA[Canais de suporte]]></category>
-    
+
     <category domain="filter_tag" nicename="library-zendesk-products"><![CDATA[Produtos Zendesk]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -959,7 +959,7 @@ Esses são <a href="https://zen-marketing-content.s3.amazonaws.com/content/Datas
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[7]]></wp:meta_value>
@@ -1042,9 +1042,9 @@ Esses são <a href="https://zen-marketing-content.s3.amazonaws.com/content/Datas
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Zendesk Benchmark: tendências para experiência do cliente de 2019</title>
     <link>https://www.zendesk.com.br/resources/zendesk-benchmark-customer-experience-trends/</link>
@@ -1052,11 +1052,11 @@ Esses são <a href="https://zen-marketing-content.s3.amazonaws.com/content/Datas
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/zendesk-benchmark-customer-experience-trends</guid>
     <description>Com o Zendesk Benchmark, exploramos como as principais empresas usam o atendimento para identificar características que distinguem os líderes dos demais.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Get your personalized Customer Support Performance Report Card here.]]></excerpt:encoded>
-    <wp:post_id>201900006</wp:post_id>
+    <wp:post_id>201900106</wp:post_id>
     <wp:post_date><![CDATA[2019-02-18 12:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2019-02-18 12:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1068,15 +1068,15 @@ Esses são <a href="https://zen-marketing-content.s3.amazonaws.com/content/Datas
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="customer-support-analyst-reports"><![CDATA[Relatórios de analistas]]></category>
-    
+
     <category domain="filter_tag" nicename="best-practices-customer-service"><![CDATA[Experiência do cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-strategy"><![CDATA[Estratégia de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendências e informações]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -1142,7 +1142,7 @@ Esses são <a href="https://zen-marketing-content.s3.amazonaws.com/content/Datas
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -1235,9 +1235,9 @@ Esses são <a href="https://zen-marketing-content.s3.amazonaws.com/content/Datas
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Zendesk Benchmark: guia prático das tendências para experiência do cliente</title>
     <link>https://www.zendesk.com.br/resources/zendesk-customer-experience-trends-how-to-guide/</link>
@@ -1245,11 +1245,11 @@ Esses são <a href="https://zen-marketing-content.s3.amazonaws.com/content/Datas
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.br/resources/zendesk-customer-experience-trends-how-to-guide</guid>
     <description>Este guia prático, complemento do nosso relatório sobre as tendências para experiência do cliente de 2019, ajudará você a gerenciar as novas tendências do suporte.</description>
-    
+
     <content:encoded><![CDATA[]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Os clientes estão sempre comparando sua empresa à melhor experiência que tiveram com seus concorrentes.]]></excerpt:encoded>
-    <wp:post_id>201900007</wp:post_id>
+    <wp:post_id>201900107</wp:post_id>
     <wp:post_date><![CDATA[2019-02-18 12:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2019-02-18 12:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1261,15 +1261,15 @@ Esses são <a href="https://zen-marketing-content.s3.amazonaws.com/content/Datas
     <wp:post_type><![CDATA[resource]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <category domain="filter_tag" nicename="customer-support-analyst-reports"><![CDATA[Relatórios de analistas]]></category>
-    
+
     <category domain="filter_tag" nicename="best-practices-customer-service"><![CDATA[Experiência do cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-service-strategy"><![CDATA[Estratégia de atendimento ao cliente]]></category>
-    
+
     <category domain="filter_tag" nicename="customer-support-trends"><![CDATA[Tendências e informações]]></category>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -1335,7 +1335,7 @@ Esses são <a href="https://zen-marketing-content.s3.amazonaws.com/content/Datas
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
 			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
@@ -1425,8 +1425,8 @@ Esses são <a href="https://zen-marketing-content.s3.amazonaws.com/content/Datas
 			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-    
+
   </item>
-  
+
 </channel>
 </rss>
