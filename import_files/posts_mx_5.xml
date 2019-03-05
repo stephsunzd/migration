@@ -31,7 +31,7 @@
 
 	<generator>https://wordpress.org/?v=4.7.3</generator>
 
-  
+
   <item>
     <title>Cómo evitar que un cliente VIP tenga que esperar</title>
     <link>https://recursos.zendesk.com.mx/blog/como-evitar-que-un-cliente-vip-tenga-que-esperar/</link>
@@ -39,10 +39,8 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/blog/como-evitar-que-un-cliente-vip-tenga-que-esperar</guid>
     <description>¿Qué sucedería si un cliente VIP te hace una pregunta fuera del horario comercial y tienes que consultar a tu ingeniero que no está en la oficina?</description>
-    
-    <content:encoded><![CDATA[
-            <p dir="ltr"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-504262535-0.png" style="width: 800px; height: 419px;"></p>
 
+    <content:encoded><![CDATA[
 <p dir="ltr"><span id="docs-internal-guid-2d5d2328-7fff-22ab-dea4-1ba507748667">Trent Mendez</span></p>
 
 <p dir="ltr">A los líderes de soporte activos como tú, a cargo de administrar un equipo y cumplir indicadores clave de rendimiento, la serie "Up and to the right" les ofrece sugerencias prácticas y sencillas que pueden aplicar de inmediato para lograr sus metas.</p>
@@ -89,10 +87,10 @@
 
 <div> </div>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[¿Qué sucedería si un cliente VIP te hace una pregunta fuera del horario comercial y tienes que consultar a tu ingeniero que no está en la oficina?]]></excerpt:encoded>
     <wp:post_id>504262535</wp:post_id>
     <wp:post_date><![CDATA[2019-03-01 12:00:00]]></wp:post_date>
@@ -106,7 +104,7 @@
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -172,7 +170,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -297,9 +295,9 @@
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>5 maneras en que la experiencia del cliente ya está aprovechando la IA</title>
     <link>https://recursos.zendesk.com.mx/blog/experiencia-del-cliente-ia/</link>
@@ -307,10 +305,8 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/blog/experiencia-del-cliente-ia</guid>
     <description>Conoce las 5 maneras en que la experiencia del cliente ya está aprovechando la IA.</description>
-    
-    <content:encoded><![CDATA[
-            <p><img alt="5 maneras en que la experiencia del cliente ya estÃ¡ aprovechando la IA" src="https://zen-marketing-content.s3.amazonaws.com/content/blog/Blog-image-49-AI.png"></p>
 
+    <content:encoded><![CDATA[
 <p>A medida que los clientes y las compañías <a href="https://www.gartner.com/en/newsroom/press-releases/2018-09-12-gartner-survey-finds-consumers-would-use-ai-to-save-time-and-money">se familiarizan y se sienten más a gusto con la inteligencia artificial</a>, se habla menos de esta como algo “ilusorio” y se oyen más expresiones de “Ah, así es como podemos usarla”. Las especulaciones sobre cómo podríamos trabajar junto con nuestros colegas robots y sobre el potencial del aprendizaje automatizado seguirán por un tiempo, pero ya estamos viendo muchas aplicaciones prácticas de la tecnología de la IA. En especial, en lo que se refiere a la experiencia del cliente.</p>
 
 <p>Estas son noticias excelentes para los negocios, porque ya pueden incluir en sus metas casos de usos realistas de la IA. No obstante, <a href="https://www.cmo.com.au/article/642649/gartner-why-humans-will-still-core-great-cx/">los expertos advierten</a> que las compañías deben tener cuidado de no implementar la IA solo porque sí; en su opinión, la inteligencia artificial funciona mejor cuando ayuda a las personas a <a href="https://www.zendesk.com.mx/resources/why-companies-should-invest-in-the-customer-experience/?_ga=2.81788695.1410994698.1550244511-321291315.1549373071">ofrecer mejores experiencias al cliente.</a></p>
@@ -357,10 +353,10 @@
 
 <p>- Procurar la capacidad para organizar un “equipo de prueba y aprendizaje” para probar nuevos mensajes de correo electrónico que podrían mejorar la experiencia de sus suscriptores.</p>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Conoce las 5 maneras en que la experiencia del cliente ya está aprovechando la IA.]]></excerpt:encoded>
     <wp:post_id>500935035</wp:post_id>
     <wp:post_date><![CDATA[2019-02-15 12:00:00]]></wp:post_date>
@@ -374,7 +370,7 @@
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -440,7 +436,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -565,9 +561,9 @@
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Cómo resolver los problemas de los clientes sin causar problemas adicionales</title>
     <link>https://recursos.zendesk.com.mx/blog/solving-customer-problems-without-causing-problems/</link>
@@ -575,7 +571,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/blog/solving-customer-problems-without-causing-problems</guid>
     <description>Las experiencias de los agentes y el seguimiento que hacen de las necesidades de los clientes es lo que marca la diferencia entre un negocio que simplemente funciona y otro que funciona muy bien.</description>
-    
+
     <content:encoded><![CDATA[
             <h2 style="padding-left: 60px; color: rgb(3, 54, 61);">Las experiencias de los agentes y el seguimiento que hacen de las necesidades de los clientes es lo que marca la diferencia entre un negocio que simplemente funciona y otro que funciona muy bien.</h2>
 
@@ -599,10 +595,10 @@
 
 <h3 style="font-weight: 400; padding-left: 60px; color: rgb(51, 51, 51);">Más información acerca de cómo <a href="https://www.zendesk.com.mx/enterprise/support-enterprise-plan/" style="color: rgb(46, 169, 187);" target="_blank">Zendesk mejora las experiencias de los agentes para las organizaciones en crecimiento</a>.</h3>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Las experiencias de los agentes y el seguimiento que hacen de las necesidades de los clientes es lo que marca la diferencia entre un negocio que simplemente funciona y otro que funciona muy bien]]></excerpt:encoded>
     <wp:post_id>502278689</wp:post_id>
     <wp:post_date><![CDATA[2019-02-21 12:00:00]]></wp:post_date>
@@ -616,7 +612,7 @@
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -682,7 +678,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -807,9 +803,9 @@
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
   <item>
     <title>Las 3 ventajas principales de un sandbox</title>
     <link>https://recursos.zendesk.com.mx/blog/top-3-benefits-sandbox/</link>
@@ -817,7 +813,7 @@
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://recursos.zendesk.com.mx/blog/top-3-benefits-sandbox</guid>
     <description>Supongamos que quieres cambiar las reglas de tu flujo de trabajo, en concreto, los lugares a donde se desvían las cosas y quién recibe una notificación cuando llega un ticket nuevo.</description>
-    
+
     <content:encoded><![CDATA[
             <p style='margin: 0px 0px 25px; padding-left: 60px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 26px; font-family: "Proxima Nova", Arial, sans-serif; color: rgb(3, 54, 61);'>Supongamos que quieres cambiar las reglas de tu flujo de trabajo, en concreto, los lugares a donde se desvían las cosas y quién recibe una notificación cuando llega un ticket nuevo. Y que una hora después de la implementación, terminas enviando al CEO mil (sí, 1000) notificaciones de tickets asignados. A medianoche.</p>
 
@@ -862,10 +858,10 @@
 <h3 style="font-weight: 400; padding-left: 60px; color: rgb(51, 51, 51);">
 <a href="https://support.zendesk.com/hc/en-us/articles/360002112828" style="color: rgb(46, 169, 187);" target="_blank">Haz clic aquí</a> para conocer nuestros tres niveles de ofertas.</h3>
 
-            	        
-	        	        
+
+
         ]]></content:encoded>
-    
+
     <excerpt:encoded><![CDATA[Supongamos que quieres cambiar las reglas de tu flujo de trabajo, en concreto, los lugares a donde se desvían las cosas y quién recibe una notificación cuando llega un ticket nuevo]]></excerpt:encoded>
     <wp:post_id>502277501</wp:post_id>
     <wp:post_date><![CDATA[2019-02-21 12:00:00]]></wp:post_date>
@@ -879,7 +875,7 @@
     <wp:post_type><![CDATA[post]]></wp:post_type>
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
       <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -945,7 +941,7 @@
       <wp:meta_value><![CDATA[1]]></wp:meta_value>
     </wp:postmeta>
 
-    
+
     <wp:postmeta>
       <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
@@ -1070,8 +1066,8 @@
       <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
       <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
-    
+
   </item>
-  
+
 </channel>
 </rss>
