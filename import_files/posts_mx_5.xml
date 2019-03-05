@@ -1,0 +1,1077 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- generator="WordPress/4.7.3" created="2019-01-08 21:22" -->
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Zendesk</title>
+	<link>https://recursos.zendesk.com.mx</link>
+	<description></description>
+	<pubDate>Tue, 08 Jan 2019 21:22:48 +0000</pubDate>
+	<language>mx</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://recursos.zendesk.com.mx/</wp:base_site_url>
+	<wp:base_blog_url>https://recursos.zendesk.com.mx</wp:base_blog_url>
+
+	<wp:author>
+    <wp:author_id>2871</wp:author_id>
+    <wp:author_login><![CDATA[stsun]]></wp:author_login>
+    <wp:author_email><![CDATA[stsun@zendesk.com]]></wp:author_email>
+    <wp:author_display_name><![CDATA[Stephanie Sun]]></wp:author_display_name>
+    <wp:author_first_name><![CDATA[Stephanie]]></wp:author_first_name>
+    <wp:author_last_name><![CDATA[Sun]]></wp:author_last_name>
+  </wp:author>
+
+
+	<generator>https://wordpress.org/?v=4.7.3</generator>
+
+  
+  <item>
+    <title>Cómo evitar que un cliente VIP tenga que esperar</title>
+    <link>https://recursos.zendesk.com.mx/blog/como-evitar-que-un-cliente-vip-tenga-que-esperar/</link>
+    <pubDate>Fri, 01 Mar 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://recursos.zendesk.com.mx/blog/como-evitar-que-un-cliente-vip-tenga-que-esperar</guid>
+    <description>¿Qué sucedería si un cliente VIP te hace una pregunta fuera del horario comercial y tienes que consultar a tu ingeniero que no está en la oficina?</description>
+    
+    <content:encoded><![CDATA[
+            <p dir="ltr"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-504262535-0.png" style="width: 800px; height: 419px;"></p>
+
+<p dir="ltr"><span id="docs-internal-guid-2d5d2328-7fff-22ab-dea4-1ba507748667">Trent Mendez</span></p>
+
+<p dir="ltr">A los líderes de soporte activos como tú, a cargo de administrar un equipo y cumplir indicadores clave de rendimiento, la serie "Up and to the right" les ofrece sugerencias prácticas y sencillas que pueden aplicar de inmediato para lograr sus metas.</p>
+
+<p dir="ltr"><span id="docs-internal-guid-2d5d2328-7fff-22ab-dea4-1ba507748667">Para la mayoría de las empresas, no es factible ofrecer soporte las 24 horas todos días. Pero ¿qué sucedería si un cliente VIP te hace una pregunta fuera del horario comercial y tienes que consultar a tu ingeniero que no está en la oficina?</span></p>
+
+<p>Tal vez no te puedes permitir tener personal disponible a toda hora, todos los días, pero tampoco te conviene decepcionar a tus clientes más importantes.</p>
+
+<p dir="ltr"><span id="docs-internal-guid-2d5d2328-7fff-22ab-dea4-1ba507748667">La solución consiste en dedicar tiempo a organizar la infraestructura de soporte para este tipo de situaciones en particular. En lugar de que un ticket permanezca sin abrir todo el fin de semana, se puede dirigir automáticamente a una cola especial y, mientras tanto, hacer que llegue una notificación de correo electrónico al teléfono de tu ingeniero. Y, si el ticket no se responde a tiempo, la derivación automática le dará más visibilidad. Para todo esto, basta usar un par de funciones: los disparadores y las automatizaciones.</span></p>
+
+<p dir="ltr"><span id="docs-internal-guid-2d5d2328-7fff-22ab-dea4-1ba507748667">Muchos líderes de soporte ya conocen los disparadores y las automatizaciones. Pero ¿cuántos de ellos saben hasta qué punto estas herramientas avanzadas pueden facilitarles el trabajo y ayudar también a su equipo?</span></p>
+
+<p> </p>
+
+<p dir="ltr"><strong><span id="docs-internal-guid-2d5d2328-7fff-22ab-dea4-1ba507748667">Un momento, ¿qué decías que son estas funciones?</span></strong></p>
+
+<p dir="ltr"><span id="docs-internal-guid-2d5d2328-7fff-22ab-dea4-1ba507748667">En pocas palabras, los </span><a href="https://support.zendesk.com/hc/en-us/articles/203662246-About-triggers-and-how-they-work">disparadores </a>y las <a href="https://support.zendesk.com/hc/en-us/articles/203662236-About-automations-and-how-they-work">automatizaciones </a>son reglas de negocio que pueden llevar a cabo de forma autónoma las acciones de los tickets. <a href="https://support.zendesk.com/hc/en-us/articles/203660246-Automations-vs-Triggers-When-To-Use-What">¿Cuál es la diferencia entre ambas funciones?</a> Los disparadores actúan de inmediato después de la actualización de un ticket, mientras que las automatizaciones intervienen normalmente con un cierto retraso.</p>
+
+<p dir="ltr"><span id="docs-internal-guid-2d5d2328-7fff-22ab-dea4-1ba507748667">Esta es una comparación rápida: ¿deseas enviar una notificación de correo electrónico a un grupo cuando se le asigna un ticket? Eso es lo que puede hacer un disparador. ¿Quieres que se envíe otra notificación a ese mismo grupo si el ticket sigue sin actualizar al día siguiente? Eso lo hace una automatización. Estas reglas de negocio automatizan las tareas básicas y administrativas del equipo, para que los agentes puedan dedicarse a lo más importante: ayudar a los clientes.</span></p>
+
+<p> </p>
+
+<p dir="ltr"><strong><span id="docs-internal-guid-2d5d2328-7fff-22ab-dea4-1ba507748667">¿Dónde comenzar?</span></strong></p>
+
+<p dir="ltr"><span id="docs-internal-guid-2d5d2328-7fff-22ab-dea4-1ba507748667">Los disparadores y las automatizaciones pueden volverse complicados con mucha facilidad, de manera que no te sientas obligado a dar un salto al vacío y comenzar inmediatamente a crearlos: la mitad del trabajo consiste en identificar los casos en los que ayudaría la automatización.</span></p>
+
+<p dir="ltr"><span id="docs-internal-guid-2d5d2328-7fff-22ab-dea4-1ba507748667">Como ejercicio, pide a tu equipo que te ayude a poner por escrito lo que opinan del procesamiento actual de los tickets. Luego hazles algunas preguntas importantes, entre otras, ¿Hay campos de ticket que es necesario definir? ¿Se pueden añadir etiquetas para facilitar las búsquedas o la elaboración de informes? Las respuestas podrían identificar las operaciones en las que sería conveniente usar disparadores y automatizaciones.</span></p>
+
+<p dir="ltr"><span id="docs-internal-guid-2d5d2328-7fff-22ab-dea4-1ba507748667">Por supuesto, una vez que se identifica un proceso que podría automatizarse, también es importante preguntarse: ¿esto debe hacerse automáticamente? Si la respuesta es “quizás”, comienza sin aplicar la automatización; puedes añadirla más adelante.</span></p>
+
+<p> </p>
+
+<p dir="ltr"><strong><span id="docs-internal-guid-2d5d2328-7fff-22ab-dea4-1ba507748667">Introducción al cambio</span></strong></p>
+
+<p dir="ltr"><span id="docs-internal-guid-2d5d2328-7fff-22ab-dea4-1ba507748667">Si ya tienes práctica en la configuración de disparadores y automatizaciones, pero todavía no estás seguro de cómo pueden mejorar tu flujo de trabajo, podemos darte algunas sugerencias.</span></p>
+
+<p dir="ltr"><span id="docs-internal-guid-2d5d2328-7fff-22ab-dea4-1ba507748667">Estas son algunas fórmulas de nuestra serie "Zen U": </span><a href="https://support.zendesk.com/hc/en-us/community/posts/203458316-Zen-U-trigger-tips">Sugerencias para los disparadores y las automatizaciones de Zendesk</a></p>
+
+<p dir="ltr"><span id="docs-internal-guid-2d5d2328-7fff-22ab-dea4-1ba507748667">Y estas otras provienen directamente de nuestra </span><a href="https://support.zendesk.com/hc/en-us/community/posts/203458516-Community-tips-using-triggers">comunidad de usuarios</a>.</p>
+
+<p dir="ltr"><span id="docs-internal-guid-2d5d2328-7fff-22ab-dea4-1ba507748667">Los disparadores y las automatizaciones son una manera avanzada de mejorar la interacción con los tickets. ¡Aprovecha lo que pueden hacer por ti!</span></p>
+
+<p dir="ltr"><span id="docs-internal-guid-2d5d2328-7fff-22ab-dea4-1ba507748667">¿Buscas más formas de resolver las situaciones difíciles del servicio de atención al cliente? Lee </span><a href="https://www.zendesk.com.mx/resources/dealing-with-difficult-customer-tickets/">El misterioso caso del ticket X</a>.</p>
+
+<div> </div>
+
+            	        
+	        	        
+        ]]></content:encoded>
+    
+    <excerpt:encoded><![CDATA[¿Qué sucedería si un cliente VIP te hace una pregunta fuera del horario comercial y tienes que consultar a tu ingeniero que no está en la oficina?]]></excerpt:encoded>
+    <wp:post_id>504262535</wp:post_id>
+    <wp:post_date><![CDATA[2019-03-01 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-03-01 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[¿Qué sucedería si un cliente VIP te hace una pregunta fuera del horario comercial y tienes que consultar a tu ingeniero que no está en la oficina?]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-post-504262535.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-post-504262535.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-video]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Daniella De Caprio]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-twitter]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-segment]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-order]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-tile]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-img]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading-color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading-size]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading-color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading-size]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-buttons]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-css]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-section]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-header]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-enable]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-enable-checkbox-fix]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-url]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-img]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-headline]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-subheadline]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-button-text]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-spacer1]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-main-page-disable]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-main-page-disable-checkbox-fix]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    
+  </item>
+  
+  <item>
+    <title>5 maneras en que la experiencia del cliente ya está aprovechando la IA</title>
+    <link>https://recursos.zendesk.com.mx/blog/experiencia-del-cliente-ia/</link>
+    <pubDate>Fri, 15 Feb 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://recursos.zendesk.com.mx/blog/experiencia-del-cliente-ia</guid>
+    <description>Conoce las 5 maneras en que la experiencia del cliente ya está aprovechando la IA.</description>
+    
+    <content:encoded><![CDATA[
+            <p><img alt="5 maneras en que la experiencia del cliente ya estÃ¡ aprovechando la IA" src="https://zen-marketing-content.s3.amazonaws.com/content/blog/Blog-image-49-AI.png"></p>
+
+<p>A medida que los clientes y las compañías <a href="https://www.gartner.com/en/newsroom/press-releases/2018-09-12-gartner-survey-finds-consumers-would-use-ai-to-save-time-and-money">se familiarizan y se sienten más a gusto con la inteligencia artificial</a>, se habla menos de esta como algo “ilusorio” y se oyen más expresiones de “Ah, así es como podemos usarla”. Las especulaciones sobre cómo podríamos trabajar junto con nuestros colegas robots y sobre el potencial del aprendizaje automatizado seguirán por un tiempo, pero ya estamos viendo muchas aplicaciones prácticas de la tecnología de la IA. En especial, en lo que se refiere a la experiencia del cliente.</p>
+
+<p>Estas son noticias excelentes para los negocios, porque ya pueden incluir en sus metas casos de usos realistas de la IA. No obstante, <a href="https://www.cmo.com.au/article/642649/gartner-why-humans-will-still-core-great-cx/">los expertos advierten</a> que las compañías deben tener cuidado de no implementar la IA solo porque sí; en su opinión, la inteligencia artificial funciona mejor cuando ayuda a las personas a <a href="https://www.zendesk.com.mx/resources/why-companies-should-invest-in-the-customer-experience/?_ga=2.81788695.1410994698.1550244511-321291315.1549373071">ofrecer mejores experiencias al cliente.</a></p>
+
+<p>Por eso, muchos analistas recomiendan la adopción planificada de las herramientas de IA, es decir, de modo que se tome en cuenta “cómo” y “por qué” las herramientas logran una mejor experiencia al cliente en conjunto. Por ejemplo, <a href="https://go.forrester.com/blogs/predictions-2018-blended-ai-will-disrupt-your-customer-service-and-sales-strategy/">Forrester aconseja</a> que “un buen servicio al cliente o un buen programa de ventas impulsados por la IA dependerán de procesos que admitan una estrategia de IA combinada. Esto significa que los seres humanos desempeñarán un rol importante en la optimización continua de la IA".</p>
+
+<p>Para quienes contemplan ir a la vanguardia en la implementación de la IA para lograr mejores experiencias del cliente, estas son cinco maneras en que esta tecnología se puede aprovechar actualmente:</p>
+
+<h3>1) Autoservicio más eficiente para los clientes que buscan ayuda</h3>
+
+<p>Los clientes que prefieren resolver sus dudas por sí mismos, en vez de interactuar con los agentes de soporte, a veces tienen que buscar la solución por todos lados. El proceso del autoservicio puede ser tedioso cuando implica hacer búsquedas en Google, navegar en un centro de ayuda en línea para encontrar un artículo práctico y luego confirmar que la solución del artículo resuelve adecuadamente el problema. Para algunos clientes, en especial los que no son expertos en tecnología, ese tipo de autoservicio puede ser agotador e inadecuado, y menoscaba su experiencia.</p>
+
+<p>Las innovaciones recientes en la inteligencia artificial evitan al cliente la complicación de buscar artículos de ayuda y garantizan que obtenga la información correcta para solucionar su problema. La IA usa el aprendizaje automatizado y el procesamiento del lenguaje natural (NLP) para buscar los <a href="https://www.zendesk.com.mx/answer-bot/?_ga=2.81788695.1410994698.1550244511-321291315.1549373071">artículos de ayuda que solucionen mejor el problema del cliente</a> y para recomendarle el artículo apropiado. Además, los líderes en experiencia del cliente pueden determinar cuándo es más útil para los cliente contar con este tipo de autoservicio automatizado; sea en un centro de ayuda, en un punto crítico del trayecto del comprador o en un sitio web o aplicación móvil.</p>
+
+<h3>2) Contenido mejor adaptado a las necesidades y los problemas del cliente</h3>
+
+<p>Hablando de artículos de ayuda, los productos y servicios son cada vez más complejos, y es difícil para las organizaciones de soporte mantener el contenido de sus artículos adecuado y actualizado. Para un cliente, es muy frustrante encontrar contenido de soporte inútil, y para evitar esto proactivamente es necesario aplicar una estrategia práctica para optimizar el contenido. Si los clientes salen de inmediato de un centro de ayuda o de los artículos que este contiene (o si al hacer seguimiento, opinan que el artículo no les sirvió), esto indica probablemente que el contenido no se adaptaba a su necesidad ni a su problema.</p>
+
+<p>Por suerte, ya existe la IA que ayuda a crear y actualizar contenido mejor adaptado a una base de clientes específica. Los modelos de aprendizaje profundo pueden captar las palabras y frases comunes relacionadas con los temas específicos de los tickets de soporte, y hacer recomendaciones sensatas para optimizar el contenido del centro de ayuda. Por ejemplo, si los clientes envían tickets de soporte acerca del tema “cambiar mi contraseña”, la IA recomendará los ajustes de publicación apropiados para un artículo de ayuda titulado “Cómo actualizar tus credenciales de inicio de sesión”. El artículo se puede modificar para adaptarlo a la manera en que los clientes comunican sus problemas, y para hacer que el contenido sea más fácil de encontrar y entender. Cuando la organización de soporte recibe información sobre los problemas que tienen sus clientes y la manera en que los comunican, los creadores de contenido pueden aportar soluciones más acordes con una mejor experiencia del cliente.</p>
+
+<h3>3) Agentes de atención al cliente más eficientes</h3>
+
+<p>¿Cuántas veces has oído a un agente de soporte decir “Permítame verificarlo”, porque sencillamente no saben la respuesta a tu pregunta? Por lo general, los agentes de soporte dedican el 20 % de su tiempo a la búsqueda de información sobre productos, lo cual prolonga la interacción de ayuda y repercute negativamente en la satisfacción del cliente.</p>
+
+<p>La misma inteligencia artificial que automatiza las sugerencias de autoservicio para los clientes también puede ser usada por los agentes. Digamos que el acceso de un cliente a su cuenta se bloqueó debido a que hizo muchos intentos de contraseña fallidos, pero necesita con urgencia acceder a ella para enviar un ticket de soporte. El agente que recibió el ticket desconoce el proceso interno para desbloquear una cuenta, y necesita consultar la documentación interna correspondiente; pero primero, necesita buscarla. La herramienta de IA adecuada puede analizar el ticket de soporte, recomendar un artículo práctico de la base de conocimientos de la compañía y hacer todo esto directamente en la interfaz del agente. Cuando los agentes están preparados con la información apropiada cuando la necesitan, pueden resolver eficientemente los problemas de los clientes en cuanto se presentan.</p>
+
+<h3>4) Interacción con el cliente mejorada con sugerencias basadas en datos</h3>
+
+<p>Nuestras actividades e interacciones digitales generan toneladas de datos que los algoritmos del aprendizaje automatizado pueden utilizar. Básicamente, son el combustible que necesita la habilidad predictiva de la IA. ¿Alguna vez te has preguntado por qué las máquinas son tan buenas para responder preguntas como “cuál es la ruta más rápida para llegar a mi casa a las 6:00 p. m. los jueves”? Al combinar todos los viajes hechos por quienes siguen una ruta similar, la IA es capaz de hacer una recomendación bien investigada y en tiempo real para que llegues a tu casa de inmediato.</p>
+
+<p>De la misma manera, se pueden utilizar los datos grabados de las interacciones del servicio de atención al cliente para mejorar su satisfacción. La herramienta de IA evalúa los detalles de tickets de soporte anteriores y puede saber <a href="https://www.zendesk.com.mx/explore/satisfaction-prediction/?_ga=2.147633207.1410994698.1550244511-321291315.1549373071">si la interacción de soporte en curso dará lugar a una experiencia positiva o negativa para el cliente</a>, y generar con ello una predicción acertada de la puntuación de satisfacción del cliente (CSAT). Los detalles que influyen en las puntuaciones de CSAT podrían incluir el tiempo entre la primera respuesta y los tiempos de contestación posteriores, el empeño dedicado a resolver el problema del cliente y si las respuestas de texto con una redacción similar han logrado clientes satisfechos. Este es el tipo de aplicación de la IA que no sustituye a los agentes, sino que amplía su trabajo para ofrecer experiencias mejores a los clientes.</p>
+
+<h3>5) Organizaciones con más tiempo para innovar en el campo de la experiencia del cliente</h3>
+
+<p>Una de las propuestas de valor más atractivas de la automatización es claramente que da más tiempo a los seres humanos para dedicarse a actividades de mayor impacto. La inteligencia artificial ya está permitiendo a los negocios mejorar las experiencias de sus clientes de maneras nunca antes posibles.</p>
+
+<p>Dollar Shave Club, el servicio de rasuradoras a pedido, <a href="https://www.zendesk.com.mx/resources/how-dollar-shave-club-implemented-ai-with-zendesk/?_ga=2.109516805.1410994698.1550244511-321291315.1549373071">aprovecha el tiempo adicional que le da el Answer Bot de Zendesk</a> para optimizar las experiencias de sus clientes. Con el tiempo ahorrado por medio de las resoluciones automáticas de tickets, han podido:</p>
+
+<p>- Crear un “grupo de trabajo de centro de ayuda” encargado de comprobar que sus artículos de ayuda ofrezcan continuamente contenido útil y actualizado a los clientes de su autoservicio (y de complementar las recomendaciones del Answer Bot).</p>
+
+<p>- Aumentar el tiempo que ofrecen soporte de chat en vivo durante el día, lo que les permite dar más ayuda en tiempo real sin tener que contratar más personal.</p>
+
+<p>- Publicar un boletín mensual interno con información sobre las interacciones de los clientes que resalta las tendencias y mantiene a sus agentes mejor informados de sus métricas de éxito.</p>
+
+<p>- Procurar la capacidad para organizar un “equipo de prueba y aprendizaje” para probar nuevos mensajes de correo electrónico que podrían mejorar la experiencia de sus suscriptores.</p>
+
+            	        
+	        	        
+        ]]></content:encoded>
+    
+    <excerpt:encoded><![CDATA[Conoce las 5 maneras en que la experiencia del cliente ya está aprovechando la IA.]]></excerpt:encoded>
+    <wp:post_id>500935035</wp:post_id>
+    <wp:post_date><![CDATA[2019-02-15 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-02-15 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Conoce las 5 maneras en que la experiencia del cliente ya está aprovechando la IA.]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-post-500935035.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-post-500935035.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-video]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override]]></wp:meta_key>
+      <wp:meta_value><![CDATA[ ]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-twitter]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-segment]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-order]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-tile]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-img]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading-color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading-size]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading-color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading-size]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-buttons]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-css]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-section]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-header]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-enable]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-enable-checkbox-fix]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-url]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-img]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-headline]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-subheadline]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-button-text]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-spacer1]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-main-page-disable]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-main-page-disable-checkbox-fix]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    
+  </item>
+  
+  <item>
+    <title>Cómo resolver los problemas de los clientes sin causar problemas adicionales</title>
+    <link>https://recursos.zendesk.com.mx/blog/solving-customer-problems-without-causing-problems/</link>
+    <pubDate>Thu, 21 Feb 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://recursos.zendesk.com.mx/blog/solving-customer-problems-without-causing-problems</guid>
+    <description>Las experiencias de los agentes y el seguimiento que hacen de las necesidades de los clientes es lo que marca la diferencia entre un negocio que simplemente funciona y otro que funciona muy bien.</description>
+    
+    <content:encoded><![CDATA[
+            <h2 style="padding-left: 60px; color: rgb(3, 54, 61);">Las experiencias de los agentes y el seguimiento que hacen de las necesidades de los clientes es lo que marca la diferencia entre un negocio que simplemente funciona y otro que funciona muy bien.</h2>
+
+<p style='margin: 0px 0px 25px; padding-left: 60px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 26px; font-family: "Proxima Nova", Arial, sans-serif; color: rgb(3, 54, 61);'>Poder ofrecer una atención al cliente de la más alta calidad siempre ha sido difícil, aun para el agente de atención más destacado. Y esa dificultad va en aumento por tres motivos. Primero, <a href="https://www.zendesk.com.mx/blog/build-ideal-workflows-zendesk-support/" style="color: rgb(46, 169, 187);" target="_blank">los flujos de trabajo de la atención al cliente</a> son cada vez más complejos. Donde antes había una sola persona con un teléfono en mano, ahora hay agentes que trabajan con interfaces complejas y engorrosas. Segundo, las <a href="https://www.zendesk.com.mx/resources/business-impact-customer-service/" style="color: rgb(46, 169, 187);" target="_blank">expectativas de los clientes</a> se han elevado. Hoy los clientes esperan que los agentes les ofrezcan un servicio rápido y personal. Eso solo es posible cuando el agente cuenta con la información contextual necesaria: quién es el cliente, qué problemas ha tenido en el pasado, etc., sin tener que preguntar. Tercero, los clientes quieren <a href="https://www.zendesk.com.mx/resources/how-to-guide-omnichannel-support/" style="color: rgb(46, 169, 187);" target="_blank">comunicarse con las compañías a través de los canales que ellos prefieren</a>, y quieren que los atiendan de la misma manera en todos los canales.</p>
+
+<p style='margin: 0px 0px 25px; padding-left: 60px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 26px; font-family: "Proxima Nova", Arial, sans-serif; color: rgb(3, 54, 61);'>Todos estos factores resaltan la necesidad de que las compañías mejoren la experiencia del cliente, algo que se ha intensificado a medida que las compañías crecen. Lo bueno es que sí es posible si se adopta un soporte omnicanal fácil y fluido como parte de una solución de soporte centralizada.</p>
+
+<p style='margin: 0px 0px 25px; padding-left: 60px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 26px; font-family: "Proxima Nova", Arial, sans-serif; color: rgb(3, 54, 61);'>Es importante tener en cuenta que a los clientes les tienen muy sin cuidado las operaciones internas. A ellos lo único que les interesa es que les resuelvan sus problemas. Entonces, hay que resolverlos. Para responder los tickets de los clientes dentro de su contexto y oportunamente, los agentes deben contar con información práctica y la capacidad de responder a los clientes en todos los canales.</p>
+
+<h2 style="padding-left: 60px; color: rgb(3, 54, 61);">Experiencia más sencilla para los agentes</h2>
+
+<p style='margin: 0px 0px 25px; padding-left: 60px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 26px; font-family: "Proxima Nova", Arial, sans-serif; color: rgb(3, 54, 61);'><a href="https://www.zendesk.com.mx/resources/agent-experience-guide/" style="color: rgb(46, 169, 187);" target="_blank">Los agentes</a> deben poder crear un espacio de trabajo único, que refleje las características particulares de los tickets que reciben. A medida que los negocios crecen en tamaño y complejidad, los problemas de los clientes se vuelven más complicados y adquieren matices singulares, de modo que es necesario que los agentes cuenten con las herramientas necesarias para resolver los problemas sin sacrificar tiempo, eficiencia ni la satisfacción de su propio trabajo. Por ejemplo, si se trata de un comercio minorista, eso podría significar la necesidad de crear espacios de trabajo dedicados a determinadas situaciones que se repiten, como las devoluciones. Si un cliente se comunica para hacer una devolución, el agente debería tener automáticamente todas las herramientas necesarias (como aplicaciones y macros) para responder de inmediato a la solicitud del cliente en un espacio de trabajo destinado a “devoluciones”.</p>
+
+<h2 style="padding-left: 60px; color: rgb(3, 54, 61);">Todo el contexto que se necesita del cliente</h2>
+
+<p style='margin: 0px 0px 25px; padding-left: 60px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 26px; font-family: "Proxima Nova", Arial, sans-serif; color: rgb(3, 54, 61);'>Los clientes se comunican cada vez más a través de una variedad de canales de soporte, lo que quiere decir que sus datos están fragmentados, aislados. Para poder resolver los problemas de los clientes con facilidad y rapidez, el agente debe poder acceder a toda la <a href="https://www.zendesk.com.mx/blog/personalize-interactions-customer-context-tools-need/" style="color: rgb(46, 169, 187);" target="_blank">información del cliente</a> de una manera simplificada e inmediata. Porque mientras menos veces tenga el agente que decir, “un momento, ¿con quién hablo?” o “¿por qué motivo se comunicó anteriormente?”, mejor será la experiencia tanto para el agente como para el cliente.</p>
+
+<h2 style="padding-left: 60px; color: rgb(3, 54, 61);">Soporte omnicanal para interacciones fluidas</h2>
+
+<p style='margin: 0px 0px 25px; padding-left: 60px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 26px; font-family: "Proxima Nova", Arial, sans-serif; color: rgb(3, 54, 61);'>Los clientes utilizan varios dispositivos y aplicaciones para contactar con sus amigos, familias y también con los negocios. Bien puede ser que un cliente prefiera chatear si está en el trabajo, enviar correos si va en autobús y llamar por teléfono si está en casa. El soporte omnicanal permite que los agentes puedan mantener la coherencia sin importar si la conversación se mueve de un canal a otro, unificando todas las comunicaciones de los clientes en una sola interfaz de usuario. Pero, repetimos (sin ánimo de sonar como disco rayado): a los clientes no les interesa todo eso. A ellos solo les importa comunicarse por el canal de su preferencia, algo que puede depender de la complejidad del asunto o incluso de la hora del día.</p>
+
+<h3 style="font-weight: 400; padding-left: 60px; color: rgb(51, 51, 51);">Más información acerca de cómo <a href="https://www.zendesk.com.mx/enterprise/support-enterprise-plan/" style="color: rgb(46, 169, 187);" target="_blank">Zendesk mejora las experiencias de los agentes para las organizaciones en crecimiento</a>.</h3>
+
+            	        
+	        	        
+        ]]></content:encoded>
+    
+    <excerpt:encoded><![CDATA[Las experiencias de los agentes y el seguimiento que hacen de las necesidades de los clientes es lo que marca la diferencia entre un negocio que simplemente funciona y otro que funciona muy bien]]></excerpt:encoded>
+    <wp:post_id>502278689</wp:post_id>
+    <wp:post_date><![CDATA[2019-02-21 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-02-21 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Las experiencias de los agentes y el seguimiento que hacen de las necesidades de los clientes es lo que marca la diferencia entre un negocio que simplemente funciona y otro que funciona muy bien]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/680x360_Blog_Germany2.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/680x360_Blog_Germany2.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-video]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Hannah Bastian]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-twitter]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-segment]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-order]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-tile]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-img]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading-color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading-size]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading-color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading-size]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-buttons]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-css]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-section]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-header]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-enable]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-enable-checkbox-fix]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-url]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-img]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-headline]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-subheadline]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-button-text]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-spacer1]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-main-page-disable]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-main-page-disable-checkbox-fix]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    
+  </item>
+  
+  <item>
+    <title>Las 3 ventajas principales de un sandbox</title>
+    <link>https://recursos.zendesk.com.mx/blog/top-3-benefits-sandbox/</link>
+    <pubDate>Thu, 21 Feb 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://recursos.zendesk.com.mx/blog/top-3-benefits-sandbox</guid>
+    <description>Supongamos que quieres cambiar las reglas de tu flujo de trabajo, en concreto, los lugares a donde se desvían las cosas y quién recibe una notificación cuando llega un ticket nuevo.</description>
+    
+    <content:encoded><![CDATA[
+            <p style='margin: 0px 0px 25px; padding-left: 60px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 26px; font-family: "Proxima Nova", Arial, sans-serif; color: rgb(3, 54, 61);'>Supongamos que quieres cambiar las reglas de tu flujo de trabajo, en concreto, los lugares a donde se desvían las cosas y quién recibe una notificación cuando llega un ticket nuevo. Y que una hora después de la implementación, terminas enviando al CEO mil (sí, 1000) notificaciones de tickets asignados. A medianoche.</p>
+
+<p style='margin: 0px 0px 25px; padding-left: 60px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 26px; font-family: "Proxima Nova", Arial, sans-serif; color: rgb(3, 54, 61);'>¡Oh, no! Tendrías que haber utilizado un sandbox.</p>
+
+<p style='margin: 0px 0px 25px; padding-left: 60px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 26px; font-family: "Proxima Nova", Arial, sans-serif; color: rgb(3, 54, 61);'>Los desarrolladores han usado los sandboxes desde los albores de Internet, a principios de los años 1970. Entonces, igual que ahora, estos entornos de programación controlados les permitían trabajar en privado, sin riesgos ni consecuencias para el mundo real. Desde el lanzamiento de Premium Sandbox de Zendesk, dispones de tres formas de utilizar un sandbox para mejorar los productos y la eficiencia de los agentes.</p>
+
+<h2 style="padding-left: 60px; color: rgb(3, 54, 61);">Sé creativo sin temor a las consecuencias</h2>
+
+<p style='margin: 0px 0px 25px; padding-left: 60px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 26px; font-family: "Proxima Nova", Arial, sans-serif; color: rgb(3, 54, 61);'>Para los desarrolladores e ingenieros, <a href="https://www.zendesk.com.mx/blog/happier-agents-go-flow/" style="color: rgb(46, 169, 187);" target="_blank">ser creativo es sinónimo de resolver problemas</a>. Con un sandbox, pueden hacer pruebas y cometer errores. Dado que no están en un entorno de producción, pueden capacitarse y practicar sin temor a las consecuencias. La creatividad se expresa con más facilidad cuando hay libertad para probar ideas y experimentar sabiendo que no hay ningún peligro ni posibles consecuencias.</p>
+
+<p style='margin: 0px 0px 25px; padding-left: 60px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 26px; font-family: "Proxima Nova", Arial, sans-serif; color: rgb(3, 54, 61);'>Un espacio como este es indispensable para la <a href="https://www.zendesk.com.mx/blog/keep-knowledge-base-healthy-newest-innovations/" style="color: rgb(46, 169, 187);" target="_blank">innovación</a>. ¿Quieres hacer pruebas en el entorno activo? Ni se te ocurra. Los agentes te mirarían y te dirían: “El límite de tiempo de atención es de tres minutos. No puedo hacer pruebas en este momento. Tengo tickets en proceso, y tu aplicación me da mala espina, así que no vamos a utilizarla”.</p>
+
+<p style='margin: 0px 0px 25px; padding-left: 60px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 26px; font-family: "Proxima Nova", Arial, sans-serif; color: rgb(3, 54, 61);'>En un sandbox, ¿a quién le importa si envías por accidente mil mensajes? Como es un correo electrónico de prueba, no tendrás que involucrar a toda la empresa en la solución de la crisis y tu reputación ante los clientes no se verá afectada.</p>
+
+<h2 style="padding-left: 60px; color: rgb(3, 54, 61);">Simula ser tu usuario final</h2>
+
+<p style='margin: 0px 0px 25px; padding-left: 60px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 26px; font-family: "Proxima Nova", Arial, sans-serif; color: rgb(3, 54, 61);'>Una pregunta que siempre te debes hacer es: ¿cómo funciona esto para el usuario final y cómo se ven las cosas desde su perspectiva? Si no lo sabes, estás en problemas.</p>
+
+<p style='margin: 0px 0px 25px; padding-left: 60px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 26px; font-family: "Proxima Nova", Arial, sans-serif; color: rgb(3, 54, 61);'>Cuando trabajas con integraciones de terceros, tienes que aceptarlas e interactuar con ellas lo mejor posible como lo haría un agente.</p>
+
+<p style='margin: 0px 0px 25px; padding-left: 60px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 26px; font-family: "Proxima Nova", Arial, sans-serif; color: rgb(3, 54, 61);'>Configura un entorno de producción y usa una dirección de correo electrónico falsa para ver el flujo completo de todo. Así podrás permitir que los agentes mismos lo utilicen y ver los resultados. Tú, como desarrollador, tienes que actuar como si fueras un usuario final para que los agentes puedan hacer lo mismo, enviando objetos al sandbox para verlos cómo los vería el usuario final.</p>
+
+<p style='margin: 0px 0px 25px; padding-left: 60px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 26px; font-family: "Proxima Nova", Arial, sans-serif; color: rgb(3, 54, 61);'>¿Cómo reciben los usuarios finales los correos electrónicos? ¿Qué formato tienen los mensajes? ¿Qué datos se incluyen en los correos? Tienes la posibilidad de hacer una prueba completa en la que puedes ser cualquier persona de la cadena.</p>
+
+<p style='margin: 0px 0px 25px; padding-left: 60px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 26px; font-family: "Proxima Nova", Arial, sans-serif; color: rgb(3, 54, 61);'>Toma notas. Observa dónde hacen búsquedas las personas y cómo trabajan con los tickets. Asume también el papel de un cliente. Siente esa interacción teniendo en cuenta todos los datos.</p>
+
+<p style='margin: 0px 0px 25px; padding-left: 60px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 26px; font-family: "Proxima Nova", Arial, sans-serif; color: rgb(3, 54, 61);'>Con un sandbox puedes ser el usuario final de tu propio sistema.</p>
+
+<h2 style="padding-left: 60px; color: rgb(3, 54, 61);">Configura las aplicaciones con precisión, a la primera</h2>
+
+<p style='margin: 0px 0px 25px; padding-left: 60px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 26px; font-family: "Proxima Nova", Arial, sans-serif; color: rgb(3, 54, 61);'>Es muy posible que esta situación te parezca conocida. Se estrena una aplicación. Dos semanas más tarde, te llegan los comentarios: “Nuestros agentes la detestan”. Resulta que un grupo de gerentes e ingenieros se unieron para crear algo que, por ejemplo, da prioridad al correo electrónico en el diseño. Pero hay un problema importante: los agentes afectados no quieren ver la dirección de correo electrónico del cliente; lo que necesitan es que aparezcan primero los pedidos.</p>
+
+<p style='margin: 0px 0px 25px; padding-left: 60px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 26px; font-family: "Proxima Nova", Arial, sans-serif; color: rgb(3, 54, 61);'>Esto es, inevitablemente, lo que ocurre cuando no se prueban las aplicaciones en un sandbox.</p>
+
+<p style='margin: 0px 0px 25px; padding-left: 60px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 26px; font-family: "Proxima Nova", Arial, sans-serif; color: rgb(3, 54, 61);'>A veces, a la gente se le olvida que el sandbox contiene los datos. Si estás diseñando aplicaciones que usarán tus agentes, es útil saber cómo tienes que disponer los componentes de manera que funcione mejor para el agente. Pon en primer lugar los datos más importantes para los agentes. Si el ticket tiene que ver con los pedidos, muestra primero los pedidos. Si se trata de un ticket de reembolso, muestra primero los datos de ese reembolso. Un sandbox te permite poner a prueba algunos de estos diseños. Después, el agente puede examinarlos y opinar: “No, eso no debe ir allí. Su sitio es este”.</p>
+
+<p style='margin: 0px 0px 25px; padding-left: 60px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 26px; font-family: "Proxima Nova", Arial, sans-serif; color: rgb(3, 54, 61);'>Cuando los desarrolladores no siguen estas reglas y dicen algo como: “Acabo de compilar esto. ¿Te parece bien?”, el riesgo es enorme. Si una aplicación no funciona para los agentes de producción, no la van a utilizar, ya que están demasiado ocupados intentando resolver problemas. Con un sandbox, puedes pedir a algunos agentes que prueben la aplicación y observar cómo la utilizan.</p>
+
+<p style='margin: 0px 0px 25px; padding-left: 60px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 26px; font-family: "Proxima Nova", Arial, sans-serif; color: rgb(3, 54, 61);'>Las ventajas de un sandbox se resumen así: es un entorno para capacitar a los agentes y permitir que los desarrolladores de aplicaciones e integradores de productos de terceros hagan pruebas. Al mismo tiempo, tus agentes prueban también el diseño de la UX (experiencia del usuario) e intentan captar la idea de cómo hacer que funcione para todos, con el menor número de conflictos y una resistencia mínima.</p>
+
+<h3 style="font-weight: 400; padding-left: 60px; color: rgb(51, 51, 51);">
+<a href="https://support.zendesk.com/hc/en-us/articles/360002112828" style="color: rgb(46, 169, 187);" target="_blank">Haz clic aquí</a> para conocer nuestros tres niveles de ofertas.</h3>
+
+            	        
+	        	        
+        ]]></content:encoded>
+    
+    <excerpt:encoded><![CDATA[Supongamos que quieres cambiar las reglas de tu flujo de trabajo, en concreto, los lugares a donde se desvían las cosas y quién recibe una notificación cuando llega un ticket nuevo]]></excerpt:encoded>
+    <wp:post_id>502277501</wp:post_id>
+    <wp:post_date><![CDATA[2019-02-21 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-02-21 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Supongamos que quieres cambiar las reglas de tu flujo de trabajo, en concreto, los lugares a donde se desvían las cosas y quién recibe una notificación cuando llega un ticket nuevo]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/sandbox.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/sandbox.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-video]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Skip Moore]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-twitter]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-segment]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-order]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-tile]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-img]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading-color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading-size]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading-color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading-size]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-buttons]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-css]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-section]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-header]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-enable]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-enable-checkbox-fix]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-url]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-img]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-headline]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-subheadline]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-button-text]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-spacer1]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-main-page-disable]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-main-page-disable-checkbox-fix]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    
+  </item>
+  
+</channel>
+</rss>
