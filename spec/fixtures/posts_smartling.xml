@@ -304,7 +304,7 @@
       </section>
       <section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Dollarshave1.jpg"></section>
       <section>
-      <p>Ahora todos los contactos —correo electrónico, chat en vivo, llamadas por teléfono y mensajes de Facebook Messenger— se reciben en Zendesk Support. Y más aún, al integrar la <a href="https://www.zendesk.com.mx/apps/support/pathfinder/" title="Pathfinder" app="_blank">aplicación Pathfinder</a> con Support, los agentes también pueden ver qué han buscado los miembros en el <a href="https://help.dollarshaveclub.com/hc/en-us" title="Dollar" shave="" club="" help="" center="_blank">Centro de ayuda de Dollar Shave Club</a>. “Tenemos mucho cuidado de fijarnos en el esfuerzo de los clientes —todo lo que tuvo que hacer un miembro para encontrar la información que buscaba o para contactarnos. La experiencia está en constante cambio y la experiencia lo es todo” afirmó Hoerman.</p>
+      <p>Ahora todos los contactos —correo electrónico, chat en vivo, llamadas por teléfono y mensajes de Facebook Messenger— se reciben en Zendesk Support. Y más aún, al integrar la <a href="https://www.zendesk.com.mx/apps/support/pathfinder/" title="Pathfinder">aplicación Pathfinder</a> con Support, los agentes también pueden ver qué han buscado los miembros en el <a href="https://help.dollarshaveclub.com/hc/en-us" title="Dollar">Centro de ayuda de Dollar Shave Club</a>. “Tenemos mucho cuidado de fijarnos en el esfuerzo de los clientes —todo lo que tuvo que hacer un miembro para encontrar la información que buscaba o para contactarnos. La experiencia está en constante cambio y la experiencia lo es todo” afirmó Hoerman.</p>
       <p>El correo electrónico alcanza el 45 por ciento de todo el volumen de soporte, pero el chat en vivo está ganando terreno rápidamente y representa del 25 al 30 por ciento, seguido del 10 al 15 por ciento de los contactos hechos por redes sociales. El siguiente objetivo del equipo es el SMS, y poco a poco está creando una plataforma que piensa lanzar oficialmente en 2019. El soporte telefónico está reservado para los tickets en curso que se pueden beneficiar de una conversación breve.</p>
       <p>“Nuestro objetivo principal es dirigir a más gente hacia nuestros canales en vivo, especialmente chat, Facebook Messenger y, en algún momento, SMS”, dijo Hoerman. “Esos canales hacen posible que los agentes acepten más conversaciones y se generen resoluciones más rápidas. Hasta el momento, la respuesta ha sido estupenda”. De hecho, ha sido tan estupenda que el equipo recibe constantemente un índice CSAT entre el 94 y el 96 por ciento.</p>
       </section>
@@ -312,7 +312,7 @@
       <section>
       <p>La organización de soporte de Dollar Shave Club está compuesta por tres equipos ubicados en tres localidades, con un total de 100 agentes. Mientras un equipo se especializa en facturación y manejo de chats en vivo o en las solicitudes de Facebook Messenger que llegan a través de Zendesk Message, casi todos los agentes están capacitados para manejar la mayoría de las consultas de los miembros. Esto permite que la experiencia sea coherente y le da al equipo la posibilidad de centrar toda su atención en crear una experiencia de soporte excepcional en lugar de tener que preocuparse por una cuota diaria arbitraria.</p>
       <p>En lo que se refiere a un autoservicio excepcional, Zendesk Guide desempeña un papel muy importante porque ayuda a que las compañías pongan a disposición y anticipen el tipo de información que los miembros buscan cuando acceden al sitio web. “Ahora que vendemos tantos productos, nos dimos cuenta que no tenía mucho sentido seguir simplemente añadiendo preguntas frecuentes para cada uno de ellos. Con Guide, creamos una base de conocimientos donde los miembros pueden buscar un producto en lugar de tener que desplazarse por la página. Con solo escribir ‘espuma para afeitar’ pueden encontrar todos los artículos acerca de espuma para afeitar”, explicó Hoerman.</p>
-      <p>El contenido de autoservicio también se muestra en el Centro de ayuda a través del <a href="https://www.zendesk.com.mx/embeddables/" title="Zendesk" web="" widget="_blank">Zendesk Web Widget</a>, antes de que un miembro inicie un chat en vivo. El equipo suele estudiar a fondo los resultados de las búsquedas en el Centro de ayuda para identificar las palabras y frases utilizadas por los miembros que no generaron ningún resultado. </p>
+      <p>El contenido de autoservicio también se muestra en el Centro de ayuda a través del <a href="https://www.zendesk.com.mx/embeddables/" title="Zendesk">Zendesk Web Widget</a>, antes de que un miembro inicie un chat en vivo. El equipo suele estudiar a fondo los resultados de las búsquedas en el Centro de ayuda para identificar las palabras y frases utilizadas por los miembros que no generaron ningún resultado. </p>
       </section>
       <section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Dollarshave6.jpg"></section>
       <section>
@@ -323,7 +323,7 @@
       </section>
       <section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Dollar%20Shave10%20copy.jpg"></section>
       <section>
-      <p>Mayores eficiencias gracias a la <a href="http://developer.zendesk.com/" title="Zendesk" api="_blank">API de Zendesk</a>. El equipo incrusta encuestas de satisfacción en los tickets con una integración de tercero: Customer Thermometer. Junto con el equipo de Servicios de optimización de Zendesk, Dollar Shave Club también creó una aplicación personalizada llamada “Telepath” que se integra con Zendesk para que los agentes puedan ver información de los miembros, entre otra, pedidos anteriores e información de seguimiento.</p>
+      <p>Mayores eficiencias gracias a la <a href="http://developer.zendesk.com/" title="Zendesk">API de Zendesk</a>. El equipo incrusta encuestas de satisfacción en los tickets con una integración de tercero: Customer Thermometer. Junto con el equipo de Servicios de optimización de Zendesk, Dollar Shave Club también creó una aplicación personalizada llamada “Telepath” que se integra con Zendesk para que los agentes puedan ver información de los miembros, entre otra, pedidos anteriores e información de seguimiento.</p>
       <p>“Para nosotros es importante que cada aplicación de tercero que usemos se integre con Zendesk” explicó Hoerman, “y tratamos de introducir Telepath en todo lo que hacemos ahora, incluido el chat y nuestro próximo sistema de SMS, llamado One Reach”.</p>
       <p>Al fin de cuentas, el objetivo de Dollar Shave Club es hacer que el manejo de su equipo de atención al cliente sea igual de fácil que recibir sus navajas de afeitar a domicilio. </p>
       </section>
@@ -353,11 +353,11 @@
 
     <category domain="stories_tax" nicename="product-chat"><![CDATA[Chat]]></category>
 
+    <category domain="stories_tax" nicename="retail"><![CDATA[Comercio minorista y electrónico]]></category>
+
     <category domain="stories_tax" nicename="product-guide"><![CDATA[Guide]]></category>
 
     <category domain="stories_tax" nicename="internet-mobile"><![CDATA[Internet y móviles]]></category>
-
-    <category domain="stories_tax" nicename="retail"><![CDATA[Comercio minorista y electrónico]]></category>
 
     <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
 
@@ -700,14 +700,14 @@
   </item>
 
   <item>
-    <title>Cómo ofrecer un autoservicio de primera a tus clientes - América</title>
+    <title>Cómo ofrecer un autoservicio de primera a tus clientes – América</title>
     <link>https://www.zendesk.com.mx/support/webinar/forrester-how-to-deliver-best-in-class-self-service/</link>
     <pubDate>Mon, 04 Feb 2019 12:00:00 +0000</pubDate>
     <dc:creator><![CDATA[stsun]]></dc:creator>
     <guid isPermaLink="true">https://www.zendesk.com.mx/support/webinar/forrester-how-to-deliver-best-in-class-self-service</guid>
     <description></description>
 
-    <content:encoded><![CDATA[Ante el impulso que la IA y el aprendizaje automático están dando al autoservicio, escucha lo que tienen que decir Jason Maynard y Kate Leggett —invitada especial de Forrester— en una charla sobre la convergencia de los agentes y la automatización, y sobre cómo sus roles evolucionarán más allá del manejo de los tickets.<br><br> Zendesk demostrará cómo el Answer Bot y las funciones avanzadas de Guide Enterprise liberan a los agentes de las tareas básicas a gran escala para que puedan dedicarse a cultivar la fidelidad del cliente respondiendo las preguntas más difíciles y ampliando la base de conocimientos.<br> <br> 9 de cada 10 usuarios de Guide han establecido prácticas de administración de conocimientos más avanzadas y han observado que el volumen de tickets y sus costos de soporte han disminuido en un 50 % o más.<br> <br> En este webinar de 60 minutos, podrás:<br><br> ● Aprender sobre el surgimiento del experto en conocimientos según lo explica Kate Leggett, VP y analista principal de Forrester; y sobre acciones precisas destinadas a llevar la administración de conocimientos al siguiente nivel<br> ● Oír hablar a Jason Maynard, VP y gerente general, acerca de cómo Guide Enterprise hará que todo su equipo participe en la creación y el perfeccionamiento de contenido y en las mejoras de la oferta de autoservicio<br><br> Estamos ofreciendo otras dos sesiones regionales de este webinar:<br> <a href="https://www.zendesk.com.mx/support/webinar/forrester-how-to-deliver-best-in-class-self-service-apac/">Asia-Pacífico</a><br> <a href="https://www.zendesk.com.mx/support/webinar/forrester-how-to-deliver-best-in-class-self-service-emea/">Europa </a><br><br>Míralo ahora]]></content:encoded>
+    <content:encoded><![CDATA[Ante el impulso que la IA y el aprendizaje automático están dando al autoservicio, escucha lo que tienen que decir Jason Maynard y Kate Leggett —invitada especial de Forrester— en una charla sobre la convergencia de los agentes y la automatización, y sobre cómo sus roles evolucionarán más allá del manejo de los tickets. Zendesk demostrará cómo el Answer Bot y las funciones avanzadas de Guide Enterprise liberan a los agentes de las tareas básicas a gran escala para que puedan dedicarse a cultivar la fidelidad del cliente respondiendo las preguntas más difíciles y ampliando la base de conocimientos. 9 de cada 10 usuarios de Guide han establecido prácticas de administración de conocimientos más avanzadas y han observado que el volumen de tickets y sus costos de soporte han disminuido en un 50 % o más. En este webinar de 60 minutos, podrás: ● Aprender sobre el surgimiento del experto en conocimientos según lo explica Kate Leggett, VP y analista principal de Forrester; y sobre acciones precisas destinadas a llevar la administración de conocimientos al siguiente nivel<br> ● Oír hablar a Jason Maynard, VP y gerente general, acerca de cómo Guide Enterprise hará que todo su equipo participe en la creación y el perfeccionamiento de contenido y en las mejoras de la oferta de autoservicio Estamos ofreciendo otras dos sesiones regionales de este webinar:<br> <a href="https://www.zendesk.com.mx/support/webinar/forrester-how-to-deliver-best-in-class-self-service-apac/">Asia-Pacífico</a><br> <a href="https://www.zendesk.com.mx/support/webinar/forrester-how-to-deliver-best-in-class-self-service-emea/">Europa </a> Míralo ahora]]></content:encoded>
 
     <excerpt:encoded><![CDATA[]]></excerpt:encoded>
     <wp:post_id>201900004</wp:post_id>
@@ -822,13 +822,13 @@
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[web-presenter-bio]]></wp:meta_key>
 			<wp:meta_value><![CDATA[
-        <br><p>Kate Leggett es VP y analista principal de Forrester, y atiende las necesidades de profesionales de desarrollo y entrega de aplicaciones. Es líder experta en la administración de la relación con el cliente (CRM) y en las estrategias de atención al cliente, madurez, análisis comparativos, gobernanza y ROI. Su trabajo ha sido publicado en The Wall Street Journal, la revista Forbes y publicaciones del sector, como CRM Magazine, KM World y Destination CRM.
+        <p>Kate Leggett es VP y analista principal de Forrester, y atiende las necesidades de profesionales de desarrollo y entrega de aplicaciones. Es líder experta en la administración de la relación con el cliente (CRM) y en las estrategias de atención al cliente, madurez, análisis comparativos, gobernanza y ROI. Su trabajo ha sido publicado en The Wall Street Journal, la revista Forbes y publicaciones del sector, como CRM Magazine, KM World y Destination CRM.
 </p>
-<br><br>
-<p style="text-align:center;"><img src="https://zen-marketing-content.s3.amazonaws.com/content/images/jason_maynard.png" a=""></p>
+<p style="text-align:center;"><img src="https://zen-marketing-content.s3.amazonaws.com/content/images/jason_maynard.png"></p>
 <p>
 Jason Maynard es VP, gerente general de Guide y productos de datos de Zendesk. Es jefe de un equipo que crea productos diseñados para impulsar mejores experiencias del cliente a través del autoservicio y la automatización.
-</p>]]></wp:meta_value>
+</p>
+]]></wp:meta_value>
 		</wp:postmeta>
 
   </item>

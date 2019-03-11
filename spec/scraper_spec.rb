@@ -14,9 +14,9 @@ RSpec.describe "Scraper" do
     'item_tags' => [
       { name: 'América', domain: 'stories_tax', nicename: 'americas' },
       { name: 'Chat', domain: 'stories_tax', nicename: 'product-chat' },
+      { name: 'Comercio minorista y electrónico', domain: 'stories_tax', nicename: 'retail' },
       { name: 'Guide', domain: 'stories_tax', nicename: 'product-guide' },
       { name: 'Internet y móviles', domain: 'stories_tax', nicename: 'internet-mobile' },
-      { name: 'Comercio minorista y electrónico', domain: 'stories_tax', nicename: 'retail' },
       { name: 'Support', domain: 'stories_tax', nicename: 'product-support' },
     ],
     Constants::KEYS[:image] => 'https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Dollarshave7.jpg',
