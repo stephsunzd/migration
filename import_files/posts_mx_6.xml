@@ -1,0 +1,2272 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- generator="WordPress/4.7.3" created="2019-01-08 21:22" -->
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Zendesk</title>
+	<link>https://recursos.zendesk.com.mx</link>
+	<description></description>
+	<pubDate>Tue, 08 Jan 2019 21:22:48 +0000</pubDate>
+	<language>mx</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://recursos.zendesk.com.mx/</wp:base_site_url>
+	<wp:base_blog_url>https://recursos.zendesk.com.mx</wp:base_blog_url>
+
+	<wp:author>
+    <wp:author_id>2871</wp:author_id>
+    <wp:author_login><![CDATA[stsun]]></wp:author_login>
+    <wp:author_email><![CDATA[stsun@zendesk.com]]></wp:author_email>
+    <wp:author_display_name><![CDATA[Stephanie Sun]]></wp:author_display_name>
+    <wp:author_first_name><![CDATA[Stephanie]]></wp:author_first_name>
+    <wp:author_last_name><![CDATA[Sun]]></wp:author_last_name>
+  </wp:author>
+
+
+	<generator>https://wordpress.org/?v=4.7.3</generator>
+
+  
+  <item>
+    <title>Por qué la IA transformará la manera en que trabajan los equipos de atención al cliente</title>
+    <link>https://recursos.zendesk.com.mx/blog/ia-equipos-atencion-al-cliente/</link>
+    <pubDate>Fri, 08 Feb 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://recursos.zendesk.com.mx/blog/ia-equipos-atencion-al-cliente</guid>
+    <description>Las repercusiones de la IA en la manera en que trabajan los equipos de atención al cliente serán trascendentales para las empresas de todo el mundo.</description>
+    
+    <content:encoded><![CDATA[
+            <p><img alt="Por quÃ© la IA transformarÃ¡ la manera en que trabajan los equipos de atenciÃ³n al cliente" src="https://d26a57ydsghvgx.cloudfront.net/content/blog/1_NewZendeskHeaders/Chatbots_and_the_future.png"></p>
+
+<p>Los visionarios de la inteligencia artificial aplicada al servicio de atención al cliente perciben cambios radicales en el futuro, con un <a href="https://en.wikipedia.org/wiki/Tipping_point_(sociology)">punto decisivo</a> en los próximos años. Y si se cumplen los pronósticos de estos expertos —los socios de Zendesk Rick Nucci de <a href="https://www.getguru.com/">Guru</a>, Mike Murchison de <a href="https://ada.support/">Ada</a> y Mikhail Naumov de <a href="https://www.digitalgenius.com/">DigitalGenius</a>—, las repercusiones de la IA en la manera en que trabajan los equipos de atención al cliente serán trascendentales para las empresas de todo el mundo.</p>
+
+<p>“Los clientes esperarán contar con más canales de comunicación, más disponibilidad y más idiomas, es decir, mejor servicio con mayor rapidez”, afirma Naumov, autor de<a href="https://www.digitalgenius.com/book2018/"><em> AI Is My Friend</em></a>. “Las compañías buscan formas de adoptar la tecnología para satisfacer las <a href="https://www.zendesk.com.mx/resources/artificial-intelligence-customer-experience-infographic/?_ga=2.121770891.1497337240.1549564764-321291315.1549373071">expectativas</a> cada vez más altas del cliente”.</p>
+
+<p>Y, en opinión de Naumov, Murchison y Nucci, esto es solo el comienzo. Estas son algunas de las tendencias que estos expertos prevén que se confirmarán en los próximos años.</p>
+
+<h3>La IA renovará el interés en el elemento humano</h3>
+
+<p>Con la IA, los agentes tendrán más tiempo para dedicarse al trabajo “más delicado”, comenta Nucci. Y añade: “Las mejoras compañías se darán cuenta de que el buen servicio es realmente distintivo”. “El aspecto humano en la experiencia de atención al cliente y en la preparación de profesionales del servicio de atención son muy importantes para crear experiencias fantásticas para los clientes. Algún día volveremos la vista atrás y diremos: ‘¡Increíble! El trabajo diario del encargado de atención al cliente es totalmente distinto de lo que era hace cinco años’”. Y Nucci no es el único que piensa así: ya <a href="https://www.zendesk.com.mx/support/webinar/how-dollar-shave-club-implemented-ai-with-zendesk/?_ga=2.79827479.1497337240.1549564764-321291315.1549373071">hay compañías que afirman que la IA</a> les permite ahorrar <a href="https://www.zendesk.com.mx/resources/artificial-intelligence-customer-experience-infographic/?_ga=2.79827479.1497337240.1549564764-321291315.1549373071">tiempo</a>, sea por medio de la automatización o del contenido mejorado de su base de conocimientos.</p>
+
+<h3>La automatización es lo primero</h3>
+
+<p>Las compañías ya asocian la automatización con mejores resultados para el cliente (por ejemplo, un chatbot que muestra a los clientes una página de autoservicio con la respuesta a una pregunta común). “Cuando las empresas orientadas al cliente consideran la compra de software para una nueva experiencia, piensan '¿Cómo podemos disminuir los tiempos de espera para acceder a ayuda de la mejor calidad? ¿Cómo podemos lograr tiempos de resolución más cortos?’”, dice Murchison. “No es tanto la experiencia del agente, sino la experiencia del usuario. Debido a las ventajas que la automatización ofrece hoy en día, los clientes buscan herramientas que ellos mismos puedan aplicar”.</p>
+
+<h3>Las compañías desecharán las herramientas de redirección para adoptar herramientas de resolución completa de casos o tickets</h3>
+
+<p>“En la actualidad, muchas compañías consideran que la redirección evita que se generen tickets; sin embargo, lo único que logran es darle largas al asunto”, explica Naumov. “Entonces, muchos de esos clientes terminan regresando y creando tickets, solo que, esta vez, están más molestos con la compañía y con la marca”.</p>
+
+<h3>El surgimiento del equipo automatizado de atención al cliente</h3>
+
+<p>Con la llegada de los equipos automatizados de atención al cliente, las organizaciones desplegarán grupos a cargo de la IA para mejorar constantemente el servicio que las compañías ofrecen a sus clientes. Estos equipos funcionarán como grupos internos de soporte dedicados a ayudar a que la organización principal de servicio de atención al cliente aproveche las ventajas de la IA. “Será un equipo no técnico responsable de aplicar la IA para mejorar la experiencia del cliente e impulsar eficiencias”, describe Murchison. Las <a href="https://go.forrester.com/blogs/predictions-2018-blended-ai-will-disrupt-your-customer-service-and-sales-strategy/">conclusiones</a> de la firma de investigaciones Forrester confirman esta tendencia. “Contar con un programa competente de ventas o de servicio de atención al cliente impulsado por IA dependerá de los procesos que admitan una solución combinada de inteligencia artificial”, afirma Daniel Hong, vicepresidente y director de investigación de Forrester. “El factor humano desempeñará un rol indispensable en la optimización continua de la IA”.</p>
+
+<h3>Cada compañía tendrá algún tipo de herramienta de aprendizaje automatizado</h3>
+
+<p>En consecuencia, indica Naumov, el servicio de atención al cliente pasará al modo <a href="https://www.zendesk.com.mx/explore/satisfaction-prediction/?_ga=2.79724055.1497337240.1549564764-321291315.1549373071">proactivo</a>. “En lugar de esperar a que lleguen los tickets o surjan los problemas, el aprendizaje automatizado permitirá a las compañías captarlos antes de que se presenten mejorando con ello la lealtad a la marca”, concluye.</p>
+
+<p><a href="https://event.on24.com/eventRegistration/console/EventConsoleApollo.jsp?uimode=nextgeneration&amp;eventid=1806914&amp;sessionid=1&amp;key=E930E02C9DECAEF5BD66F9384F5A3DA4&amp;contenttype=A&amp;eventuserid=305999&amp;playerwidth=1000&amp;playerheight=650&amp;caller=previewLobby&amp;text_language_id=en&amp;format=fhaudio"><strong>Obtén más información sobre cómo crear mejores experiencias proactivas para los clientes.</strong></a></p>
+
+            	        
+	        	        
+        ]]></content:encoded>
+    
+    <excerpt:encoded><![CDATA[Las repercusiones de la IA en la manera en que trabajan los equipos de atención al cliente serán trascendentales para las empresas de todo el mundo.]]></excerpt:encoded>
+    <wp:post_id>499187373</wp:post_id>
+    <wp:post_date><![CDATA[2019-02-08 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-02-08 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Las repercusiones de la IA en la manera en que trabajan los equipos de atención al cliente serán trascendentales para las empresas de todo el mundo.]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/blog/1_NewZendeskHeaders/Chatbots_and_the_future.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/blog/1_NewZendeskHeaders/Chatbots_and_the_future.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-video]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Marina Aleixo]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-twitter]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-segment]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-order]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-tile]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-img]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading-color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading-size]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading-color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading-size]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-buttons]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-css]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-section]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-header]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-enable]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-enable-checkbox-fix]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-url]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-img]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-headline]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-subheadline]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-button-text]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-spacer1]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-main-page-disable]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-main-page-disable-checkbox-fix]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    
+  </item>
+  
+  <item>
+    <title>3 soluciones inteligentes para desafíos comunes de la atención al cliente</title>
+    <link>https://recursos.zendesk.com.mx/blog/3-soluciones-desafios-atencion-al-cliente/</link>
+    <pubDate>Thu, 07 Feb 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://recursos.zendesk.com.mx/blog/3-soluciones-desafios-atencion-al-cliente</guid>
+    <description>Los negocios en crecimiento que dan prioridad a la experiencia del cliente se enfrentan a desafíos comunes a la hora de atender al cliente.</description>
+    
+    <content:encoded><![CDATA[
+            <p><img alt="3 soluciones inteligentes para desafÃ­os comunes de la atenciÃ³n al cliente" src="https://d26a57ydsghvgx.cloudfront.net/content/40-Measurement%20and%20growth.png"></p>
+
+<p>Tú tienes un equipo de atención al cliente excelente que se dedica a ofrecer a los clientes un soporte de primera calidad en cada interacción. Tus intenciones son buenas, pero todavía no logras la ejecución que deseas.</p>
+
+<p>Cuanto más ambicioso es un equipo de atención al cliente —las grandes ambiciones son buenas— más desafíos afronta para que los objetivos se conviertan en realidad. Es cierto que cada negocio es único, pero también es cierto que los negocios en crecimiento que dan prioridad <a href="https://www.zendesk.com.mx/resources/why-companies-should-invest-in-the-customer-experience/?_ga=2.20002616.1497337240.1549564764-321291315.1549373071">a la experiencia del cliente</a> se enfrentan a desafíos comunes a la hora de atender al cliente.</p>
+
+<h3>Desafío n.º 1: se te hace difícil recopilar los datos adecuados y utilizar los datos que ya tienes</h3>
+
+<p>En todos los sectores, hay negocios que hablan mucho de las ventajas de <a href="https://www.zendesk.com.mx/resources/customer-service-metrics-matter/?_ga=2.17053881.1497337240.1549564764-321291315.1549373071">que todo gire alrededor de los datos</a>, pero convertir esa intención en acción es muchas veces un desafío. Si no cuentas con las herramientas adecuadas, recopilar y organizar los datos de los clientes —quiénes son y cuál es su experiencia con tu negocio— puede parecer una tarea imposible. Y muchos negocios están condenados a tener datos en exceso. Cuantos más datos hay, más difícil es aprovechar la información más importante para tus objetivos y convertirla en acciones concretas.</p>
+
+<p>En una encuesta interna que realizamos, el 52 % de los negocios con los que hablamos nos dijeron que se les hacía difícil tomar decisiones centradas en los datos. Pero sin esa capacidad, la estrategia de atención al cliente estará basada nada más que en suposiciones.</p>
+
+<h3>Solución: identifica las métricas que necesitas de verdad y busca la tecnología compatible con ellas</h3>
+
+<p>Antes de hacer inversiones en herramientas diseñadas para hacer seguimiento de análisis de los clientes, tómate el tiempo necesario para dejar bien claro cuáles son tus objetivos e identificar qué datos te pueden ayudar a alcanzarlos. Esas son las métricas que debes medir, el resto es pura distracción.</p>
+
+<p>Para la mayoría de los equipos de atención al cliente, <a href="https://www.zendesk.com.mx/resources/customer-service-metrics-matter/?_ga=2.17053881.1497337240.1549564764-321291315.1549373071">las métricas de atención al cliente</a> más importantes son una mezcla de datos relacionados con las opiniones de los clientes —como las puntuaciones de satisfacción del cliente (CSAT) y las puntuaciones Net Promoter Scores (NPS)— y las métricas relacionadas con el rendimiento de los agentes (como los tiempos de respuesta y de resolución).</p>
+
+<p>Una vez que te queden claras las métricas que son importantes para ti, busca una herramienta (como <a href="https://www.zendesk.com.mx/explore/?_ga=2.19993784.1497337240.1549564764-321291315.1549373071">Zendesk Explore</a>) que no solo te facilite recopilar los datos, sino que también te ayude a ponerlos en un formato con el cual tú y tu equipo puedan trabajar. Un panel intuitivo e informes claros son indispensables para usar eficazmente los datos que ya tienes.</p>
+
+<p>Una vez que tuvieron acceso a las métricas adecuadas, la cantidad de negocios que participaron en nuestra encuesta interna y que indicó que por fin podían tomar decisiones basadas en datos subió al 61 %.</p>
+
+<p>Con el acceso a mejores métricas derivadas de Zendesk Explore, John Zante, vicepresidente de <a href="https://www.beamcommunications.com/">Beam Communications</a> afirma: “[Ahora] puedo tomar decisiones basadas en los datos y medir cómo nuestros clientes perciben el soporte”.</p>
+
+<h3>Desafío n.º 2: tus tiempos de respuesta y resolución son muy lentos.</h3>
+
+<p>Las expectativas de los clientes no dan lugar a respuestas lentas: el 65 % de los consumidores espera un servicio más rápido que hace 5 años. Y no les importa los motivos que tiene una organización para responder con lentitud. Lo único que les importa es recibir una respuesta inmediata. Mejor aún si ya se la hubieran dado.</p>
+
+<p>Los equipos de atención al cliente pueden verse en aprietos para resolver tickets rápidamente si no hay un buen proceso ya establecido para enviar el ticket adecuado al agente indicado a la mayor brevedad. Si los agentes pierden su tiempo pasando un ticket de un departamento a otro sin saber a quién le corresponde, puedes estar seguro de que las expectativas de los clientes no se cumplirán.</p>
+
+<p>Nuestro estudio corrobora ese hecho, ya que el 40% de las compañías encuestadas dijeron que no podían establecer expectativas alrededor de los tiempos de primera respuesta y de resolución.</p>
+
+<h3>Solución: mejora tus procesos internos</h3>
+
+<p>Crear un Contrato de nivel de servicio (SLA) es un buen primer paso. Cuando estableces objetivos precisos, dices claramente a los agentes lo que se espera de ellos y facilitas que todo el mundo esté en sintonía.</p>
+
+<p>Para permitirle a tu equipo adherirse al SLA, intégralo a su flujo regular de trabajo y haz seguimiento continuo de lo bien que lo están cumpliendo. Programa alertas para que los integrantes del equipo y los administradores se enteren cada vez que los tiempos de respuesta no cumplan los objetivos.</p>
+
+<p>Pero no basta con programar recordatorios en el sistema; también es importante cerciorarse de que la estructura interna facilite el éxito del equipo. Un equipo necesita las herramientas para reconocer rápidamente de qué trata un ticket y de inmediato saber a quién le corresponde. Asegúrate de contar con definiciones claras de quién es responsable de qué y dar a todo el mundo un punto de referencia conveniente para buscar la información que necesitan en el momento en que la necesitan.</p>
+
+<p>Cuando las compañías con las que hablamos establecieron un proceso mejor para crear y cumplir un SLA, el 37% indicó que sus tiempos de primer contacto y resolución habían mejorado.</p>
+
+<p>“Ahora podemos hacer seguimiento y administrar [un] SLA para nuestros clientes de manera que todos los agentes puedan ver y cumplir fácilmente sus objetivos”, afirma Daniel Mcguigan, administrator de TI de <a href="https://www.smoothwall.com/">Smoothwall</a>.</p>
+
+<h3>Desafío nº. 3: no estás seguro de si tus clientes están realmente satisfechos</h3>
+
+<p>Un negocio vive o muere por sus clientes de modo que hacerlos sentir satisfechos debería ser primordial. La mejor manera de saber si estás cumpliendo ese objetivo es dejar que tus clientes digan lo que piensan con sus propias palabras.</p>
+
+<p>Pero a muchos negocios se les hace difícil obtener <a href="https://www.zendesk.com.mx/resources/customer-feedback-hear-voice-customer/?_ga=2.41047970.1497337240.1549564764-321291315.1549373071">la opinión directa de los clientes</a> para saber si sus estrategias actuales de atención al cliente están dando resultado. El 41 % de los negocios que encuestamos dijo que no podían recopilar comentarios de los clientes de forma eficaz, y el 62 % indicó que no tenía ningún mecanismo para medir la satisfacción del cliente.</p>
+
+<h3>¿Cómo vas a mejorar si no sabes cómo te está yendo actualmente?</h3>
+
+<p>Solución: envía encuestas de satisfacción del cliente<br>
+Las encuestas de satisfacción del cliente son un instrumento fantástico para obtener una idea rápida y precisa de cómo te va. Son eficaces porque no le preguntan mucho a los clientes: ellos pueden responder en segundos, si lo desean, con solo hacer clic en “sí” o “no”. También pueden tomarse un par de minutos para ofrecer un comentario que te proporcione información útil.</p>
+
+<p>El 30 % de los negocios con los que hablamos dijeron que la satisfacción de sus clientes mejoró después de que comenzaron a usar las encuestas de satisfacción del cliente.</p>
+
+<p>Y a ti te da datos útiles e información valiosa sobre el negocio, como descubrió Jessica Schmidt, gerente de éxito del cliente de <a href="https://www.beekeeper.io/en">Beekeeper</a>. “Es increíble poder medir finalmente cuán satisfechos se sienten nuestros clientes y tener la oportunidad de identificar áreas donde podemos crecer”, afirmó.</p>
+
+<h3>Resuelve los desafíos principales de la atención al cliente</h3>
+
+<p>Las buenas intenciones solo son el comienzo. Para cumplir los objetivos que te has propuesto con tu equipo, es necesario que asumas de frente los desafíos más grandes. Eso resulta mucho más fácil si tienes las soluciones de tecnología correctas. Dale a tu equipo las herramientas que necesita para que los resultados de la atención al cliente sean verdaderamente excepcionales.</p>
+
+            	        
+	        	        
+        ]]></content:encoded>
+    
+    <excerpt:encoded><![CDATA[Los negocios en crecimiento que dan prioridad a la experiencia del cliente se enfrentan a desafíos comunes a la hora de atender al cliente.]]></excerpt:encoded>
+    <wp:post_id>498995604</wp:post_id>
+    <wp:post_date><![CDATA[2019-02-07 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-02-07 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Los negocios en crecimiento que dan prioridad a la experiencia del cliente se enfrentan a desafíos comunes a la hora de atender al cliente.]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/40-Measurement%20and%20growth.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/40-Measurement%20and%20growth.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-video]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Marina Aleixo]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-twitter]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-segment]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-order]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-tile]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-img]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading-color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading-size]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading-color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading-size]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-buttons]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-css]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-section]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-header]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-enable]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-enable-checkbox-fix]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-url]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-img]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-headline]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-subheadline]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-button-text]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-spacer1]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-main-page-disable]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-main-page-disable-checkbox-fix]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    
+  </item>
+  
+  <item>
+    <title>Las 5 preguntas que todo líder de TI debe hacer sobre una plataforma de CRM</title>
+    <link>https://recursos.zendesk.com.mx/blog/5-preguntas-lider-ti-plataforma-crm/</link>
+    <pubDate>Tue, 05 Feb 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://recursos.zendesk.com.mx/blog/5-preguntas-lider-ti-plataforma-crm</guid>
+    <description>Cuando los líderes de TI están en el proceso de decidir lo que necesitan de una plataforma de CRM, hay cinco preguntas importantes que se deben hacer. Lee más en el blog de Zendesk.</description>
+    
+    <content:encoded><![CDATA[
+            <p><img alt="Las 5 preguntas que todo lÃ­der de TI debe hacer sobre una plataforma de CRM" src="http://d26a57ydsghvgx.cloudfront.net/content/blog/education2.png"></p>
+
+<p>Para los CIO y demás líderes de TI, no es tarea fácil lograr un equilibrio entre maximizar el valor de la tecnología existente, minimizar costos e invertir en herramientas estratégicas para el futuro del negocio. Al mismo tiempo que las compañías compiten por la lealtad de la marca e invierten en ofrecer las mejores <a href="https://www.zendesk.com.mx/resources/why-companies-should-invest-in-the-customer-experience/?_ga=2.256392840.227809902.1549373071-321291315.1549373071">experiencias del cliente</a>, se insiste en que los líderes de TI administren los datos dispersos de los clientes y aislados en muchas aplicaciones, sistemas y canales de interacción.</p>
+
+<p>En la actualidad, se crean más de 2,5 trillones diarios de bytes de datos, y se <a href="https://www.domo.com/solution/data-never-sleeps-6">prevé</a> que, hacia el año 2020, se crearán 1,7 MB de datos cada segundo por cada habitante del planeta. Esos datos contienen información valiosa acerca de tus clientes: quiénes son, cómo son, cuáles son sus metas y cómo interactúan con tu negocio.</p>
+
+<p>La creación de valor real del negocio a partir de los datos de los clientes supone gran presión para tu plataforma de CRM, ya que no solo necesita conectar los datos para obtener información acerca de la experiencia completa del cliente, sino también adaptarse a las necesidades de tu sector y de tu negocio en particular.</p>
+
+<p>Cuando los líderes de TI están en el proceso de decidir lo que necesitan de una plataforma de CRM, hay cinco preguntas importantes que se deben hacer:</p>
+
+<h3>1) Administración de datos: “¿Qué tan fácil es reunir los datos de todos nuestros clientes?”</h3>
+
+<p>Capturar la experiencia completa del cliente implica conectar todos los canales y las aplicaciones que los clientes usan para interactuar con tu marca, es decir, toda interacción en la que haya soporte, ventas, marketing, redes sociales, etc. Cuando están almacenados en formatos distintos o aislados en entornos diversos en la nube, puede ser difícil reunir todos estos datos.</p>
+
+<p>La tarea de conectar los datos de los clientes recae en los programadores, que suelen verse obligados a aprender nuevos lenguajes de programación patentados y utilizar nuevas API. Para tener una perspectiva completa del cliente, es necesario que la plataforma de CRM sea lo suficientemente abierta para conectarse a todas las aplicaciones y fuentes de datos que usa una compañía. Las plataformas más flexibles aprovechan los estándares abiertos para que los programadores puedan usar las habilidades y tecnologías que ya conocen.</p>
+
+<p><strong>Una plataforma de CRM que pueda reunir fácilmente los datos de los clientes debe:</strong></p>
+
+<p>- Ser abierta y poder conectarse a cualquier aplicación o sistema externo<br>
+- Dar a los programadores flexibilidad para almacenar e intercambiar datos en cualquier formato, y aprovechar los estándares abiertos<br>
+- Adaptarse perfectamente al resto de la arquitectura empresarial</p>
+
+<h3>2) Agilidad: “¿Permite nuestra plataforma que la organización crezca y se mantenga ágil?”</h3>
+
+<p>A medida que crecen los negocios, es necesario que los líderes de TI piensen de manera estratégica acerca de los procesos internos y las reglas de negocio que dan cabida a los nuevos equipos, productos y servicios que utilizan los clientes. Esto exige introducir nuevas aplicaciones de negocios para manejar necesidades específicas (como las que se usan para administrar gastos o servicios de suscripción) y, con frecuencia, estas terminan siendo insuficientes en menos de 12 a 24 meses.</p>
+
+<p>Muchas de las plataformas de CRM no tienen la flexibilidad para adaptarse a los cambios constantes de los requisitos del negocio y, a menudo, hacen necesaria la contratación de asesores caros y recursos de programación. Además, la implementación de los cambios puede tardar semanas o meses.</p>
+
+<p><strong>Para que una plataforma de CRM mantenga la agilidad de una compañía a medida que esta crece, necesita:</strong></p>
+
+<p>- Estar preparada para el futuro de manera que los programadores puedan poner a prueba soluciones innovadoras y precisas sin causar grandes interrupciones<br>
+- Adaptarse de forma fácil y económica al crecimiento del negocio<br>
+- Asimilar el conocimiento técnico existente dentro de la organización sin que los empleados se vean forzados a aprender algo nuevo</p>
+
+<h3>3) Personalización: “¿Cómo podemos adaptar la plataforma a los aspectos particulares de nuestro negocio?”</h3>
+
+<p>Además de asimilar los cambios inevitables que conlleva el crecimiento, muchas veces la introducción de nuevos modelos de negocios y formas de interacción con los clientes exigirá personalizar la manera en que funciona la tecnología.</p>
+
+<p>Lamentablemente, muchas plataformas de CRM obligan a las organizaciones a conformar las relaciones con los clientes a los modelos tradicionales de interacción (por ejemplo, “directa”, “en persona”, “basada en la cuenta”, etc.), lo cual no siempre es adecuado para ciertas compañías o sectores. Parte de crear una experiencia excelente para el cliente es establecer relaciones apropiadas para todo tu ecosistema de empleados, socios, proveedores, vendedores y todos tus productos y servicios.</p>
+
+<p><strong>Una plataforma de CRM personalizable debe tener capacidad para:</strong></p>
+
+<p>- Ampliarse con facilidad para aceptar más casos prácticos y operaciones nuevas<br>
+- Centrarse en la experiencia del cliente ofreciendo experiencias personalizadas e impecables tanto a los empleados como a los clientes<br>
+- Dar servicio a todos los canales, aplicaciones, datos y reglas particulares de la compañía y su sector</p>
+
+<h3>4) Innovación: “¿Está nuestra plataforma diseñada para aprovechar lo último y lo mejor de las tecnologías?”</h3>
+
+<p>Para sacar provecho de las últimas tendencias e innovaciones, como la <a href="https://www.zendesk.com.mx/resources/artificial-intelligence-customer-experience-infographic/?_ga=2.32355005.227809902.1549373071-321291315.1549373071">inteligencia artificial o el lenguaje de marcado</a>, los bots y los análisis avanzados, los líderes de TI necesitan gran cantidad de datos de los clientes y capacidad para experimentar una y otra vez con nuevas tecnologías.</p>
+
+<p>Esto suele ser difícil con una plataforma de CRM que bloquea los datos y no puede aprovechar con facilidad el código abierto ni los servicios en la nube pública. Es un problema de importancia considerable para los negocios que desean modernizarse, ya que una transformación digital exige una plataforma que sea capaz de aplicar iniciativas híbridas en la nube, como cuando se lleva un componente tecnológico más antiguo a la nube pública.</p>
+
+<p><strong>Para aprovechar lo último y lo mejor de la tecnología, una plataforma de CRM debe:</strong></p>
+
+<p>- Ser suficientemente moderna y compatible con iniciativas estratégicas de IA, datos y análisis que estén dentro y fuera del alcance de CRM<br>
+- Estar alineada con la estrategia de administración de datos y de la nube del negocio<br>
+- Tener capacidad para el intercambio fácil de datos entre infraestructuras en el lugar y en la nube pública y privada<br>
+- Poder mantener la eficiencia a medida que crece el alcance del negocio</p>
+
+<h3>5) Medición y análisis: “¿Cómo medimos el efecto de nuestra tecnología en la experiencia del cliente?”</h3>
+
+<p>La tecnología en la que los líderes de TI deben invertir debe ser una que posibilite el soporte esmerado, la venta inteligente y la interacción que los clientes esperan. Medir el éxito de esa tecnología implicará estudiar el retorno de la inversión y el nivel de detalle ofrecido por las métricas de la experiencia del cliente, así como la forma en que los datos se comparten en la compañía.</p>
+
+<p>Una plataforma de CRM que dependa de herramientas de análisis heredadas puede ser un riesgo porque muchas de ellas no admiten análisis para la eficiencia ni iniciativas para operaciones como el autoservicio. Es posible que los negocios que no puedan medir ni comparar los detalles de la experiencia del cliente, queden rezagados en sus respectivos sectores.</p>
+
+<p><strong>Para conocer el efecto que la tecnología tiene en la experiencia del cliente, una plataforma de CRM debe poder:</strong></p>
+
+<p>- Reunir los datos de los clientes para contar con una perspectiva óptima sobre ellos en todas las funciones principales<br>
+- Admitir análisis modernos, controlados por la interfaz del usuario y relacionados con iniciativas como el autoservicio y la IA<br>
+- Competir con las mejores prácticas y puntos de referencia del sector para obtener una vista objetiva del desempeño de la organización</p>
+
+<p><a href="https://recursos.zendesk.com.mx/blog/5-preguntas-lider-ti-plataforma-crm"><strong>Más información acerca de Zendesk Sunshine, la plataforma de CRM abierta y flexible creada en AWS</strong></a></p>
+
+            	        
+	        	        
+        ]]></content:encoded>
+    
+    <excerpt:encoded><![CDATA[Cuando los líderes de TI están en el proceso de decidir lo que necesitan de una plataforma de CRM, hay cinco preguntas importantes que se deben hacer.]]></excerpt:encoded>
+    <wp:post_id>498409641</wp:post_id>
+    <wp:post_date><![CDATA[2019-02-05 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-02-05 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Cuando los líderes de TI están en el proceso de decidir lo que necesitan de una plataforma de CRM, hay cinco preguntas importantes que se deben hacer.]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[http://d26a57ydsghvgx.cloudfront.net/content/blog/education2.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[http://d26a57ydsghvgx.cloudfront.net/content/blog/education2.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-video]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Marina Aleixo]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-twitter]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-segment]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-order]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-tile]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-img]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading-color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading-size]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading-color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading-size]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-buttons]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-css]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-section]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-header]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-enable]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-enable-checkbox-fix]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-url]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-img]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-headline]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-subheadline]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-button-text]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-spacer1]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-main-page-disable]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-main-page-disable-checkbox-fix]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    
+  </item>
+  
+  <item>
+    <title>3 maneras de lograr un mejor autoservicio</title>
+    <link>https://recursos.zendesk.com.mx/blog/3-maneras-de-lograr-un-mejor-autoservicio/</link>
+    <pubDate>Fri, 25 Jan 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://recursos.zendesk.com.mx/blog/3-maneras-de-lograr-un-mejor-autoservicio</guid>
+    <description>Cuando los líderes de TI están en el proceso de Para poder ofrecer la experiencia de atención que los clientes desean, las compañías están aumentando sus capacidades para facilitar el autoservicio en Internet. decidir lo que necesitan de una plataforma de CRM, hay cinco preguntas importantes que se deben hacer. Lee más en el blog de Zendesk.</description>
+    
+    <content:encoded><![CDATA[
+            <div> </div>
+
+<figure><img alt="3 maneras de lograr un mejor autoservicio" src="https://zen-marketing-content.s3.amazonaws.com/content/blog/1_NewZendeskHeaders/Online%20self-service.png" style="border:0px;float:left;"></figure>
+
+<div>
+<div id="socialBlock" style="margin-left:15px;">
+<ul>
+	<li> </li>
+	<li> </li>
+	<li> </li>
+</ul>
+</div>
+
+<div>
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div>Amanda Roosa</div>
+
+<div><a href="http://twitter.com/mandyroosa" rel="noopener" target="_blank">@mandyroosa</a></div>
+
+<div id="blog-tags">
+<a href="http://es-la-1b461e26d68349dd3.getsmartling.com/blog/tags/best-practices-customer-support">Atención al cliente</a> <a href="http://es-la-1b461e26d68349dd3.getsmartling.com/blog/tags/zendesk-guide">Guide</a> <a href="http://es-la-1b461e26d68349dd3.getsmartling.com/blog/tags/blog-knowledge-base-self-service">Base de conocimientos y autoservicio</a><a href="http://es-la-1b461e26d68349dd3.getsmartling.com/blog/tags/zendesk-products">Productos de Zendesk</a>
+</div>
+</div>
+</div>
+
+<div>
+<p>El autoservicio es la última tendencia que está sacudiendo al mundo de la atención al cliente. La mayoría de los clientes prefieren buscar ellos mismos lo que necesitan en lugar de contactar a un agente. Para poder ofrecer la experiencia de atención que los clientes desean, las compañías están aumentando sus capacidades para facilitar el autoservicio en Internet. Y gracias a este autoservicio, los agentes de soporte reciben menos solicitudes y pueden dedicarse más a los asuntos que verdaderamente necesitan su intervención.</p>
+
+<p><a href="https://www.zendesk.com.mx/resources/forrester-2017-customer-service-trends/" target="_blank">Según Forrester</a>, “Los clientes de todas las edades están dejando el teléfono para usar el autoservicio —autoservicio en línea y dispositivos móviles, comunidades, agentes virtuales, diálogos de chat automatizados o chatbots— como el primer punto de contacto con una compañía”. Con el autoservicio en Internet, todos salen ganando: los clientes tienen menos contratiempos y las compañías reducen los costos al desviar las interacciones asistidas por agentes.</p>
+
+<p>El autoservicio es esencial para el modelo moderno de atención al cliente. Estas son tres maneras de facilitar que los clientes y los agentes adopten el autoservicio:</p>
+
+<p><strong>1. Ofrece autoservicio para móviles y en Internet </strong><br>
+Cuando se ofrece autoservicio, es importante reunirse con los clientes dondequiera que estén, ya sea en línea o por dispositivo móvil. Sin embargo, lo más importante es poder facilitar a los clientes la búsqueda de contenido del <a href="https://www.zendesk.com.mx/guide/features/help-center/" target="_blank">Centro de ayuda</a> en una aplicación móvil o en un sitio web. Un Centro de ayuda con <a href="https://www.zendesk.com.mx/resources/the-value-of-self-service/" target="_blank">autoservicio</a> por dispositivo móvil o Internet puede promover un autoservicio fácil con información a la medida de tus clientes. Además, sea cual sea la vía que los clientes utilicen para contactarse, necesitarán ayuda en su propio idioma. El <a href="https://www.zendesk.com.mx/guide/features/help-center" target="_blank">Centro de ayuda de Zendesk Guide</a> admite más de 40 idiomas y te permite publicar contenido en varios idiomas con un solo clic. El diseño adaptativo de Guide, de implementación inmediata, asegura que tu Centro de ayuda se vea perfecto en cualquier dispositivo. Por último, con el autoservicio por móvil o por Internet, es bueno tener un Centro de ayuda personalizable que refleje el aspecto y funcionamiento de tu marca y ofrezca al cliente una experiencia uniforme.</p>
+
+<p><strong>2. Cultiva una comunidad</strong><br>
+<a href="https://www.zendesk.com.mx/guide/features/community-software/" target="_blank">Las comunidades en línea</a> son lugares perfectos donde los clientes pueden conversar sobre lo que da buenos resultados y lo que no. Las comunidades son una manera excelente de permitir que los usuarios finales se ayuden entre sí y compartan ideas y recomendaciones. Las puedes hacer todo lo acogedoras y atractivas que quieras, y sirven de espacio para fortalecer las conexiones de los clientes en una plataforma personalizada y de marca. <a href="https://support.zendesk.com/hc/en-us/articles/203691496-Lesson-4-Helping-customers-help-themselves?_ga=2.7300912.322058044.1493959559-1156828614.1476202589#l4-s08" target="_blank">La formación de una comunidad</a> es otra manera de ampliar el alcance del contenido seleccionado de tu compañía y de ofrecer un autoservicio más eficaz.</p>
+
+<p><strong>3. Aprovecha el poder de la inteligencia artificial</strong><br>
+El futuro ya está aquí. Los negocios pueden dar respuestas inmediatas gracias a la inteligencia artificial. El <a href="https://www.zendesk.com.mx/answer-bot/" target="_blank">Answer Bot</a> de Zendesk permite a las organizaciones resolver las consultas repetitivas al instante, reduce el esfuerzo del equipo y ofrece respuestas bien fundadas de manera automática —todo sin que el agente mueva un dedo. Entonces, ¿cómo funciona el Answer Bot? Si un cliente tiene una pregunta sencilla sobre el horario de la compañía, el Answer Bot examina el texto para entender de qué trata la solicitud y, en función de eso, sugiere respuestas y los artículos más apropiados para el asunto en cuestión. Los clientes pueden resolver sus dudas o recibir contenido útil mientras esperan a un agente de soporte. Como resultado, los clientes se sienten más felices y los agentes de soporte tienen más tiempo para dedicarse a los tickets más complejos que sí necesitan un toque humano.</p>
+
+<p><strong>Usar el software correcto para la administración de conocimientos es el primer paso para ofrecer un autoservicio impecable. Si deseas más información sobre las bases de conocimientos y el autoservicio, da hoy mismo los primeros pasos con <a href="https://www.zendesk.com.mx/guide/" target="_blank">Guide</a>.</strong></p>
+</div>
+
+            	        
+	        	        
+        ]]></content:encoded>
+    
+    <excerpt:encoded><![CDATA[Cuando los líderes de TI están en el proceso de Para poder ofrecer la experiencia de atención que los clientes desean, las compañías están aumentando sus capacidades para facilitar el autoservicio en Internet]]></excerpt:encoded>
+    <wp:post_id>495806151</wp:post_id>
+    <wp:post_date><![CDATA[2019-01-25 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-01-25 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Cuando los líderes de TI están en el proceso de Para poder ofrecer la experiencia de atención que los clientes desean, las compañías están aumentando sus capacidades para facilitar el autoservicio en Internet]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/blog/1_NewZendeskHeaders/Online%20self-service.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/blog/1_NewZendeskHeaders/Online%20self-service.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-video]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Daniella De Caprio]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-twitter]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-segment]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-order]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-tile]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-img]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading-color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading-size]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading-color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading-size]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-buttons]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-css]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-section]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-header]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-enable]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-enable-checkbox-fix]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-url]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-img]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-headline]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-subheadline]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-button-text]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-spacer1]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-main-page-disable]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-main-page-disable-checkbox-fix]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    
+  </item>
+  
+  <item>
+    <title>Zendesk Sunshine trae luz a la experiencia del cliente</title>
+    <link>https://recursos.zendesk.com.mx/blog/zendesk-sunshine-trae-luz-a-la-experiencia-del-cliente/</link>
+    <pubDate>Fri, 18 Jan 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://recursos.zendesk.com.mx/blog/zendesk-sunshine-trae-luz-a-la-experiencia-del-cliente</guid>
+    <description>Es momento de liberarse de las plataformas de CRM que se creen el centro del universo y que te condenan a una visión desactualizada del mundo</description>
+    
+    <content:encoded><![CDATA[
+            <p dir="ltr"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-494082678-0.jpg" style="width: 800px; height: 800px;"></p>
+
+<p dir="ltr"><span id="docs-internal-guid-c80debdc-7fff-8dab-d9d3-d0df45a8af75">Las compañías están intentando seguirle el ritmo a las cambiantes expectativas de los clientes, pero siguen rezagadas por la tecnología heredada. Las plataformas de CRM tradicionales forzaron a las compañías a adoptar tecnologías patentadas que limitan la visión de sus clientes y que dificultan el conectar los datos de los clientes desperdigados a lo largo de los sistemas y servicios internos y externos. Al mismo tiempo, estas herramientas cerradas de CRM no se corresponden con las necesidades de los desarrolladores en cuanto a </span><a href="https://recursos.zendesk.com.mx/blog/tendencias-de-customer-experience-que-dominaran-el-2019">flexibilidad y libertad</a>.</p>
+
+<p>“Es momento de liberarse de las plataformas de CRM que se creen el centro del universo y que te condenan a una visión desactualizada del mundo”, dijo Mikkel Svane, fundador y CEO de Zendesk.</p>
+
+<p dir="ltr"><span id="docs-internal-guid-c80debdc-7fff-8dab-d9d3-d0df45a8af75">Con ese punto de partida, Zendesk creó </span><a href="https://www.zendesk.com.mx/platform/">Sunshine</a>, una plataforma abierta y flexible de CRM para administrar las relaciones con los clientes, creada completamente en la nube pública de <a href="https://docs.google.com/document/d/165wnoiJMjfDJoCcCt8bZm7NFYJmrYKPgh3QEJm_ec2w/edit?usp=sharing">Amazon Web Services, Inc.</a>, que aprovecha al máximo los estándares abiertos, y la seguridad, escalabilidad y confiabilidad de AWS.</p>
+
+<p>“Creamos Sunshine para arrojar un poco de luz sobre varios aspectos de los clientes y  sus datos, mientras que se le da a los desarrolladores la libertad de crear la forma que quieran en la nube pública”, añade Mikkel.</p>
+
+<p dir="ltr"><strong><span id="docs-internal-guid-c80debdc-7fff-8dab-d9d3-d0df45a8af75">Capacidades poderosas para entender a los clientes</span></strong></p>
+
+<p><span id="docs-internal-guid-c80debdc-7fff-8dab-d9d3-d0df45a8af75">Sunshine incluye </span><a href="https://www.zendesk.com.mx/platform/features/">capacidades avanzadas</a> que permiten almacenar y conectar a todos los datos de los clientes.</p>
+
+<p dir="ltr"><span id="docs-internal-guid-c80debdc-7fff-8dab-d9d3-d0df45a8af75">Con la función Perfiles, las empresas pueden crear una vista unificada de los clientes a lo largo de todas las aplicaciones. Con Eventos, pueden capturar cualquier actividad de los clientes, como interacciones de atención al cliente, visitas a sitios web, transacciones de compra, e historial de envío en una línea de tiempo histórica. Mientras que, con Objetos Customizados, pueden coleccionar información relevante adicional, como productos propios, equipamiento arrendado, o incluso telemétricas desde un automóvil conectado desde una fuente externa, y luego almacenar estos datos directamente dentro de Zendesk.</span></p>
+
+<p dir="ltr"><span id="docs-internal-guid-c80debdc-7fff-8dab-d9d3-d0df45a8af75">Gracias a esta información, las empresas pueden usar Sunshine no solo para crear una imagen completa de su cliente sino también para dar forma a la relación que estos tienen con la información y la empresa.</span></p>
+
+<p><span id="docs-internal-guid-c80debdc-7fff-8dab-d9d3-d0df45a8af75">Una de las empresas que ya adoptó Sunshine fue </span><a href="https://www.stanleyblackanddecker.com/">Stanley Black &amp; Decker</a>, el fabricante global de herramientas manuales, mecánicas y accesorios. Como señala Gerardo Soto, su director de Innovación, “la plataforma de Zendesk nos da la capacidad de adaptarnos a las necesidades cambiantes de nuestros clientes. Nuestros desarrolladores también ven un tremendo valor en la posibilidad de usar las herramientas de código abierto que ya conocen y aman las de AWS, que pueden servir mejor a nuestros clientes y empresas”.</p>
+
+<p dir="ltr"><strong><span id="docs-internal-guid-c80debdc-7fff-8dab-d9d3-d0df45a8af75">Y aún hay más bajo el sol</span></strong></p>
+
+<p dir="ltr"><span id="docs-internal-guid-c80debdc-7fff-8dab-d9d3-d0df45a8af75">Además de Sunshine, Zendesk lanzó </span><a href="https://www.zendesk.com.mx/sell/">Zendesk Sell</a>, una nueva herramienta para la automatización de la fuerza de ventas, y <a href="http://www.zendesk.com.mx/explore">Zendesk Explore</a>, un producto para el análisis de los datos.</p>
+
+<p dir="ltr"><span id="docs-internal-guid-c80debdc-7fff-8dab-d9d3-d0df45a8af75">Construida para mejorar la productividad, los procesos y la visibilidad de los canales para los equipos de ventas, Sell constituye el primer paso en la integración de este tipo de software con la familia de productos de Zendesk. Particularmente, con Sunshine, lo que permite que la información fluya sin interrupciones entre soporte y ventas, lo que se traduce en una sola conversación con los clientes y en una mayor armonía para los equipos.</span></p>
+
+<p dir="ltr"><span id="docs-internal-guid-c80debdc-7fff-8dab-d9d3-d0df45a8af75">Y si hablamos de integración fluida entre los productos, Zendesk Explore vuelve más sencillo para las compañías ver y analizar los datos a través de todos los canales de soporte de Zendesk. Con Explore, las empresas pueden ahora contar con una sola mirada transversal a todos los equipos y canales de manera tal que puedan enfocarse en la medición y el mejoramiento de la experiencia que brindan.</span></p>
+
+<p dir="ltr"><span id="docs-internal-guid-c80debdc-7fff-8dab-d9d3-d0df45a8af75">¿Quieres saber más sobre los nuevos lanzamientos de Zendesk? ¡Visita nuestro </span><a href="https://www.zendesk.com.mx">sitio</a>!</p>
+
+<div> </div>
+
+            	        
+	        	        
+        ]]></content:encoded>
+    
+    <excerpt:encoded><![CDATA[Es momento de liberarse de las plataformas de CRM que se creen el centro del universo y que te condenan a una visión desactualizada del mundo]]></excerpt:encoded>
+    <wp:post_id>494082678</wp:post_id>
+    <wp:post_date><![CDATA[2019-01-18 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-01-18 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Es momento de liberarse de las plataformas de CRM que se creen el centro del universo y que te condenan a una visión desactualizada del mundo]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-post-494082678.jpg]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-post-494082678.jpg]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-video]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Daniella De Caprio]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-twitter]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-segment]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-order]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-tile]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-img]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading-color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading-size]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading-color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading-size]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-buttons]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-css]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-section]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-header]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-enable]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-enable-checkbox-fix]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-url]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-img]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-headline]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-subheadline]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-button-text]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-spacer1]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-main-page-disable]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-main-page-disable-checkbox-fix]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    
+  </item>
+  
+  <item>
+    <title>Deja que los robots se encarguen: la relación IA-agente está en constante evolución</title>
+    <link>https://recursos.zendesk.com.mx/blog/deja-que-los-robots-se-encarguen-la-relacion-ia-agente-esta-en-constante-evolucion/</link>
+    <pubDate>Thu, 17 Jan 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://recursos.zendesk.com.mx/blog/deja-que-los-robots-se-encarguen-la-relacion-ia-agente-esta-en-constante-evolucion</guid>
+    <description>Las alarmas suenan para avisar que los robots se apropiarán de nuestros trabajos, aunque sería más acertado decir hay tareas que deberían ser automatizadas.</description>
+    
+    <content:encoded><![CDATA[
+            <div><img alt="Deja que los robots se encarguen: la relación IA-agente está en constante evolución" src="https://d26a57ydsghvgx.cloudfront.net/content/blog/1_NewZendeskHeaders/35-AI_preview.png" style="float: left;"></div>
+
+<div>
+<div id="socialBlock" style="margin-left:15px;">
+<ul>
+	<li> </li>
+	<li> </li>
+	<li> </li>
+</ul>
+</div>
+
+<div>
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div>Tara Ramroop</div>
+
+<div>Content marketing manager</div>
+
+<div><a href="http://twitter.com/tara_ramroop" rel="noopener" target="_blank">@tara_ramroop</a></div>
+
+<div id="blog-tags">
+<a href="http://es-la-303f45448afe9004a.getsmartling.com/blog/tags/agent-experience/">Agent experience</a> <a href="http://es-la-303f45448afe9004a.getsmartling.com/blog/tags/zendesk-guide/">Guide</a> <a href="http://es-la-303f45448afe9004a.getsmartling.com/blog/tags/team-management/">Administración de equipos</a>
+</div>
+</div>
+</div>
+
+<div>
+<p>Las alarmas suenan para avisar que los robots se apropiarán de nuestros trabajos, aunque sería más acertado decir que la automatización con IA se está encargando de tareas que, en cualquier caso, deberían ser automatizadas.</p>
+
+<p>Hacerse cargo de las funciones repetitivas de los agentes de atención al cliente es la manera perfecta de sacarle provecho a la IA, pero los roles de soporte deben evolucionar en paralelo con la tecnología. Aquí es donde entra en juego convertirse en una <a href="https://www.zendesk.com.mx/blog/knowledge-management-cultivates-high-performing-teams/" target="_blank">organización centrada en el conocimiento</a>: convertir el poder conjunto de la información que poseen los agentes en recopilación y distribución colectivas del conocimiento contribuye a que todo tu negocio opere y crezca con más rapidez y eficiencia.</p>
+
+<p>Algo similar aprendimos del sector bancario después de que los cajeros automáticos se hicieron populares. La tecnología cosechó un gran éxito y, al mismo tiempo, el rol del cajero evolucionó. En lugar de dedicarse a manejar dinero en efectivo, los cajeros se volvieron agentes indispensables para cultivar relaciones duraderas con los clientes. No dejaron de estar en primera línea, y comenzaron también a representar a la compañía en asuntos más complejos.</p>
+
+<p>Lo mismo está sucediendo con los agentes del servicio de atención al cliente. Los clientes desean y esperan la automatización de ciertos servicios porque los hace más sencillos y más rápidos. Pero para otros asuntos, la interacción personal aún es necesaria. Piensa en cada vez que tú mismo has buscado la respuesta a una pregunta sobre un envío en el Centro de ayuda de una compañía, pero la complejidad de tu pregunta (o preguntas) ha hecho necesaria la ayuda personalizada y provechosa de un ser humano.</p>
+
+<p>Estos cambios tienen un impacto considerable en la experiencia del cliente, pero el impacto es igualmente enorme en los agentes. Estos son algunos aspectos que hay que tomar en cuenta al implementar los nuevos flujos de trabajo y aprovechar la tecnología para aumentar la productividad y satisfacción de los agentes.</p>
+
+<h2>Las automatizaciones no son atajos</h2>
+
+<p>Aumentar las calificaciones de satisfacción del cliente que reciben los agentes es una de las prioridades más altas de los líderes de soporte, pero la calidad impredecible del servicio sigue siendo una de las principales causas de frustración de los clientes. Por eso sabemos que tomar atajos en los equipos de soporte no rinde frutos y que gastar inteligentemente el presupuesto de soporte es fundamental. En pocas palabras, no hay que confundir ser eficientes con reducir al mínimo. No se trata de limitar el rol del administrador de la atención al cliente a lo básico.</p>
+
+<p>El reto en el servicio de atención al cliente no consiste en <a href="https://www.zendesk.com.mx/blog/chatbots-wont-necessarily-replace-humans/" target="_blank">deshacerse de los agentes y su conocimiento en favor de los bots</a>, porque despersonalizar esta función para ahorrar dinero daña la relación entre los clientes y tu compañía. <a href="https://www.zendesk.com.mx/blog/using-smart-knowledge-base-unlock-agent-potential/" target="_blank">Las bases de conocimientos inteligentes</a>equipadas con la tecnología que ayuda a los agentes —como las innovaciones que <a href="https://www.zendesk.com.mx/blog/providing-automated-self-service/" target="_blank">ponen el contenido del Centro de ayuda a la mano de los agentes</a> cuando están resolviendo tickets— son un elemento clave para que sigan trabajando con eficiencia.</p>
+
+<h2>Una estrategia ágil para el autoservicio deriva en agentes hábiles y preparados</h2>
+
+<p>La tecnología solo nos puede llevar hasta cierto punto, razón por la cual los procesos actualizados son tan importantes para brindar soporte a los agentes. Por medio de Zendesk Benchmark, un índice que recopiló datos de las prácticas de atención al cliente de 50.000 compañías, descubrimos que <a href="https://www.zendesk.com.mx/blog/keep-knowledge-base-healthy-newest-innovations/" target="_blank">aquellas que emplean una estrategia ágil e iterativa en el autoservicio</a>tuvieron mayor éxito. Un componente importante de la estrategia ágil es <a href="https://www.zendesk.com.mx/resources/leverage-entire-team-create-best-self-service-content/" target="_blank">involucrar a los agentes en el proceso de creación de contenido</a> y zanjar la diferencia entre la creación de contenido y el trabajo cotidiano de los agentes que atienden a los clientes.</p>
+
+<p><a href="https://www.zendesk.com.mx/blog/artificial-intelligence-customer-experience/" target="_blank">La IA y el aprendizaje automático</a> tienen el mayor potencial para tender ese puente. Cuando las innovaciones contribuyen a eliminar las tareas repetitivas que realizan los agentes, estos pueden dedicar más tiempo a la administración del conocimiento.</p>
+
+<h2>Una nueva perspectiva de los KPI</h2>
+
+<p>Cambiar la definición del rol del agente también influye en cómo se mide esa función. A medida que sigue evolucionando el concepto obsoleto de que los equipos de soporte son un centro de costos, las nuevas métricas de éxito serán fundamentales en el camino a seguir. Un giro importante tiene que ver con dos métricas en particular: la redirección de tickets y el tiempo de resolución.</p>
+
+<p>Para muchas organizaciones, el <a href="https://www.zendesk.com.mx/blog/ticket-deflection-currency-self-service/" target="_blank">número de tickets redirigidos continúa siendo una métrica clave </a>, y no cabe duda de que es algo que se debe seguir midiendo hasta que maduren las prácticas del Centro de ayuda y de la administración del conocimiento. Pero las métricas de interacción, como el índice de rebote y las vistas de páginas, se vuelven más importantes al considerar de qué manera el Centro de ayuda puede ayudar mejor a los clientes. O bien, se pueden tomar en cuenta las búsquedas en el Centro de ayuda que no produjeron ningún resultado; al identificar quién y cuándo debería estar aportando conocimiento al Centro de ayuda, es importante saber si las búsquedas de los clientes están logrando algún resultado.</p>
+
+<p>Además, <a href="https://hbr.org/2017/01/kick-ass-customer-service" target="_blank">a medida que los clientes adoptan más y más el autoservicio, los tiempos de resolución podrían aumentar en vez de disminuir </a>, dada la complejidad de los asuntos y el tiempo que requiere ofrecer una atención personal de calidad, según explica un artículo publicado por <em>Harvard Business Review</em> en 2017 . Una manera de manejar las colas de tickets es facilitando que los clientes puedan cerrar sus solicitudes cuando un artículo responde su pregunta, lo cual es posible con la <a href="https://support.zendesk.com/hc/en-us/articles/360001988807-Introducing-Rapid-Resolve" target="_blank">función Resolución rápida de Zendesk</a>. Cuando los agentes dedican su tiempo a los tickets más complicados, las tecnologías que utilizan el aprendizaje automático, como el <a href="https://support.zendesk.com/hc/en-us/articles/360001950887-Introducing-Answer-Bot-for-Agents" target="_blank">Answer Bot para agentes</a>, les ayudan a resolverlos de manera más rápida y completa porque buscan y muestran las recomendaciones de los artículos más prácticos de la base de conocimientos.</p>
+
+<p>No todas las métricas son iguales: mientras una métrica podría indicar un éxito rotundo, puede ser que otra señale una posibilidad de mejoramiento. Por eso es importante tomar en cuenta el contexto completo de la experiencia del cliente y del agente en todos los canales. Y al igual que las métricas, la IA tampoco sirve para todo. Esto significa que hay que saber cómo adoptar e implementar la tecnología, vinculándola con su estrategia, y seguir definiendo los objetivos activamente.</p>
+</div>
+
+            	        
+	        	        
+        ]]></content:encoded>
+    
+    <excerpt:encoded><![CDATA[Las alarmas suenan para avisar que los robots se apropiarán de nuestros trabajos, aunque sería más acertado decir hay tareas que deberían ser automatizadas.]]></excerpt:encoded>
+    <wp:post_id>493896345</wp:post_id>
+    <wp:post_date><![CDATA[2019-01-17 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-01-17 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Las alarmas suenan para avisar que los robots se apropiarán de nuestros trabajos, aunque sería más acertado decir hay tareas que deberían ser automatizadas.]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/blog/1_NewZendeskHeaders/35-AI_preview.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/blog/1_NewZendeskHeaders/35-AI_preview.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-video]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Daniella De Caprio]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-twitter]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-segment]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-order]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-tile]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-img]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading-color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading-size]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading-color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading-size]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-buttons]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-css]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-section]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-header]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-enable]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-enable-checkbox-fix]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-url]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-img]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-headline]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-subheadline]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-button-text]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-spacer1]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-main-page-disable]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-main-page-disable-checkbox-fix]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    
+  </item>
+  
+  <item>
+    <title>Deja que tu base de conocimientos multilingüe prospere gracias a la IA</title>
+    <link>https://recursos.zendesk.com.mx/blog/deja-que-tu-base-de-conocimientos-multilingue-prospere-gracias-a-la-ia/</link>
+    <pubDate>Thu, 17 Jan 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://recursos.zendesk.com.mx/blog/deja-que-tu-base-de-conocimientos-multilingue-prospere-gracias-a-la-ia</guid>
+    <description>Casi el 75 % de las personas hacen búsquedas en Internet en su propio idioma, lo cual significa que, si solo te estás comunicando en inglés, lo más probable es que estés perdiendo clientes.</description>
+    
+    <content:encoded><![CDATA[
+            <div><img alt="Deja que tu base de conocimientos multilingüe &lt;br /&gt;prospere gracias a la IA" src="https://d26a57ydsghvgx.cloudfront.net/content/680x360_Blog_globe.png" style="float: left;"></div>
+
+<div>
+<div id="socialBlock" style="margin-left:15px;">
+<ul>
+	<li> </li>
+	<li> </li>
+	<li> </li>
+</ul>
+</div>
+
+<div>
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div> </div>
+
+<div>Tara Ramroop</div>
+
+<div>Content marketing manager</div>
+
+<div><a href="http://twitter.com/tara_ramroop" rel="noopener" target="_blank">@tara_ramroop</a></div>
+
+<div id="blog-tags">
+<a href="http://es-la-303f45448afe9004a.getsmartling.com/blog/tags/agent-experience/">Agent experience</a> <a href="http://es-la-303f45448afe9004a.getsmartling.com/blog/tags/best-practices-customer-service/">Experiencia de los clientes</a> <a href="http://es-la-303f45448afe9004a.getsmartling.com/blog/tags/zendesk-guide/">Guide</a> <a href="http://es-la-303f45448afe9004a.getsmartling.com/blog/tags/zendesk-products/">Productos de Zendesk</a>
+</div>
+</div>
+</div>
+
+<div>
+<p>Los datos revelan que, para los negocios que tienen presencia internacional, ofrecer soporte en varios idiomas bien vale la pena. Casi <a href="https://hbr.org/2012/08/speak-to-global-customers-in-t" target="_blank">el 75 % de las personas hacen búsquedas en Internet en su propio idioma</a>, lo cual significa que, si solo te estás comunicando en inglés, por ejemplo, lo más probable es que estés perdiendo clientes y agregando estratos de ineficiencias a tus agentes.</p>
+
+<p>Tal vez es más fácil decir que hacer. Incluso en un solo idioma, los agentes dedican el <a href="https://www.zendesk.com.mx/resources/gartner-knowledge-management-will-transform-crm-customer-service/" target="_blank">20 % de su tiempo en promedio a buscar información,</a> ya sea para compartirla directamente con los clientes o para buscar la manera más adecuada de resolver un problema. <a href="https://www.zendesk.com.mx/blog/providing-support-multiple-channels-multiple-languages/" target="_blank">Ofrecer soporte en varios idiomas</a>y varios canales implica introducir otras variables. En los canales en vivo especialmente, puede resultar costoso e ineficaz porque es necesario contratar personal en distintos lugares del mundo que hable varios idiomas, implementar una solución de traducción en tiempo real, o ambas cosas.</p>
+
+<p>Con clientes en todas partes del mundo que recurren al autoservicio, convertir la base de conocimientos en un recurso internacional puede tener un efecto importante en clientes y agentes. Además, contar con una fuente de conocimientos única y fiable es una solución fácil, que puede crecer perfectamente, ahorrar tiempo y fomentar una experiencia más sistemática y <a href="https://www.zendesk.com.mx/blog/multilingual/" target="_blank">precisa para los clientes que hablan otros idiomas</a>.</p>
+
+<p>Un Centro de ayuda multilingüe ha sido un elemento importante para el éxito y un componente clave de la estrategia de soporte mundial para <a href="https://www.zendesk.com.mx/customer/finalcad/" target="_blank">FINALCAD</a>, por ejemplo. La aplicación de FINALCAD está disponible en 30 idiomas y la compañía ofrece el contenido de su Centro de ayuda en 10 de esos idiomas. Una estrategia regional también fue esencial para <a href="https://www.zendesk.com.mx/customer/olx/" target="_blank">OLX</a>, una plataforma de anuncios clasificados que opera en más de 40 países y emplea a más de 1.200 personas en todo el mundo. En vista de la presencia mundial de la compañía, el equipo pudo reducir la cantidad de tickets enviados creando artículos de autoservicio dirigidos a mercados específicos dentro de su base de conocimientos. Eso logró internacionalmente una reducción del 40 por ciento del volumen de tickets.</p>
+
+<p>Otro aspecto que hay que tomar en cuenta es la <a href="https://content.lionbridge.com/localization-vs-translation-whats-difference-infographic/" target="_blank">diferencia entre traducción y localización</a>. Más allá de la traducción, la localización distingue los matices en las formas de hablar y capta la intención, los conceptos o la estructura de la frase. La localización reconoce el uso de zumo en España y jugo en Latinoamérica; y sabe cuándo emplear video y no vídeo. También percibe la diferencia entre los distintos significados de banca: conjunto de bancos o banqueros, o bien un asiento.</p>
+
+<p>Y ahí es donde la IA entra en juego. La abundancia de matices es difícil de agregar y localizar a gran escala. Por ello, un modelo con capacitación lingüística se diseña para absorber parte de esos quebraderos de cabeza. Los modelos de IA con capacitación lingüística se vuelven más inteligentes con el tiempo porque, cada vez que cometen un error, aprenden y se recalibran. La idea es que no solo hay que equipar a los agentes con recursos internacionales, como una base de conocimientos, sino que también hay que usar ese corpus como base para sacar provecho de una tecnología que, con el transcurso del tiempo, puede aprender a hacer mejor su trabajo.</p>
+
+<p>Los modelos lingüísticos tratan primero de entender las palabras, el contexto y la intención que hay detrás de una pregunta, y luego buscan cómo hacer corresponder esas variables con el artículo que más se aproxime al problema en cuestión. El <a href="https://www.zendesk.com.mx/answer-bot/" target="_blank">Answer Bot</a> de Zendesk, por ejemplo, está disponible en inglés, español, portugués, alemán, francés y neerlandés. La funcionalidad de cada idioma se apoya en un modelo distinto, y eso evita la necesidad de traducir el contenido cada vez. El modelo percibe la diferencia entre zumo y jugo porque va al fondo para analizar cómo los clientes y los agentes usan la palabra en contexto. Y luego se dedica a buscar y sugerir artículos adecuados del Centro de ayuda.</p>
+
+<p>La implementación ágil es uno de los principales retos cuando se introduce cualquier solución de software nueva, especialmente para los departamentos que están en pleno crecimiento y no cuentan con mucho tiempo. Una de las ventajas de un modelo de IA con capacitación lingüística es que se puede poner a funcionar de inmediato, entiende la intención detrás de las solicitudes de los clientes y las coteja con el contenido del Centro de ayuda.</p>
+
+<p>Si tienes un negocio internacional, la atención al cliente multilingüe es imprescindible. Contratar agentes en cada región no siempre es una solución práctica ni adaptable, y por eso una base de conocimientos multilingüe puede dar a los agentes la ayuda que necesitan para brindar un soporte confiable en cualquier lugar donde atienden a sus clientes.</p>
+</div>
+
+            	        
+	        	        
+        ]]></content:encoded>
+    
+    <excerpt:encoded><![CDATA[Casi el 75 % de las personas hacen búsquedas en Internet en su propio idioma, lo cual significa que, si solo te estás comunicando en inglés, lo más probable es que estés perdiendo clientes]]></excerpt:encoded>
+    <wp:post_id>493895952</wp:post_id>
+    <wp:post_date><![CDATA[2019-01-17 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-01-17 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Casi el 75 % de las personas hacen búsquedas en Internet en su propio idioma, lo cual significa que, si solo te estás comunicando en inglés, lo más probable es que estés perdiendo clientes]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/680x360_Blog_globe.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/680x360_Blog_globe.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-video]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Daniella De Caprio]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-twitter]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-segment]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-order]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-tile]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-img]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading-color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading-size]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading-color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading-size]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-buttons]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-css]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-section]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-header]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-enable]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-enable-checkbox-fix]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-url]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-img]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-headline]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-subheadline]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-button-text]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-spacer1]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-main-page-disable]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-main-page-disable-checkbox-fix]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    
+  </item>
+  
+  <item>
+    <title>Usa las encuestas para innovar la experiencia del cliente</title>
+    <link>https://recursos.zendesk.com.mx/blog/usa-las-encuestas-para-innovar-la-experiencia-del-cliente/</link>
+    <pubDate>Mon, 14 Jan 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://recursos.zendesk.com.mx/blog/usa-las-encuestas-para-innovar-la-experiencia-del-cliente</guid>
+    <description>Aquí presentamos una breve explicación de cómo se pueden utilizar las encuestas para innovar la experiencia del usuario. Además, algunos consejos sobre qué hacer y qué no.</description>
+    
+    <content:encoded><![CDATA[
+            <p><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-493103681-0.png" style="width: 969px; height: 512px;"></p>
+
+<p>Imagínate que derramas un vaso lleno de agua encima de un cliente. Lo más seguro es que la expresión de su rostro te indique su reacción. Pero en la época de las transacciones digitales no solemos vernos cara a cara con nuestros clientes. Especialmente cuando un negocio está creciendo rápidamente y está añadiendo muchos clientes a la vez.</p>
+
+<p>Pero eso no quiere decir que los negocios no tengan que preocuparse por las experiencias de sus clientes. Existen muchas maneras de <a href="https://www.zendesk.com.mx/resources/customer-feedback-hear-voice-customer/" target="_blank">recoger los comentarios de los clientes</a>, incluso desde lejos. Una de las herramientas más comunes es la encuesta del cliente. NPS®, CSAT transaccional, CSAT global y las puntuaciones del esfuerzo del cliente son algunas de las encuestas que se pueden usar. Aquí presentamos una breve explicación de cómo funciona cada encuesta y cómo se pueden utilizar las encuestas para innovar la experiencia del usuario. Además, algunos consejos sobre qué hacer y qué no hacer para mantenerse en el camino correcto.</p>
+
+<p>NPS<br>
+Net Promoter Score℠ (NPS®) es una metodología estándar del sector que sirve para medir la disposición de los clientes para recomendar tu producto o servicio a los demás pidiéndoles que califiquen su deseo de recomendar tu negocio en una escala de 0 a 10.</p>
+
+<p><img alt="Zendesk NPS" src="https://d26a57ydsghvgx.cloudfront.net/content/blog/NPS%20gif.gif" style="border:0px;float:left;"></p>
+
+<p> </p>
+
+<p> </p>
+
+<p>Las calificaciones de los clientes se dividen en tres categorías. Los clientes con puntuaciones entre</p>
+
+<ul>
+	<li>0 y 6 se conocen como detractores. Las puntuaciones de esta categoría podrían indicar una insatisfacción con la compañía</li>
+	<li>7 y 8 se conocen como pasivos</li>
+	<li>9 y 10 se llaman promotores</li>
+</ul>
+
+<p>Después de la pregunta de calificación, a los clientes se les puede pedir que dejen un comentario o el motivo de su calificación. Para recoger la <a href="https://www.zendesk.com.mx/customer/allsaints/" target="_blank">información más valiosa de las encuestas NPS®</a> asegúrate de leer los comentarios de los clientes.</p>
+
+<p>Cómo puede esto ayudar a mejorar la experiencia de los clientes: al conocer qué piensan los clientes sobre tu producto, marca o la atención que recibieron, es posible comprender mejor la calidad de la relación con ellos.</p>
+
+<p>Lo que tienes que saber: con la encuesta NPS® es importante poner atención en los comentarios de los clientes. Es recomendable examinar los datos minuciosamente para saber qué hay detrás del hecho de que algunos clientes sean detractores. Por ejemplo, los clientes con puntuaciones entre 0 y 6 podrían estar descontentos con tu compañía o podría ser que simplemente no se sientan a gusto recomendando a ninguna compañía. Averigua cuáles son sus motivos de insatisfacción y busca cómo resolverlos.</p>
+
+<p>CSAT TRANSACCIONAL<br>
+Las encuestas de satisfacción de los clientes (CSAT) miden la satisfacción inmediata a raíz de una transacción. Las encuestas de CSAT son enviadas normalmente a los clientes después de una interacción concreta, por ejemplo, después de que un cliente ha contactado a un especialista de atención al cliente.</p>
+
+<p><img alt="CSAT en Zendesk" src="https://d26a57ydsghvgx.cloudfront.net/content/blog/screenshot%20-%20TCSAT.png" style="border:0px;float:left;"></p>
+
+<p>Cómo ayuda a mejorar la experiencia del cliente: las encuestas CSAT se pueden usar para medir la satisfacción del cliente en momentos precisos dentro de la experiencia del cliente. Los motivos de insatisfacción revelados en las encuestas de los clientes pueden servir de guía de innovación para los negocios.</p>
+
+<p><a href="https://www.zendesk.com.mx/customer/box/" target="_blank">Box</a>, una plataforma de administración de contenido y colaboración, es un buen ejemplo. Después de adoptar Zendesk Support, los agentes pudieron trabajar con más eficiencia a la hora de resolver los problemas que generaban insatisfacción entre los clientes, y dedicaron entre 20 y 30 segundos menos a cada ticket y elevaron la CSAT en un 7 por ciento.</p>
+
+<p>Lo que tienes que saber: la CSAT es una herramienta útil para identificar dónde se pueden mejorar interacciones específicas con los clientes. No es un indicador de la satisfacción a largo plazo de los clientes ni de su lealtad.</p>
+
+<p>La NPS® mide el potencial de un cliente para convertirse en un promotor y la CSAT mide su satisfacción a corto plazo, pero ninguna de ellas —por separado— ofrece un panorama completo de la experiencia del cliente.</p>
+
+<p>CSAT GLOBAL <br>
+Mientras que la CSAT transaccional mide un momento preciso de la experiencia del cliente, la encuesta de CSAT global busca identificar en qué grado el cliente se siente satisfecho con toda la compañía. También tiene otra diferencia: es una encuesta proactiva puesto que se contacta con los clientes antes de que ellos soliciten ayuda por un problema.</p>
+
+<p>Cómo esto ayuda a mejorar la experiencia de los clientes: una encuesta de CSAT global mide el bienestar de las relaciones con los clientes. Los datos que los clientes proporcionan pueden darte información valiosa sobre cómo mejorar la relación.</p>
+
+<p>Lo que necesitas saber: los clientes tienen que dedicar tiempo para rellenar las encuestas. Asegúrate de agradecerles por su tiempo y de darles algún incentivo para que continúen compartiendo sus opiniones. Asegúrate de mostrarles a los clientes cómo utilizarás sus comentarios para mejorar su experiencia.</p>
+
+<p>La NPS, CSAT y la CSAT global examinan distintos aspectos de la experiencia del cliente. Es cierto que una combinación de encuestas puede dar información más completa, pero es necesario tener una estrategia en relación a la cantidad y el tipo de encuestas que se pueden enviar a los clientes. Formula una estrategia interdepartamental que te permita llevar control de las encuestas que se envían a los clientes. Esto permite reducir la redundancia y hacer que los departamentos compartan más fácilmente las conclusiones de las encuestas con toda la compañía.</p>
+
+<p>Mantén el mismo mensaje y el mismo tono <a href="https://www.zendesk.com.mx/resources/are-customer-surveys-effective/" target="_blank" title="acorde con todas las encuestas enviadas por tu compañía">en todas las encuestas enviadas por tu compañía</a>. Que las envíe el departamento de TI o de Ventas, no importa. Lo que importa es que los clientes tengan una experiencia coherente que refleje la voz de la marca. Recuerda: las encuestas son simplemente otra forma de tener una conversación con los clientes sin estar cara a cara.</p>
+
+            	        
+	        	        
+        ]]></content:encoded>
+    
+    <excerpt:encoded><![CDATA[Aquí presentamos una breve explicación de cómo se pueden utilizar las encuestas para innovar la experiencia del usuario.]]></excerpt:encoded>
+    <wp:post_id>493103681</wp:post_id>
+    <wp:post_date><![CDATA[2019-01-14 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-01-14 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Aquí presentamos una breve explicación de cómo se pueden utilizar las encuestas para innovar la experiencia del usuario.]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-post-493103681.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-caption]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/migration/mx/mx-post-493103681.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[featured-video]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Daniella De Caprio]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-twitter]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[author-override-title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-segment]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-order]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-tile]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-img]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading-color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-heading-size]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading-color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-subheading-size]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-buttons]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-css]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:23:"home-sticky-button-type";s:10:"";s:23:"home-sticky-button-text";s:0:"";s:22:"home-sticky-button-url";s:0:"";]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[home-sticky-section]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-header]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-enable]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-enable-checkbox-fix]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-url]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-img]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-headline]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-subheadline]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-button-text]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-spacer1]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-main-page-disable]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-main-page-disable-checkbox-fix]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[blog-post-gated-section-spacer2]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    
+  </item>
+  
+</channel>
+</rss>
