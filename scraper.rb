@@ -232,7 +232,7 @@ module Scraper
             nicename: tag.attribute('href').value[Constants::TAG_SLUG_RANGES[item[Constants::KEYS[:type]]]]
           }
         end
-      end.flatten if item['item_tags'].nil?
+      end.flatten if item['item_tags'].empty?
     end # end if post.respond_to?(:css)
 
     item['pubDate'] = Util.timestamp_to_pubDate(item['item_published_at']) unless item['item_published_at'].nil?

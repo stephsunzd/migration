@@ -72,10 +72,10 @@ module Constants
 
   SMARTLING_CONTENT_REGEX = /<section id="stats-box" class="cta">.*?<\/section>/m
   SMARTLING_RESOURCE_BODY_REGEX = /<a id="infographic" >.*?<\/a>/m
-  #SMARTLING_WEBINAR_BIO_REGEX = /\A.*?<p class="bio">|<ul class="social">.*?\z/m
 
   SMARTLING_ITEM = {
     'item_published_at' => '2019-02-04 12:00:00',
+    'item_tags' => [],
     'post_status' => 'publish',
   }
 

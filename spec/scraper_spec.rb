@@ -31,6 +31,7 @@ RSpec.describe "Scraper" do
   TEST_ITEM_STUB = {
     Constants::KEYS[:id] => '201900001',
     'item_published_at' => '2019-02-04 12:00:00',
+    'item_tags' => [],
     Constants::KEYS[:url] => 'https://www.zendesk.com.mx/customer/dollar-shave-club',
     'post_status' => 'publish',
     Constants::KEYS[:type] => 'customer_lp',
@@ -40,6 +41,7 @@ RSpec.describe "Scraper" do
     nil_stub = {
       'item_id' => '',
       "item_published_at" => "2019-02-04 12:00:00",
+      'item_tags' => [],
       Constants::KEYS[:url] => "",
       Constants::KEYS[:type] => nil,
       'post_status' => 'publish',
