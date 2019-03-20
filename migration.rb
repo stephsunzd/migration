@@ -18,13 +18,14 @@ module Migration
         next
       end
 
-      item = { Constants::KEYS[:type] => 'post' }
+      item = {
+        Constants::KEYS[:type] => 'post',
+        'item_tags' => [],
+      }
 
       row.each_with_index do |value, index|
         case headers[index]
         when 'item_tags'
-          item['item_tags'] = []
-
           value.split(',').each do |tag_name|
             Constants::TAG_DOMAINS[item[Constants::KEYS[:type]]].each do |tag_domain|
               item['item_tags'] << {
