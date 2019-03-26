@@ -1,0 +1,1562 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- generator="WordPress/4.7.3" created="2019-01-08 21:22" -->
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Zendesk</title>
+	<link>https://www.zendesk.co.uk</link>
+	<description></description>
+	<pubDate>Tue, 08 Jan 2019 21:22:48 +0000</pubDate>
+	<language>en</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://www.zendesk.co.uk/</wp:base_site_url>
+	<wp:base_blog_url>https://www.zendesk.co.uk</wp:base_blog_url>
+
+	<wp:author>
+    <wp:author_id>2871</wp:author_id>
+    <wp:author_login><![CDATA[stsun]]></wp:author_login>
+    <wp:author_email><![CDATA[stsun@zendesk.com]]></wp:author_email>
+    <wp:author_display_name><![CDATA[Stephanie Sun]]></wp:author_display_name>
+    <wp:author_first_name><![CDATA[Stephanie]]></wp:author_first_name>
+    <wp:author_last_name><![CDATA[Sun]]></wp:author_last_name>
+  </wp:author>
+
+
+	<generator>https://wordpress.org/?v=4.7.3</generator>
+
+  
+  <item>
+    <title>Evernote</title>
+    <link>https://www.zendesk.co.uk/customer/evernote/</link>
+    <pubDate>Mon, 04 Feb 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://www.zendesk.co.uk/customer/evernote</guid>
+    <description>Learn why Evernote chose Zendesk Support and Chat to support their 200+ million customers, and were able to reduce ticket volume by 17% with Zendesk Guide</description>
+    
+    <content:encoded><![CDATA[
+
+<section>
+<p class="giant highlight center">Whether it’s a corporate creative team sharing their inspirations or a home cook attempting a new recipe, Evernote’s software has transformed the way that millions of people organise and share their great ideas.
+</p>
+<p>The company has seen incredible growth since its founding in 2008. Their freemium cross-platform application grew into paid plans in the consumer market before moving into the corporate space. Once Evernote Business launched, the company’s customer base swelled to the tune of 200 million users.</p>
+<p>Gerald Hastie is Evernote’s Director of Global Customer Experience. He’s in charge of overseeing the needs of their global customer base and manages a team of 60 support agents, in addition to a success team that handles major business accounts. When Hastie came on board, the team had already been using Zendesk Support for about two years, which had been selected as a replacement for Parature.</p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Evernote2.jpg"></section>
+<section>
+<p>Hastie found that Support is able to scale with Evernote’s growth, and although 90 per cent of their volume comes in via email and through a custom-built web form within their help centre, the team added Zendesk Chat to offer an additional contact channel for paid customers. “We like that we can offer multiple support channels within the same platform so that we have a unified view,” Hastie said. </p>
+<p>Offering great self-service is imperative for a team of Hastie’s size, supporting a user base as large as Evernote’s. “We love the help centre in Zendesk Guide because it’s easy to use. It’s easy for us to make changes to articles, and we get some great analytics out of it in terms of which articles are being used the most. It helps us to make adjustments and to see what’s helping our users.”</p>
+<p>Another key reason why Evernote loves Support is that it’s easy to integrate with other tools the team uses, helping to automate workflows and improve everyone’s experience. Tickets are auto-generated from phone calls with the <a href="https://www.zendesk.co.uk/apps/talkdesk-callbar-connector/" title="Talkdesk integration" target="_blank">Talkdesk integration</a>; a scheduling tool is currently being installed to ensure that callbacks are returned at the customer’s convenience. And thanks to the <a href="https://www.zendesk.co.uk/apps/salesforce/" title="Salesforce integration" target="_blank">Salesforce integration</a>, the sales team can also pitch in and send questions over to support. “Our inside sales team will run across an enquiry and realise, ‘Oh, this is really a support question.’ They can now click a button that automatically sends an email and creates a ticket in Zendesk,” Hastie said. Regardless of the tools used by support and other organisations at Evernote, a central record for each customer interaction lives in Zendesk Support, visible to the team.</p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Evernote6.jpg"></section>
+<section>
+<p>Hastie’s team handles 4,000 tickets per week from paid consumer and business customers through email and live chat. To ensure that the quality of Evernote’s customer service is consistently stellar, the team utilises service level agreements (SLAs) that include a 30-second first response time for live chats, which they’re able to meet at least 80 per cent of the time. The use of macros and triggers also helps to streamline the agent process for email support, leading to overall faster response times.</p>
+<p>Evernote’s help centre is key, however, both for helping to reduce ticket volume and to serving their freemium customers. To that end, Evernote’s help centre boasts a thriving community forum, and the team used the Zendesk API to design a search experience that digs deep into the content to surface relevant and related help articles. </p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Evernote5.png"></section>
+<section>
+<p>“We made our help centre more dynamic,” Hastie commented. “If there’s a technical support issue, then the form asks a relevant follow-up question, and then another. It usually dives about three questions deep and then returns a series of related articles or links to the forums. If this guided approach doesn’t answer the customer’s question, we promote the search feature or the customers can submit a ticket.” </p>
+<p>It’s an approach that works, as it ensures that customers have several chances and as much exposure to existing help resources as possible. The effort has also paid off nicely for Hastie’s team, as they’ve seen a 17 per cent reduction in their total ticket volume. </p>
+<p>What’s more, help content is offered in 30 languages to best accommodate a global audience, and the team offers email in 9 languages and live chat in 3 languages, thanks to support agents located round the globe. </p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Evernote3.jpg"></section>
+<section>
+<p>Email still accounts for 90 per cent of their volume, so Hastie and his team are working to increase the real-time engagement through live chat, and to continue fine-tuning their self-service. When he pores over the analytics in Support, he’s always on the lookout for improvements in productivity, customer satisfaction (CSAT), and service levels. And when the team has questions about Zendesk, they turn to their customer success executive for support. “The thing that I really like about our partnership with Zendesk is that we can get in front of a product manager whenever I have questions or issues,” Hastie said.</p>
+<p>Certainly, at least a few of us have taken note of Evernote’s great support. As Hastie’s team continues to make productivity gains through their workflows and integrations, Hastie can spend more time coaching. “I make sure my agents are able to empathise, listen, and effectively troubleshoot when they need to,” he said of his support philosophy. “It’s also important that they have a sound knowledge of the product. If they have those things, then it makes a great foundation for great customer service.”</p>
+</section>
+</div></div><section class="quote">
+
+<p class="giant">“Zendesk is very important and will play a key role in supporting our business customers, helping us to maintain a low churn rate and a high retention rate as we grow.”
+</p>
+<p class="author">– Gerald Hastie<span>Director of Global Customer Experience</span></p>
+
+</section>]]></content:encoded>
+    
+    <excerpt:encoded><![CDATA[Evernote saw a 17% reduction in ticket volume after configuring their help centre
+]]></excerpt:encoded>
+    <wp:post_id>201900061</wp:post_id>
+    <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-02-04 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="stories_tax" nicename="americas"><![CDATA[Americas]]></category>
+    
+    <category domain="stories_tax" nicename="asia-pacific"><![CDATA[Asia Pacific]]></category>
+    
+    <category domain="stories_tax" nicename="product-chat"><![CDATA[Chat]]></category>
+    
+    <category domain="stories_tax" nicename="europe"><![CDATA[Europe]]></category>
+    
+    <category domain="stories_tax" nicename="product-guide"><![CDATA[Guide]]></category>
+    
+    <category domain="stories_tax" nicename="internet-mobile"><![CDATA[Internet & Mobile]]></category>
+    
+    <category domain="stories_tax" nicename="software-technology"><![CDATA[Software & Technology]]></category>
+    
+    <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
+    
+    <category domain="stories_tax" nicename="product-talk"><![CDATA[Talk]]></category>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Evernote saw a 17% reduction in ticket volume after configuring their help centre
+]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Evernote4.jpg]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Learn why Evernote chose Zendesk Support and Chat to support their 200+ million customers, and were able to reduce ticket volume by 17% with Zendesk Guide]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+    
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Evernote saw a 17% reduction in ticket volume after configuring their help centre
+]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[customer-heading]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Evernote]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-main-bg-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Evernote4.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-video-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-main-logo-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Evernote-logo.svg.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stats]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{i:0;a:2:{s:19:"customer-stat-title";s:5:"Users";s:19:"customer-stat-value";s:11:"200 million";}i:1;a:2:{s:19:"customer-stat-title";s:16:"Tickets per week";s:19:"customer-stat-value";s:5:"4,000";}i:2;a:2:{s:19:"customer-stat-title";s:30:"Self-Service Ticket Deflection";s:19:"customer-stat-value";s:3:"17%";}i:3;a:2:{s:19:"customer-stat-title";s:17:"FRT for Live Chat";s:19:"customer-stat-value";s:12:" < 30 secs. ";}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stat-button-text]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stat-button-link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-highlight]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-highlight-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-featured-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-footer-quote]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-footer-quote-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[featured-section]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[tagline-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-author]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+    
+  </item>
+  
+  <item>
+    <title>Deliveroo</title>
+    <link>https://www.zendesk.co.uk/customer/deliveroo/</link>
+    <pubDate>Mon, 04 Feb 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://www.zendesk.co.uk/customer/deliveroo</guid>
+    <description>In this customer video, Deliveroo shares how Zendesk Support helps them provide great service to their bicycle riders so that riders can provide great service to hungry customers.</description>
+    
+    <content:encoded><![CDATA[
+
+<section>
+<p class="giant highlight center">Founded in 2012, Deliveroo helps top restaurants embrace takeout by providing a fleet of bicyclists who bring meals from the kitchen direct to hungry customers’ doorsteps. </p>
+<p>Deliveroo serves many people: their customers, the restaurants they work with, and their fleet of cyclists. Jude Kriwald, Operations Manager at Deliveroo, looks after one of these groups—the riders—to ensure that deliveries are smooth and problem-free. In order to achieve this, the riders need an easy way to contact the operations team should they have a problem on the road or be running a few minutes behind schedule. </p>
+<p>Kriwald was introduced to Zendesk Support by a colleague and tested the tool with a free trial. Soon after, Deliveroo implemented Support across their customer, rider and restaurant support teams. Kriwald said that, while his team was hesitant about the change at first, they quickly realised that the tool was quite powerful. “Once they realised it was going to to save them time answering emails, they were very happy,” said Kriwald.</p>
+<p>In addition to making the Operations Team more efficient with their email load, Support also offers insights that help Kriwald and his colleagues allocate workloads across the staff. “Seeing why riders were emailing, and how often they were emailing about different issues, allowed me to forecast how many staff we would need in our office each month for the rest of the year,” said Kriwald. “That was great.” </p>
+</section>
+</div></div><section class="quote">
+
+<p class="giant">“I could list hundreds of things that we’ve done with Zendesk which we could not have done without such a powerful tool.”</p>
+<p class="author">– Jude Kriwald<span> Operations Manager at Deliveroo</span></p>
+
+</section>]]></content:encoded>
+    
+    <excerpt:encoded><![CDATA[Deliveroo uses Zendesk Support to serve three distinct customer groups]]></excerpt:encoded>
+    <wp:post_id>201900062</wp:post_id>
+    <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-02-04 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="stories_tax" nicename="europe"><![CDATA[Europe]]></category>
+    
+    <category domain="stories_tax" nicename="internet-mobile"><![CDATA[Internet & Mobile]]></category>
+    
+    <category domain="stories_tax" nicename="retail"><![CDATA[Retail & eCommerce]]></category>
+    
+    <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Deliveroo uses Zendesk Support to serve three distinct customer groups]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/customers/Deliveroo/Deliveroo_header.jpg]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[In this customer video, Deliveroo shares how Zendesk Support helps them provide great service to their bicycle riders so that riders can provide great service to hungry customers.]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+    
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Deliveroo uses Zendesk Support to serve three distinct customer groups]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[customer-heading]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Deliveroo]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-main-bg-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/customers/Deliveroo/Deliveroo_header.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-video-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-main-logo-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/customers/Deliveroo/deliveroo-logo.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stats]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{i:0;a:2:{s:19:"customer-stat-title";s:19:"Teams using Zendesk";s:19:"customer-stat-value";s:1:"3";}i:1;a:2:{s:19:"customer-stat-title";s:14:"Customer since";s:19:"customer-stat-value";s:4:"2015";}i:2;a:2:{s:19:"customer-stat-title";s:15:"Emails per week";s:19:"customer-stat-value";s:5:"2,000";}i:3;a:2:{s:19:"customer-stat-title";s:19:"Towns/cities served";s:19:"customer-stat-value";s:2:"84";}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stat-button-text]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stat-button-link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-highlight]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-highlight-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-featured-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-footer-quote]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-footer-quote-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[featured-section]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[tagline-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-author]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+    
+  </item>
+  
+  <item>
+    <title>Uber</title>
+    <link>https://www.zendesk.co.uk/customer/uber/</link>
+    <pubDate>Mon, 04 Feb 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://www.zendesk.co.uk/customer/uber</guid>
+    <description>Learn why Uber chose Zendesk Support as its customer service software. With Zendesk Chat, Uber handles 30K+ contacts per week for an avg. CSAT of 95%.</description>
+    
+    <content:encoded><![CDATA[
+
+<section>
+<p class="giant highlight center">Very few companies have seen the kind of success that turns their name into a verb. There’s Google, of course, and there’s Uber.
+</p>
+<p>Since its founding in 2009, Uber has managed to transform transport and offer all of us safe, affordable rides at the push of a button. Uber now operates in more than 450 cities and 76 countries, connecting people with other people, utilising a locale’s resources—good drivers, car owners—to serve a community’s transport needs.</p>
+<p>Behind the wheel, so to speak, is a complex support ecosystem that keeps the rider and driver experience running smoothly as the company grows. Uber has expanded rapidly around the world to more than 450 cities, and launched additional products, including UberEATS, UberRUSH, and Uber for Business. Uber’s operations are complex and highly customer facing, which has required constant flexibility to adjust to customer needs.</p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/uber2.jpg"></section>
+<section>
+<p>To serve riders and driver-partners, Uber chose Zendesk Support from the very beginning, at a time when customer service was handled by each individual city team. As an agile, cloud-based tool, Zendesk Support was easy to deploy for teams as new cities launched.</p>
+<p>“Uber’s journey with Zendesk began as we signed up off-the-shelf back in 2010—it scaled with us through millions of trips and support contacts per week,” said Michael York, Product Manager for Uber’s Customer Obsession team, which handles all externally-facing support for riders, drivers, and now, eaters.</p>
+<p>In fact, years ago, both York and his colleague Michael Mizrahi, of the Community Operations team, worked in Zendesk Support as agents—York from Los Angeles and Mizrahi from New York. They experienced first hand the ease with which new agents and cities could get up to speed, and how the tool was able to keep pace with the company’s exponential growth. </p>
+<p>With growth comes change. Over the course of two to three years, Uber’s support team grew from a couple of dozen city team members handling support to more than 1,000 dedicated agents, and the time came for the company to centralise customer service into a single, global, multilingual, multi-tiered, multi-channel organisation.</p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/uber6.jpg"></section>
+<section>
+<p>While most of Uber’s support volume comes through the Uber app today, the company began to experiment with other support channels over the years. Ashley Bradford, Global Chat Support Programme Manager at Uber, was on the Boston team in 2014 when they selected Zendesk Chat and began running pilots, supporting about 100 interactions during the first week. </p>
+<p>Bradford now oversees Uber’s expanding use of live chat for new driver on-boarding and UberEATS. Chat support agents number in the thousands and handle more than 30,000 chats per week in the USA alone. They left the 10 million chat milestone in the dust some time ago!</p>
+<p>“Chat is great for on-boarding new drivers, empowering agents to answer many questions in one interaction,” Bradford said. “It’s really fast.”</p>
+<p>As part of on-boarding, new drivers are prompted to upload a series of documents and create their driver profile, so Uber surfaces the Zendesk Chat widget to allow drivers to ask questions as they go. This is offered in addition to the hundreds of physical locations where drivers can drop in for in-person support.</p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/uber8.jpg"></section>
+<section>
+<p>“UberEATS is also an interesting use case for chat,” Bradford went on, “because we’re connecting three parties—‘eaters’ with restaurants, and then couriers handling the delivery. We use live chat primarily with eaters to ensure their experience is seamless.” </p>
+<p>What feels like a seamless experience to the eater is, from the agent side, a complex case often requiring back-and-forth communication with the restaurant. Similarly, couriers might chat back and forth with an agent to clarify an eater’s location. That’s why Zendesk Chat’s real-time dashboard is particularly valuable. “As agents handle more difficult interactions,” Bradford explained, “managers can look at the monitoring history and make decisions based on volume and CSAT. That real-time insight is useful. It’s also mesmerising to watch chats come in and be served to agents.”</p>
+<p>As one might expect, Bradford’s standards for chat support are very high. Her teams strive to maintain a CSAT above 95 per cent, 100 per cent of the time. “It’s fascinating because teams around the world are particularly interested in experimenting, and live chat is always something they gravitate towards,” she said. “You can set up Zendesk Chat quickly and use it to test the user experience. All you really need is a strong Internet connection.” In France, for example, a team has been using chat proactively to reach out to users who linger on certain web pages. In other cases, teams have chosen to offer live chat on a help centre, or to offer chat post-sign-in, so that the option to chat appears at a particular point in a web flow.</p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/uber7.jpg"></section>
+<section>
+<p>“I’ve been lucky to find partners within our Ops organisation who can own and drive chat in their regions,” Bradford added. “I give guidance on how Zendesk Chat works and tailor their instance based on regional needs. The rest of the oversight really comes from the tool itself. Chat makes it easy to have a highly-curated experience on a small scale, but in larger instances, features like automated routing and customised roles and permissions help us to mitigate risk and scale in a more strategic way. We can give access to parts of Chat to ensure that the agent experience is seamless and not distracted by features outside the necessary workflow.” </p>
+<p>To make the most of the various ways Uber has used Support and Chat over time, including tracking requests for internal teams, or being a go-to tool when they need the agility to quickly launch a new market, Uber partners with the Zendesk Customer Success team. </p>
+<p>“Our relationship with Zendesk has been great,” Bradford said. “I’ve met product managers from across Zendesk Chat—some from the US, some from Singapore—to talk about what an enterprise-level chat solution should look like for us. Those conversations have been so valuable because we’ve been able to discuss where we think we can unlock growth. Together, we’ve shaped some features that are core to our operations.”</p>
+</section>
+</div></div><section class="quote">
+
+<p class="giant">“Zendesk’s ability to grow with Uber as we launched cities, scaled products, and built our support organisation has been key to our customer service success story.”
+</p>
+<p class="author">– Michael Mizrahi<span>Community Operations</span></p>
+
+</section>]]></content:encoded>
+    
+    <excerpt:encoded><![CDATA[Uber chose Zendesk Support to scale its customer service]]></excerpt:encoded>
+    <wp:post_id>201900063</wp:post_id>
+    <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-02-04 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="stories_tax" nicename="americas"><![CDATA[Americas]]></category>
+    
+    <category domain="stories_tax" nicename="asia-pacific"><![CDATA[Asia Pacific]]></category>
+    
+    <category domain="stories_tax" nicename="product-chat"><![CDATA[Chat]]></category>
+    
+    <category domain="stories_tax" nicename="europe"><![CDATA[Europe]]></category>
+    
+    <category domain="stories_tax" nicename="internet-mobile"><![CDATA[Internet & Mobile]]></category>
+    
+    <category domain="stories_tax" nicename="software-technology"><![CDATA[Software & Technology]]></category>
+    
+    <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
+    
+    <category domain="stories_tax" nicename="travel-hospitality"><![CDATA[Travel & Hospitality]]></category>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Uber chose Zendesk Support to scale its customer service]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/uber5.jpg]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Learn why Uber chose Zendesk Support as its customer service software. With Zendesk Chat, Uber handles 30K+ contacts per week for an avg. CSAT of 95%.]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+    
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Uber chose Zendesk Support to scale its customer service]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[customer-heading]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Uber]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-main-bg-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/uber5.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-video-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-main-logo-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Uber_logo.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stats]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{i:0;a:2:{s:19:"customer-stat-title";s:12:"Chat FRT SLA";s:19:"customer-stat-value";s:2:"
+";}i:1;a:2:{s:19:"customer-stat-title";s:35:"New Driver Chat Volume/Week (USA)";s:19:"customer-stat-value";s:3:"30K";}i:2;a:2:{s:19:"customer-stat-title";s:9:"Chat CSAT";s:19:"customer-stat-value";s:3:"95%";}i:3;a:2:{s:19:"customer-stat-title";s:19:"Languages supported";s:19:"customer-stat-value";s:3:"10+";}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stat-button-text]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stat-button-link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-highlight]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-highlight-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-featured-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-footer-quote]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-footer-quote-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[featured-section]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[tagline-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-author]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+    
+  </item>
+  
+  <item>
+    <title>Shopify</title>
+    <link>https://www.zendesk.co.uk/customer/shopify/</link>
+    <pubDate>Mon, 04 Feb 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://www.zendesk.co.uk/customer/shopify</guid>
+    <description>Learn how Shopify can now focus on a single workspace to support customers with Zendesk's customer service products.</description>
+    
+    <content:encoded><![CDATA[
+
+<section>
+<p class="giant highlight center">In autumn 2012, Shopify was poised for the kind of hold-onto-your-seat hypergrowth that most start-ups dream of. </p>
+<p>At the time, the Canada-based software company had just been named by <em>Fast Company</em> as one of the ten most innovative retail companies and was onboarding new retailers onto their cloud-based e-commerce platform at a nice clip.</p>
+<p>In fact, over the next four years, Shopify grew fast—from 20,000 retailers to more than 300,000. The company rapidly scaled to keep up with its customer base and has been exceeding expectations ever since. Shopify has remained at the industry’s forefront by offering timely integrations with payment providers like Apple Pay and with emerging messaging platforms like Facebook Messenger, and by partnering with Amazon. Yet during that first flood of new business, Shopify quickly realised its teams were struggling to onboard and support new retailers—in large part because the tools in place were not equipped for the deluge of new requests.</p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Shopify%20Ottawa%20Pod%202.jpg"></section>
+<section>
+<p>“The tool we had was really slowing us down,” admitted Chris Wilson, Director of Technical Support. “Reporting was tough for us, and the tool impeded our ability to interact with retailers.”</p>
+<p>At the time, Shopify’s customer support team were using Assistly, which became Desk.com, and latency issues forced agents to open 5 to 6 tickets at a time to help mitigate slow loading times. Thus began the hunt for a new solution. After hearing good things about Zendesk, the team decided to take a closer look. </p>
+<p>“We fell in love with Zendesk from the start,” Wilson said. “The product was great, but the support that came with it was tremendous as well. Everyone we interacted with was invested in our success.”</p>
+<section class="inline-vid" style="margin-top:0; background-image: url(https://d26a57ydsghvgx.cloudfront.net/content/customers/Shopify_Chris.png)">
+<div class="video SL_swap" id="shopify_video_2">
+<div class="video-play">
+<a href="https://fast.wistia.com/embed/iframe/lxodx2yufq?autoPlay=true" class="wistia-popover[height=568,playerColor=7b796a,width=960]" id="intro-video">▶</a>
+</div>
+</div>
+<h2>Chris Wilson</h2>
+<h3>Director of Technical Support</h3>
+</section>
+<p>Located outside Silicon Valley, support leaders at Shopify were sometimes at a loss to know how other, like-minded companies handled periods of extreme growth, or how they might optimise their processes and tools.</p>
+<p>“Zendesk was super-helpful about giving us ideas, and then also connecting us with other companies that had gone through similar challenges,” Wilson said.</p>
+<p>“We definitely see Zendesk as more than a piece of software,” added Roy Sunstrum, VP of Customer Support. “I’ve never seen, in my course of business, the amount of focus on relationships—and not just on relationships that have a selling tone, but really on customers as a community.”</p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Shopify%20Ottawa%20Boardroom.jpg"></section>
+<section>
+<p>Expecting to spend a month rolling out Zendesk, support leaders flipped the ‘on’ switch and were pleasantly surprised. Within a single day, agents were up to speed. The team found Zendesk Support to be flexible and easy to use—and, importantly, fast. Loading times were no longer an issue and support leadership was now equipped with near real-time data. </p>
+<p>Over the longer term, this was one of—or perhaps the first of—many transformations at Shopify. Shortly after the team implemented Zendesk Support, leaders realised how frequently retailers asked sales and support questions during the same interaction. As a result, the inside sales team moved into more of a sales coaching role, helping to identify optimum opportunities for cross-selling and upselling, and support team was enabled to handle both sales and support inquiries. The end result benefited everyone, as retailers no longer had to be transferred to another person or moved to another channel of support depending on their question. It also shed new light on the role the support team could play for the business.</p>
+</section>
+<section class="cta">
+<p class="giant left" data-bottom-top="margin-left:-10%;opacity:0;" data-center-top="margin-left:0;opacity:1;">Shopify’s ecommerce gurus could focus on a single workspace to support customers after integrating other applications with Zendesk.</p>
+<p><a class="text-link" href="https://www.zendesk.co.uk/apps/">Browse the apps marketplace</a></p></section>
+<section>
+<p>“There was a time at Shopify when I think the leaders of the company really saw support as required because of failure of product—that a perfect product would mean there was no need for support,” Sunstrum said. “And I think everybody’s got past that and said it’s really the human experience coupled with a wonderful product experience that’s going to drive our retailer count up, and what’s going to have them stay and spend more with us.”</p>
+<p>Zendesk’s extensive apps marketplace and flexible API were also key in helping Shopify to scale its support. For example, Shopify uses the Twilio API to extend Zendesk Support into a customised call centre, providing full visibility across voice and email tickets, which has enabled the team to focus on providing an ever-more effortless retailer experience.</p>
+<p>Integrations with Salesforce and Gainsight also help Sunstrum’s team gain efficiencies by helping to prevent churn and surface more CRM data to agents as they upsell and cross-sell. Shopify also uses SurveyMonkey Create to collect Voice of the Customer data, as well as several other Zendesk-built apps including Time Tracking, Ticket Redaction, and Five Most Recent.</p>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Shopify%20Ottawa%20Reception.jpg"></section>
+<section>
+<p>“We can really wrap Zendesk Support round our business instead of changing our business to wrap round Support,” Wilson said. “Support is the hub, the central tool we connect everything to. And as we grow and scale, there’s a push to continue to centralise and to ensure that when agents log into Support, everything is there.”</p>
+<p>In 2013, Shopify had only 30-40 people working in Zendesk Support, but by mid-2016, over 600 support agents and Shopify employees were using the tool to support retailers, and as the central point of truth for customer information. In fact, Support is so flexible and easy to use that the tool has been adopted by other internal departments as well, including Shopify’s HR and IT teams.</p>
+<p>“We’ve never run into a scenario where Support hasn’t been able to scale with us,” Wilson said. “Support is a reliable, dependable tool for speed and performance, and we can build on it and tailor it to be what we need.”</p>
+<p>There are many ways that the team at Shopify can quantify their successes although, in Wilson and Sunstrum’s words, the company determines its success by the success of its retailers. Just a quick visit to the Shopify homepage provides a quick view into that—while you read the copy on the page, the dollar amount of product that retailers have sold using Shopify ticks up. </p>
+<p>But there’s more to success than sales. The support team at Shopify is driven by customer satisfaction—and on avoiding what they call “the trap of efficiency”. </p>
+<p>“We’re preoccupied with CSAT, which we call ‘smileys,’ and we want to make sure we’re doing the right thing with customers and with agents,” Wilson said. “We want to make sure retailers feel helped and supported, and that we aren’t chasing costs to the detriment of the retailer experience.”</p>
+</section>
+</section></div></div><section class="quote">
+
+<p class="giant">“Zendesk’s products are great, the company is fantastic; but it’s really the relationship between Shopify and Zendesk, and between Shopify and other Zendesk users, that has been tremendously valuable.”</p>
+<p class="author">– Chris Wilson<span> Director of Technical Support at Shopify</span></p>
+
+</section>]]></content:encoded>
+    
+    <excerpt:encoded><![CDATA[Zendesk Support: Shopify's one-stop shop for helping customers]]></excerpt:encoded>
+    <wp:post_id>201900064</wp:post_id>
+    <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-02-04 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="stories_tax" nicename="americas"><![CDATA[Americas]]></category>
+    
+    <category domain="stories_tax" nicename="asia-pacific"><![CDATA[Asia Pacific]]></category>
+    
+    <category domain="stories_tax" nicename="europe"><![CDATA[Europe]]></category>
+    
+    <category domain="stories_tax" nicename="internet-mobile"><![CDATA[Internet & Mobile]]></category>
+    
+    <category domain="stories_tax" nicename="retail"><![CDATA[Retail & eCommerce]]></category>
+    
+    <category domain="stories_tax" nicename="software-technology"><![CDATA[Software & Technology]]></category>
+    
+    <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Zendesk Support: Shopify's one-stop shop for helping customers]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Shopify%20Ottawa%20Mothership%20Mural.jpg]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Learn how Shopify can now focus on a single workspace to support customers with Zendesk's customer service products.]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+    
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Zendesk Support: Shopify's one-stop shop for helping customers]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[customer-heading]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Shopify]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-main-bg-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Shopify%20Ottawa%20Mothership%20Mural.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-video-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-main-logo-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/product/images/customers/shopify_logo.svg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stats]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{i:0;a:2:{s:19:"customer-stat-title";s:9:"Avg. CSAT";s:19:"customer-stat-value";s:3:"92%";}i:1;a:2:{s:19:"customer-stat-title";s:21:"Monthly conversations";s:19:"customer-stat-value";s:4:"170K";}i:2;a:2:{s:19:"customer-stat-title";s:22:"Total sales on Shopify";s:19:"customer-stat-value";s:5:"$20B+";}i:3;a:2:{s:19:"customer-stat-title";s:9:"Retailers";s:19:"customer-stat-value";s:5:"300K+";}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stat-button-text]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stat-button-link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-highlight]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-highlight-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-featured-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-footer-quote]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-footer-quote-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[featured-section]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[tagline-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-author]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+    
+  </item>
+  
+  <item>
+    <title>O2 Arena</title>
+    <link>https://www.zendesk.co.uk/customer/o2-arena/</link>
+    <pubDate>Mon, 04 Feb 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://www.zendesk.co.uk/customer/o2-arena</guid>
+    <description>Watch this video to learn how The O2 Arena customer service team uses the Zendesk family of products to provide a consistent experience across the customer journey.</description>
+    
+    <content:encoded><![CDATA[
+
+<section>
+<p class="giant highlight center">The O2, located on the Greenwich peninsula in London, has hosted the world’s top musicians, comedians and sports teams. At The O2, customers are immersed in a “fan experience” from the moment they purchase their tickets at the box office until long after the encore.</p>
+<p>“We’re in the business of connecting people together, bringing everybody together for one vision in a concert,” said Adam Wilson, Head of Customer Relations at The O2. “I want to try to mirror that in our customer relations team and box office team, and how we interact with people in those fan experiences.” </p>
+<p>To create consistency across the customer journey, The O2 started using the Zendesk family of products—first Zendesk Support, then Zendesk Chat and Zendesk Guide. Wilson revealed that, by using multiple Zendesk products, “people can choose how they want to interact with The O2, rather than us prescribing how it is and how that works.” </p>
+<p>When it comes to Chat, in particular, Wilson said that, “The team loves it. They’ve grown up with Skype and WhatsApp, so the interface is very familiar to the agents, which is great.” When interacting with customers over Chat, the O2 team is able to quickly understand who they are talking to so they can be more empathetic. “The way somebody talks to you over Chat, you get an interaction between the two people. You get a feel for who they are, and so you know how to talk to them.” </p>
+</section>
+</div></div><section class="quote">
+
+<p class="giant">“It’s very easy for me to recommend Zendesk to the rest of the business unit because I enjoy using it and the agents on the ground enjoy using it. It can do a whole host of things, probably ten times as much as I need it to do.”</p>
+<p class="author">– Adam Wilson<span> Head of Customer Relations at The O2</span></p>
+
+</section>]]></content:encoded>
+    
+    <excerpt:encoded><![CDATA[The O2 Arena uses Zendesk Support, Chat and Guide to help tens of thousands of concert-goers]]></excerpt:encoded>
+    <wp:post_id>201900065</wp:post_id>
+    <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-02-04 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="stories_tax" nicename="product-chat"><![CDATA[Chat]]></category>
+    
+    <category domain="stories_tax" nicename="europe"><![CDATA[Europe]]></category>
+    
+    <category domain="stories_tax" nicename="product-guide"><![CDATA[Guide]]></category>
+    
+    <category domain="stories_tax" nicename="media-entertainment"><![CDATA[Media & Entertainment]]></category>
+    
+    <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[The O2 Arena uses Zendesk Support, Chat and Guide to help tens of thousands of concert-goers]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/O2%20HEADER.jpg]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Watch this video to learn how The O2 Arena customer service team uses the Zendesk family of products to provide a consistent experience across the customer journey.]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+    
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
+			<wp:meta_value><![CDATA[The O2 Arena uses Zendesk Support, Chat and Guide to help tens of thousands of concert-goers]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[customer-heading]]></wp:meta_key>
+			<wp:meta_value><![CDATA[O2 Arena]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-main-bg-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/O2%20HEADER.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-video-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-main-logo-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/The_O2_Colour_Positive_RGB%20%281%29.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stats]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{i:0;a:2:{s:19:"customer-stat-title";s:9:"Chat CSAT";s:19:"customer-stat-value";s:3:"95%";}i:1;a:2:{s:19:"customer-stat-title";s:21:"Zendesk Products Used";s:19:"customer-stat-value";s:1:"3";}i:2;a:2:{s:19:"customer-stat-title";s:14:"Arena Capacity";s:19:"customer-stat-value";s:6:"20,000";}i:3;a:2:{s:19:"customer-stat-title";s:9:"Opened in";s:19:"customer-stat-value";s:4:"2007";}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stat-button-text]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stat-button-link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-highlight]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-highlight-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-featured-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-footer-quote]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-footer-quote-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[featured-section]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[tagline-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-author]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+    
+  </item>
+  
+  <item>
+    <title>MADE.COM</title>
+    <link>https://www.zendesk.co.uk/customer/made/</link>
+    <pubDate>Mon, 04 Feb 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://www.zendesk.co.uk/customer/made</guid>
+    <description>Learn how MADE.COM offers multichannel support across 4 countries through Zendesk Support, delivering on their designer-to-customer promise.</description>
+    
+    <content:encoded><![CDATA[
+
+<section>
+<p class="giant highlight center"><a href="https://www.made.com/" target="_blank">MADE.COM</a> is an online retailer with the mission to make original designer furniture accessible to everyone.</p>
+<p>They do this by cutting out the middlemen – the importers, wholesalers, and high street stores who generally drive up the price. The company is “doing it differently” by working with a cadre of in-house, established, up-and-coming designers, batching orders, and delivering directly from the makers to consumers. As a result, the company also has to think differently about customer support.</p>
+<p>Dee Kumar, Head of Customer Services for the United Kingdom, manages the team of 40 agents who handle contacts by phone, email, web form and Chat.</p>
+<p>While it’s easy enough to answer questions about fabric swatches or visiting the company’s showrooms, tracking down carriers and helping customers with unexpected needs across the UK, Ireland, France, Italy, the Netherlands, and soon, Germany, requires both finesse and patience. Consider the case of new homeowners Sonya and Elliott, who ordered the Flynn 3 Seater sofa in Persian Grey. Sonya’s excitement about the piece quickly became despair once the sofa arrived. Only then was it clear she’d taken the wrong measurements, and her made-to-order sofa was too large for her space. </p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/images/customers/made_team.jpg">
+<aside>The MADE.COM Team</aside>
+</section>
+<section>
+<p>Human error is an inescapable facet of life. As are hiccups with forces beyond our control, such as the schedules and routes of delivery carriers in foreign countries. That's why MADE.COM’s agents handle fewer contacts than the average contact centre, but the number is fitting for their business model as a “service-based, service company”. The numbers that matter to the team relate back to the customer’s satisfaction with MADE.COM’s products and service, and to improving the business as a whole.</p>
+<p>It’s a mature perspective for a company so young. At four years old, MADE.COM has undergone a near constant growth spurt. At their founding, they received customer queries into a shared inbox, but quickly realised that wasn’t going to scale. During their first year, co-founder and COO, Julian Callede, chose Zendesk Support as MADE’s customer service software, but things were moving at such a swift clip that they just forwarded emails into Zendesk Support and kept going. Now that they’ve expanded so broadly, however, they’ve gone back to optimise Support and their workflows, and to review what more they can do with the data they’ve collected.</p>
+<p>“Zendesk Support represents an excellent way to engage with customers, and to provide reporting off the back of that,” Dee said. “Made is obsessed with understanding what our customers’ issues are, and then improving the customer experience. Customer service is always your eyes and ears, in any company.”</p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/images/customers/made_office.jpg"></section>
+<section>
+<p>Although they are less concerned with every metric that can be measured, they’ve steadily implemented automations and triggers to streamline processes and to remove extra clicks in the agent process. The team can automatically check in with customers to see if their reply has resolved their question, and tickets that are not answered within 24 hours, often over a weekend, are now automatically returned to the main queue for handling by another agent.</p>
+<p>These changes add up to important but small gains. Two ways they’ve been able to make rapid improvements to the customer experience are through their new help centre, and by sharing Support tickets with their Shanghai office using the “Light Agent” feature in the Enterprise plan. Until recently, the company had static, non-searchable FAQs, which were not localised for each country. That changed when they built <a href="https://www.made.com/contact-us/" target="_blank">a dynamic help centre</a>. </p>
+<p>“We want to provide answers to questions before a customer needs to ask,” Dee said.<br>
+</p></section>
+<section class="cta">
+<p class="giant left" data-bottom-top="margin-left:-10%;opacity:0;" data-center-top="margin-left:0;opacity:1;">“Guide helped us identify the questions we get asked most often. That in itself was invaluable.”</p>
+<p><a class="button" href="https://www.zendesk.co.uk/self-service/" target="_blank">Learn more about Guide</a></p></section>
+<section>
+<p>
+Whereas before, each agent might have noticed that they received the same question 10 or 20 times, the team can now see exactly how many customers search for a particular answer in a given period of time. They learned, for example, that one of their most searched-for questions was whether dining chairs have to be purchased as a pair.
+</p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/images/customers/made_star.jpg"></section>
+<section>
+<p>The team has also used custom ticket fields to categorise every ticket so that they can create detailed, micro-level reports for other departments to review. As a result, they have learned which carriers are most reliable, or where product descriptions lack clarity or detail. Also, by categorising issues like faults in materials and sharing access to that information with the Product Quality Team, the company is able to maintain the high level of product quality that customers have come to expect.</p></section>
+<section class="cta">
+<p class="giant left" data-bottom-top="margin-left:-10%;opacity:0;" data-center-top="margin-left:0;opacity:1;">With Light Agents on the Enterprise plan, the global teams at MADE.COM could collaborate and share information faster.</p>
+<p><a class="button" href="https://www.zendesk.co.uk/enterprise/" target="_blank">Learn More About Support Enterprise</a></p></section>
+<section>
+<p>“Thousands of miles away, at any time, our Shanghai office can check in on the details of a ticket or fault report and provide information back to suppliers, straight away,” Dee said. “The Shanghai office was almost like proof of concept for the Light Agent functionality. It has increased visibility and impacted the business because these product quality inspectors can gain access to information faster than ever before.”</p>
+</section>
+</div></div><section class="quote">
+
+<p class="giant">“Zendesk Support allows us to listen to the customer, and then begin to change the company as a whole.”</p>
+<p class="author">– Dee Kumar<span> Head of Customer Services (UK)</span></p>
+
+</section>]]></content:encoded>
+    
+    <excerpt:encoded><![CDATA[MADE.COM offers multichannel support through Zendesk Support]]></excerpt:encoded>
+    <wp:post_id>201900066</wp:post_id>
+    <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-02-04 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="stories_tax" nicename="product-chat"><![CDATA[Chat]]></category>
+    
+    <category domain="stories_tax" nicename="europe"><![CDATA[Europe]]></category>
+    
+    <category domain="stories_tax" nicename="product-guide"><![CDATA[Guide]]></category>
+    
+    <category domain="stories_tax" nicename="retail"><![CDATA[Retail & eCommerce]]></category>
+    
+    <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[MADE.COM offers multichannel support through Zendesk Support]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/product/images/customers/made_header_selection.jpg]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Learn how MADE.COM offers multichannel support across 4 countries through Zendesk Support, delivering on their designer-to-customer promise.]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+    
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
+			<wp:meta_value><![CDATA[MADE.COM offers multichannel support through Zendesk Support]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[customer-heading]]></wp:meta_key>
+			<wp:meta_value><![CDATA[MADE.COM]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-main-bg-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/product/images/customers/made_header_selection.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-video-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-main-logo-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/product/images/customers/made_logo.svg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stats]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{i:0;a:2:{s:19:"customer-stat-title";s:8:"Industry";s:19:"customer-stat-value";s:6:"Retail";}i:1;a:2:{s:19:"customer-stat-title";s:9:"Employees";s:19:"customer-stat-value";s:3:"150";}i:2;a:2:{s:19:"customer-stat-title";s:16:"Countries Served";s:19:"customer-stat-value";s:1:"4";}i:3;a:2:{s:19:"customer-stat-title";s:17:"Favourite Feature";s:19:"customer-stat-value";s:12:"Light Agents";}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stat-button-text]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stat-button-link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-highlight]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-highlight-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-featured-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-footer-quote]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-footer-quote-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[featured-section]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[tagline-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-author]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+    
+  </item>
+  
+  <item>
+    <title>Airbnb</title>
+    <link>https://www.zendesk.co.uk/customer/airbnb/</link>
+    <pubDate>Mon, 04 Feb 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://www.zendesk.co.uk/customer/airbnb</guid>
+    <description>Learn how Airbnb scaled with Zendesk—and how thousands of agents now serve millions of global customers through a customised interface.</description>
+    
+    <content:encoded><![CDATA[
+
+<section>
+<p class="giant highlight center">
+Halfway round the globe there's a place to stay with your name on it. At least for a weekend.
+</p>
+<p>Your hosts might surprise you with fresh flowers, or point you to their favourite local breakfast spot. Or perhaps the unit is blissfully empty and you sit for a minute in a sun-drenched living room with a mug of steaming coffee and think, “This is what it would be like to live here”—in Copenhagen, Miami, Alozaina, London, Tokyo, or in any one of the 65,000 cities in 191 countries where Airbnb has a presence.</p>
+<p>In the 10 years since its founding, Airbnb has managed to redefine what’s possible at home and abroad by creating a new economy for the thousands of people who have opened and shared their homes, and by giving travellers new ways to travel. Inherent in Airbnb’s mission is the belief that everyone belongs, everywhere you go.</p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/airbnb3.jpg"></section>
+<section>
+<p>It was by renting out a room in their own San Francisco apartment back in 2008 that Airbnb’s founders, then roommates, first developed this new, concierge-free ethos of inclusion and hospitality—one that has paid forward in a big way ever since. By 2012, Airbnb was booking three million guests a year, easily surpassing established hotel chains. In 2017, the company is on track to accommodate more than 100 million guests globally and, according to Morgan Stanley Research, 25 per cent of leisure travellers are expected to book a stay on Airbnb.</p>
+<p>Airbnb’s business model poses an interesting challenge—the thousands of customer service agents, operating out of 20 physical locations round the world, serve both hosts and guests. That Global Customer Experience team aims to ensure a positive customer experience that begins on Airbnb’s platform and extends for the duration of a stay. </p>
+<p>To that end, it’s key that the team provides help through a real-time, live channel of support—the phone—but also be available via email, social media, and through emerging SMS and messaging channels. Phone calls account for about 60 per cent of Airbnb’s millions of annual tickets, and the vast majority are answered in minutes during peak periods, and often in less than a minute. The remaining 40 per cent of these coming in via email are generally answered within 24 hours. </p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/airbnb8.jpg"></section>
+<section>
+<p>These millions of contacts are all recorded in Zendesk Support, even though Airbnb utilises a custom-built phone system. Agents log calls in Zendesk, and link the call to the ticket via an integration between the company’s phone system, Support and Airbnb’s data warehouse.</p>
+<p>Airbnb began using Zendesk Support to deliver consistent, high-quality customer service in the early days, and also using Zendesk Guide for its knowledge base. Given Airbnb’s global reach, the company needed a solution that could easily scale at pace with its phenomenal growth. </p>
+<p>“Scalability, reliability and 24/7 uptime were big factors,” said Shirley Lin, product lead for the Support Products Group, of Airbnb’s decision to initially adopt Zendesk. Since then, she explained, “Zendesk has been a good partner to us. They’ve constantly worked with us to make sure that Zendesk scales with Airbnb, which is no small feat.” </p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/airbnb4.jpg"></section>
+<section>
+<p>Lin’s product team partners closely with the Global Customer Experience team. The Support Products team owns the entire end-to-end customer service experience for Airbnb hosts and travellers. Part of that workstream is a track entitled “Self-Solve.” </p>
+<p>“Most people on holiday would rather not talk to a Customer Experience agent,” Lin said. And for simple tasks, like altering a reservation, they shouldn’t have to. But understanding the needs of a particular customer, and providing them with an intuitive route to resolution, requires context. How urgent is their problem? Are they on a trip? Or are they preparing for an upcoming trip? Who is the customer? What is their history with Airbnb? </p>
+<p>To build data models that support personalised flows, data scientists in the Support Products Group are pulling the information they need from Zendesk. But while Zendesk provides customer data and insights on the backend, Airbnb has leveraged <a href="https://developer.zendesk.com/rest_api/docs/core/introduction" title="the" zendesk="" api="" target="_blank">the Zendesk API</a> to provide a customised agent UI, and to integrate with a collection of internal agent tools.</p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Airbnb5.jpg"></section>
+<section>
+<p>Zendesk’s integration with Airbnb’s tools is an example of how Lin can count on Zendesk to go the extra mile. “We have customers who book room listings, but they also book experiences and have restaurant reservations,” she explained. Combining Airbnb’s tools and Zendesk allows for a 360-view of each customer and his or her history, all while giving Airbnb the ability to implement its own front-end design. </p>
+<p>“Zendesk provides really amazing backend functionality features, which we made even more powerful with a custom-designed UI,” Lin said. The hybrid solution required “engineer-to-engineer” partnership between the two companies.</p>
+<p>The productivity of the combined teams is one reason Airbnb continues to partner with Zendesk. “Not all companies would have been willing to partner with their customers in this way,” Lin said.</p>
+<p>By the time Lin joined the company in 2015, Airbnb’s overarching digital experience had become both a priority and an investment. In a year and a half, Lin’s team—which is made up of product managers, designers, data scientists and engineers—grew 4x, distributed between offices in San Francisco, Portland and Seattle.</p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/airbnb1.jpg"></section>
+<section>
+<p>One key initiative of the group is a new in-house messaging product which will allow customers to start messaging threads with customer service agents through the Airbnb platform. Built on top of Zendesk Support’s infrastructure, the new product will allow one-to-one communication between customers and agents. </p>
+<p>“There are a lot of benefits here,” Lin said. “Customers and agents can attach photos more easily, direct from their phones. We can add things like read receipts. There’s also really cool stuff like receiving a real-time notification when an agent has updated your case.”</p>
+<p>Meanwhile, Aisling Hassell heads the Global Customer Experience team that monitors the effect of new tools on agent productivity and tracks a variety of metrics which feed into Airbnb’s Net Promoter Score (NPS). From 2016-2017, Airbnb was focused on improving speed of answer for both phone and email support. In each case, the team exceeded the set goals. “On top of that, we were able to increase by an absolute of almost 2 per cent the ability to get the help when you needed it,” Hassell said. “So that was a double win.”</p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/airbnb7.jpg"></section>
+<section>
+<p>Like Lin, Hassell appreciates Zendesk’s ability to scale alongside Airbnb. “Zendesk has grown with us as we’ve grown,” she said. “Initially, everyone just piled in to support our early volume. Over time, we’ve become more savvy. We’ve gone through various optimisations with Zendesk over the years and gradually get more and more sophisticated.” </p>
+<p>Case in point: when the Customer Experience team first started at Airbnb, support was provided in English. Today, Hassell’s team monitors 20 languages in text-based support with the assistance of Zendesk multilingual capabilities. Phone-based support is also offered in 11 languages, and English and Mandarin support is provided 24/7. </p>
+<p>Hassell and Lin conveyed that, above all, Zendesk delivers on the human scale, creating a circle of trust. Lin cited a hypothetical host-guest personality dispute over a listing that spanned thirty days. “It would be very, very challenging for a cut-and-dried enterprise product to support those cases,” Lin said. While other enterprise solutions may offer comparable features and scalability, Zendesk is built to handle uniquely human conflicts with its complete view into customer history and contacts.</p>
+</section>
+</div></div><section class="quote">
+
+<p class="giant">“Having a partner who really understands our business, and how ambitious we are, is huge—because service, at the end of the day, needs to be in lockstep with every single track of work that’s happening within Airbnb.”
+</p>
+<p class="author">– Shirley Lin <span> Product Lead of the Support Products Group</span></p>
+
+</section>]]></content:encoded>
+    
+    <excerpt:encoded><![CDATA[Airbnb's custom 360-view of the customer]]></excerpt:encoded>
+    <wp:post_id>201900067</wp:post_id>
+    <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-02-04 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="stories_tax" nicename="americas"><![CDATA[Americas]]></category>
+    
+    <category domain="stories_tax" nicename="asia-pacific"><![CDATA[Asia Pacific]]></category>
+    
+    <category domain="stories_tax" nicename="europe"><![CDATA[Europe]]></category>
+    
+    <category domain="stories_tax" nicename="product-guide"><![CDATA[Guide]]></category>
+    
+    <category domain="stories_tax" nicename="internet-mobile"><![CDATA[Internet & Mobile]]></category>
+    
+    <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
+    
+    <category domain="stories_tax" nicename="travel-hospitality"><![CDATA[Travel & Hospitality]]></category>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Airbnb's custom 360-view of the customer]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Airbnb2.jpg]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Learn how Airbnb scaled with Zendesk—and how thousands of agents now serve millions of global customers through a customised interface.]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+    
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Airbnb's custom 360-view of the customer]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[customer-heading]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Airbnb]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-main-bg-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Airbnb2.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-video-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-main-logo-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/airbnb%20logo.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stats]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{i:0;a:2:{s:19:"customer-stat-title";s:15:"Global Listings";s:19:"customer-stat-value";s:10:"4+ Million";}i:1;a:2:{s:19:"customer-stat-title";s:14:"Customer since";s:19:"customer-stat-value";s:4:"2011";}i:2;a:2:{s:19:"customer-stat-title";s:9:"Countries";s:19:"customer-stat-value";s:3:"191";}i:3;a:2:{s:19:"customer-stat-title";s:19:"Languages supported";s:19:"customer-stat-value";s:2:"20";}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stat-button-text]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stat-button-link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-highlight]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-highlight-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-featured-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-footer-quote]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-footer-quote-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[featured-section]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[tagline-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-author]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+    
+  </item>
+  
+</channel>
+</rss>
