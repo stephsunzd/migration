@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- generator="WordPress/4.7.3" created="2019-01-08 21:22" -->
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Zendesk</title>
+	<link>https://www.zendesk.co.uk</link>
+	<description></description>
+	<pubDate>Tue, 08 Jan 2019 21:22:48 +0000</pubDate>
+	<language>en</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://www.zendesk.co.uk/</wp:base_site_url>
+	<wp:base_blog_url>https://www.zendesk.co.uk</wp:base_blog_url>
+
+	<wp:author>
+    <wp:author_id>2871</wp:author_id>
+    <wp:author_login><![CDATA[stsun]]></wp:author_login>
+    <wp:author_email><![CDATA[stsun@zendesk.com]]></wp:author_email>
+    <wp:author_display_name><![CDATA[Stephanie Sun]]></wp:author_display_name>
+    <wp:author_first_name><![CDATA[Stephanie]]></wp:author_first_name>
+    <wp:author_last_name><![CDATA[Sun]]></wp:author_last_name>
+  </wp:author>
+
+
+	<generator>https://wordpress.org/?v=4.7.3</generator>
+
+  
+  <item>
+    <title>Handy</title>
+    <link>https://www.zendesk.co.uk/customer/handy/</link>
+    <pubDate>Mon, 04 Feb 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://www.zendesk.co.uk/customer/handy</guid>
+    <description>Learn why Handy switched to Zendesk Support, Guide, Talk and Chat, saving 60% in operational costs and earning a steep spike in customer satisfaction.</description>
+    
+    <content:encoded><![CDATA[
+
+<section>
+<p class="giant highlight center">Cleaning, furniture assembly, TV mounting and other handyman services—every home has work that needs to be done, but finding the time to do it can be a job in itself. That’s where Handy comes in.
+</p>
+<p>The idea behind Handy is simple but innovative: pair reliable, capable independent professionals with people who would like help with their household tasks. Since its founding in 2012, this New York City-based home services start-up has grown to more than 37 markets globally, including the United States, United Kingdom and Canada. Every week, thousands of customers have jobs performed by screened professionals. </p>
+<p>Handy’s customer experience is designed to be easy: home owners and renters can book cleaning or handyman services from local, top-rated pros in seconds online, and all the work is backed by Handy’s <a href="https://www.handy.com/handy-guarantee" title="Happiness Guarantee." target="_blank">Happiness Guarantee.</a> Handy’s platform also handles the billing and allows professionals to organise their own schedules. </p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Handy-cleaner.png"></section>
+<section>
+<p>An easy customer experience should also include easy customer support. “We were looking for a tool that was easy to use, one that would not require contractors or engineers to manage and maintain,” said Director of Customer Experience Dylan Henry. “We wanted to own and operate the tool wholly within the Customer Experience department.” This had not been the case with Handy’s previous customer service platform. </p>
+<p>After consulting with other companies of similar size, Henry and the team agreed that Zendesk Support was the ideal solution. “What drew us to Zendesk Support was how quickly we could implement and launch the tool, and tailor it exactly to our needs without having to worry about time-consuming customisation,” said Sam Tilin, who led the seamless technical implementation and transition to Zendesk.</p>
+<p>From decision to implementation, the process to switch tools took only six weeks. “It just shows how easy Zendesk Support is to use,” Henry said. He estimated that the team handled 85 per cent of the set-up, using guides and resources from the Zendesk website. He also tapped some internal developers at Handy to build a customised contact form that auto-populates user details when agents answer tickets. Though the developers were new to Zendesk Support, the extensibility of the <a href="https://developer.zendesk.com/rest_api/docs/core/introduction#the-api" title="Zendesk API" target="_blank">Zendesk API</a> made it easy to build the form within a week. </p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Handy-team.png"></section>
+<section>
+<p>At the time they switched to Zendesk Support, Handy had nearly 100 agents handling tickets with their former solution in order to maintain their one-hour SLA for providing a first response. Since then, using Support, Henry has been able to reduce the number of agents on email support while meeting or surpassing their SLA 98 per cent of the time. The team has increased their emails-per-hour response rate by 33 per cent. </p>
+<p>The team also used Zendesk Guide to build a two-sided user help centre: one for customers and another for service professionals. Providing easy-to-access help articles has helped Handy reduce their weekly email volume from approximately 12,000 to 8,000 tickets, a 33 per cent reduction. </p>
+<p>“Inbound tickets and agent headcount should never scale with the business,” Henry said. “While the business has grown, we’ve kept it relatively steady and continue to optimise.” </p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Handy-painter.png"></section>
+<section>
+<p>It’s pretty remarkable, especially since email support is offered in all markets, with 24×7 staffing. Rather than taking inbound calls, Handy proactively calls users to resolve problems that may need a more personal touch. </p>
+<p>Taken together, Handy has designed a multi-channel experience for both their customer and professional bases that’s tailored exactly to the needs and experience of both. Rather than offering all channels to everyone, Handy has found the right way to connect with users at different stages of their service experience. </p>
+<p>Handy uses the <a href="https://www.zendesk.co.uk/blog/introducing-multibrand/" title="Multibrand feature" target="_blank">Multibrand feature</a> to direct service requests from customers into one queue, while questions from service professionals go into a separate queue. Also, each ticket is assigned a “disposition” to help identify trends and areas for improvement, which helps the team provide feedback to every department. Handy has also extended Zendesk beyond its core capabilities with a number of time-tracking and productivity apps from the <a href="https://www.zendesk.co.uk/apps/" title="Zendesk Apps Marketplace" target="_blank">Zendesk Apps Marketplace</a>, including the free Zendesk-built <a href="https://www.zendesk.co.uk/apps/answer-suggestion/" title="Answer Suggestion" target="_blank">Answer Suggestion</a> and <a href="https://www.zendesk.co.uk/apps/conditional-fields/" title="Conditional Fields" target="_blank">Conditional Fields</a> apps, to give agents more details about each customer issue and offer the best answers. “The apps have been a huge help and are key to our support structure,” Tilin said. </p>
+</section>
+<section class="full-bleed"><img alt="" src="https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Handy-office.png"></section>
+<section>
+<p>Between fast email support, robust self-service, and strategic uses for phone and live chat support, Handy has improved the customer experience, all while saving 60 per cent on operational and user experience costs. “Part of this was changing the way we were organised,” Henry said, “but we weren’t comfortable making big changes with our prior solution. Zendesk enabled us to feel confident and to set up the right queues for our front-line agents to handle.”</p>
+<p>The savings Handy has achieved since early 2016 are now passed back to the service professionals and customers. All the changes have not gone unnoticed. Handy’s customer satisfaction ratings have climbed by 20 per cent since making the change. In addition to providing great service, Handy has made good on their Happiness Guarantee. </p>
+</section>
+</div></div><section class="quote">
+
+<p class="giant">“We want to be anywhere and everywhere the customer is able to contact us, and build a reputation for providing an immediate response, no matter the day or time. Zendesk allows us to do that and quickly respond to both customers and professionals.”</p>
+<p class="author">– Dylan Henry<span>Director of Customer Experience</span></p>
+
+</section>]]></content:encoded>
+    
+    <excerpt:encoded><![CDATA[Handy saved 60% on CX costs by switching to Zendesk products
+]]></excerpt:encoded>
+    <wp:post_id>201900001</wp:post_id>
+    <wp:post_date><![CDATA[2019-02-04 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-02-04 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[customer_lp]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="stories_tax" nicename="americas"><![CDATA[Americas]]></category>
+    
+    <category domain="stories_tax" nicename="product-chat"><![CDATA[Chat]]></category>
+    
+    <category domain="stories_tax" nicename="europe"><![CDATA[Europe]]></category>
+    
+    <category domain="stories_tax" nicename="product-guide"><![CDATA[Guide]]></category>
+    
+    <category domain="stories_tax" nicename="internet-mobile"><![CDATA[Internet & Mobile]]></category>
+    
+    <category domain="stories_tax" nicename="product-support"><![CDATA[Support]]></category>
+    
+    <category domain="stories_tax" nicename="travel-hospitality"><![CDATA[Travel & Hospitality]]></category>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Handy saved 60% on CX costs by switching to Zendesk products
+]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Handy-bedroom.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Learn why Handy switched to Zendesk Support, Guide, Talk and Chat, saving 60% in operational costs and earning a steep spike in customer satisfaction.]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+    
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[tagline]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Handy saved 60% on CX costs by switching to Zendesk products
+]]></wp:meta_value>
+		</wp:postmeta>
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[customer-heading]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Handy]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-main-bg-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Handy-bedroom.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-video-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-main-logo-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/handylogo.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stats]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{i:0;a:2:{s:19:"customer-stat-title";s:19:"Operational Savings";s:19:"customer-stat-value";s:3:"60%";}i:1;a:2:{s:19:"customer-stat-title";s:20:"Avg Tickets per Week";s:19:"customer-stat-value";s:5:"8,000";}i:2;a:2:{s:19:"customer-stat-title";s:20:"1-Hour FRT Adherence";s:19:"customer-stat-value";s:3:"98%";}i:3;a:2:{s:19:"customer-stat-title";s:28:"Ticket Deflection with Guide";s:19:"customer-stat-value";s:3:"33%";}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stat-button-text]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-stat-button-link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-highlight]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-highlight-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-featured-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-footer-quote]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[customer-footer-quote-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[featured-section]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[tagline-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-featured]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-author]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[quote-author-job]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+    
+  </item>
+  
+  <item>
+    <title>Agility and the total cost of the customer experience</title>
+    <link>https://www.zendesk.co.uk/resources/agility-total-cost-customer-experience/</link>
+    <pubDate>Wed, 14 Nov 2018 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://www.zendesk.co.uk/resources/agility-total-cost-customer-experience</guid>
+    <description>Agile businesses adapt faster to changing customer expectations, keep up with evolving internal systems, and respond to competitive pressures.</description>
+    
+    <content:encoded><![CDATA[]]></content:encoded>
+    
+    <excerpt:encoded><![CDATA[Introduction. Total cost of ownership (TCO)—it’s a deceptively straightforward term for a complex, rapidly evolving landscape.]]></excerpt:encoded>
+    <wp:post_id>201900002</wp:post_id>
+    <wp:post_date><![CDATA[2018-11-14 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2018-11-14 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[resource]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="filter_tag" nicename="zendesk-library-collection"><![CDATA[Collections]]></category>
+    
+    <category domain="filter_tag" nicename="library-customer-service-management"><![CDATA[Customer Service Management]]></category>
+    
+    <category domain="filter_tag" nicename="customer-service-management-library"><![CDATA[Customer service management library]]></category>
+    
+    <category domain="filter_tag" nicename="support-operations"><![CDATA[Support operations]]></category>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Introduction. Total cost of ownership (TCO)—it’s a deceptively straightforward term for a complex, rapidly evolving landscape.]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/ROC_Agility_Moving%20guy.jpg]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+    
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-gated]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-gated-success-from-form]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-custom-fields]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[sf-cid]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-header-text]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Agility and the total cost of the customer experience]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-ebook-external-link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-thumbnail-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/ROC_Agility_Moving%20guy.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-featured-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/ROC_Agility_Moving%20guy.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-infographic-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-video-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-read-time-override]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-teaser-copy]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<h2>Introduction</h2>
+<p>Total cost of ownership (TCO)—it’s a deceptively straightforward term for a complex, rapidly evolving landscape. Not to mention a central one: in the October 2017,<a href="https://www.gartner.com/imagesrv/cio-trends/pdf/cio_agenda_2018.pdf" target="_blank">Gartner CIO Survey 2018</a>, 68 per cent of CIOs (non-IT objectives, total sample, less public sector) cited optimising enterprise operational excellence as a personal job objective. And what TCO means today is not what it meant even a few years ago. Aligning your understanding of TCO with the goal of delivering an agile customer experience is critical—to meet evolving customer demands and to optimise spending. </p>
+<p>When it comes to support, customers increasingly expect nothing short of excellence, tailored to their individual preferences. Agile businesses adapt faster to changing customer expectations, keep up with evolving and multiplying internal systems, and respond to competitive pressures. In the <a href="https://www.gartner.com/imagesrv/cio-trends/pdf/cio_agenda_2018.pdf" target="_blank">Gartner CIO Survey 2018</a>, 58 per cent of CIOs (non-IT objectives, public sector) cited building business agility as a personal job objective.</p>
+<p><img src="https://d26a57ydsghvgx.cloudfront.net/content/ROC_CX_Facetime.jpg" img="" style="width: 40%; margin-right: 32px; margin-bottom: 12px;" alt="">Agility saves time and money, and helps ensure that agents and administrators focus on delivering an ideal customer experience. Unfortunately, many companies are still weighed down by cumbersome systems, reliance on highly specialised administrators for systems, and an expensive environment of many additional small charges. A July 2018 Gartner report, <a href="https://www.gartner.com/doc/3884124/optimizing-io-costs-investments-primer" target="_blank">Optimising I&amp;O Costs and Investments Primer for 2018</a>, states that infrastructure and operations (I&amp;O) leaders “must proactively lead the charge to greater efficiency—doing current work better and faster—and increased productivity—adding more important, business-impacting activities as a result of improved efficiencies.” </p>
+<p>Businesses must operate with the same agility as their customers. To get there, it’s critical to consider the Total Cost of the Customer Experience: People, Process and Tools.</p>
+<h2>People</h2>
+<p><img src="https://d26a57ydsghvgx.cloudfront.net/content/ROC_People_Conversation.jpg" img="" style="width: 40%; margin-right: 32px; margin-bottom: 12px;" alt="">Enterprise-grade customer service teams are not agile by nature—they typically require expensive full-time teams of administrators and developers who have highly specialised certifications. The average fully loaded cost of a typical admin can exceed $80k, according to Glassdoor—and very quickly this becomes hundreds of thousands of dollars of people costs for a business.</p>
+<p>Complicating matters, their systems usually are not designed with the agent experience in mind. For one thing, they tend not to be intuitive. This has an adverse effect on agent efficiency and experience. Poor agent experience leads to attrition, frustration and the need to train new agents. It’s a potentially disastrous chain reaction. </p>
+<p>The real-world implications are clear in the case of Zendesk customer <a href="https://www.zendesk.co.uk/customer/lendingclub/" target="_blank">LendingClub</a>, which is working to reinvent the credit and investing landscape. This company’s raison d’être is helping people, but its old service configuration threw up constant barriers to the mission. In the past, when agents took a phone call, they had to create a new record, even if they’d spoken to the consumer before. Agents struggled to see work in progress or emails that had been assigned to someone to answer. It took multiple clicks to work through and document a call—with 50,000 tickets a month, those seconds added up to major time losses. (First Utility had a similar experience with its former platform, which, said Rob Harris, head of customer service platforms, “had a very convoluted interface, and the advisor experience was negatively impacted as a result.”)</p>
+<p>Using Zendesk has brought agility into the agent experience. For example, it has allowed LendingClub to create speciality queues and prioritise time-sensitive customer emails. Zendesk helps send automated follow-up emails to customers, so that LendingClub specialists can focus on tickets that offer the most value to customers and the company. Triggers, and a report that Andrew Jensen, director of payment solutions, calls “the ping-pong tracker”, help minimise the number of touches on any ticket. This report uses Zendesk Support analytics to produce a list of tickets touched by more than three internal groups with no outbound email to a customer. This helps them achieve a major goal—to do everything possible to “surprise and delight” customers.</p>
+<p>To help surface help centre articles and anticipate customer questions, Jensen adds some of the most popular articles to automated replies with <a href="https://www.zendesk.co.uk/answer-bot/">Answer Bot</a>. “We’ve found that this has been a big lift,” he said. “Customers email when they need a bit of direction, and sometimes we can get the answer to them sooner than they expected.” LendingClub has established a self-service score of 11:1, meaning for every 11 visitors to the help center, only 1 ends up creating a ticket.</p>
+<h2>Process</h2>
+<p><img src="https://d26a57ydsghvgx.cloudfront.net/content/ROC_Process_Support.jpg" img="" style="width: 40%; margin-right: 32px; margin-bottom: 12px;" alt="">For a company to be agile, it must be able to quickly deploy and support new channels, have a process for hiring and training agents painlessly, and be able to flexibly integrate new systems. Also crucial is the ability to focus on high-level priorities in order to remain competitive, in a fast and repeatable manner. With these capacities, companies have a competitive advantage when it comes to entering new markets, rolling out new products, and better meeting customers’ needs.</p>
+<p>Threats to agility include common phenomena such as the reliance on IT and/or outside consultants for system changes, a focus on coding over configuration, and the inability to seamlessly integrate additional customer service functionality — which are all too common among established enterprise software vendors. Companies sometimes choose those legacy firms based on the choices of similar organisations, but Gartner’s report, <a href="https://www.gartner.com/doc/3884124/optimizing-io-costs-investments-primer" target="_blank">Optimising I&amp;O Costs and Investments Primer for 2018</a>, emphasises the need for care: “Poor investment choices are costly and counterproductive, especially those that fail to understand the business need and to deliver meaningful value. Ultimately, it is not about what I&amp;O wants to purchase or which technologies are most interesting, but rather what business outcomes are desired and what I&amp;O investments they require.”</p>
+<p>Zendesk customer <a href="https://www.zendesk.co.uk/customer/mediaocean/" target="_blank">Mediaocean</a> offers brands, agencies and media sellers in 77 countries per platform and products to manage and co-ordinate the entire workflow, from planning to payment, across both traditional and digital advertising spaces. It experienced the problems of legacy systems first hand, after it was acquired and given a mandate to move away from Zendesk and to a prominent CRM provider.</p>
+<p>The first inkling of trouble with the roll-out came during the implementation process, said Stephanie Dorman, Senior Vice President of Client Services: “The other system had some strengths, but for us, it was complicated and incredibly expensive. Every time we turned round, there was another unanticipated customisation or charge.’ </p>
+<p>Case collision issues—when, unbeknownst to each other, two agents are working on the same ticket at the same time, duplicating efforts—were reducing agents’ productivity. Dorman explained, ‘This was a big deal because we’re very collaborative. We do a metric on ‘average number of tickets closed per day, per rep’, and this was declining because people were spending so much extra time on the process part of it.’ What’s more, web portal usage dropped by 75 per cent in the first quarter after Mediaocean went live, which meant more calls were coming to the support desk. “Our clients were saying we didn’t have what they needed any more,” said Dorman.</p>
+<p>A matrix that Dorman and her team created to compare Zendesk against its replacement revealed that 90 per cent of what they needed was available out of the box in Zendesk, but required costly, time-consuming configuration or customisation from the other provider. With two years left on the other contract and hundreds of thousands of dollars eaten, Mediaocean agreed to let Dorman and team switch back to Zendesk. Everyone at Mediaocean cheered. Dorman said, "They literally stood up and clapped. It wasn’t just support—it was our account management team, our HR team.”</p>
+<p>Both clients and internal agents are now using a knowledge base powered by Zendesk Guide. From the Zendesk Apps Marketplace, the team uses the CloudSET app to track 6 ticket component levels with thousands of possible combinations and manage client SLAs. Dorman noted that returning to Zendesk had a direct impact on agents’ morale—they particularly enjoy the clean ticketing interface and inline editing capability. With a satisfied team and user-friendly tools, Mediaocean maintains an agent attrition rate of less than 3 per cent and can provide new hires with a knowledge base that helps strengthen and speed up the onboarding experience.</p>
+<h2>Tools</h2>
+<p><img src="https://d26a57ydsghvgx.cloudfront.net/content/ROC_tools.jpg" img="" style="width: 40%; margin-right: 32px; margin-bottom: 12px;" alt="">To deliver an agile customer experience, successful companies need modern tools built for usability and efficiency—tools that empower agents. The business models of legacy companies, however, freely incorporate items like usage-based charges for a critical modern tool: self-service. Forrester stated: “Cost is more than the deal you have on the table.” What’s more, the tools provided by legacy companies often require specialised administrators; they are simply not set up to be simple. </p>
+<p>The UK’s largest independent energy supplier, <a href="https://www.zendesk.co.uk/customer/first-utility/" target="_blank">First Utility</a> provides more than 800,000 homes with 1.7 million services from gas and electricity to telephony and broadband. Its support team is sizeable: 700 advisors working across channels including email, phone, chat and social media. Rob Harris, head of customer service platforms, likened its former platform to a Swiss Army knife “that evolved into a difficult to manage beast”. Ultimately, says Harris, the company “had a very convoluted interface, and the advisor experience was negatively impacted as a result”. Harris imagined the future with that old platform and concluded he would wind up in “a very restrictive place; uncomfortably dependent on a very complicated system that would only cost more as time went on”. </p>
+<p>When Harris first evaluated Zendesk, it was the flexible and easy-to-build-on API that grabbed his attention. “I was very much in favour of the API—the very streamlined, lightweight interface that Zendesk provides—especially the flexibility that the framework afforded me for a new vision going forward.” Harris appreciated that developers could focus on using JavaScript rather than vendor-specific programming languages. He added: “In terms of day-to-day provisioning of users and setting up groups, macros and triggers—that’s all simple to do, it’s clean, and it’s well understood.”</p>
+<p>Back at MediaOcean, Dorman and team further extended Zendesk with a powerful integration between Salesforce and Support, with the help of Azuqua, one of Zendesk’s preferred data synchronisation partners. Azuqua’s integration platform makes it easy to connect and deploy data between systems without the maintenance and overhead of IT admins. Mediaocean is also building a complex integration with JIRA—something the team had not been able to accomplish before. ‘We love our integrated tools, and the portal is probably most important for me because we have invested a lot into building a knowledge base for our clients and our internal team,’ said Dorman.</p>
+<p>As First Utility continues to integrate its systems with Zendesk Support using the Zendesk developer platform, Harris uses one word to describe the new interface: simple. “It is far simpler to administer our Zendesk solution than it was to administer the [former] platform, partly because we’ve been able to clean up the interface and get rid of a lot of the old dead wood we had hanging around,” said Harris. </p>
+<h2>Conclusion</h2>
+<p>Total cost of ownership is inextricably linked with delivering an agile customer experience; optimising spending and meeting evolving customer demands go hand in hand. People, Process, Tools are the three facets of TCO. When happy agents can be painlessly brought in and equipped with efficient, usable tools within a system that can quickly deploy new channels and flexibly integrate new systems, a company is well positioned to compete.</p>
+]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-body-copy]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+    
+  </item>
+  
+  <item>
+    <title>Gartner Peer Insights ‘Voice of the Customer’: IT Service Management Tools</title>
+    <link>https://www.zendesk.co.uk/resources/gartner-peer-insights-voice-customer-service-management-tools/</link>
+    <pubDate>Mon, 25 Mar 2019 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[stsun]]></dc:creator>
+    <guid isPermaLink="true">https://www.zendesk.co.uk/resources/gartner-peer-insights-voice-customer-service-management-tools</guid>
+    <description>Your IT, HR, and Workplace Ops teams deserve to work with the most effective tools and platforms when it comes to delivering efficient operations strategies.</description>
+    
+    <content:encoded><![CDATA[]]></content:encoded>
+    
+    <excerpt:encoded><![CDATA[Your IT team deserves to work with the most effective tools and platforms when it comes to delivering efficient operations strategies.]]></excerpt:encoded>
+    <wp:post_id>201900003</wp:post_id>
+    <wp:post_date><![CDATA[2019-03-25 12:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2019-03-25 12:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[resource]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    
+    <category domain="filter_tag" nicename="customer-support-analyst-reports"><![CDATA[Analyst reports]]></category>
+    
+    <category domain="filter_tag" nicename="library-gartner"><![CDATA[Gartner]]></category>
+    
+    <category domain="filter_tag" nicename="library-hr"><![CDATA[HR]]></category>
+    
+    <category domain="filter_tag" nicename="library-it"><![CDATA[IT]]></category>
+    
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[article-custom-excerpt]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Your IT team deserves to work with the most effective tools and platforms when it comes to delivering efficient operations strategies.]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
+      <wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/gartner-resource-image.png]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-noindex]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-nofollow]]></wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_meta-robots-adv]]></wp:meta_key>
+      <wp:meta_value><![CDATA[none]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_sitemap-html-include]]></wp:meta_key>
+      <wp:meta_value><![CDATA[-]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_redirect]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_opengraph-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_yoast_wpseo_google-plus-description]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    </wp:postmeta>
+
+    
+    <wp:postmeta>
+			<wp:meta_key><![CDATA[resource-type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-gated]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-gated-success-from-form]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-custom-fields]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[sf-cid]]></wp:meta_key>
+			<wp:meta_value><![CDATA[7011E000001K4G4]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[event-key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-header-text]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Gartner Peer Insights ‘Voice of the Customer’: IT Service Management Tools]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-ebook-external-link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-thumbnail-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/gartner-resource-image.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-featured-image-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://d26a57ydsghvgx.cloudfront.net/content/gartner-resource-image.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-use-featured-image-url-on-template-checkbox-fix]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-download-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-infographic-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-video-url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-read-time-override]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-teaser-copy]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<p>Your IT team deserves to work with the most effective tools and platforms when it comes to delivering efficient operations strategies. Better yet, your HR and Workplace Operations teams can benefit from a service tool that promotes seamless cross-department communication, too. When things are flowing smoothly internally, operations managers are better able to lead and support means of production.</p>
+<p>According to Gartner, “Since October 2015, more than 150,000 reviews across more than 330 markets have been posted to Gartner Peer Insights. In markets where there is enough data, Gartner Peer Insights recognizes the vendors that are most highly rated by their customers through the Customers’ Choice distinction.” To qualify, vendors must have a product that is aligned to the market and have at least a 4.2 overall rating (out of 5 stars) and a minimum of 50 customer reviews. We believe the Customers’ Choice distinction is a great way of identifying which vendors are well-respected by both peers and customers.</p>
+<p>Take a look at your complimentary copy of the "Gartner Peer Insights ‘Voice of the Customer’: IT Service Management Tools" report and see why Zendesk named as a Customers’ Choice distinction.* </p>
+<p style="font-size:14px">
+<em>*A Nov. 2018 Gartner Peer Insights Customers’ Choice for IT Service Management Tools. https://www.gartner.com/reviews/customers-choice/it-service-management-tools. Gartner Peer Insights Customers’ Choice constitute the subjective opinions of individual end-user reviews, ratings, and data applied against a documented methodology; they neither represent the views of, nor constitute an endorsement by, Gartner or its affiliates.</em></p>
+<p style="font-size:14px">
+<em>This graphic was published by Gartner, Inc. as part of a larger research document and should be evaluated in the context of the entire document. The Gartner document is available upon request from Zendesk.</em></p>
+]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-body-copy]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<strong>Thanks! <a href="https://zen-marketing-content.s3.amazonaws.com/content/GartnerPeerInsightsVoiceReport.pdf" target="_blank">Enjoy your complimentary copy of the report.</a> </strong>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[resource-longform-sidebar-quote]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+    
+  </item>
+  
+</channel>
+</rss>
