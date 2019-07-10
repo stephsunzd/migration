@@ -30,7 +30,7 @@ RSpec.describe "Migration" do
     'source_stream_title' => 'Blog'
   }
 
-  it '#scrape_post handles nil item_url' do
+  xit '#scrape_post handles nil item_url' do
     item = {
       Constants::KEYS[:url] => nil
     }
@@ -38,7 +38,7 @@ RSpec.describe "Migration" do
     expect(Migration.scrape_post(item, TEST_CODES[:country])).to eq(item)
   end
 
-  it '#scrape_post handles special characters in the slug' do
+  xit '#scrape_post handles special characters in the slug' do
     item = {
       Constants::KEYS[:url] => 'https://recursos.zendesk.com.mx/recursos/predecir-la-satisfacción-del-cliente-ayuda-a-priorizar-las-interacciones-y-evitar-la-pérdida-de-clientes',
       'post_excerpt' => ''
@@ -51,7 +51,7 @@ RSpec.describe "Migration" do
     expect(item['post_excerpt']).to eq(expected_excerpt)
   end
 
-  it '#scrape_post handles 404' do
+  xit '#scrape_post handles 404' do
     item = {
       Constants::KEYS[:url] => 'https://resources.zendesk.co.uk/blog/notapage',
       'post_content' => ''
@@ -60,13 +60,13 @@ RSpec.describe "Migration" do
     expect(Migration.scrape_post(item, TEST_CODES[:country])).to eq(item)
   end
 
-  it '#csv_to_items creates an item matching our sample' do
+  xit '#csv_to_items creates an item matching our sample' do
     items = Migration.csv_to_items(TEST_CODES[:country])
 
     expect(items.first).to eq(TEST_ITEM)
   end
 
-  it '#generate_import_file creates a file matching our sample' do
+  xit '#generate_import_file creates a file matching our sample' do
     Migration.generate_import_files(TEST_CODES, TEST_URL)
 
     posts_sample = File.open('spec/fixtures/posts_sample.xml').read.gsub(/( |\t)/, '')
