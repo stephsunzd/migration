@@ -122,7 +122,7 @@ module Scraper
       when 'resource'
         postmeta[:title] = post.css('.blog-header h1')
         postmeta[:content] = post.css('.resource-body-teaser')
-        postmeta[:image] = post.css('#main-image')
+        postmeta[:image] = post.css('.resource-media.show-small-up img')
         postmeta[:tags] = post.css('.blog-tag')
 
         item['item_published_at'] = Util.cpubdate_to_timestamp(
@@ -220,8 +220,6 @@ module Scraper
         else
           postmeta[:image].attribute('src').value
         end
-
-        item['item_title'] = postmeta[:title].first.text
       end
 
       item['item_tags'] = postmeta[:tags].map do |tag|
