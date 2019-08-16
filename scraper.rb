@@ -17,7 +17,6 @@ module Scraper
       item = new_item(url, (Constants::SMARTLING_ID_START + index).to_s)
       item = scrape_post(item)
 
-
       puts "# Post #{url} has been normalized"
 
       items << item
@@ -89,8 +88,8 @@ module Scraper
         item['author-twitter'] = post.css('.post-twitter').first.text.gsub('@', '') unless post.css('.post-twitter').empty?
 
         item['item_published_at'] = Util.cpubdate_to_timestamp(
-          post.css('.meta .date').first.text
-        ) unless post.css('.meta .date').empty?
+          post.css('article.post').first.attribute('cpubdate').value
+        ) unless post.css('article.post').empty?
 
         item['blog-post-gated-enable'] = post.css('.gated-content-ad').empty? ? 0 : 1
 
@@ -120,11 +119,12 @@ module Scraper
 
         item[Constants::KEYS[:stats]] = get_stats(post.css('#stats-box li'))
       when 'resource'
-        postmeta[:title] = post.css('.blog-header h1')
-        postmeta[:content] = post.css('.resource-body-teaser')
+        postmeta[:title] = post.css('h1.h2')
+        postmeta[:content] = post.css('.resource-teaser-copy')
         postmeta[:image] = post.css('.resource-media.show-small-up img')
-        postmeta[:tags] = post.css('.blog-tag')
+        postmeta[:tags] = post.css('.post-tag')
 
+        item['item_seo_description'] = item['item_description']
         item['item_published_at'] = Util.cpubdate_to_timestamp(
           post.css('article.resource').first.attribute('cpubdate').value
         ) unless post.css('article.resource').empty? || post.css('article.resource').first.attribute('cpubdate').nil?
@@ -134,7 +134,9 @@ module Scraper
 
         item['event-id'] = post.css('#event_id').first.attribute('value').value unless post.css('#event_id').empty?
         item['event-key'] = post.css('#event_key').first.attribute('value').value unless post.css('#event_key').empty?
-        item['resource-video-url'] = post.css('section.video iframe').first.attribute('src').value unless post.css('section.video iframe').empty?
+        item['resource-video-url'] = post.css('iframe').first.attribute('src').value unless post.css('section.video iframe').empty?
+        puts "# First:  #{post.css('.resource-teaser-copy img').first.attribute('src').value unless post.css('.resource-teaser-copy img').empty?}"
+
         item['resource-sidebar-quote'] = post.css('.twitter-pull-quote').first.text unless post.css('.twitter-pull-quote').empty?
         item['resource-download'] = post.css('.btn-submit').first.attribute('href').value unless post.css('.btn-submit').empty? || post.css('.btn-submit').first.attribute('href').nil?
         item['infographic'] = post.css('#infographic img').first.attribute('src').value unless post.css('#infographic img').empty?
@@ -158,8 +160,8 @@ module Scraper
         postmeta[:title] = post.css('.p-webinar h1')
         postmeta[:image] = post.css('img.ico')
 
+        item['item_seo_description'] = item['item_description']
         item['item_tags'] = [ Constants::WEBINAR_PUBLISH_TAG ]
-
 
         item[Constants::KEYS[:success]] = post.css('.success-message p').first.inner_html unless post.css('#event_id').empty?
 
@@ -173,14 +175,9 @@ module Scraper
           date_and_presenter = date_and_presenter_node.text.split(/,?\s(con|with|por)\s/i)
           item[Constants::KEYS[:webinar_dates]] = date_and_presenter.first
           item[Constants::KEYS[:author]] = date_and_presenter.last
-
           node = date_and_presenter_node
-          item['post_content'] = ''
-
-          while node.next.next.next # final 2 nodes, form and separator div, are unwanted here
-            item['post_content'] += node.next.inner_html
-            node = node.next
-          end
+          
+          item['post_content'] = post.css('.p-webinar .col-small-5').first.inner_html
 
         end
       end
