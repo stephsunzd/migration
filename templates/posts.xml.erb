@@ -410,10 +410,6 @@
 		</wp:postmeta>
     <% when 'webinar' %>
     <wp:postmeta>
-			<wp:meta_key><![CDATA[featured-image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<%= item[Constants::KEYS[:image]] %>]]></wp:meta_value>
-		</wp:postmeta>
-    <wp:postmeta>
 			<wp:meta_key><![CDATA[sf-cid]]></wp:meta_key>
 			<wp:meta_value><![CDATA[<%= item[Constants::KEYS[:sf_cid]] %>]]></wp:meta_value>
 		</wp:postmeta>
@@ -434,12 +430,8 @@
 			<wp:meta_value><![CDATA[<%= item[Constants::KEYS[:webinar_dates]] %>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[web-presenter-name]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<%= item[Constants::KEYS[:author]] %>]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[web-presenter-bio]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<%= item[Constants::KEYS[:author_bio]] %>]]></wp:meta_value>
+      <wp:meta_key><![CDATA[web-presenters]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<%= item[Constants::KEYS[:webinar_presenters]] %>]]></wp:meta_value>
 		</wp:postmeta>
     <% end %>
   </item>

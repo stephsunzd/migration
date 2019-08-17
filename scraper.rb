@@ -138,7 +138,7 @@ module Scraper
         puts "# First:  #{post.css('.resource-teaser-copy img').first.attribute('src').value unless post.css('.resource-teaser-copy img').empty?}"
 
         item['resource-sidebar-quote'] = post.css('.twitter-pull-quote').first.text unless post.css('.twitter-pull-quote').empty?
-        item['resource-download'] = post.css('.btn-submit').first.attribute('href').value unless post.css('.btn-submit').empty? || post.css('.btn-submit').first.attribute('href').nil?
+        item['resource-download'] = post.css('.success-message .button').first.attribute('href').value unless post.css('.success-message .button').empty? || post.css('.success-message .button').first.attribute('href').nil?
         item['infographic'] = post.css('#infographic img').first.attribute('src').value unless post.css('#infographic img').empty?
 
         if !post.css('.gated-content-section-pager-wrapper').empty? &&
@@ -170,16 +170,11 @@ module Scraper
           item[Constants::KEYS[:author_bio]] = sidebar.first.inner_html
         end
 
-        date_and_presenter_node = post.at_css('.p-webinar p.h6')
-        unless date_and_presenter_node.nil?
-          date_and_presenter = date_and_presenter_node.text.split(/,?\s(con|with|por)\s/i)
-          item[Constants::KEYS[:webinar_dates]] = date_and_presenter.first
-          item[Constants::KEYS[:author]] = date_and_presenter.last
-          node = date_and_presenter_node
-          
-          item['post_content'] = post.css('.p-webinar .col-small-5').first.inner_html
+        item['post_content'] = post.css('.p-webinar .col-small-5').first.inner_html
+        item['post_content'] = item['post_content'].gsub(/<h3 class="h4">.*?<\/h3>/, '')
 
-        end
+        item[Constants::KEYS[:webinar_dates]] = post.css('.p-webinar-hero--text p.h6').first.text
+        item[Constants::KEYS[:webinar_presenters]] = get_webinar_presenters(post.css('.webinar-presenter-col'))
       end
 
       item[Constants::KEYS[:event_id]] = post.css('#event_id').first.attribute('value').value unless post.css('#event_id').empty?
@@ -212,10 +207,18 @@ module Scraper
       end
 
       unless postmeta[:image].empty?
-        item[Constants::KEYS[:image]] = if postmeta[:image].attribute('src').nil?
-          postmeta[:image].attribute('style').value.scan(/url\((.+?)\)/).first.first
+        item[Constants::KEYS[:image]] = if !postmeta[:image].first.attribute('data-cfsrc').nil?
+          postmeta[:image].first.attribute('data-cfsrc').value
+        elsif postmeta[:image].first.attribute('src').nil?
+          style_url_matches = postmeta[:image].first.attribute('style').value.scan(/url\((.+?)\)/)
+
+          if style_url_matches.empty? || style_url_matches.first.empty?
+            ""
+          else
+            style_url_matches.first.first
+          end
         else
-          postmeta[:image].attribute('src').value
+          postmeta[:image].first.attribute('src').value
         end
       end
 
@@ -240,13 +243,25 @@ module Scraper
   def get_stats(nodes)
     Util.serialize(
       nodes.select do |node|
-        node.children.search('img').empty?
+        node.children.search('span.stats-product-logo').empty?
       end.map do |node|
         spans = node.children.search('span')
 
         {
           'customer-stat-title' => spans.first.text,
           'customer-stat-value' => spans.last.text,
+        }
+      end
+    )
+  end
+
+  def get_webinar_presenters(nodes)
+    Util.serialize(
+      nodes.map do |node|
+        {
+          'presenter-name' => node.children.search('.webinar-presenter--name').first.text,
+          'presenter-photo' => node.children.search('.webinar-presenter--photo').first.attribute('src').value,
+          'presenter-title' => node.children.search('.webinar-presenter--title').first.text,
         }
       end
     )
@@ -267,18 +282,28 @@ module Scraper
 
     return :infographic unless post.css('#infographic').empty?
 
-    unless post.css('#form-cta').empty?
-      cta_text = post.css('#form-cta').first.text
+    type = search_keyword_in(post, '.resource-lead-form-heading')
 
-      return :webinar if cta_text.match('webinar')
-      return :guide if cta_text.match('guía')
-      return :whitepaper if cta_text.match('técnico')
+    if type.nil?
+      type = search_keyword_in(post, '.p-single-resource, .single-resource')
     end
 
-    return :video unless post.css('.resource-body-video .video').empty?
-    return :ebook if !post.css('.resource-body-teaser').empty? &&
-      post.css('.resource-body-teaser').first.text.match(/e\-?book/i)
+    type.nil? ? :report : type
+  end
 
-    :report
+  def search_keyword_in(post, selector)
+    unless post.css(selector).empty?
+      search_text = post.css(selector).first.text
+
+      return :ebook if search_text.match('eBook')
+      return :whitepaper if search_text.match('técnico')
+      return :webinar if search_text.match('webinar')
+      return :video if search_text.match('video')
+      return :guide if search_text.match('guía')
+      return :infographic if search_text.match('infografía')
+      return :report if search_text.match('el informe')
+    end
+
+    nil
   end
 end
