@@ -170,16 +170,11 @@ module Scraper
           item[Constants::KEYS[:author_bio]] = sidebar.first.inner_html
         end
 
-        date_and_presenter_node = post.at_css('.p-webinar p.h6')
-        unless date_and_presenter_node.nil?
-          date_and_presenter = date_and_presenter_node.text.split(/,?\s(con|with|por)\s/i)
-          item[Constants::KEYS[:webinar_dates]] = date_and_presenter.first
-          item[Constants::KEYS[:author]] = date_and_presenter.last
-          node = date_and_presenter_node
+        item['post_content'] = post.css('.p-webinar .col-small-5').first.inner_html
+        item['post_content'] = item['post_content'].gsub(/<h3 class="h4">.*?<\/h3>/, '')
 
-          item['post_content'] = post.css('.p-webinar .col-small-5').first.inner_html
-          item['post_content'] = item['post_content'].gsub(/<h3 class="h4">.*?<\/h3>/, '')
-        end
+        item[Constants::KEYS[:webinar_dates]] = post.css('.p-webinar-hero--text p.h6').first.text
+        item[Constants::KEYS[:webinar_presenters]] = get_webinar_presenters(post.css('.webinar-presenter-col'))
       end
 
       item[Constants::KEYS[:event_id]] = post.css('#event_id').first.attribute('value').value unless post.css('#event_id').empty?
@@ -255,6 +250,18 @@ module Scraper
         {
           'customer-stat-title' => spans.first.text,
           'customer-stat-value' => spans.last.text,
+        }
+      end
+    )
+  end
+
+  def get_webinar_presenters(nodes)
+    Util.serialize(
+      nodes.map do |node|
+        {
+          'presenter-name' => node.children.search('.webinar-presenter--name').first.text,
+          'presenter-photo' => node.children.search('.webinar-presenter--photo').first.attribute('src').value,
+          'presenter-title' => node.children.search('.webinar-presenter--title').first.text,
         }
       end
     )

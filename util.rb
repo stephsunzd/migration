@@ -57,14 +57,14 @@ module Util
     excerpt_text
   end
 
-  def serialize(stats)
-    serialized = "a:#{stats.size}:{"
+  def serialize(data_fields)
+    serialized = "a:#{data_fields.size}:{"
 
-    stats.each_with_index do |stat, index|
+    data_fields.each_with_index do |data_field, index|
       serialized += "i:#{index};"
-      serialized += "a:#{stat.size}:{"
+      serialized += "a:#{data_field.size}:{"
 
-      stat.each do |key, val|
+      data_field.each do |key, val|
         serialized += "s:#{serialize_count(key)}:\"#{key}\";"
         serialized += "s:#{serialize_count(val)}:\"#{val}\";"
       end
@@ -77,7 +77,7 @@ module Util
 
   def serialize_count(string)
     string.length +
-      string.gsub(/[\w \.\+\/\$%\-,<>]/, '').length
+      string.gsub(/[\w \.\+\/\$\(\):%\-,<>]/, '').length
   end
 
   def download_images_from_csv(country_code, limit = nil)

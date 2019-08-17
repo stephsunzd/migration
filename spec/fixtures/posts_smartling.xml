@@ -749,7 +749,7 @@
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[thumb-image]]></wp:meta_key>
-      <wp:meta_value><![CDATA[https://zen-marketing-content.s3.amazonaws.com/content/images/kate_leggett%20100x100.png]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>

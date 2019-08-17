@@ -23,6 +23,7 @@ module Constants
     type: 'post_type',
     url: 'item_url',
     webinar_dates: 'webinar_dates',
+    webinar_presenters: 'webinar_presenters',
   }
 
   RESOURCE_TYPES = {
