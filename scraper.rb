@@ -77,29 +77,29 @@ module Scraper
 
       case item[Constants::KEYS[:type]]
       when 'post'
-        postmeta[:title] = post.css('.blog-header h1')
-        postmeta[:content] = post.css('.post-body')
-        postmeta[:image] = post.css('.blog-image img')
-        postmeta[:tags] = post.css('.blog-tag')
+        postmeta[:title] = post.css('.hero-text h1')
+        postmeta[:content] = post.css('.the-content .col-default')
+        postmeta[:image] = post.css('.featured-image img')
+        postmeta[:tags] = post.css('.post-tag') && post.css('.hero .breadcrumbs a')
 
         item['item_seo_description'] = item['item_description']
-        item['author_first_name'] = post.css('.post-author').first.text unless post.css('.post-author').empty?
-        item['author-title'] = post.css('.post-author-title').first.text unless post.css('.post-author-title').empty?
-        item['author-twitter'] = post.css('.post-twitter').first.text.gsub('@', '') unless post.css('.post-twitter').empty?
+        item['author_first_name'] = post.css('.author').first.text unless post.css('.author').empty?
+        item['author-title'] = post.css('.author.author-title').first.text unless post.css('.author.author-title').empty?
+        item['author-twitter'] = post.css('.author-twitter').first.text.gsub('@', '') unless post.css('.author-twitter').empty?
 
         item['item_published_at'] = Util.cpubdate_to_timestamp(
-          post.css('article.post').first.attribute('cpubdate').value
-        ) unless post.css('article.post').empty?
+          post.css('.hero-post-details .date')
+        ) unless post.css('.hero-post-details .date').empty?
 
-        item['blog-post-gated-enable'] = post.css('.gated-content-ad').empty? ? 0 : 1
+        item['blog-post-gated-enable'] = post.css('.gated-content-cta').empty? ? 0 : 1
 
         if item['blog-post-gated-enable'].eql?(1)
-          item['blog-post-gated-img'] = post.css('.gated-content-image').first.attribute('style').value.scan(/url\('?"?(.+?)"?'?\)/).first.first unless post.css('.gated-content-image').empty?
+          item['blog-post-gated-img'] = post.css('.gated-content-cta .relationframe').first.attribute('src').value.scan(/url\('?"?(.+?)"?'?\)/).first.first unless post.css('.gated-content-cta .relationframe').empty?
           item['blog-post-gated-img'] = item['blog-post-gated-img'].gsub(/\s/, '')
-          item['blog-post-gated-headline'] = post.css('.gated-content-text h4').first.inner_html unless post.css('.gated-content-text h4').empty?
-          item['blog-post-gated-subheadline'] = post.css('.gated-content-teaser p').first.inner_html unless post.css('.gated-content-teaser p').empty?
+          item['blog-post-gated-headline'] = post.css('.gated-content-cta h2').first.inner_html unless post.css('.gated-content-cta h2').empty?
+          item['blog-post-gated-subheadline'] = post.css('.gated-content-cta p').first.inner_html unless post.css('.gated-content-cta p').empty?
 
-          blog_gated_cta = post.css('.gated-content-ad .btn-primary-cta')
+          blog_gated_cta = post.css('.gated-content-cta .button-primary-default')
 
           unless blog_gated_cta.empty?
             item['blog-post-gated-url'] = blog_gated_cta.first.attribute('href').value
@@ -107,13 +107,13 @@ module Scraper
           end
         end
       when 'customer_lp'
-        postmeta[:title] = post.css('.customer-header-box h3')
-        postmeta[:excerpt] = post.css('.customer-header-box h1')
-        postmeta[:content] = post.css('#story-body-content')
-        postmeta[:image] = post.css('.customer-hero-background')
-        postmeta[:tags] = post.css('.customer-header-box .tags a')
+        postmeta[:title] = post.css('.hero h1')
+        postmeta[:excerpt] = post.css('.hero p')
+        postmeta[:content] = post.css('.customer-story-content-col')
+        postmeta[:image] = post.css('.hero-main-image')
+        # postmeta[:tags] = post.css('.customer-header-box .tags a')
 
-        item['logo'] = post.css('.stats-customer-logo img').first.attribute('src').value
+        item['logo'] = post.css('.customer-logos-container img').first.attribute('src').value
 
         item['item_seo_description'] = item['item_description']
 
