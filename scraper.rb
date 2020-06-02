@@ -277,20 +277,6 @@ module Scraper
     })
   end
 
-  def get_resource_type(post)
-    return unless post.respond_to?(:css)
-
-    return :infographic unless post.css('#infographic').empty?
-
-    type = search_keyword_in(post, '.resource-lead-form-heading')
-
-    if type.nil?
-      type = search_keyword_in(post, '.p-single-resource, .single-resource')
-    end
-
-    type.nil? ? :report : type
-  end
-
   def search_keyword_in(post, selector)
     unless post.css(selector).empty?
       search_text = post.css(selector).first.text
