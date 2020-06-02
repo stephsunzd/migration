@@ -111,51 +111,13 @@ module Scraper
         postmeta[:excerpt] = post.css('.hero p')
         postmeta[:content] = post.css('.customer-story-content-col')
         postmeta[:image] = post.css('.hero-main-image')
-        # postmeta[:tags] = post.css('.customer-header-box .tags a')
+        postmeta[:tags] = post.css('.product-col span').first.attribute('src').value.split('-')[-1]
 
         item['logo'] = post.css('.customer-logos-container img').first.attribute('src').value
 
         item['item_seo_description'] = item['item_description']
 
         item[Constants::KEYS[:stats]] = get_stats(post.css('.customer-stats-row .col'))
-      # when 'resource'
-      #   postmeta[:title] = post.css('h1.h2')
-      #   postmeta[:content] = post.css('.resource-teaser-copy')
-      #   postmeta[:image] = post.css('.resource-media.show-small-up img')
-      #   postmeta[:tags] = post.css('.post-tag')
-
-      #   item['item_seo_description'] = item['item_description']
-      #   item['item_published_at'] = Util.cpubdate_to_timestamp(
-      #     post.css('article.resource').first.attribute('cpubdate').value
-      #   ) unless post.css('article.resource').empty? || post.css('article.resource').first.attribute('cpubdate').nil?
-      #   item['resource-gated'] = post.css('.ungated').empty? ? 1 : 0
-
-      #   item['resource-type'] = Constants::RESOURCE_TYPES[get_resource_type(post)]
-
-      #   item['event-id'] = post.css('#event_id').first.attribute('value').value unless post.css('#event_id').empty?
-      #   item['event-key'] = post.css('#event_key').first.attribute('value').value unless post.css('#event_key').empty?
-      #   item['resource-video-url'] = post.css('iframe').first.attribute('src').value unless post.css('section.video iframe').empty?
-      #   puts "# First:  #{post.css('.resource-teaser-copy img').first.attribute('src').value unless post.css('.resource-teaser-copy img').empty?}"
-
-      #   item['resource-sidebar-quote'] = post.css('.twitter-pull-quote').first.text unless post.css('.twitter-pull-quote').empty?
-      #   item['resource-download'] = post.css('.success-message .button').first.attribute('href').value unless post.css('.success-message .button').empty? || post.css('.success-message .button').first.attribute('href').nil?
-      #   item['infographic'] = post.css('#infographic img').first.attribute('src').value unless post.css('#infographic img').empty?
-
-      #   if !post.css('.gated-content-section-pager-wrapper').empty? &&
-      #     !post.css('.gated-content-section-pager-wrapper').first.next.nil?
-      #       node = post.css('.gated-content-section-pager-wrapper').first
-      #       item['resource-body-copy'] = ''
-
-      #       while node.next
-      #         item['resource-body-copy'] += node.next.inner_html
-      #         node = node.next
-      #       end
-
-      #       item['resource-body-copy'] = item['resource-body-copy'].gsub(Constants::SMARTLING_RESOURCE_BODY_REGEX, '')
-      #   elsif !post.css('.resource-body-content').empty?
-      #     puts 'resource body content found'
-      #     item['resource-body-copy'] = post.css('.resource-body-content').first.inner_html
-      #   end
       when 'webinar'
         postmeta[:title] = post.css('.p-webinar h1')
         postmeta[:image] = post.css('img.ico')
