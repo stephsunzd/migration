@@ -79,13 +79,13 @@ module Scraper
       when 'post'
         postmeta[:title] = post.css('.hero-text h1')
         postmeta[:content] = post.css('.the-content .col-default')
-        postmeta[:image] = post.css('.featured-image img')
-        postmeta[:tags] = post.css('.post-tag') && post.css('.hero .breadcrumbs a')
+        postmeta[:image] = post.css('.featured-image img').first.attribute('src').value
+        postmeta[:tags] = post.css('.post-tag') && post.css('.hero .breadcrumbs a') && post.css('.hero .post-type')
 
         item['item_seo_description'] = item['item_description']
         item['author_first_name'] = post.css('.author').first.text unless post.css('.author').empty?
         item['author-title'] = post.css('.author.author-title').first.text unless post.css('.author.author-title').empty?
-        item['author-twitter'] = post.css('.author-twitter').first.text.gsub('@', '') unless post.css('.author-twitter').empty?
+        item['author-twitter'] = post.css('.author a').first.text.gsub('@', '') unless post.css('.author a').empty?
 
         item['item_published_at'] = Util.cpubdate_to_timestamp(
           post.css('.hero-post-details .date').first.text
@@ -94,7 +94,7 @@ module Scraper
         item['blog-post-gated-enable'] = post.css('.gated-content-cta').empty? ? 0 : 1
 
         if item['blog-post-gated-enable'].eql?(1)
-          item['blog-post-gated-img'] = '' # not sure if this exists?
+          item['blog-post-gated-img'] = post.css('.gated-content-cta img').attribute('src')
           item['blog-post-gated-headline'] = post.css('.gated-content-cta h2').first.inner_html unless post.css('.gated-content-cta h2').empty?
           item['blog-post-gated-subheadline'] = post.css('.gated-content-cta p').first.inner_html unless post.css('.gated-content-cta p').empty?
 
