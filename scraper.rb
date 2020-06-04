@@ -79,7 +79,7 @@ module Scraper
       when 'post'
         postmeta[:title] = post.css('.hero-text h1')
         postmeta[:content] = post.css('.the-content .col-default')
-        postmeta[:image] = post.css('.featured-image img').first.attribute('src').value
+        postmeta[:image] = post.css('.featured-image img')
         postmeta[:tags] = post.css('.post-tag') && post.css('.hero .breadcrumbs a') && post.css('.hero .post-type')
 
         item['item_seo_description'] = item['item_description']
