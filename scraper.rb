@@ -82,7 +82,7 @@ module Scraper
         postmeta[:image] = post.css('.featured-image img')
         postmeta[:tags] = post.css('.post-tag') && post.css('.hero .breadcrumbs a') && post.css('.hero .post-type')
 
-        item['intro'] = post.css('.intro h3')
+        item['intro'] = post.css('.intro h3').first.text unless post.css('.intro h3').empty?
 
         item['item_seo_description'] = item['item_description']
         item['author_first_name'] = post.css('.author').first.text unless post.css('.author').empty?
