@@ -77,29 +77,30 @@ module Scraper
 
       case item[Constants::KEYS[:type]]
       when 'post'
-        postmeta[:title] = post.css('.blog-header h1')
-        postmeta[:content] = post.css('.post-body')
-        postmeta[:image] = post.css('.blog-image img')
-        postmeta[:tags] = post.css('.blog-tag')
+        postmeta[:title] = post.css('.hero-text h1')
+        postmeta[:content] = post.css('.the-content .col-default')
+        postmeta[:image] = post.css('.featured-image img')
+        postmeta[:tags] = post.css('.post-tag') && post.css('.hero .breadcrumbs a') && post.css('.hero .post-type')
+
+        item['intro'] = post.css('.intro h3').first.text unless post.css('.intro h3').empty?
 
         item['item_seo_description'] = item['item_description']
-        item['author_first_name'] = post.css('.post-author').first.text unless post.css('.post-author').empty?
-        item['author-title'] = post.css('.post-author-title').first.text unless post.css('.post-author-title').empty?
-        item['author-twitter'] = post.css('.post-twitter').first.text.gsub('@', '') unless post.css('.post-twitter').empty?
+        item['author_first_name'] = post.css('.author').first.text unless post.css('.author').empty?
+        item['author-title'] = post.css('.author.author-title').first.text unless post.css('.author.author-title').empty?
+        item['author-twitter'] = post.css('.author a').first.text.gsub('@', '') unless post.css('.author a').empty?
 
         item['item_published_at'] = Util.cpubdate_to_timestamp(
-          post.css('article.post').first.attribute('cpubdate').value
-        ) unless post.css('article.post').empty?
+          post.css('.hero-post-details .date').first.text
+        ) unless post.css('.hero-post-details .date').empty?
 
-        item['blog-post-gated-enable'] = post.css('.gated-content-ad').empty? ? 0 : 1
+        item['blog-post-gated-enable'] = post.css('.gated-content-cta').empty? ? 0 : 1
 
         if item['blog-post-gated-enable'].eql?(1)
-          item['blog-post-gated-img'] = post.css('.gated-content-image').first.attribute('style').value.scan(/url\('?"?(.+?)"?'?\)/).first.first unless post.css('.gated-content-image').empty?
-          item['blog-post-gated-img'] = item['blog-post-gated-img'].gsub(/\s/, '')
-          item['blog-post-gated-headline'] = post.css('.gated-content-text h4').first.inner_html unless post.css('.gated-content-text h4').empty?
-          item['blog-post-gated-subheadline'] = post.css('.gated-content-teaser p').first.inner_html unless post.css('.gated-content-teaser p').empty?
+          item['blog-post-gated-img'] = post.css('.gated-content-cta img').attribute('src')
+          item['blog-post-gated-headline'] = post.css('.gated-content-cta h2').first.inner_html unless post.css('.gated-content-cta h2').empty?
+          item['blog-post-gated-subheadline'] = post.css('.gated-content-cta p').first.inner_html unless post.css('.gated-content-cta p').empty?
 
-          blog_gated_cta = post.css('.gated-content-ad .btn-primary-cta')
+          blog_gated_cta = post.css('.gated-content-cta .button-primary-default')
 
           unless blog_gated_cta.empty?
             item['blog-post-gated-url'] = blog_gated_cta.first.attribute('href').value
@@ -107,55 +108,17 @@ module Scraper
           end
         end
       when 'customer_lp'
-        postmeta[:title] = post.css('.customer-header-box h3')
-        postmeta[:excerpt] = post.css('.customer-header-box h1')
-        postmeta[:content] = post.css('#story-body-content')
-        postmeta[:image] = post.css('.customer-hero-background')
-        postmeta[:tags] = post.css('.customer-header-box .tags a')
+        # These selectors are for LEGACY customer stories - you will need to update if your source is new customer stories
+        postmeta[:excerpt] = post.css('.hero h1')
+        postmeta[:content] = post.css('.customer-story-content-col')
+        postmeta[:image] = post.css('.hero-main-image')
 
-        item['logo'] = post.css('.stats-customer-logo img').first.attribute('src').value
-
+        item['item_title'] = item[Constants::KEYS[:url]].split('/').last.gsub('-', ' ')
+        item['item_tags'] = get_product_tags(post.css('.product-col span'))
+        item['logo'] = post.css('.customer-logos-container img').first.attribute('src').value
         item['item_seo_description'] = item['item_description']
 
-        item[Constants::KEYS[:stats]] = get_stats(post.css('#stats-box li'))
-      when 'resource'
-        postmeta[:title] = post.css('h1.h2')
-        postmeta[:content] = post.css('.resource-teaser-copy')
-        postmeta[:image] = post.css('.resource-media.show-small-up img')
-        postmeta[:tags] = post.css('.post-tag')
-
-        item['item_seo_description'] = item['item_description']
-        item['item_published_at'] = Util.cpubdate_to_timestamp(
-          post.css('article.resource').first.attribute('cpubdate').value
-        ) unless post.css('article.resource').empty? || post.css('article.resource').first.attribute('cpubdate').nil?
-        item['resource-gated'] = post.css('.ungated').empty? ? 1 : 0
-
-        item['resource-type'] = Constants::RESOURCE_TYPES[get_resource_type(post)]
-
-        item['event-id'] = post.css('#event_id').first.attribute('value').value unless post.css('#event_id').empty?
-        item['event-key'] = post.css('#event_key').first.attribute('value').value unless post.css('#event_key').empty?
-        item['resource-video-url'] = post.css('iframe').first.attribute('src').value unless post.css('section.video iframe').empty?
-        puts "# First:  #{post.css('.resource-teaser-copy img').first.attribute('src').value unless post.css('.resource-teaser-copy img').empty?}"
-
-        item['resource-sidebar-quote'] = post.css('.twitter-pull-quote').first.text unless post.css('.twitter-pull-quote').empty?
-        item['resource-download'] = post.css('.success-message .button').first.attribute('href').value unless post.css('.success-message .button').empty? || post.css('.success-message .button').first.attribute('href').nil?
-        item['infographic'] = post.css('#infographic img').first.attribute('src').value unless post.css('#infographic img').empty?
-
-        if !post.css('.gated-content-section-pager-wrapper').empty? &&
-          !post.css('.gated-content-section-pager-wrapper').first.next.nil?
-            node = post.css('.gated-content-section-pager-wrapper').first
-            item['resource-body-copy'] = ''
-
-            while node.next
-              item['resource-body-copy'] += node.next.inner_html
-              node = node.next
-            end
-
-            item['resource-body-copy'] = item['resource-body-copy'].gsub(Constants::SMARTLING_RESOURCE_BODY_REGEX, '')
-        elsif !post.css('.resource-body-content').empty?
-          puts 'resource body content found'
-          item['resource-body-copy'] = post.css('.resource-body-content').first.inner_html
-        end
+        item[Constants::KEYS[:stats]] = get_stats(post.css('.customer-stats-row .col'))
       when 'webinar'
         postmeta[:title] = post.css('.p-webinar h1')
         postmeta[:image] = post.css('img.ico')
@@ -192,16 +155,6 @@ module Scraper
       unless postmeta[:content].empty?
         post_content_html = postmeta[:content].first.inner_html
         item['post_content'] = post_content_html.gsub(Constants::SMARTLING_CONTENT_REGEX, '')
-
-        if item[Constants::KEYS[:type]].eql?('customer_lp')
-          item['post_content'] += '</div></div>'
-
-          post_quote = post.css('.quote')
-
-          item['post_content'] += "<section class=\"quote\">
-#{post_quote.first.inner_html}
-</section>" unless post_quote.empty?
-        end
 
         item['post_excerpt'] = Util.excerpt(postmeta[:content].text) if item['post_excerpt'].empty?
       end
@@ -240,16 +193,28 @@ module Scraper
     return item
   end
 
+  def get_product_tags(nodes)
+    nodes.map do |node|
+      tag_nicename = node.attribute('class').value.gsub('-icon-horizontal', '')
+      tag_name = tag_nicename.split('-').last
+
+      {
+        domain: Constants::TAG_DOMAINS['customer_lp'].first,
+        name: tag_name,
+        nicename: tag_nicename
+      }
+    end
+  end
+
   def get_stats(nodes)
     Util.serialize(
-      nodes.select do |node|
-        node.children.search('span.stats-product-logo').empty?
-      end.map do |node|
-        spans = node.children.search('span')
+      nodes.map do |node|
+        value = node.children.search('h2.customer-stat-value')
+        title = node.children.search('p')
 
         {
-          'customer-stat-title' => spans.first.text,
-          'customer-stat-value' => spans.last.text,
+          'customer-stat-title' => title.first.text,
+          'customer-stat-value' => value.first.text,
         }
       end
     )
@@ -275,35 +240,5 @@ module Scraper
       Constants::KEYS[:url] => url.gsub(/\/$/, ''),
       Constants::KEYS[:type] => Util.get_post_type(url),
     })
-  end
-
-  def get_resource_type(post)
-    return unless post.respond_to?(:css)
-
-    return :infographic unless post.css('#infographic').empty?
-
-    type = search_keyword_in(post, '.resource-lead-form-heading')
-
-    if type.nil?
-      type = search_keyword_in(post, '.p-single-resource, .single-resource')
-    end
-
-    type.nil? ? :report : type
-  end
-
-  def search_keyword_in(post, selector)
-    unless post.css(selector).empty?
-      search_text = post.css(selector).first.text
-
-      return :ebook if search_text.match('eBook')
-      return :whitepaper if search_text.match('técnico')
-      return :webinar if search_text.match('webinar')
-      return :video if search_text.match('video')
-      return :guide if search_text.match('guía')
-      return :infographic if search_text.match('infografía')
-      return :report if search_text.match('el informe')
-    end
-
-    nil
   end
 end

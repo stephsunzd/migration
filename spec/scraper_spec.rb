@@ -6,18 +6,15 @@ RSpec.describe "Scraper" do
   TEST_URL_SCRAPER = 'https://www.zendesk.com.mx'
   TEST_ITEM_SCRAPER = {
     Constants::KEYS[:stats] => 'a:4:{i:0;a:2:{s:19:"customer-stat-title";s:7:"Agentes";s:19:"customer-stat-value";s:3:"100";}i:1;a:2:{s:19:"customer-stat-title";s:4:"CSAT";s:19:"customer-stat-value";s:4:"96 %";}i:2;a:2:{s:19:"customer-stat-title";s:13:"Cliente desde";s:19:"customer-stat-value";s:4:"2011";}i:3;a:2:{s:19:"customer-stat-title";s:48:"de resolución de autoservicio con el Answer Bot";s:19:"customer-stat-value";s:4:"12 %";}}',
-    'item_title' => 'Dollar Shave Club',
+    'item_title' => 'dollar shave club',
     'item_description' => 'Dollar Shave Club resuelve el 12 % de sus tickets con el Answer Bot de Zendesk',
     Constants::KEYS[:id] => '201900001',
     'item_published_at' => '2019-02-04 12:00:00',
     'item_seo_description' => 'Dollar Shave Club resuelve el 12 % de sus tickets con el Answer Bot de Zendesk',
     'item_tags' => [
-      { name: 'América', domain: 'stories_tax', nicename: 'americas' },
-      { name: 'Chat', domain: 'stories_tax', nicename: 'product-chat' },
-      { name: 'Comercio minorista y electrónico', domain: 'stories_tax', nicename: 'retail' },
-      { name: 'Guide', domain: 'stories_tax', nicename: 'product-guide' },
-      { name: 'Internet y móviles', domain: 'stories_tax', nicename: 'internet-mobile' },
-      { name: 'Support', domain: 'stories_tax', nicename: 'product-support' },
+      { name: 'chat', domain: 'stories_tax', nicename: 'product-chat' },
+      { name: 'guide', domain: 'stories_tax', nicename: 'product-guide' },
+      { name: 'support', domain: 'stories_tax', nicename: 'product-support' },
     ],
     Constants::KEYS[:image] => 'https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Dollarshave7.jpg',
     'logo' => 'https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/Dollarshavelogo.png',
@@ -77,28 +74,6 @@ RSpec.describe "Scraper" do
 
   it '#scrape_post returns item matching our sample' do
     expect(Scraper.scrape_post(TEST_ITEM_STUB)).to eq(TEST_ITEM_SCRAPER)
-  end
-
-  it '#get_resource_type returns correct post types for a URL' do
-    posts = {
-      'https://www.zendesk.com.mx/resources/zendesk-product-demo/' => :video,
-      'https://www.zendesk.com.mx/resources/guided-demo-zendesk-chat/' => :webinar,
-      'https://www.zendesk.com.mx/resources/scaling-self-service/' => :whitepaper,
-      'https://www.zendesk.com.mx/resources/agent-experience-guide/' => :guide,
-      'https://www.zendesk.com.mx/resources/zendesk-benchmark-established-companies-win-digital-transformation/' => :report,
-      'https://www.zendesk.com.mx/resources/chatbots-future-real-time-communication/' => :ebook,
-      'https://www.zendesk.com.mx/resources/fill-self-service-gap/' => :infographic,
-    }
-
-    posts.each do |url, type|
-      post = Nokogiri::HTML(
-        open(
-          Util.clean_url(url)
-        )
-      )
-
-      expect(Scraper.get_resource_type(post)).to eql(type)
-    end
   end
 
   it '#generate_import_file creates a file matching our sample' do
